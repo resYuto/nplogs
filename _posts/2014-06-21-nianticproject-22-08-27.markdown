@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-21 22:08:27 +0900"
+date:   2014-06-21 22:08:27 +0900
+categories: nianticproject
+---
+Here are the C3 VOLs for Krakow, Bergen, and St. Petersburg.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@65, :value=>"shared"@72}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 06 C3 VOLS - KRAKOW, BERGEN, ST. PETERSBURG</b>", " ", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/F7fjGL\" class=\"ot-anchor\">http://goo.gl/F7fjGL</a>", " ", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106573875704156983746\" oid=\"106573875704156983746\">Лёха Динозавер</a>"], " in St. Petersburg.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #INTERITUS 06 C3 VOLS - KRAKOW, BERGEN, ST. PETERSBURG 
+Volatiles: http://goo.gl/F7fjGL 
+Photo by Agent +Лёха Динозавер in St. Petersburg.](https://lh6.googleusercontent.com/-qmf_ytLvyKI/U6WCCbL_stI/AAAAAAAA1RE/DhVeds7z47I/w2048-h1536/stpeter.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/DUADyRoS5UJ](https://plus.google.com/+NianticProject/posts/DUADyRoS5UJ)

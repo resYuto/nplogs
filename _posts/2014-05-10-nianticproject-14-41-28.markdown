@@ -1,0 +1,152 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-10 14:41:28 +0900"
+date:   2014-05-10 14:41:28 +0900
+categories: nianticproject
+---
+The Resistance lead  [#Interitus](https://plus.google.com/s/%23Interitus "")  03 at Measurement 1, but not by much. The overall position seems even for both Factions, at this early moment.
+
+I'll keep you posted as more information emerges.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@301, :value=>"shared"@308}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b> 03: Anomaly 1 - Measurement 1</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " currently lead ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a>", " 03 (Anomaly 1) by 83.", "<br />", "<br />", "Summary of Anomaly Conditions:", "<br />", "<br />", "Ishinomaki - R:97 - ", "<b>E:108</b>", "<br />", "Beijing - ", "<b>R:65</b>", " - E:30", "<br />", "Seoul - ", "<b>R:92</b>", " - E:33", "<br />", "Total - ", "<b>R:254</b>", " - E:171", "<br />", "<br />", "Despite an early advantage, the state of this Anomaly (so far) seems fairly evenly balanced. The Resistance appear to have the upper hand at both Satellite Sites, and the Enlightened will need to ensure that their position does not spiral out of control in those cities if they are to remain competitive as the Anomaly progresses. This early into the conflict, both Factions seem safely positioned.", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: Ishinomaki - Measurement 1 Report</b>", "<br />", "<br />", "The ", "<b>Enlightened</b>", " captured this Measurement, 108 to 97.", "<br />", "The ", "<b>Enlightened</b>", " currently control this Primary Site, leading by 11.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 16 - ENL: 4 - [Value: 2 each]", "<br />", "Volatile Portals Owned - ", "<b>RES:</b>", " 3 - ENL: 2 - [Value: 20 each]", "<br />", "Links Created - RES: 1 - ", "<b>ENL:</b>", " 12 - [Value: 5 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "Resistance - 97 - ", "<b>Enlightened</b>", " - 108", "<br />", "<br />", "<b>Total for this Primary Site:</b>", "<br />", "Resistance - 97 - ", "<b>Enlightened</b>", " - 108", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 3:36 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: MUecAAlyEUZfCOiWmEQhZC 3:36 GSZgOXJg", "<br />", "MD5 of Padded String: 1449ae5ea2522b6b9cfd51ba58c81352", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - 門馬重作翁之像 Momma Shigesaku Statue", "<br />", "Resistance - 自力龍王大権現 Jikiki Ryuou Daigongen", "<br />", "Resistance - 社殿改増築記念碑 Memorial of Shaden", "<br />", "Resistance - 石巻城跡の石碑 Stone of Ishinomaki Castle Ruin", "<br />", "Resistance - 白樺の碑 Memorial of Shirakaba", "<br />", "Resistance - 桜の碑 Stone of Sakura", "<br />", "Resistance - 松尾芭蕉歌碑 Memorial of Basho Matsuo", "<br />", "Resistance - 東宮殿下慶事祝紀念碑 Memorial of Togu Royal Highness ", "<br />", "Resistance - 川村孫兵衛重吉之像", "<br />", "Resistance - 山形敞一の歌碑 Memorial of Shoichi Yamagata", "<br />", "Resistance - 宮沢賢治歌碑 Memorial of Kenji Miyazawa", "<br />", "Resistance - 内海安吉先生之像 The Statue of Yasukichi Naito", "<br />", "Resistance - フランク安田顕彰碑 Frank Yasuda Statue", "<br />", "Resistance - チリ地震津波碑 Memorial of Chile Earthquake", "<br />", "Resistance - おくのほそ道紀行三百年記念", "<br />", "Resistance - Hiyoriyama Gate", "<br />", "Resistance - (VOLATILE) - 鳥居", "<br />", "Resistance - (VOLATILE) - 永厳寺 Eiganji Shrine", "<br />", "Resistance - (VOLATILE) - 仮面ライダー", "<br />", "Neutral - 鹿嶋御児神社 Kachima Miko Shrine", "<br />", "Neutral - 風速計 Anemometer", "<br />", "Neutral - 階段途中の街灯 Street Lamp on Stairs", "<br />", "Neutral - 石巻開港三百五十周年記念碑 Memorial of Ishinomaki Port", "<br />", "Neutral - 石川啄木歌碑 Memorial of Takuboku Ishikawa", "<br />", "Neutral - 滑り台 Slide", "<br />", "Neutral - 斎藤茂吉歌碑 The Memorial of Mokichi Saito", "<br />", "Neutral - 折口信夫歌碑 The Memorial of Nobuo Origuchi", "<br />", "Neutral - 工房かざみどり Kazamidori Factory", "<br />", "Enlightened - 鳥居 The Shrine Gate", "<br />", "Enlightened - 鉄塔 Iron Pole", "<br />", "Enlightened - 種田山頭火歌碑 The Memorial of Taneda Santoka", "<br />", "Enlightened - 石群 Group of Stones", "<br />", "Enlightened - (VOLATILE) - 北上川改修百年記念之碑 Memorial of Kigakami River", "<br />", "Enlightened - (VOLATILE) - Murasaki Shrine", "<br />", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: Beijing - Measurement 1 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " captured this Measurement, 65 to 30.", "<br />", "The ", "<b>Resistance</b>", " currently control this Secondary Site, leading by 35.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 15 - ENL: 0 - [Value: 1 each]", "<br />", "Volatile Portals Owned - RES: 2 - ", "<b>ENL:</b>", " 3 - [Value: 10 each]", "<br />", "Links Created - ", "<b>RES:</b>", " 15 - ENL: 0 - [Value: 2 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "<b>Resistance</b>", " - 65 - Enlightened - 30", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "<b>Resistance</b>", " - 65 - Enlightened - 30", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 3:36 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: MUecAAlyEUZfCOiWmEQhZC 3:36 GSZgOXJg", "<br />", "MD5 of Padded String: 1449ae5ea2522b6b9cfd51ba58c81352", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - 鸟巢 艾菲尔", "<br />", "Resistance - 韵律 Rythm", "<br />", "Resistance - 雕塑", "<br />", "Resistance - 铜钱", "<br />", "Resistance - 肠子", "<br />", "Resistance - 祥", "<br />", "Resistance - 生命之舟 The Ark", "<br />", "Resistance - 水立方", "<br />", "Resistance - 奥林匹克公园-构筑", "<br />", "Resistance - 圣火接力", "<br />", "Resistance - XM喷洒器", "<br />", "Resistance - Strange Meeting", "<br />", "Resistance - Iredkn Watching Bird Nest", "<br />", "Resistance - Guoao Centre", "<br />", "Resistance - Future Beauty", "<br />", "Resistance - (VOLATILE) - 编钟", "<br />", "Resistance - (VOLATILE) - 棋事映像", "<br />", "Neutral - 明眸皓腕 Billiards", "<br />", "Neutral - 奥林匹克公园-行云流水", "<br />", "Neutral - 奥林匹克公园-海风", "<br />", "Neutral - 一捆葱", "<br />", "Neutral - National Stadium", "<br />", "Enlightened - (VOLATILE) - 棱镜", "<br />", "Enlightened - (VOLATILE) - 情侣", "<br />", "Enlightened - (VOLATILE) - 奥林匹克公园-蹴鞠", "<br />", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: Seoul - Measurement 1 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " captured this Measurement, 92 to 33.", "<br />", "The ", "<b>Resistance</b>", " currently control this Secondary Site, leading by 59.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 16 - ENL: 9 - [Value: 1 each]", "<br />", "Volatile Portals Owned - ", "<b>RES:</b>", " 4 - ENL: 1 - [Value: 10 each]", "<br />", "Links Created - ", "<b>RES:</b>", " 18 - ENL: 7 - [Value: 2 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "<b>Resistance</b>", " - 92 - Enlightened - 33", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "<b>Resistance</b>", " - 92 - Enlightened - 33", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 3:36 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: MUecAAlyEUZfCOiWmEQhZC 3:36 GSZgOXJg", "<br />", "MD5 of Padded String: 1449ae5ea2522b6b9cfd51ba58c81352", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - 힘찬 영혼", "<br />", "Resistance - 호수의 부인", "<br />", "Resistance - 팔각정", "<br />", "Resistance - 통일성", "<br />", "Resistance - 정상", "<br />", "Resistance - 위장지", "<br />", "Resistance - 연 9801", "<br />", "Resistance - 무제", "<br />", "Resistance - 무제", "<br />", "Resistance - 떨어지는 것은 날아오른다", "<br />", "Resistance - 딘딩댕동", "<br />", "Resistance - 관계항-예감 속에서", "<br />", "Resistance - 개의 세계", "<br />", "Resistance - VW를 위한 선 또는 선을 위한 VW  ", "<br />", "Resistance - Olympic Statue", "<br />", "Resistance - 88서울올림픽", "<br />", "Resistance - (VOLATILE) - 트로이", "<br />", "Resistance - (VOLATILE) - 태극 조형물", "<br />", "Resistance - (VOLATILE) - 잉어 잡은 소년 분수", "<br />", "Resistance - (VOLATILE) - Park Statues", "<br />", "Neutral - 무제", "<br />", "Enlightened - 이등변 삼각형", "<br />", "Enlightened - 올림픽을 위한 조각", "<br />", "Enlightened - 어제와 그제-오늘과 내일", "<br />", "Enlightened - 분수대 조형물", "<br />", "Enlightened - 변신 ", "<br />", "Enlightened - 다른 두 개의 교차", "<br />", "Enlightened - 날아가는 안데스의 여인들", "<br />", "Enlightened - 날개짓", "<br />", "Enlightened - Jorge Dubon - Bridge of Eterni", "<br />", "Enlightened - (VOLATILE) - 마마", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/100854612326061280565\" oid=\"100854612326061280565\">HaeRang Dong</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Interitus: Ishinomaki - Measurement 1 Report
+The Enlightened captured this Measurement, 108 to 97.
+The Enlightened currently control this Primary Site, leading by 11.
+Portals Owned - RES: 16 - ENL: 4 - [Value: 2 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 20 each]
+Links Created - RES: 1 - ENL: 12 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 97 - Enlightened - 108
+Total for this Primary Site:
+Resistance - 97 - Enlightened - 108
+Measurement Time Details:
+Original: 3:36 (Minutes:Seconds within Measurement Window)
+Padded String: MUecAAlyEUZfCOiWmEQhZC 3:36 GSZgOXJg
+MD5 of Padded String: 1449ae5ea2522b6b9cfd51ba58c81352
+Portal Ownership Details
+Resistance - 門馬重作翁之像 Momma Shigesaku Statue
+Resistance - 自力龍王大権現 Jikiki Ryuou Daigongen
+Resistance - 社殿改増築記念碑 Memorial of Shaden
+Resistance - 石巻城跡の石碑 Stone of Ishinomaki Castle Ruin
+Resistance - 白樺の碑 Memorial of Shirakaba
+Resistance - 桜の碑 Stone of Sakura
+Resistance - 松尾芭蕉歌碑 Memorial of Basho Matsuo
+Resistance - 東宮殿下慶事祝紀念碑 Memorial of Togu Royal Highness
+Resistance - 川村孫兵衛重吉之像
+Resistance - 山形敞一の歌碑 Memorial of Shoichi Yamagata
+Resistance - 宮沢賢治歌碑 Memorial of Kenji Miyazawa
+Resistance - 内海安吉先生之像 The Statue of Yasukichi Naito
+Resistance - フランク安田顕彰碑 Frank Yasuda Statue
+Resistance - チリ地震津波碑 Memorial of Chile Earthquake
+Resistance - おくのほそ道紀行三百年記念
+Resistance - Hiyoriyama Gate
+Resistance - (VOLATILE) - 鳥居
+Resistance - (VOLATILE) - 永厳寺 Eiganji Shrine
+Resistance - (VOLATILE) - 仮面ライダー
+Neutral - 鹿嶋御児神社 Kachima Miko Shrine
+Neutral - 風速計 Anemometer
+Neutral - 階段途中の街灯 Street Lamp on Stairs
+Neutral - 石巻開港三百五十周年記念碑 Memorial of Ishinomaki Port
+Neutral - 石川啄木歌碑 Memorial of Takuboku Ishikawa
+Neutral - 滑り台 Slide
+Neutral - 斎藤茂吉歌碑 The Memorial of Mokichi Saito
+Neutral - 折口信夫歌碑 The Memorial of Nobuo Origuchi
+Neutral - 工房かざみどり Kazamidori Factory
+Enlightened - 鳥居 The Shrine Gate
+Enlightened - 鉄塔 Iron Pole
+Enlightened - 種田山頭火歌碑 The Memorial of Taneda Santoka
+Enlightened - 石群 Group of Stones
+Enlightened - (VOLATILE) - 北上川改修百年記念之碑 Memorial of Kigakami River
+Enlightened - (VOLATILE) - Murasaki Shrine
+#Interitus: Beijing - Measurement 1 Report
+The Resistance captured this Measurement, 65 to 30.
+The Resistance currently control this Secondary Site, leading by 35.
+Portals Owned - RES: 15 - ENL: 0 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 15 - ENL: 0 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 65 - Enlightened - 30
+Total for this Secondary Site:
+Resistance - 65 - Enlightened - 30
+Measurement Time Details:
+Original: 3:36 (Minutes:Seconds within Measurement Window)
+Padded String: MUecAAlyEUZfCOiWmEQhZC 3:36 GSZgOXJg
+MD5 of Padded String: 1449ae5ea2522b6b9cfd51ba58c81352
+Portal Ownership Details
+Resistance - 鸟巢 艾菲尔
+Resistance - 韵律 Rythm
+Resistance - 雕塑
+Resistance - 铜钱
+Resistance - 肠子
+Resistance - 祥
+Resistance - 生命之舟 The Ark
+Resistance - 水立方
+Resistance - 奥林匹克公园-构筑
+Resistance - 圣火接力
+Resistance - XM喷洒器
+Resistance - Strange Meeting
+Resistance - Iredkn Watching Bird Nest
+Resistance - Guoao Centre
+Resistance - Future Beauty
+Resistance - (VOLATILE) - 编钟
+Resistance - (VOLATILE) - 棋事映像
+Neutral - 明眸皓腕 Billiards
+Neutral - 奥林匹克公园-行云流水
+Neutral - 奥林匹克公园-海风
+Neutral - 一捆葱
+Neutral - National Stadium
+Enlightened - (VOLATILE) - 棱镜
+Enlightened - (VOLATILE) - 情侣
+Enlightened - (VOLATILE) - 奥林匹克公园-蹴鞠
+#Interitus: Seoul - Measurement 1 Report
+The Resistance captured this Measurement, 92 to 33.
+The Resistance currently control this Secondary Site, leading by 59.
+Portals Owned - RES: 16 - ENL: 9 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 18 - ENL: 7 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 92 - Enlightened - 33
+Total for this Secondary Site:
+Resistance - 92 - Enlightened - 33
+Measurement Time Details:
+Original: 3:36 (Minutes:Seconds within Measurement Window)
+Padded String: MUecAAlyEUZfCOiWmEQhZC 3:36 GSZgOXJg
+MD5 of Padded String: 1449ae5ea2522b6b9cfd51ba58c81352
+Portal Ownership Details
+Resistance - 힘찬 영혼
+Resistance - 호수의 부인
+Resistance - 팔각정
+Resistance - 통일성
+Resistance - 정상
+Resistance - 위장지
+Resistance - 연 9801
+Resistance - 무제
+Resistance - 무제
+Resistance - 떨어지는 것은 날아오른다
+Resistance - 딘딩댕동
+Resistance - 관계항-예감 속에서
+Resistance - 개의 세계
+Resistance - VW를 위한 선 또는 선을 위한 VW
+Resistance - Olympic Statue
+Resistance - 88서울올림픽
+Resistance - (VOLATILE) - 트로이
+Resistance - (VOLATILE) - 태극 조형물
+Resistance - (VOLATILE) - 잉어 잡은 소년 분수
+Resistance - (VOLATILE) - Park Statues
+Neutral - 무제
+Enlightened - 이등변 삼각형
+Enlightened - 올림픽을 위한 조각
+Enlightened - 어제와 그제-오늘과 내일
+Enlightened - 분수대 조형물
+Enlightened - 변신
+Enlightened - 다른 두 개의 교차
+Enlightened - 날아가는 안데스의 여인들
+Enlightened - 날개짓
+Enlightened - Jorge Dubon - Bridge of Eterni
+Enlightened - (VOLATILE) - 마마
+Photo by Agent +HaeRang Dong ](https://lh4.googleusercontent.com/-JlFe_QTOxh8/U2230ou84DI/AAAAAAAAva8/-jDZgPeagr8/w4438-h709/20140510_125238_Pano.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/XQEme87TdmP](https://plus.google.com/+NianticProject/posts/XQEme87TdmP)

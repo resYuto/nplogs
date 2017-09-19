@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2016-01-26 16:57:59 +0900"
+date:   2016-01-26 16:57:59 +0900
+categories: nianticproject
+---
+Klue heard a rumor that +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") was trying to get on Behind the Scanner later this week, but it appears he may have gone underground amidst... interesting circumstances...
+
+Developing.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@391, :value=>"shared"@398}], :children=>["<br />", "<h2>Klue S.</h2>", "I heard a rumor that PAC was trying to connect with the folks at ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/113020726391023655192\" oid=\"113020726391023655192\">Behind The Scanner</a>"], "... something about trying to get on the show this week.", "<br />", "<br />", "I wanted to know more so I tried to get a hold of him but I couldn't. After this went on for a bit I went to see him at his place.", "<br />", "<br />", "He wasn't home and his place was turned upside down. A mess... ", "<br />", "<br />", "Not jumping to conclusions at this stage, but I doubt this was his doing.", "<br />", "<br />", "Hopefully he's ok. Let me know if you hear anything.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: b0a78fcca58593959dccb5869ba7bdcf9ccd98cb9abba991](https://lh3.googleusercontent.com/-AwlcAfCkWac/VqcmEtbLGaI/AAAAAAAABUs/aJbVHqTq2kU/w600-h512/Disarray.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/FBKMbkCSQUi](https://plus.google.com/+NianticProject/posts/FBKMbkCSQUi)

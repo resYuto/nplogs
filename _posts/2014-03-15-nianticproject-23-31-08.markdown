@@ -1,0 +1,211 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-15 23:31:08 +0900"
+date:   2014-03-15 23:31:08 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  05
+
+The Measurement 2 Report reveals that the Resistance maintain their hold on Zagreb, but the Enlightened are making moves in Nice and Cagliari.
+
+The Resistance also managed to retrieve a dead drop in Zagreb.  They have shared what they found.
+
+The halfway mark shows signs of a struggle.  Carry on, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@440, :value=>"shared"@447}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - ZAGREB - Measurement 2 Report</b>", "<br />", "<br />", "<b>The Resistance owned 3 Volatile Portals and 25 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 1 Volatile Portals and 6 Non-Volatile Portals", "<br />", "<br />", "<b>The Resistance had 27 Links standing at Measurement Time</b>", "<br />", "The Enlightened had 4 Links standing at Measurement Time", "<br />", "<br />", "<b>Total for Resistance this Measurement = 245</b>", "<br />", "Total for Enlightened this Measurement = 52", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 447</b>", "<br />", "Total for Enlightened this Anomaly = 60", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Tin Ujević Monument (VOLATILE) - Enlightened", "<br />", "Fountain at MUO (VOLATILE) - Neutral", "<br />", "Marko Marulić (VOLATILE) - Resistance", "<br />", "Mimara Museum (VOLATILE) - Resistance", "<br />", "Museum of Techinh in Croatia and Archive (VOLATILE) - Resistance", "<br />", "Zrinjevac Fountain #4 - Enlightened", "<br />", "Well of Life - Enlightened", "<br />", "Croatian National Theater - Enlightened", "<br />", "Saint George and the Dragon - Enlightened", "<br />", "Povijest hrvata by Meštrović - Enlightened", "<br />", "Etnografski Muzej - Enlightened", "<br />", "Stuck here reading Statue, Zagreb - Neutral", "<br />", "V. Gimnazija - Neutral", "<br />", "Evangelisticka Crkva - Neutral", "<br />", "Grounded Earth - Neutral", "<br />", "Sunny Late Winter - Resistance", "<br />", "Ivan Gundulic Relief - Resistance", "<br />", "Zagreb Railway station - Resistance", "<br />", "Trg Kralja Tomislava - Resistance", "<br />", "Sestre Baković - Resistance", "<br />", "Ministarstvo Kulture - Resistance", "<br />", "Kallina - Resistance", "<br />", "Nikola Tesla - Resistance", "<br />", "Ante Starčević sculpture - Resistance", "<br />", "Muzej za umjetnost i obrt - Resistance", "<br />", "Botanical Gallery - Resistance", "<br />", "Old Train - Resistance", "<br />", "Guardian Angels - Resistance", "<br />", "Reljef I Grafit - Resistance", "<br />", "Vjekoslav Klaić House  - Resistance", "<br />", "Fountain at Ante Starčević Square - Resistance", "<br />", "Building with a Hat - Resistance", "<br />", "Crvena Kapica - Resistance", "<br />", "King Petar Svacic Square - Resistance", "<br />", "Old Railway Building - Resistance", "<br />", "Akademija Dramskih Umjetnosti - Resistance", "<br />", "Don Frane Bulić monument - Resistance", "<br />", "Iron arch - Resistance", "<br />", "Asia Lion - Resistance", "<br />", "Croatian National Archives - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - NICE - Measurement 2 Report</b>", "<br />", "<br />", "The Resistance owned 1 Volatile Portals and 5 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 4 Volatile Portals and 14 Non-Volatile Portals</b>", "<br />", "<br />", "<b>The Enlightened had 24 Links standing at Measurement Time</b>", "<br />", "<br />", "Total for Resistance this Measurement = 15", "<br />", "<b>Total for Enlightened this Measurement = 102</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 45", "<br />", "<b>Total for Enlightened this Anomaly = 137</b>", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Place de la Croix de Marbre (VOLATILE) - Enlightened", "<br />", "Église Nice St Esprit. (VOLATILE) - Enlightened", "<br />", "Porte De Massena Flanc Gauche (VOLATILE) - Enlightened", "<br />", "Parc Mozart Entrance (VOLATILE) - Enlightened", "<br />", "Nice Sculpture of the Seared Woman (VOLATILE) - Resistance", "<br />", "Buste Hubert Lyautey  - Enlightened", "<br />", "L Oreille Radar - Enlightened", "<br />", "Nice Sculpture Des Marechaux - Enlightened", "<br />", "Les Muses du Variété  - Enlightened", "<br />", "Optical illusions @ night- Moi - Enlightened", "<br />", "Musée Massena - Enlightened", "<br />", "Église Saint Pierre d'Arène - Enlightened", "<br />", "Eglise Orthodoxe Russe - Enlightened", "<br />", "Villa Asphodèle - Enlightened", "<br />", "Commercial Center Entrance, Nice Étoile - Enlightened", "<br />", "Nice, Hôtel Negresco: Niki de  - Enlightened", "<br />", "Voyageurs Du Monde  - Enlightened", "<br />", "Blue Hearting - Enlightened", "<br />", "Girl Statue - Enlightened", "<br />", "Sanctuaire Du Sacré Coeur - Neutral", "<br />", "Nice, Fronton du Palais de la  - Resistance", "<br />", "Dancing Girl - Resistance", "<br />", "Nice, Palais de la Méditerranée - Resistance", "<br />", "Église Anglicane De Nice - Resistance", "<br />", "Église Protestante La Tansfiguration - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - CAGLIARI - Measurement 2 Report</b>", "<br />", "<br />", "The Resistance owned 1 Volatile Portals and 2 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 4 Volatile Portals and 13 Non-Volatile Portals</b>", "<br />", "<br />", "<b>An Enlightened Field covered all the Portals in this Cluster (50)</b>", "<br />", "<br />", "Total for Resistance this Measurement = 12", "<br />", "<b>Total for Enlightened this Measurement = 103</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 19", "<br />", "<b>Total for Enlightened this Anomaly = 181</b>", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Statua Mario Carta - Ingegnere (VOLATILE) - Enlightened", "<br />", "Carcere di Buon Cammino (VOLATILE) - Enlightened", "<br />", "Shower Whale (VOLATILE) - Enlightened", "<br />", "Museo Mineralogia Cagliari (VOLATILE) - Enlightened", "<br />", "Scultura Ingegneria (VOLATILE) - Resistance", "<br />", "Karma Graffiti - Enlightened", "<br />", "Slimer Murales - Enlightened", "<br />", "Idea Graffiti - Enlightened", "<br />", "Murales Università  - Enlightened", "<br />", "Simbar Caffè - Enlightened", "<br />", "Centro Culturale MenSana - Enlightened", "<br />", "Madonna del Merello - Enlightened", "<br />", "Murales Idea - Enlightened", "<br />", "Rapper Graffiti - Enlightened", "<br />", "Fungus - Enlightened", "<br />", "9MMS Murale - Enlightened", "<br />", "Biblioteca Interfacoltà - Enlightened", "<br />", "The Green Whale  - Enlightened", "<br />", "Busto Giordano Bruno - Neutral", "<br />", "I Love Donut Art   - Neutral", "<br />", "Rain Graffiti - Neutral", "<br />", "Pingu and Robby  - Neutral", "<br />", "Snake Graffiti - Resistance", "<br />", "Mammuthone Mask - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - CAIRO - Measurement 2 Report</b>", "<br />", "<br />", "<b>The Resistance owned 5 Volatile Portals and 1 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 0 Volatile Portals and 0 Non-Volatile Portals", "<br />", "<br />", "<b>A Resistance Field covered all the Portals in this Cluster (50)</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 101</b>", "<br />", "Total for Enlightened this Measurement = 0", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 198</b>", "<br />", "Total for Enlightened this Anomaly = 13", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Downtown Light Fountain  (VOLATILE) - Resistance", "<br />", "El Farouk Mosque (VOLATILE) - Resistance", "<br />", "Downtown Water Fountain (VOLATILE) - Resistance", "<br />", "Downtown Lake (VOLATILE) - Resistance", "<br />", "Downtown Ball  (VOLATILE) - Resistance", "<br />", "Main Entrance Fountain Downtown Mall - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - TEL AVIV - Measurement 2 Report</b>", "<br />", "<br />", "<b>The Resistance owned 5 Volatile Portals and 32 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 0 Volatile Portals and 4 Non-Volatile Portals", "<br />", "<br />", "<b>The Resistance had 68 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 218</b>", "<br />", "Total for Enlightened this Measurement = 4", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 309</b>", "<br />", "Total for Enlightened this Anomaly = 16", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 2:04:00 (Minutes:Seconds past the hour)", "<br />", "Padded: jYkBRtmiH 2:04 jukxHcMhyGCXpSKvARLYt", "<br />", "MD5 of Padded String: 87066849095f3cbe34d5b593acd0796a", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Suzan Dalal (VOLATILE) - Resistance", "<br />", "Tel Aviv Rider (VOLATILE) - Resistance", "<br />", "Matkot Museum (VOLATILE) - Resistance", "<br />", "Broken Bridge (VOLATILE) - Resistance", "<br />", "Mayor Rothschild's Chair (VOLATILE) - Resistance", "<br />", "Shalosh Shloshim - Enlightened", "<br />", "The Pioneers! - Enlightened", "<br />", "Oh Well. - Enlightened", "<br />", "Hesed - Enlightened", "<br />", "Shalom Tower - Neutral", "<br />", "Fire Horse - Neutral", "<br />", "Kissing Wall - Neutral", "<br />", "Gan Baruch - Neutral", "<br />", "פסל זכוכית - Neutral", "<br />", "The Lady and the Cat - Neutral", "<br />", "Miriam Levy Finn Memory - Neutral", "<br />", "Richfield 2 - Resistance", "<br />", "The Big Synagogue - Resistance", "<br />", "Bank Markantil - Resistance", "<br />", "Founders Square  - Resistance", "<br />", "Tree of Life - Resistance", "<br />", "Institut Francais Backdoor Mural - Resistance", "<br />", "Rothchild Mural - Resistance", "<br />", "Poalim Bank - Resistance", "<br />", "Achuzat Bait Mosaics Fountain - Resistance", "<br />", "Reap with Songs of Joy - Resistance", "<br />", "ha-Tachana - Resistance", "<br />", "מרכז ההגנה וההעפלה - Resistance", "<br />", "Samurai Cat Statue - Resistance", "<br />", "Weiss House - Resistance", "<br />", "Suzan Dalal Fountain  - Resistance", "<br />", "Gutman Museum - Resistance", "<br />", "Hertzelilinblum Museum - Resistance", "<br />", "Stock Market Statue - Resistance", "<br />", "Train Wagon at Former Railway Station - Resistance", "<br />", "City Mice  - Resistance", "<br />", "Where the Brin - Resistance", "<br />", "Rothschild Boulevard - Resistance", "<br />", "The Hagana Museum Wall Sculpture - Resistance", "<br />", "Peeing Man - Resistance", "<br />", "Rokach House - Resistance", "<br />", "Yehoshua Saban \"Pop\" Memorial  - Resistance", "<br />", "Bank Loomi  Fountain - Resistance", "<br />", "Moshe and Shoshana Raskin - Resistance", "<br />", "Histadrut Headquarters Monument  - Resistance", "<br />", "AMBI - Resistance", "<br />", "Window on the Boulevard  - Resistance", "<br />", "Young Fat Woman - Resistance", "<br />", "<br />", "Photo of the recovered dead drop by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117782051182138842256\" oid=\"117782051182138842256\">Oliver B.</a>"], "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Recursion - ZAGREB - Measurement 2 Report
+The Resistance owned 3 Volatile Portals and 25 Non-Volatile Portals
+The Enlightened owned 1 Volatile Portals and 6 Non-Volatile Portals
+The Resistance had 27 Links standing at Measurement Time
+The Enlightened had 4 Links standing at Measurement Time
+Total for Resistance this Measurement = 245
+Total for Enlightened this Measurement = 52
+Total for Resistance this Anomaly = 447
+Total for Enlightened this Anomaly = 60
+Portal Ownership Details:
+Tin Ujević Monument (VOLATILE) - Enlightened
+Fountain at MUO (VOLATILE) - Neutral
+Marko Marulić (VOLATILE) - Resistance
+Mimara Museum (VOLATILE) - Resistance
+Museum of Techinh in Croatia and Archive (VOLATILE) - Resistance
+Zrinjevac Fountain #4 - Enlightened
+Well of Life - Enlightened
+Croatian National Theater - Enlightened
+Saint George and the Dragon - Enlightened
+Povijest hrvata by Meštrović - Enlightened
+Etnografski Muzej - Enlightened
+Stuck here reading Statue, Zagreb - Neutral
+V. Gimnazija - Neutral
+Evangelisticka Crkva - Neutral
+Grounded Earth - Neutral
+Sunny Late Winter - Resistance
+Ivan Gundulic Relief - Resistance
+Zagreb Railway station - Resistance
+Trg Kralja Tomislava - Resistance
+Sestre Baković - Resistance
+Ministarstvo Kulture - Resistance
+Kallina - Resistance
+Nikola Tesla - Resistance
+Ante Starčević sculpture - Resistance
+Muzej za umjetnost i obrt - Resistance
+Botanical Gallery - Resistance
+Old Train - Resistance
+Guardian Angels - Resistance
+Reljef I Grafit - Resistance
+Vjekoslav Klaić House  - Resistance
+Fountain at Ante Starčević Square - Resistance
+Building with a Hat - Resistance
+Crvena Kapica - Resistance
+King Petar Svacic Square - Resistance
+Old Railway Building - Resistance
+Akademija Dramskih Umjetnosti - Resistance
+Don Frane Bulić monument - Resistance
+Iron arch - Resistance
+Asia Lion - Resistance
+Croatian National Archives - Resistance
+#Recursion - NICE - Measurement 2 Report
+The Resistance owned 1 Volatile Portals and 5 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 14 Non-Volatile Portals
+The Enlightened had 24 Links standing at Measurement Time
+Total for Resistance this Measurement = 15
+Total for Enlightened this Measurement = 102
+Total for Resistance this Anomaly = 45
+Total for Enlightened this Anomaly = 137
+Portal Ownership Details:
+Place de la Croix de Marbre (VOLATILE) - Enlightened
+Église Nice St Esprit. (VOLATILE) - Enlightened
+Porte De Massena Flanc Gauche (VOLATILE) - Enlightened
+Parc Mozart Entrance (VOLATILE) - Enlightened
+Nice Sculpture of the Seared Woman (VOLATILE) - Resistance
+Buste Hubert Lyautey  - Enlightened
+L Oreille Radar - Enlightened
+Nice Sculpture Des Marechaux - Enlightened
+Les Muses du Variété  - Enlightened
+Optical illusions @ night- Moi - Enlightened
+Musée Massena - Enlightened
+Église Saint Pierre d'Arène - Enlightened
+Eglise Orthodoxe Russe - Enlightened
+Villa Asphodèle - Enlightened
+Commercial Center Entrance, Nice Étoile - Enlightened
+Nice, Hôtel Negresco: Niki de  - Enlightened
+Voyageurs Du Monde  - Enlightened
+Blue Hearting - Enlightened
+Girl Statue - Enlightened
+Sanctuaire Du Sacré Coeur - Neutral
+Nice, Fronton du Palais de la  - Resistance
+Dancing Girl - Resistance
+Nice, Palais de la Méditerranée - Resistance
+Église Anglicane De Nice - Resistance
+Église Protestante La Tansfiguration - Resistance
+#Recursion - CAGLIARI - Measurement 2 Report
+The Resistance owned 1 Volatile Portals and 2 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 13 Non-Volatile Portals
+An Enlightened Field covered all the Portals in this Cluster (50)
+Total for Resistance this Measurement = 12
+Total for Enlightened this Measurement = 103
+Total for Resistance this Anomaly = 19
+Total for Enlightened this Anomaly = 181
+Portal Ownership Details:
+Statua Mario Carta - Ingegnere (VOLATILE) - Enlightened
+Carcere di Buon Cammino (VOLATILE) - Enlightened
+Shower Whale (VOLATILE) - Enlightened
+Museo Mineralogia Cagliari (VOLATILE) - Enlightened
+Scultura Ingegneria (VOLATILE) - Resistance
+Karma Graffiti - Enlightened
+Slimer Murales - Enlightened
+Idea Graffiti - Enlightened
+Murales Università  - Enlightened
+Simbar Caffè - Enlightened
+Centro Culturale MenSana - Enlightened
+Madonna del Merello - Enlightened
+Murales Idea - Enlightened
+Rapper Graffiti - Enlightened
+Fungus - Enlightened
+9MMS Murale - Enlightened
+Biblioteca Interfacoltà - Enlightened
+The Green Whale  - Enlightened
+Busto Giordano Bruno - Neutral
+I Love Donut Art   - Neutral
+Rain Graffiti - Neutral
+Pingu and Robby  - Neutral
+Snake Graffiti - Resistance
+Mammuthone Mask - Resistance
+#Recursion - CAIRO - Measurement 2 Report
+The Resistance owned 5 Volatile Portals and 1 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 0 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (50)
+Total for Resistance this Measurement = 101
+Total for Enlightened this Measurement = 0
+Total for Resistance this Anomaly = 198
+Total for Enlightened this Anomaly = 13
+Portal Ownership Details:
+Downtown Light Fountain  (VOLATILE) - Resistance
+El Farouk Mosque (VOLATILE) - Resistance
+Downtown Water Fountain (VOLATILE) - Resistance
+Downtown Lake (VOLATILE) - Resistance
+Downtown Ball  (VOLATILE) - Resistance
+Main Entrance Fountain Downtown Mall - Resistance
+#Recursion - TEL AVIV - Measurement 2 Report
+The Resistance owned 5 Volatile Portals and 32 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 4 Non-Volatile Portals
+The Resistance had 68 Links standing at Measurement Time
+Total for Resistance this Measurement = 218
+Total for Enlightened this Measurement = 4
+Total for Resistance this Anomaly = 309
+Total for Enlightened this Anomaly = 16
+Measurement Time Details:
+Original: 2:04:00 (Minutes:Seconds past the hour)
+Padded: jYkBRtmiH 2:04 jukxHcMhyGCXpSKvARLYt
+MD5 of Padded String: 87066849095f3cbe34d5b593acd0796a
+Portal Ownership Details:
+Suzan Dalal (VOLATILE) - Resistance
+Tel Aviv Rider (VOLATILE) - Resistance
+Matkot Museum (VOLATILE) - Resistance
+Broken Bridge (VOLATILE) - Resistance
+Mayor Rothschild's Chair (VOLATILE) - Resistance
+Shalosh Shloshim - Enlightened
+The Pioneers! - Enlightened
+Oh Well. - Enlightened
+Hesed - Enlightened
+Shalom Tower - Neutral
+Fire Horse - Neutral
+Kissing Wall - Neutral
+Gan Baruch - Neutral
+פסל זכוכית - Neutral
+The Lady and the Cat - Neutral
+Miriam Levy Finn Memory - Neutral
+Richfield 2 - Resistance
+The Big Synagogue - Resistance
+Bank Markantil - Resistance
+Founders Square  - Resistance
+Tree of Life - Resistance
+Institut Francais Backdoor Mural - Resistance
+Rothchild Mural - Resistance
+Poalim Bank - Resistance
+Achuzat Bait Mosaics Fountain - Resistance
+Reap with Songs of Joy - Resistance
+ha-Tachana - Resistance
+מרכז ההגנה וההעפלה - Resistance
+Samurai Cat Statue - Resistance
+Weiss House - Resistance
+Suzan Dalal Fountain  - Resistance
+Gutman Museum - Resistance
+Hertzelilinblum Museum - Resistance
+Stock Market Statue - Resistance
+Train Wagon at Former Railway Station - Resistance
+City Mice  - Resistance
+Where the Brin - Resistance
+Rothschild Boulevard - Resistance
+The Hagana Museum Wall Sculpture - Resistance
+Peeing Man - Resistance
+Rokach House - Resistance
+Yehoshua Saban "Pop" Memorial  - Resistance
+Bank Loomi  Fountain - Resistance
+Moshe and Shoshana Raskin - Resistance
+Histadrut Headquarters Monument  - Resistance
+AMBI - Resistance
+Window on the Boulevard  - Resistance
+Young Fat Woman - Resistance
+Photo of the recovered dead drop by Agent +Oliver B.](https://lh5.googleusercontent.com/-BC8HKJ5Hh6w/UyRgYNYw_dI/AAAAAAAAnOw/neGYkYVDpto/w1536-h2048/IMG_20140315_150745.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/8tzzmJi3dew](https://plus.google.com/+NianticProject/posts/8tzzmJi3dew)

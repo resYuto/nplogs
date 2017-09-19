@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-04-21 20:27:46 +0900"
+date:   2013-04-21 20:27:46 +0900
+categories: nianticproject
+---
+A reminder about the upcoming Shaper Tranmission window from Mr. Zokiev.
+
+Agents: Good luck, +[Ingress](https://plus.google.com/103320655754019011706 "") will be posting live updates, and I will be following the event as well with updates here.
+
+ [#shaperdata](https://plus.google.com/s/%23shaperdata "")   [#ingress](https://plus.google.com/s/%23ingress "")  <div class="shared"><br /><h2>Curter Zokiev</h2>Agents,<br /><br />The Data Transmission window is about to begin, a reminder that ALL packet transmissions, including the final special-packet, must be verified by my trusted agents, who will be monitoring Google+.<br /><br />In order to verify a packet transmission, your Operators must submit a verification request as specified in this image.<br /><br />My agents will verify that your link-chain was valid, and post an update to +Ingress to verify the successful transmission. This process may take up to 20 minutes. Be aware that if a link-chain is not properly submitted and verified, the transmission is invalid.<br /><br /> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23shaperdata">#shaperdata</a>   <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23ingress">#ingress</a>  <br /><br /></div>
+[#### photo: undefined](https://lh4.googleusercontent.com/-BiM7FwmbHhs/UXPLCk7eBDI/AAAAAAAAAB4/Y4ATjBCi4JA/w288-h288/Verification.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/L9obbga9qgf](https://plus.google.com/+NianticProject/posts/L9obbga9qgf)

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-09 17:47:43 +0900"
+date:   2014-08-09 17:47:43 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 03 - TAIPEI, HONG KONG, KUALA LUMPUR - C4 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/qmm82B\" class=\"ot-anchor\">http://goo.gl/qmm82B</a>", "<br />", "<br />", "SHA256: c5e3080c9947d5a6754bb8eb864eb4f22479babda7610df03e5e70fe86288d64", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102644225927119566552\" oid=\"102644225927119566552\">YutinG Zhang</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #HELIOS 03 - TAIPEI, HONG KONG, KUALA LUMPUR - C4 VOLs
+Volatiles: http://goo.gl/qmm82B
+SHA256: c5e3080c9947d5a6754bb8eb864eb4f22479babda7610df03e5e70fe86288d64
+Photo by Agent +YutinG Zhang ](https://lh6.googleusercontent.com/-c8x16NstKX8/U-XevRX_CKI/AAAAAAAA-Yg/eDJw_L5UWCI/w2048-h1155/HKbleachers.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/JBMjpa8A8QY](https://plus.google.com/+NianticProject/posts/JBMjpa8A8QY)

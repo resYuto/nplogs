@@ -1,0 +1,239 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-15 07:26:40 +0900"
+date:   2013-12-15 07:26:40 +0900
+categories: nianticproject
+---
+Across the board, but particularly in Buenos Aires, the Enlightened fight off the temptation to rest on the laurels of their earlier victories.
+
+The Resistance, once again today, are the underdog.
+
+x
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  {:element=>{:name=>"div", :attributes=>[{:name=>"class"@332, :value=>"shared"@339}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- SAN FRANCISCO - Measurement 1 Report</b>", " ", "<br />", "<br />", "The Resistance owned 0 Volatile Portals and 13 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 5 Volatile Portals and 16 Non-Volatile Portals</b>", "<br />", "<br />", "<b>A Resistance Field covered all the Portals in this Cluster (100)</b>", "<br />", "<br />", "The Resistance controlled 2 Jarvis Shards", "<br />", "<b>The Enlightened controlled 10 Jarvis Shards</b>", "<br />", "<br />", "Mind Units at Anomaly START (R): 477341248", "<br />", "Mind Units at Anomaly START (E): 442259419", "<br />", "<br />", "Total for Resistance this Measurement = 136", "<br />", "<b>Total for Enlightened this Measurement = 182</b>", "<br />", "<br />", "<b>Jarvis Shard Ownership (at Measurement Time):</b>", "<br />", "Shard 01 - Awareness: Enlightened", "<br />", "Shard 02 - Creativity: Enlightened", "<br />", "Shard 03 - Strength: Enlightened", "<br />", "Shard 04 - Insight: Enlightened", "<br />", "Shard 05 - Understanding: Enlightened", "<br />", "Shard 06 - Memory: Enlightened", "<br />", "Shard 07 - Belief: Enlightened", "<br />", "Shard 08 - Charisma: Resistance", "<br />", "Shard 09 - Empathy: Enlightened", "<br />", "Shard 10 - Identity: Enlightened", "<br />", "Shard 11 - Aesthetic: Resistance", "<br />", "Shard 12 - Intuition: Enlightened", "<br />", "Shard 13 - Immortality: Neutral", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "United Nations Charter Memorial (VOLATILE) - Enlightened", "<br />", "Icosaspirale (VOLATILE) - Enlightened", "<br />", "Pacific Bird by Seymour Lipton (VOLATILE) - Enlightened", "<br />", "Fountain of \"Four Seasons\" (VOLATILE) - Enlightened", "<br />", "Movement: The First 100 Years (VOLATILE) - Enlightened", "<br />", "Standing Figure Knife Edged - Enlightened", "<br />", "The 1934 Strike - Enlightened", "<br />", "Eccentric Variation VII - Enlightened", "<br />", "Alien Mothership - Enlightened", "<br />", "Embarcadero Freeway  - Enlightened", "<br />", "U. S. Custom House - Enlightened", "<br />", "Pony Express Wharf - Enlightened", "<br />", "Cupid's Span - Enlightened", "<br />", "In Memory of Herb Caen - Enlightened", "<br />", "Fort Gunny-Bags - Enlightened", "<br />", "HARK The City - Enlightened", "<br />", "San Francisco Hyatt - Enlightened", "<br />", "Pine Tree Obelisk  - Enlightened", "<br />", "Old Ship Saloon - Enlightened", "<br />", "Bronze Horse - Enlightened", "<br />", "San Francisco Map Embarcadero Center 3 - Enlightened", "<br />", "Russian Navy Heroes - Neutral", "<br />", "Botanica Artistíc - Neutral", "<br />", "Rock - Neutral", "<br />", "Penguins - Neutral", "<br />", "Carrots - Neutral", "<br />", "Woman and Dogs - Neutral", "<br />", "Bronze Lion Knocker - Neutral", "<br />", "Shapers View of the City - Neutral", "<br />", "Limits of Horizon II - Neutral", "<br />", "Sue Bierman Park - Neutral", "<br />", "Alien Antenna - Neutral", "<br />", "US Post Office - Neutral", "<br />", "Pier 1 Historic Plaque - Neutral", "<br />", "Stairway to Heaven - Neutral", "<br />", "Heart of Stone - Neutral", "<br />", "The Gateway Fountain  - Resistance", "<br />", "Pier 7 - Resistance", "<br />", "Sky Tree - Resistance", "<br />", "One Maritime Fountain  - Resistance", "<br />", "Design On Glass  - Resistance", "<br />", "Shapes - Resistance", "<br />", "Cloud Portal - Resistance", "<br />", "The River Lines - Resistance", "<br />", "Mistral by Elbert Weinberg - Resistance", "<br />", "Pier Historic Site - Resistance", "<br />", "Sue Bierman Park Playground - Resistance", "<br />", "US Customs Ingress - Resistance", "<br />", "Jackson Place Mural - Resistance", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- BUENOS AIRES - Measurement 1 Report</b>", "<br />", "<br />", "The Resistance owned 1 Volatile Portal and 31 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 4 Volatile Portals and 29 Non-Volatile Portals</b>", "<br />", "<br />", "The Resistance had 9 Links standing at Measurement Time", "<br />", "<b>The Enlightened had 27 Links standing at Measurement Time</b>", "<br />", "<br />", "The Resistance controlled 2 Jarvis Shards", "<br />", "<b>The Enlightened controlled 10 Jarvis Shards</b>", "<br />", "<br />", "Total for Resistance this Measurement = 137", "<br />", "<b>Total for Enlightened this Measurement = 323</b>", "<br />", "<br />", "<b>Jarvis Shard Ownership (at Measurement Time):</b>", "<br />", "Shard 01 - Awareness: Enlightened", "<br />", "Shard 02 - Creativity: Enlightened", "<br />", "Shard 03 - Strength: Enlightened", "<br />", "Shard 04 - Insight: Enlightened", "<br />", "Shard 05 - Understanding: Enlightened", "<br />", "Shard 06 - Memory: Enlightened", "<br />", "Shard 07 - Belief: Enlightened", "<br />", "Shard 08 - Charisma: Resistance", "<br />", "Shard 09 - Empathy: Enlightened", "<br />", "Shard 10 - Identity: Enlightened", "<br />", "Shard 11 - Aesthetic: Resistance", "<br />", "Shard 12 - Intuition: Enlightened", "<br />", "Shard 13 - Immortality: Neutral", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Arquitectura (VOLATILE) - Enlightened", "<br />", "Forjador - Buenos Aires (VOLATILE) - Enlightened", "<br />", "Museo Juan B Ambrosetti (VOLATILE) - Enlightened", "<br />", "Ex Biblioteca Nacional (VOLATILE) - Enlightened", "<br />", "Plaza Dorrego (VOLATILE) - Resistance", "<br />", "Yo Matias - Enlightened", "<br />", "Plaza Dorrego - Enlightened", "<br />", "Mural De Inodoro Pereyra - Enlightened", "<br />", "Edificio Otto Wulf - Enlightened", "<br />", "Larguirucho - Enlightened", "<br />", "El Pulpo Violador - Enlightened", "<br />", "Restaurante Rey Castro, Montse - Enlightened", "<br />", "Mural Gatuvelo - Enlightened", "<br />", "Patoruzú - Enlightened", "<br />", "Street Art Pafuncio - Enlightened", "<br />", "Mural en Perú y Venezuela - Enlightened", "<br />", "Graffiti Gauchito Gil - Enlightened", "<br />", "Buenos Aires en Bus - 19 - Igl - Enlightened", "<br />", "Diana Cazadora, Montserrat - Enlightened", "<br />", "Museo Franciscano  - Enlightened", "<br />", "Iglesia Y Convento Santo Domingo  - Enlightened", "<br />", "Tanghetto Mural - Enlightened", "<br />", "Museo Nacional Del Traje - Enlightened", "<br />", "Drops - Enlightened", "<br />", "Iglesia Presbiteriana San Andrés  - Enlightened", "<br />", "Clemente - Enlightened", "<br />", "Aduana  - Enlightened", "<br />", "Centro De Despachantes De Aduana De La Argentina  - Enlightened", "<br />", "Condominios - Enlightened", "<br />", "Arte Ventana - Enlightened", "<br />", "Mural De San Telmo - Enlightened", "<br />", "Mural Paseo De La Historieta Hidai  - Enlightened", "<br />", "Isidoro Cañones - Enlightened", "<br />", "El Bondi Loco - Enlightened", "<br />", "San Telmo - Neutral", "<br />", "Mural Stereo - Neutral", "<br />", "El Secreto - Neutral", "<br />", "Mural Independencia - Neutral", "<br />", "Pobreza En San Telmo - Neutral", "<br />", "Breoghan Graffiti - Neutral", "<br />", "Octupus Graffiri - Neutral", "<br />", "Mural Luz Y Fuerza - Neutral", "<br />", "Iglesia de San Pedro Telmo - Neutral", "<br />", "Cafe del Arbol  - Neutral", "<br />", "Paseo Del Anticuario  - Neutral", "<br />", "Don Fulgencio - Neutral", "<br />", "Organización Tupac Amaru - Resistance", "<br />", "Gente Extraña - Resistance", "<br />", "Cúpula Rara - Resistance", "<br />", "Iglesia Danesa - Resistance", "<br />", "Facultad de ingeniería, University - Resistance", "<br />", "Orange House - Resistance", "<br />", "Grafitti En Plaza Joaquin Anchorena - Resistance", "<br />", "Estatua del Ing. Huergo - Resistance", "<br />", "Era Color - Resistance", "<br />", "Mercado de San Telmo 1897 - Resistance", "<br />", "Paseo De La Historieta BA - Resistance", "<br />", "Che Gatooo - Resistance", "<br />", "Placa Conmemorativa - Resistance", "<br />", "13MAGNUS - Inicio - Resistance", "<br />", "Facultad de Ingenieria UBA - Resistance", "<br />", "Buenos Aires en Bus - 21 - Mon - Resistance", "<br />", "Ministerio De Agricultura  - Resistance", "<br />", "Walrus Books - Resistance", "<br />", "Mafalda, San Telmo, Buenos Air - Resistance", "<br />", "Puro Arte Callejero - Resistance", "<br />", "Casa Amarilla - Resistance", "<br />", "Red Skull - Resistance", "<br />", "Cesar Polledo - Resistance", "<br />", "Desnivel Art - Resistance", "<br />", "SUTERH - Resistance", "<br />", "Grafiti De Los Ojos - Resistance", "<br />", "Estación Belgrano - Resistance", "<br />", "Graffiti Amor Es Vida  - Resistance", "<br />", "Mural en San Telmo - Resistance", "<br />", "The Pink House - Resistance", "<br />", "Instituto Nacional Belgrano - Resistance", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- SAN DIEGO - Measurement 1 Report</b>", " ", "<br />", "<br />", "The Resistance owned 0 Volatile Portals and 16 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 4 Volatile Portals and 5 Non-Volatile Portals</b>", "<br />", "<br />", "<b>The Resistance had 6 Links standing at Measurement Time</b>", "<br />", "<br />", "Total for Resistance this Measurement = 28", "<br />", "<b>Total for Enlightened this Measurement = 45</b>", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 1:47 (Minutes:Seconds past the hour)", "<br />", "Padded: kDrWKCEEFGD 1:47 BcsoRATzSyNtCjSgyUy", "<br />", "MD5 of Padded String: 577f7b4ecb4be72d92740f64677a568c", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Timkin Building, 1894 (VOLATILE) - Enlightened", "<br />", "Italian Statue (VOLATILE) - Enlightened", "<br />", "High Tech International Mural (VOLATILE) - Enlightened", "<br />", "Downtown at Sunset (VOLATILE) - Enlightened", "<br />", "Singing the Blues Man Wall Art (VOLATILE) - Neutral", "<br />", "Hiatt House 1886 - Enlightened", "<br />", "The Mission - Enlightened", "<br />", "Shirley J Bernard - Enlightened", "<br />", "Dino Box - Enlightened", "<br />", "Sailing Utility Box - Enlightened", "<br />", "H Art Lounge - Neutral", "<br />", "Philippine Library &amp; Museum - Neutral", "<br />", "Historic Building Sign - Neutral", "<br />", "Brooklyn Bagel Utility Box Mural - Resistance", "<br />", "Library - Resistance", "<br />", "Jerry Coleman Statue - Resistance", "<br />", "San Diego Fire Department Stat - Resistance", "<br />", "Dome of Downtown San Diego Library  - Resistance", "<br />", "I.O.O.F. Building, 1882 - Resistance", "<br />", "21st Century Statue  - Resistance", "<br />", "New York Hotel - Resistance", "<br />", "Art Academy of SD - Resistance", "<br />", "San Diego New Central Library - Resistance", "<br />", "Rocco Utility Box - Resistance", "<br />", "USS Midway Model at Petco Park - Resistance", "<br />", "Clermont Coast Hotel - Resistance", "<br />", "Callahan hotel - Resistance", "<br />", "Painted Utility Box - Resistance", "<br />", "Tony Gwynn \"Mr. Padre\" - Resistance", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/112586149667607531498\" oid=\"112586149667607531498\">Martin Stein</a>"], ".", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>DEC 14 PRIMARY SITES:</b>", " ", "<br />", "Buenos Aires: ", "<a href=\"http://goo.gl/BDcLTZ\" class=\"ot-anchor\">http://goo.gl/BDcLTZ</a>", " ", "<br />", "San Francisco: ", "<a href=\"http://goo.gl/plCBZL\" class=\"ot-anchor\">http://goo.gl/plCBZL</a>", "<br />", "<br />", "<b>SATELLITE SITES:</b>", " ", "<br />", "Rio de Janeiro: ", "<a href=\"http://goo.gl/EeuyO4\" class=\"ot-anchor\">http://goo.gl/EeuyO4</a>", " ", "<br />", "San Diego: ", "<a href=\"http://goo.gl/uqmCci\" class=\"ot-anchor\">http://goo.gl/uqmCci</a>", " ", "<br />", "Santiago: ", "<a href=\"http://goo.gl/BE71fV\" class=\"ot-anchor\">http://goo.gl/BE71fV</a>", " ", "<br />", "Sao Paulo: ", "<a href=\"http://goo.gl/AnJNro\" class=\"ot-anchor\">http://goo.gl/AnJNro</a>", " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #13MAGNUS - SAN FRANCISCO - Measurement 1 Report 
+The Resistance owned 0 Volatile Portals and 13 Non-Volatile Portals
+The Enlightened owned 5 Volatile Portals and 16 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (100)
+The Resistance controlled 2 Jarvis Shards
+The Enlightened controlled 10 Jarvis Shards
+Mind Units at Anomaly START (R): 477341248
+Mind Units at Anomaly START (E): 442259419
+Total for Resistance this Measurement = 136
+Total for Enlightened this Measurement = 182
+Jarvis Shard Ownership (at Measurement Time):
+Shard 01 - Awareness: Enlightened
+Shard 02 - Creativity: Enlightened
+Shard 03 - Strength: Enlightened
+Shard 04 - Insight: Enlightened
+Shard 05 - Understanding: Enlightened
+Shard 06 - Memory: Enlightened
+Shard 07 - Belief: Enlightened
+Shard 08 - Charisma: Resistance
+Shard 09 - Empathy: Enlightened
+Shard 10 - Identity: Enlightened
+Shard 11 - Aesthetic: Resistance
+Shard 12 - Intuition: Enlightened
+Shard 13 - Immortality: Neutral
+Portal Ownership Details:
+United Nations Charter Memorial (VOLATILE) - Enlightened
+Icosaspirale (VOLATILE) - Enlightened
+Pacific Bird by Seymour Lipton (VOLATILE) - Enlightened
+Fountain of "Four Seasons" (VOLATILE) - Enlightened
+Movement: The First 100 Years (VOLATILE) - Enlightened
+Standing Figure Knife Edged - Enlightened
+The 1934 Strike - Enlightened
+Eccentric Variation VII - Enlightened
+Alien Mothership - Enlightened
+Embarcadero Freeway  - Enlightened
+U. S. Custom House - Enlightened
+Pony Express Wharf - Enlightened
+Cupid's Span - Enlightened
+In Memory of Herb Caen - Enlightened
+Fort Gunny-Bags - Enlightened
+HARK The City - Enlightened
+San Francisco Hyatt - Enlightened
+Pine Tree Obelisk  - Enlightened
+Old Ship Saloon - Enlightened
+Bronze Horse - Enlightened
+San Francisco Map Embarcadero Center 3 - Enlightened
+Russian Navy Heroes - Neutral
+Botanica Artistíc - Neutral
+Rock - Neutral
+Penguins - Neutral
+Carrots - Neutral
+Woman and Dogs - Neutral
+Bronze Lion Knocker - Neutral
+Shapers View of the City - Neutral
+Limits of Horizon II - Neutral
+Sue Bierman Park - Neutral
+Alien Antenna - Neutral
+US Post Office - Neutral
+Pier 1 Historic Plaque - Neutral
+Stairway to Heaven - Neutral
+Heart of Stone - Neutral
+The Gateway Fountain  - Resistance
+Pier 7 - Resistance
+Sky Tree - Resistance
+One Maritime Fountain  - Resistance
+Design On Glass  - Resistance
+Shapes - Resistance
+Cloud Portal - Resistance
+The River Lines - Resistance
+Mistral by Elbert Weinberg - Resistance
+Pier Historic Site - Resistance
+Sue Bierman Park Playground - Resistance
+US Customs Ingress - Resistance
+Jackson Place Mural - Resistance
+#13MAGNUS - BUENOS AIRES - Measurement 1 Report
+The Resistance owned 1 Volatile Portal and 31 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 29 Non-Volatile Portals
+The Resistance had 9 Links standing at Measurement Time
+The Enlightened had 27 Links standing at Measurement Time
+The Resistance controlled 2 Jarvis Shards
+The Enlightened controlled 10 Jarvis Shards
+Total for Resistance this Measurement = 137
+Total for Enlightened this Measurement = 323
+Jarvis Shard Ownership (at Measurement Time):
+Shard 01 - Awareness: Enlightened
+Shard 02 - Creativity: Enlightened
+Shard 03 - Strength: Enlightened
+Shard 04 - Insight: Enlightened
+Shard 05 - Understanding: Enlightened
+Shard 06 - Memory: Enlightened
+Shard 07 - Belief: Enlightened
+Shard 08 - Charisma: Resistance
+Shard 09 - Empathy: Enlightened
+Shard 10 - Identity: Enlightened
+Shard 11 - Aesthetic: Resistance
+Shard 12 - Intuition: Enlightened
+Shard 13 - Immortality: Neutral
+Portal Ownership Details:
+Arquitectura (VOLATILE) - Enlightened
+Forjador - Buenos Aires (VOLATILE) - Enlightened
+Museo Juan B Ambrosetti (VOLATILE) - Enlightened
+Ex Biblioteca Nacional (VOLATILE) - Enlightened
+Plaza Dorrego (VOLATILE) - Resistance
+Yo Matias - Enlightened
+Plaza Dorrego - Enlightened
+Mural De Inodoro Pereyra - Enlightened
+Edificio Otto Wulf - Enlightened
+Larguirucho - Enlightened
+El Pulpo Violador - Enlightened
+Restaurante Rey Castro, Montse - Enlightened
+Mural Gatuvelo - Enlightened
+Patoruzú - Enlightened
+Street Art Pafuncio - Enlightened
+Mural en Perú y Venezuela - Enlightened
+Graffiti Gauchito Gil - Enlightened
+Buenos Aires en Bus - 19 - Igl - Enlightened
+Diana Cazadora, Montserrat - Enlightened
+Museo Franciscano  - Enlightened
+Iglesia Y Convento Santo Domingo  - Enlightened
+Tanghetto Mural - Enlightened
+Museo Nacional Del Traje - Enlightened
+Drops - Enlightened
+Iglesia Presbiteriana San Andrés  - Enlightened
+Clemente - Enlightened
+Aduana  - Enlightened
+Centro De Despachantes De Aduana De La Argentina  - Enlightened
+Condominios - Enlightened
+Arte Ventana - Enlightened
+Mural De San Telmo - Enlightened
+Mural Paseo De La Historieta Hidai  - Enlightened
+Isidoro Cañones - Enlightened
+El Bondi Loco - Enlightened
+San Telmo - Neutral
+Mural Stereo - Neutral
+El Secreto - Neutral
+Mural Independencia - Neutral
+Pobreza En San Telmo - Neutral
+Breoghan Graffiti - Neutral
+Octupus Graffiri - Neutral
+Mural Luz Y Fuerza - Neutral
+Iglesia de San Pedro Telmo - Neutral
+Cafe del Arbol  - Neutral
+Paseo Del Anticuario  - Neutral
+Don Fulgencio - Neutral
+Organización Tupac Amaru - Resistance
+Gente Extraña - Resistance
+Cúpula Rara - Resistance
+Iglesia Danesa - Resistance
+Facultad de ingeniería, University - Resistance
+Orange House - Resistance
+Grafitti En Plaza Joaquin Anchorena - Resistance
+Estatua del Ing. Huergo - Resistance
+Era Color - Resistance
+Mercado de San Telmo 1897 - Resistance
+Paseo De La Historieta BA - Resistance
+Che Gatooo - Resistance
+Placa Conmemorativa - Resistance
+13MAGNUS - Inicio - Resistance
+Facultad de Ingenieria UBA - Resistance
+Buenos Aires en Bus - 21 - Mon - Resistance
+Ministerio De Agricultura  - Resistance
+Walrus Books - Resistance
+Mafalda, San Telmo, Buenos Air - Resistance
+Puro Arte Callejero - Resistance
+Casa Amarilla - Resistance
+Red Skull - Resistance
+Cesar Polledo - Resistance
+Desnivel Art - Resistance
+SUTERH - Resistance
+Grafiti De Los Ojos - Resistance
+Estación Belgrano - Resistance
+Graffiti Amor Es Vida  - Resistance
+Mural en San Telmo - Resistance
+The Pink House - Resistance
+Instituto Nacional Belgrano - Resistance
+#13MAGNUS - SAN DIEGO - Measurement 1 Report 
+The Resistance owned 0 Volatile Portals and 16 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 5 Non-Volatile Portals
+The Resistance had 6 Links standing at Measurement Time
+Total for Resistance this Measurement = 28
+Total for Enlightened this Measurement = 45
+Measurement Time Details:
+Original: 1:47 (Minutes:Seconds past the hour)
+Padded: kDrWKCEEFGD 1:47 BcsoRATzSyNtCjSgyUy
+MD5 of Padded String: 577f7b4ecb4be72d92740f64677a568c
+Portal Ownership Details:
+Timkin Building, 1894 (VOLATILE) - Enlightened
+Italian Statue (VOLATILE) - Enlightened
+High Tech International Mural (VOLATILE) - Enlightened
+Downtown at Sunset (VOLATILE) - Enlightened
+Singing the Blues Man Wall Art (VOLATILE) - Neutral
+Hiatt House 1886 - Enlightened
+The Mission - Enlightened
+Shirley J Bernard - Enlightened
+Dino Box - Enlightened
+Sailing Utility Box - Enlightened
+H Art Lounge - Neutral
+Philippine Library &amp; Museum - Neutral
+Historic Building Sign - Neutral
+Brooklyn Bagel Utility Box Mural - Resistance
+Library - Resistance
+Jerry Coleman Statue - Resistance
+San Diego Fire Department Stat - Resistance
+Dome of Downtown San Diego Library  - Resistance
+I.O.O.F. Building, 1882 - Resistance
+21st Century Statue  - Resistance
+New York Hotel - Resistance
+Art Academy of SD - Resistance
+San Diego New Central Library - Resistance
+Rocco Utility Box - Resistance
+USS Midway Model at Petco Park - Resistance
+Clermont Coast Hotel - Resistance
+Callahan hotel - Resistance
+Painted Utility Box - Resistance
+Tony Gwynn "Mr. Padre" - Resistance
+Photo by Agent +Martin Stein.
+#13MAGNUS DEC 14 PRIMARY SITES: 
+Buenos Aires: http://goo.gl/BDcLTZ 
+San Francisco: http://goo.gl/plCBZL
+SATELLITE SITES: 
+Rio de Janeiro: http://goo.gl/EeuyO4 
+San Diego: http://goo.gl/uqmCci 
+Santiago: http://goo.gl/BE71fV 
+Sao Paulo: http://goo.gl/AnJNro ](https://lh6.googleusercontent.com/-bS15nJYrBzk/UqzWXbawRMI/AAAAAAAAeEs/t3a5XkhyhlM/w2048-h1536/IMG_20131214_134646.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/HgG45RXpMgg](https://plus.google.com/+NianticProject/posts/HgG45RXpMgg)

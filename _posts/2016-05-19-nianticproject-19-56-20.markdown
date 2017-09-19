@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-05-19 19:56:20 +0900"
+date:   2016-05-19 19:56:20 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "It seems that my failures have come back to haunt Klue. Threads of ADA left in her mind have been disrupting her peace. And the Acolyte has stepped in... offering peace through some kind of 'Rite of Transition.' ", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], "... I hope you know what you're doing. Agents, what do you think of Klue's decision?", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23InvestigateIngress\">#InvestigateIngress</a>", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/Sb1eKufdedR](https://plus.google.com/+NianticProject/posts/Sb1eKufdedR)

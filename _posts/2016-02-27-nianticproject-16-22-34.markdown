@@ -1,0 +1,268 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-27 16:22:34 +0900"
+date:   2016-02-27 16:22:34 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Hamamatsu Measurement 3 Scores: ENL: 6066 to RES: 2398 (Shards included). Shards E:16 - R:0
+
+At Measurement 3, the Enlightened have captured the remaining three Shards. The Resistance were unable to capture any Shards during this Anomaly. With every Shard now accounted for, the focus turns solely to the Clusters. The Resistance may be able to use this to their advantage. If they plan wisely, they can erode some of the intimidating lead the Enlightened have accumulated. This Measurement was by far the closest, with the Resistance leaning heavily on Volatile Portals to counter the heavy Enlightened ownership of the Cluster Portals.
+
+One Measurement remains, and both Factions have an opportunity to set the stage for the Anomalies that lie ahead.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Hamamatsu - Measurement 3 Report**
+The **Enlightened** captured this Measurement, 1480 to 1066.
+The **Enlightened** currently control this Satellite Site, leading by 3668.			
+Portals Owned - RES: 42 - **ENL:** 92 - [Value: 6 each]
+Volatile Portals Owned - **RES:** 57 - ENL: 24 - [Value: 12 each]
+Links Created - **RES:** 28 - **ENL:** 58 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]
+Anchored Fields Created - **RES:** 9 - **ENL:** 13
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]
+Shards - RES:  - ENL: 3 [Value: 100 each]
+Values acquired this Measurement:
+Portals - RES: 252 - **ENL:** 552
+Volatile Portals - **RES:** 684 - ENL: 288
+Links - RES: 90 - **ENL**: 300
+Anchored Fields - RES: 40 - ENL: 40
+Strategic Field - RES: 0 - ENL: 0
+Shards - RES: 0 - ENL: 300
+
+**Total for this Measurement:**
+Resistance - 1066 - **Enlightened** - 1480
+
+**Total for this Satellite Site:**
+Resistance - 2398 - **Enlightened** - 6066
+
+**Measurement Time Details:**
+Original: 7:54 (Minutes:Seconds within Measurement Window)
+Padded String: 0'{RA7tf]&lt;:w?@vR2###7:54###d&lt;.fBsruXA
+SHA256 of Padded String: c28c69839249c8ede69696975bd905354aaa01db54e59b245dd3c8e34a746e4d
+
+**Portal Ownership Details**
+
+E - A Mural
+E - Bricky Clock
+E - Drummer 駅南地下道
+E - PL教会
+E - Twofold Stone Wall
+E - Underground Fountain
+E - waterfall
+E - うお座
+E - おとめ座
+E - しし座
+E - ひまわり
+E - ふたご座
+E - みずがめ座
+E - アクトシティ浜松
+E - コアラ
+E - ニューライフ浜松公園
+E - ピアノ
+E - ファミール向宿 カップル像 (浜松市中区相生) 
+E - ファーター（諸惑星）
+E - ヨシトヨの祠
+E - 三島堰跡
+E - 三島楊子公園 東側 東屋
+E - 中島町諏訪神社 拝殿
+E - 中島稲荷神社
+E - 中松商店のスコップ
+E - 二宮金治郎像
+E - 仁王門跡
+E - 住吉分社
+E - 佐藤西町公会堂 常夜燈
+E - 光と形
+E - 八百神社(浜松市 中区 寺島町南交差点側)
+E - 出世大名 家康くん
+E - 勇者の泉
+E - 北寺島児童遊園
+E - 変わった街灯
+E - 富吉町 白山神社
+E - 支那事変陣歿勇士之墓
+E - 明善寺 寺島町
+E - 時と光のモニュメント
+E - 木戸会館
+E - 木戸神明宮
+E - 杉浦國頭の墓
+E - 東海道馬込一里塚跡
+E - 東部やすらぎ公園 看板西側(浜松市南区渡瀬)
+E - 松江町公会堂
+E - 柱群
+E - 柳川緑道
+E - 柳川緑道 北石碑
+E - 植松町 八柱神社
+E - 植松第一公園 慰霊塔
+E - 植松第三公園
+E - 植松第２公園
+E - 楊子公園 旧堤防跡 石碑 浜松市南区楊子
+E - 楊子公園 時計塔(浜松市南区楊子)
+E - 江東三号緑地
+E - 江東二号緑地
+E - 江東第１公園
+E - 江東第２公園
+E - 浜松科学館アートタイル
+E - 浜松駅 地下通路噴水
+E - 浜松駅内ピアノ展示場
+E - 浜松駅前ガス燈
+E - 浜松駅南口 噴水
+E - 海王星
+E - 消防車
+E - 渡瀬公園 看板(浜松市南区渡瀬)
+E - 滝(浜松市中区板屋町アクトシティ浜松)
+E - 熊野神社(浜松市中区龍禅寺町)
+E - 琵琶橋 桜モチーフの手すり
+E - 相生公園 案内板(浜松市中区相生) 
+E - 相生公園 遊具(浜松市中区相生) 
+E - 相生稲荷大明神
+E - 祭り
+E - 緑の通信94-3A
+E - 花輪
+E - 見返り松と鳥居松の跡
+E - 諏訪神社 鳥居
+E - 道標 アクト通り(浜松市中区アクトシティ北側)
+E - 遠鉄バス 浜松駅ロータリー
+E - 酒造 天神蔵
+E - 鈴木式織機発祥の地
+E - 鍵盤のモチーフ
+E - 雀森跡(浜松市中区砂山町)
+E - 音楽の都 浜松
+E - 音響の台座-Ⅰ
+E - 頭陀寺公園 松下嘉平次屋敷跡
+E - 風の中で
+E - 風の軌跡(浜松市中区砂山町自然観察園)
+E - 馬込川をキレイにする会啓蒙活動看板
+E - 駅南地下駐車場入口A
+E - 駅南地下駐車場入口B
+E - 龍梅寺入口
+E VOL - EM ビル
+E VOL - Manhole Art of Fire Track(浜松市中区静岡文化芸術大学東側)
+E VOL - Tanuki at Itakura
+E VOL - Wall Art 5 (浜松市中区役所付近)
+E VOL - かに座
+E VOL - ふぉるて
+E VOL - バイオリンのベンチ
+E VOL - ユニバーサルキリスト教会(浜松市中区龍禅寺町)
+E VOL - 三島楊子公園 南入口石碑
+E VOL - 六所神社拝殿
+E VOL - 北向稲荷大明神
+E VOL - 向宿子供の遊び場
+E VOL - 日吉神社
+E VOL - 木戸公園
+E VOL - 東部やすらぎ公園 看板東側(浜松市南区渡瀬)
+E VOL - 植松第一公園
+E VOL - 津島神社(浜松市 中区 寺島町南交差点)
+E VOL - 浜松科学館
+E VOL - 浜松竜禅寺郵便局(浜松市中区龍禅寺町)
+E VOL - 浜松駅南口 花壇のロータリー
+E VOL - 牡丹橋公園 看板 (浜松市中区寺島町南交差点)
+E VOL - 飛翔の天球
+E VOL - 馬込川公園 東地区
+E VOL - 龍禅寺 水子地蔵 浜松市中区龍禅寺町
+N - MATAKITA LA
+N - Pianist 駅南地下道
+N - 石灯籠
+N - 龍禅寺本殿(浜松市中区龍禅寺町)
+N VOL - 中島町 諏訪神社
+N VOL - 龍島院 入口石柱
+R - ACT PLAZA
+R - Dask Mural
+R - Dragonfly
+R - Hamamatsu Central Fountain
+R - shomeido 看板
+R - うなぎ
+R - おひつじ座
+R - さそり座
+R - はままつ地ビール工房　マイン・シュロス
+R - やぎ座
+R - ニュートンのリンゴの木
+R - 三菱東京UFJ銀行　ATMコーナー　メイワン
+R - 上下神社 本殿(浜松市中区向宿)
+R - 世界のキリスト教会
+R - 五社神社 領家町
+R - 出世大名 家康くんの後ろ姿
+R - 北寺島公園(浜松市中区北寺島町交差点北側)
+R - 夢告地蔵尊
+R - 大雄寺漢門
+R - 天白社 Tenpaku Temple 
+R - 天神神社 本殿
+R - 太陽の広場
+R - 家康くん
+R - 将監町 后土神社
+R - 愛染稲荷
+R - 愛染稲荷 社
+R - 支那事変陣役勇士之墓所
+R - 東部協働センター 二宮金次郎(浜松市中区相生) 
+R - 林泉寺　本堂
+R - 案内板 JR浜松駅北口
+R - 植松第四公園
+R - 楊子いきいき菜園
+R - 楊子公園 バナナ(浜松市南区楊子)
+R - 浜松アクトシティ内郵便局
+R - 浜松市楽器博物館
+R - 海について
+R - 相生公園 看板 (浜松市中区相生) 
+R - 蒲神明宮参道入口
+R - 薬師道
+R - 螺旋階段
+R - 輪舞(楽器博物館 モニュメント)
+R - 鳥居
+R VOL - JR 浜松駅
+R VOL - Lawson ローソン 浜松三島町
+R VOL - Leopalace21新町
+R VOL - Little Sea
+R VOL - Saxophonist 駅南地下道
+R VOL - いて座
+R VOL - おうし座
+R VOL - とぎやのおばさん
+R VOL - びわばし
+R VOL - チャペル
+R VOL - プレスタワー 噴水(新浜松駅 北側)
+R VOL - モニュメント
+R VOL - レリーフ「伸びゆく浜松」
+R VOL - 三島楊子公園 東門灯篭
+R VOL - 中島しんはし公園
+R VOL - 仙林寺
+R VOL - 休憩所
+R VOL - 八柱神社 渡瀬町
+R VOL - 八柱神社拝殿 三和町
+R VOL - 向宿公会堂
+R VOL - 大蒲町 宮前公園
+R VOL - 天使の門
+R VOL - 天満宮鳥居 三和町
+R VOL - 天神公園
+R VOL - 奈津賀神社
+R VOL - 好麺（ko-men）
+R VOL - 将監第一公園
+R VOL - 巨大リコーダー
+R VOL - 救世軍浜松小隊
+R VOL - 日本福音自由教会 ニューホープチャーチ
+R VOL - 本誠寺
+R VOL - 本郷第一公園 The First Hongou Park 
+R VOL - 梟
+R VOL - 江東一号緑地
+R VOL - 津島神社(浜松市中区北寺島町交差点北側)
+R VOL - 津毛利神社 社(浜松市南区参野)
+R VOL - 浄土宗　西伝寺
+R VOL - 浜松佐藤郵便局
+R VOL - 浜松北寺島郵便局(浜松市中区北寺島町交差点)
+R VOL - 浜松向宿郵便局
+R VOL - 浜松市 市民の木
+R VOL - 浜松植松郵便局
+R VOL - 浜松楽器博物館前案内板
+R VOL - 浜松神社
+R VOL - 浜松領家郵便局
+R VOL - 渡瀬公園 土地区画整理事業完成記念碑(浜松市南区渡瀬)
+R VOL - 熊野神社
+R VOL - 相生公園 プール案内板
+R VOL - 石灯籠
+R VOL - 若丸稲荷
+R VOL - 蒲体育館
+R VOL - 蒲神明宮 鳥居
+R VOL - 記憶の風影（風と光と）
+R VOL - 道標 アクト通り(浜松市中区静岡銀行浜松中央支店南側)
+R VOL - 道標 アクト通り(浜松市中区静岡銀行浜松中央支店西側)
+R VOL - 頭陀寺
+R VOL - 頭陀寺第２公園
+[#### photo: #IngressObsidian Hamamatsu Measurement 3 Scores: ENL: 6066 to RES: 2398 (Shards included). Shards E:16 - R:0
+At Measurement 3, the Enlightened have captured the remaining three Shards. The Resistance were unable to capture any Shards during this Anomaly. With every Shard now accounted for, the focus turns solely to the Clusters. The Resistance may be able to use this to their advantage. If they plan wisely, they can erode some of the](https://lh3.googleusercontent.com/-Y48wOcl-Xps/VtFOtnrZ3jI/AAAAAAAAisM/FpqUB4-EXXY/w600-h450/hama_m3.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/NhVvGv8j6UA](https://plus.google.com/+NianticProject/posts/NhVvGv8j6UA)

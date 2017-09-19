@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-04-27 13:57:29 +0900"
+date:   2016-04-27 13:57:29 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "New developments emerge about yesterday's 911 call... A leaked transcript reveals that the Acolyte's Compound was attacked by unknown forces -- and more importantly, that she lost something very important in the chaos: ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108200572857719809031\" oid=\"108200572857719809031\">Oliver Lynton-Wolfe</a>"], ".", "<br />", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23InvestigateIngress\">#InvestigateIngress</a>", "  ", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/aEfki17MZxd](https://plus.google.com/+NianticProject/posts/aEfki17MZxd)

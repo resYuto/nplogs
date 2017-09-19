@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Niantic Project: 2015-02-18 17:23:26 +0900"
+date:   2015-02-18 17:23:26 +0900
+categories: nianticproject
+---
+Affected, perhaps, by the upcoming Shōnin Anomaly, +[Stein Lightman](https://plus.google.com/115238965157544465033 "") shares a waking dream.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@281, :value=>"shared"@288}], :children=>["<br />", "<h2>Stein Lightman</h2>", "It's odd. I can feel the Anomaly coming.", "<br />", "<br />", "Was working on some papers today when I felt a shiver all through my body. It was like a very deep, ancient cold. It came, then it was gone. In that moment, I felt as though I was standing in the Afghan mountains. Jahan was there, as well as ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " and Azmati and a few other men I couldn't recognize. Everyone looked worried. I looked to the horizon and saw an ancient, powerful Portal surge.", "<br />", "<br />", "Then, I was back in my study. The letters on the page returned to their  true form and became words and ideas. The cold was gone.", "<br />", "<br />", "What was that? A dream? A vision?", "<br />", "<br />", "Perhaps just my imagination.", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/KBohGd7EoiV](https://plus.google.com/+NianticProject/posts/KBohGd7EoiV)

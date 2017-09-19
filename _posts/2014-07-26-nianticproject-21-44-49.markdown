@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-26 21:44:49 +0900"
+date:   2014-07-26 21:44:49 +0900
+categories: nianticproject
+---
+[#Helios](https://plus.google.com/s/%23Helios "")  01
+
+The Volatiles for C1 of Dublin, Palermo, and Tallinn have been released.
+
+Good luck, Agents.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@206, :value=>"shared"@213}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 01 - PALERMO, TALLINN  - C1 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/z6ynWM\" class=\"ot-anchor\">http://goo.gl/z6ynWM</a>", "<br />", "<br />", "SHA256: ca46830e837a8f2a0428fd75f183ae1777813336482cf1c51d77a3baaa6823ec", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103215700894643490634\" oid=\"103215700894643490634\">Krishna Kaushal Panduru</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-Uu5DwNiVcqM/U9Oh0RSeFSI/AAAAAAAA8NE/TtzLsOc4gAw/1406375554957.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/YJTa49tDdRF](https://plus.google.com/+NianticProject/posts/YJTa49tDdRF)

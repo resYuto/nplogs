@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-11 04:02:47 +0900"
+date:   2014-05-11 04:02:47 +0900
+categories: nianticproject
+---
+Volatiles for  [#Interitus](https://plus.google.com/s/%23Interitus "")  03 - Helena and Madison, Cluster 1.
+
+The Enlightened have a defensible position going into the second Anomaly. Will they be able to maintain it?
+
+In just a  few hour, we'll know.
+
+Volatiles for Cluster 1, Santa Fe, were discovered by Agents on site.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@395, :value=>"shared"@402}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 03 - HELENA, MADISON - C1 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/FwxuPw\" class=\"ot-anchor\">http://goo.gl/FwxuPw</a>", "<br />", "<br />", "MD5: 69d6e90e6fb3d9e14ecd7dbc46558f11", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110076615986472064304\" oid=\"110076615986472064304\">Eddie Freeman</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-GbMizKG2-hA/U253ayqUMjI/AAAAAAAAvus/i0qABGd3060/madison.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ibAwSHQdQDf](https://plus.google.com/+NianticProject/posts/ibAwSHQdQDf)

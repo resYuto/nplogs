@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Niantic Project: 2015-06-16 17:58:21 +0900"
+date:   2015-06-16 17:58:21 +0900
+categories: nianticproject
+---
+According to +[H. Richard Loeb](https://plus.google.com/117506125229608138804 ""), +[Klue S.](https://plus.google.com/110350977702120778591 "") is headed to the Portland Anomaly, but it's unclear if this is of her own volition.
+
+Her last appearance there was part of a plan by Enlightened Agents to use the Anomaly to affect her, in the hope that she would embrace the cause of the Enlightenment.
+
+Last time, the plan worked.
+
+Could this be the makings of something similar?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@758, :value=>"shared"@765}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "All I know right now is this, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " is on her way to Portland. I don't know if this is what she wanted, or if some person or group is coercing her into being there.", "<br />", "<br />", "It has me worried. Last time she was there was after the events of ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23TimeZero\">#TimeZero</a>", ".", "<br />", "<br />", "The London Enlightened got a hold of a crucial packet of information (if I recall correctly, it was images of the first known Shaper Glyphs) and they were threatening to destroy them unless Klue showed up at the Portland Anomaly, knowing full well that it might have some unknown effect on her.", "<br />", "<br />", "And it did. She was one of the fiercest believers in the cause of the Resistance before that moment, and then it changed.", "<br />", "<br />", "Now, I don't really know where she stands after the whole business with ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], ", but I do know that her showing up at Portland can't be a coincidence.", "<br />", "<br />", "And it's got me worried.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: ojcwvfjfguvkpauwziili](https://lh3.googleusercontent.com/-1jXMCK8Vx4g/VX_ja2CksfI/AAAAAAAABJk/7pj5RN8CJ_c/w800-h438/Portland.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/gHhSR3hKHtm](https://plus.google.com/+NianticProject/posts/gHhSR3hKHtm)

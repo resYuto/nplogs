@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-19 16:47:42 +0900"
+date:   2014-08-19 16:47:42 +0900
+categories: nianticproject
+---
+The Society for the Ethical Treatment of AI continues their attack on new developments in the field of Artificial Intelligence and Systems.
+
+Their real message, of course, is a reminder that their founder and ideological leader, +[Roland Jarvis](https://plus.google.com/103568659333550762891 ""), is in good health and spirit despite many rumors to the contrary.
+
+The evidence to support that claim, however, remains scant....
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@578, :value=>"shared"@585}], :children=>["<br />", "<h2>Society for the Ethical Treatment of AIs</h2>", "<br />", "<b>'“The beauty of biological systems is that they are elegantly simple—and yet, in large numbers, accomplish the seemingly impossible,” says Nagpal. “At some level you no longer even see the individuals; you just see the collective as an entity to itself.”'</b>", "<br />", "<br />", "Many have written to us inquiring about rumors regarding the health of our founder, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], ".", "<br />", "<br />", "Despite the difficult circumstances all around us and the many constraints on his time, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], " spoke privately to members of the Society, speaking of his own future plans and the challenges he and our cause face during ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", ".", "<br />", "<br />", "He was vibrant, enthusiastic and in good health. We look forward to hearing from him again.", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/e2JkTRfdJ4r](https://plus.google.com/+NianticProject/posts/e2JkTRfdJ4r)

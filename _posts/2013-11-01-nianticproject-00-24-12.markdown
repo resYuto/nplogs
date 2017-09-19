@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-01 00:24:12 +0900"
+date:   2013-11-01 00:24:12 +0900
+categories: nianticproject
+---
+On [#IngressReport](https://plus.google.com/s/%23IngressReport "") #32:
+
+Kiev Enlightened learn new details about the Jarvis Entity
+Seattle Resistance receive an unreleased +[Felicia Hajra-Lee](https://plus.google.com/118344555717370644832 "") chapter
++[Susanna Moyer](https://plus.google.com/101560858827970533247 "") interrogated about her involvement with the [#IngressReport](https://plus.google.com/s/%23IngressReport "") and possible connection to +[Archit Bhargava](https://plus.google.com/103568397179979120732 "") 
+
+x
+
+[#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "") **NOV 2 PRIMARY SITES:**
+Atlanta: [http://goo.gl/6qEZHx](http://goo.gl/6qEZHx "") 
+Madrid: [http://goo.gl/Cu0Qkz](http://goo.gl/Cu0Qkz "") 
+Mumbai: [http://goo.gl/B07bMC](http://goo.gl/B07bMC "") 
+
+**REMOTE SITES:**
+Barcelona: [http://goo.gl/wjSbor](http://goo.gl/wjSbor "") 
+Charlotte: [http://goo.gl/bcUvi4](http://goo.gl/bcUvi4 "") 
+Lisbon: [http://goo.gl/0DxIOf](http://goo.gl/0DxIOf "") 
+Raleigh: [http://goo.gl/4iSH8r](http://goo.gl/4iSH8r "")
+
+**NOV 16 PRIMARY SITES:** 
+Dallas: [http://goo.gl/xIOPHV](http://goo.gl/xIOPHV "") 
+Vienna: [http://goo.gl/mZF46x](http://goo.gl/mZF46x "") 
+
+**REMOTE SITES:** 
+Austin: [http://goo.gl/a33LRA](http://goo.gl/a33LRA "") 
+Bratislava: [http://goo.gl/VaLXum](http://goo.gl/VaLXum "") 
+Graz: [http://goo.gl/LISRXM](http://goo.gl/LISRXM "") 
+Houston: [http://goo.gl/JUhO0S](http://goo.gl/JUhO0S "") 
+San Antonio: [http://goo.gl/bsJEXr](http://goo.gl/bsJEXr "") 
+Zurich: [http://goo.gl/d9uv9v](http://goo.gl/d9uv9v "") 
+
+**DEC 7 PRIMARY SITES:** 
+Phoenix: [http://goo.gl/uMLR7j](http://goo.gl/uMLR7j "") 
+Rome: [http://goo.gl/8H9OET](http://goo.gl/8H9OET "") 
+
+**REMOTE SITES:** 
+Athens: [http://goo.gl/PBCyd8](http://goo.gl/PBCyd8 "") 
+Istanbul: [http://goo.gl/9oD3cm](http://goo.gl/9oD3cm "") 
+Nashville: [http://goo.gl/rvsDXh](http://goo.gl/rvsDXh "") 
+Tucson: [http://goo.gl/RD8c3u](http://goo.gl/RD8c3u "") 
+
+**DEC 17 PRIMARY SITES:** 
+Buenos Aires: [http://goo.gl/BDcLTZ](http://goo.gl/BDcLTZ "") 
+San Francisco: [http://goo.gl/plCBZL](http://goo.gl/plCBZL "")
+
+**REMOTE SITES:** 
+Rio de Janeiro: [http://goo.gl/EeuyO4](http://goo.gl/EeuyO4 "") 
+San Diego: [http://goo.gl/uqmCci](http://goo.gl/uqmCci "") 
+Santiago: [http://goo.gl/BE71fV](http://goo.gl/BE71fV "") 
+Sao Paulo: [http://goo.gl/AnJNro](http://goo.gl/AnJNro "") {:element=>{:name=>"div", :attributes=>[{:name=>"class"@3736, :value=>"shared"@3743}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a href=\"http://www.youtube.com/watch?v=cr39uCqHEsg\" class=\"ot-anchor\">INGRESS REPORT | Enlightened Claim 5 of 6 Cities in #13MAGNUS Wave 2 - EP32</a>", " is now live:", "<br />", "<br />", "<a href=\"http://www.youtube.com/watch?v=cr39uCqHEsg#t=0m34s\" class=\"ot-anchor\">0:34</a>", " Enlightened secure ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " - Kiev; Prague; Warsaw; Budapest; Bucharest, learn new details about the Jarvis Entity", "<br />", "<a href=\"http://www.youtube.com/watch?v=cr39uCqHEsg#t=1m04s\" class=\"ot-anchor\">1:04</a>", " Despite Enlightened Megafield, Resistance secure Seattle and unreleased ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/118344555717370644832\" oid=\"118344555717370644832\">Felicia Hajra-Lee</a>"], " chapter. Resistance work to sway Global MU Shift in their favor", "<br />", "<a href=\"http://www.youtube.com/watch?v=cr39uCqHEsg#t=2m07s\" class=\"ot-anchor\">2:07</a>", " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114348053832535597563\" oid=\"114348053832535597563\">enoch dalby</a>"], " plays live set in Seattle. Rumors of encoded messages contained in audio samples", "<br />", "<a href=\"http://www.youtube.com/watch?v=cr39uCqHEsg#t=2m58s\" class=\"ot-anchor\">2:58</a>", " Operation Journey to Free Jerusalem from Shaper ingression", "<br />", "<a href=\"http://www.youtube.com/watch?v=cr39uCqHEsg#t=3m17s\" class=\"ot-anchor\">3:17</a>", " Operation BIGPLAY \"covered Nashville in a green blanket\"", "<br />", "<a href=\"http://www.youtube.com/watch?v=cr39uCqHEsg#t=3m51s\" class=\"ot-anchor\">3:51</a>", " POTW: Falls of the Ohio", "<br />", "<br />", "Share your Anomaly SITREPs with the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " hashtag, and sign the release at ", "<a href=\"http://ingress.com/report\" class=\"ot-anchor\">http://ingress.com/report</a>", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>NOV 2 PRIMARY SITES:</b>", "<br />", "Atlanta: ", "<a href=\"http://goo.gl/6qEZHx\" class=\"ot-anchor\">http://goo.gl/6qEZHx</a>", " ", "<br />", "Madrid: ", "<a href=\"http://goo.gl/Cu0Qkz\" class=\"ot-anchor\">http://goo.gl/Cu0Qkz</a>", " ", "<br />", "Mumbai: ", "<a href=\"http://goo.gl/B07bMC\" class=\"ot-anchor\">http://goo.gl/B07bMC</a>", " ", "<br />", "<br />", "<b>REMOTE SITES:</b>", "<br />", "Barcelona: ", "<a href=\"http://goo.gl/wjSbor\" class=\"ot-anchor\">http://goo.gl/wjSbor</a>", " ", "<br />", "Charlotte: ", "<a href=\"http://goo.gl/bcUvi4\" class=\"ot-anchor\">http://goo.gl/bcUvi4</a>", " ", "<br />", "Lisbon: ", "<a href=\"http://goo.gl/0DxIOf\" class=\"ot-anchor\">http://goo.gl/0DxIOf</a>", " ", "<br />", "Raleigh: ", "<a href=\"http://goo.gl/4iSH8r\" class=\"ot-anchor\">http://goo.gl/4iSH8r</a>", "<br />", "<br />", "<b>NOV 16 PRIMARY SITES:</b>", " ", "<br />", "Dallas: ", "<a href=\"http://goo.gl/xIOPHV\" class=\"ot-anchor\">http://goo.gl/xIOPHV</a>", " ", "<br />", "Vienna: ", "<a href=\"http://goo.gl/mZF46x\" class=\"ot-anchor\">http://goo.gl/mZF46x</a>", " ", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Austin: ", "<a href=\"http://goo.gl/a33LRA\" class=\"ot-anchor\">http://goo.gl/a33LRA</a>", " ", "<br />", "Bratislava: ", "<a href=\"http://goo.gl/VaLXum\" class=\"ot-anchor\">http://goo.gl/VaLXum</a>", " ", "<br />", "Graz: ", "<a href=\"http://goo.gl/LISRXM\" class=\"ot-anchor\">http://goo.gl/LISRXM</a>", " ", "<br />", "Houston: ", "<a href=\"http://goo.gl/JUhO0S\" class=\"ot-anchor\">http://goo.gl/JUhO0S</a>", " ", "<br />", "San Antonio: ", "<a href=\"http://goo.gl/bsJEXr\" class=\"ot-anchor\">http://goo.gl/bsJEXr</a>", " ", "<br />", "Zurich: ", "<a href=\"http://goo.gl/d9uv9v\" class=\"ot-anchor\">http://goo.gl/d9uv9v</a>", " ", "<br />", "<br />", "<b>DEC 7 PRIMARY SITES:</b>", " ", "<br />", "Phoenix: ", "<a href=\"http://goo.gl/uMLR7j\" class=\"ot-anchor\">http://goo.gl/uMLR7j</a>", " ", "<br />", "Rome: ", "<a href=\"http://goo.gl/8H9OET\" class=\"ot-anchor\">http://goo.gl/8H9OET</a>", " ", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Athens: ", "<a href=\"http://goo.gl/PBCyd8\" class=\"ot-anchor\">http://goo.gl/PBCyd8</a>", " ", "<br />", "Istanbul: ", "<a href=\"http://goo.gl/9oD3cm\" class=\"ot-anchor\">http://goo.gl/9oD3cm</a>", " ", "<br />", "Nashville: ", "<a href=\"http://goo.gl/rvsDXh\" class=\"ot-anchor\">http://goo.gl/rvsDXh</a>", " ", "<br />", "Tucson: ", "<a href=\"http://goo.gl/RD8c3u\" class=\"ot-anchor\">http://goo.gl/RD8c3u</a>", " ", "<br />", "<br />", "<b>DEC 17 PRIMARY SITES:</b>", " ", "<br />", "Buenos Aires: ", "<a href=\"http://goo.gl/BDcLTZ\" class=\"ot-anchor\">http://goo.gl/BDcLTZ</a>", " ", "<br />", "San Francisco: ", "<a href=\"http://goo.gl/plCBZL\" class=\"ot-anchor\">http://goo.gl/plCBZL</a>", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Rio de Janeiro: ", "<a href=\"http://goo.gl/EeuyO4\" class=\"ot-anchor\">http://goo.gl/EeuyO4</a>", " ", "<br />", "San Diego: ", "<a href=\"http://goo.gl/uqmCci\" class=\"ot-anchor\">http://goo.gl/uqmCci</a>", " ", "<br />", "Santiago: ", "<a href=\"http://goo.gl/BE71fV\" class=\"ot-anchor\">http://goo.gl/BE71fV</a>", " ", "<br />", "Sao Paulo: ", "<a href=\"http://goo.gl/AnJNro\" class=\"ot-anchor\">http://goo.gl/AnJNro</a>", " ", "<br />", "<br />"], :ignore=>true}}
+[#### video: http://www.youtube.com/v/cr39uCqHEsg?version=3&amp;autohide=1](http://www.youtube.com/v/cr39uCqHEsg?version=3&amp;autohide=1 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/dUxZwF76KHr](https://plus.google.com/+NianticProject/posts/dUxZwF76KHr)

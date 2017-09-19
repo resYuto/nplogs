@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-21 03:55:51 +0900"
+date:   2014-03-21 03:55:51 +0900
+categories: nianticproject
+---
++[IQTech Research](https://plus.google.com/108020987035258478791 "") has just issued a press release announcing a new head of XM Object Development and improvements to their Heatsink XM Portal Modification Technology.
+
+With Dr. Fiona Sharp firmly at the helm, is this the beginning of the recovery for IQTech following the loss of Dr. +[Oliver Lynton-Wolfe](https://plus.google.com/108200572857719809031 "")?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@680, :value=>"shared"@687}], :children=>["<br />", "<h2>IQTech Research</h2>", "<br />", "<b>FOR IMMEDIATE PUBLIC RELEASE</b>", "<br />", "<br />", "<i>IQTECH RESEARCH INTRODUCES DR. FIONA SHARP AND THE NEW HEATSINK</i>", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108020987035258478791\" oid=\"108020987035258478791\">IQTech Research</a>"], ", with operations based entirely on sovereign US Soil, is proud to introduce a new generation of the Heatsink XM Portal Modification and a new head of XM Object Development, Dr. Fiona Sharp.", "<br />", "<br />", "After 18 years of deep-tech research for the Defense Advanced Research Project Agency, specializing in high-energy weapons, Dr. Sharp joined IQTech Research in early 2014 to lead IQTech to the front of the global race in XM research and development.", "<br />", "<br />", "As a first challenge, Dr. Sharp chose to rebuild IQTech’s exclusive Heatsink Portal Modification Technology from scratch, finding new efficiency in design and production, resulting in a significantly faster deployment mechanism.", "<br />", "<br />", "Heatsinks are now viable as soon as they are deployed on Portals, enabling Hacking on burnt out Portals immediately. In addition, with exceptional improvements to Portal cooling after deployment, the new Heatsink Mod will allow an additional four (4) Portal Hacks in the four (4) hours following its deployment.", "<br />", "<br />", "IQTech Research has proven time and again its commitment to developing and maintaining the highest standard in XM Development, and with the addition of Dr. Sharp, has placed itself once again ahead of the competition in XM Research and Development. ", "<br />", "<br />", "IQTech Research is currently seeking forward-looking research scientists and engineers who wish to plant their feet firmly in tomorrow’s largest technology sector.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: FOR IMMEDIATE PUBLIC RELEASE
+IQTECH RESEARCH INTRODUCES DR. FIONA SHARP AND THE NEW HEATSINK
++IQTech Research, with operations based entirely on sovereign US Soil, is proud to introduce a new generation of the Heatsink XM Portal Modification and a new head of XM Object Development, Dr. Fiona Sharp.
+After 18 years of deep-tech research for the Defense Advanced Research Project Agency, specializing in high-energy weapons, Dr. Sharp joined IQTech Research in early 2014 to lead IQTech to the front of the global race in XM research and development.
+As a first challenge, Dr. Sharp chose to rebuild IQTech’s exclusive Heatsink Portal Modification Technology from scratch, finding new efficiency in design and production, resulting in a significantly faster deployment mechanism.
+Heatsinks are now viable as soon as they are deployed on Portals, enabling Hacking on burnt out Portals immediately. In addition, with exceptional improvements to Portal cooling after deployment, the new Heatsink Mod will allow an additional four (4) Portal Hacks in the four (4) hours following its deployment.
+IQTech Research has proven time and again its commitment to developing and maintaining the highest standard in XM Development, and with the addition of Dr. Sharp, has placed itself once again ahead of the competition in XM Research and Development.
+IQTech Research is currently seeking forward-looking research scientists and engineers who wish to plant their feet firmly in tomorrow’s largest technology sector.](https://lh6.googleusercontent.com/-7BL5ZtQqLnM/Uys4BC_mRGI/AAAAAAAAAZI/JzxvKITAT5c/w1275-h1650/HeatsinkUpdate.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/dVnmB3aqev4](https://plus.google.com/+NianticProject/posts/dVnmB3aqev4)

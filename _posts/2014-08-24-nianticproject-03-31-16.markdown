@@ -1,0 +1,251 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-24 03:31:16 +0900"
+date:   2014-08-24 03:31:16 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b> 06: Summary of Anomaly Conditions at Measurement 1</b><br /><br />Detroit - R:58 - <b>E:193.2</b><br />Baltimore - <b>R:67</b> - E:14<br />Indianapolis - <b>R:64</b> - E:22<br /><br />Total - R:189 - <b>E:229.2</b><br /><br />As <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a> 06 begins, the Enlightened take the lead with a slim 40.2 advantage. The Enlightened dominate Detroit, multiplying their force by leveraging a large Field overhead. However, both Satellite sites, Baltimore and Indianapolis, are currently in firm Resistance grasp. They may, in time, be the fulcrum the Resistance need to capture this Anomaly. <br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Detroit - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 193.2 to 58.<br />The <b>Enlightened</b> currently control this Primary Site, leading by 135.2.<br /><br />Portals Owned - RES: 29 - ENL: 29 - [Value: 2 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 4 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (55.2)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 58 - <b>Enlightened</b> - 193.2<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 58 - <b>Enlightened</b> - 193.2<br /><br /><b>Measurement Time Details:</b><br />Original: 9:28 (Minutes:Seconds within Measurement Window)<br />Padded String: \u!eI#x57*6X6$ 9:28 hdCxb|d}aScgg"<br />SHA256 of Padded String: b25342092ee8e9c76a30e91f48a6068c945ea8d21535dbaa64e87423a33b8e0f<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - CASs farms Green Valley<br />ENL - CCS Art Centre<br />ENL - Cohn Building<br />ENL - Creeper Statue<br />ENL - Dauris Jackson<br />ENL - DeRoy Hall Wayne State University<br />ENL - Detroit Public Library<br />ENL - Dia Sculpture<br />ENL - Ferry Mall Sculpture<br />ENL - Hayes Home<br />ENL - Hellenic Museum of Michigan<br />ENL - Historical Thompson home<br />ENL - I'm Thinking<br />ENL - Invisible Doors Sculpture<br />ENL - Legends Plaza<br />ENL - Madonna and Child<br />ENL - Manoogian Visual Resource Cent<br />ENL - Pi Kappa Alpha<br />ENL - Robert P. Scherer Historical Site<br />ENL - Science Hall<br />ENL - Sculpture of Urban Living<br />ENL - Seat Statue<br />ENL - Stone with Iron Sheet<br />ENL - The Bronx<br />ENL - The Philosopher<br />ENL - Warrior Demonstration Garden<br />ENL - Wayne State Fountain<br />ENL - Wsu Anthropology Museum<br />ENL - Yamasaki Reflecting Pool At Wayne State University<br />ENL [Vol] - Art Center Garden Park<br />ENL [Vol] - Detroit Institute of Arts Outd<br />ENL [Vol] - General Anthony Wayne<br />ENL [Vol] - Rodin's "The Thinker"<br />NEU - Cass Cafe<br />NEU - CCS Sculpture<br />NEU - Chair of Steel<br />NEU - City Bird at the Canfield Lofts<br />NEU - Dancing Artists<br />NEU - David Adamany Undergraduate Li<br />NEU - Detroit Institute of Arts<br />NEU - Detroit Public Library<br />NEU - Engineering Society<br />NEU - Exploration<br />NEU - Gettin' Buggie in Detroit<br />NEU - Greek Rock<br />NEU - Hall of Mirrors<br />NEU - Hip Kitty Sculpture<br />NEU - Lewis College Of Business<br />NEU - Limb-less Larry<br />NEU - Max J. Pincus Court<br />NEU - Nuts and Bolts<br />NEU - Old Main Wayne State University<br />NEU - Rackham Educational Memorial<br />NEU - Richard Library<br />NEU - Sculpture of Fitness<br />NEU - Standing Steel Statue<br />NEU - Star Gazer<br />NEU - Swirl of Steel<br />NEU - Two lines Oblique Down, Variation III<br />NEU - Wheels of Time<br />NEU [Vol] - Michigan Science Center<br />RES - Blossom Sundial<br />RES - Cathedral Church of St. Paul<br />RES - Charles H. Wright Museum of African American History<br />RES - Charles Lang Freer House<br />RES - Cool Beanstalks in Detroit<br />RES - Detroit Clock<br />RES - Detroit Film Theater<br />RES - Detroit Historical Museum<br />RES - DIA Fountain<br />RES - Elaine L Jacob Gallery<br />RES - First Unitarian Universalist Church of Detroit<br />RES - Genealogy<br />RES - Hilberry Theater<br />RES - Historic Linsell House<br />RES - Horse Le Cheval Majeur<br />RES - Hudsons Art Park<br />RES - In Lieu<br />RES - Mackenzie House<br />RES - Max Jacob House<br />RES - MLK Wall Mural<br />RES - Motor City Brewing Works &amp; Winery<br />RES - Path of Lights<br />RES - Patterns of Detroit<br />RES - Rackham Hall Sculpture<br />RES - Royal Danish Consulate<br />RES - Sentinel No. 2<br />RES - Six Stone Seats<br />RES - Whichever Way You go<br />RES - Winter Flower<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Baltimore - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 67 to 14.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 53.<br /><br />Portals Owned - <b>RES:</b> 17 - ENL: 14 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 5 - ENL: 0 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 67 - Enlightened - 14<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 67 - Enlightened - 14<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - "Marcy's Tree"<br />ENL - "Untitled Sculpture" at the Maryland Science Center<br />ENL - 30 ft Violin<br />ENL - Admiral Guillermo Brown<br />ENL - Baltimore Aquarium<br />ENL - Baltimore Bicentennial Time Capsule<br />ENL - Baltimore's Pride Memorial<br />ENL - Federal Hill Cannon<br />ENL - Focused Sound<br />ENL - Gwynns Falls Trail - The Olmsted Legacy<br />ENL - Major General Samuel Smith<br />ENL - Maryland Science Center<br />ENL - The Attack at Dawn Mural<br />ENL - The Lutheran Center at Christ Church<br />NEU - Baltimore's Maritime Heritage<br />NEU - Cannon atop Federal Hill<br />NEU - Carousel<br />NEU - Christ Lutheran Church<br />NEU - Christ Lutheran Steeple<br />NEU - Fort Lookout Gazebo<br />NEU - Good Samaritan Quilt Plaza<br />NEU - Hand stuck in wall?<br />NEU - LOVE<br />NEU - The Chesapeake Bay Critical Area Program Plaque<br />NEU - U Shaped Structure<br />RES - A History of Firsts<br />RES - American Visionary Art Museum<br />RES - Captain John Smith National Historic Trail<br />RES - Col. Geo. Armistead<br />RES - Generating Electricity<br />RES - Kurt L Schmoke Plaque<br />RES - Mosaic Bus<br />RES - O Say Can You See<br />RES - Oriental Statue<br />RES - Oval Fountain<br />RES - Pride of Baltimore<br />RES - Pride of Baltimore Sailing Schedule<br />RES - Ripley Dragon<br />RES - Stone Maze<br />RES - The Great Baltimore Fire<br />RES - USA - MD - Baltimore. Inner Ha<br />RES - William Donald Schaefer Statue<br />RES [Vol] - Harry D. Kaufman Pavilion<br />RES [Vol] - Inner Harbor Baltimore<br />RES [Vol] - Joseph H. Rash Memorial Park<br />RES [Vol] - Stone Penguin<br />RES [Vol] - Walter Sondheim Fountain<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Indianapolis - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 64 to 22.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 42.<br /><br />Portals Owned - <b>RES:</b> 31 - ENL: 12 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 1 - [Value: 10 each]<br />Links Created - <b>RES:</b> 1 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 64 - Enlightened - 22<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 64 - Enlightened - 22<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Bulgarian Orthodox Church<br />ENL - Dr. Mirsky Memorial<br />ENL - Greene County<br />ENL - History of Home Comfort Mural<br />ENL - Hobo Stargazer<br />ENL - Home Comfort<br />ENL - Indiana Limestone<br />ENL - Indianapolis NCAA<br />ENL - Recognition of Founding Members<br />ENL - The Covering<br />ENL - Tornado Alley Art<br />ENL - Torso Fragment<br />ENL [Vol] - Cage<br />NEU - Flower Gardens (Vases)<br />NEU - Herron Art<br />NEU - Indiana University School Of M<br />NEU - IUPUI Campus Center<br />NEU - Jones Tabernacle<br />NEU - Joseph and Matthew Payton Philanthropic Studies<br />NEU - Red Locks<br />NEU - Shock &amp; Awe<br />NEU - Tar<br />NEU - The Hut<br />NEU - Thorn Shaped Structure<br />NEU [Vol] - Spiral<br />RES - Adams County<br />RES - ANTS!<br />RES - Art In Death<br />RES - Cultural Arts Gallery<br />RES - Diamond<br />RES - Engineering, Science and Technology Building<br />RES - Gerald L Bepko<br />RES - Gondola<br />RES - Hine Hall and Post Office<br />RES - Indianapolis Brewing Company Site<br />RES - Infinite Circle<br />RES - International Engineering Artifacts<br />RES - Iron Rocket<br />RES - IUPUI Bell Tower<br />RES - IUPUI Globe<br />RES - IUPUI Pierce Geodetic Monument<br />RES - IUPUI Science Building<br />RES - IUPUI Urban Garden<br />RES - Jennings County<br />RES - Johnson County<br />RES - Laporte County<br />RES - Luminary<br />RES - National Art Museum of Sport<br />RES - Point to the Stars<br />RES - Romanian Orthodox Church<br />RES - Steel Riders<br />RES - Torture Art<br />RES - Totem of Questions<br />RES - University Tower<br />RES - Washington County<br />RES - Water Fountain on IUPUI Campus<br />RES [Vol] - Bartholomew County<br />RES [Vol] - Baseball Statue<br />RES [Vol] - Metal Art<br /><br /></div>
+[#### photo: #Helios 06: Summary of Anomaly Conditions at Measurement 1
+Detroit - R:58 - E:193.2
+Baltimore - R:67 - E:14
+Indianapolis - R:64 - E:22
+Total - R:189 - E:229.2
+As #Helios 06 begins, the Enlightened take the lead with a slim 40.2 advantage. The Enlightened dominate Detroit, multiplying their force by leveraging a large Field overhead. However, both Satellite sites, Baltimore and Indianapolis, are currently in firm Resistance grasp. They may, in time, be the fulcrum the Resistance need to capture this Anomaly.
+#Helios: Detroit - Measurement 1 Report
+The Enlightened captured this Measurement, 193.2 to 58.
+The Enlightened currently control this Primary Site, leading by 135.2.
+Portals Owned - RES: 29 - ENL: 29 - [Value: 2 each]
+Volatile Portals Owned - RES: 0 - ENL: 4 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (55.2)]
+Total for this Measurement:
+Resistance - 58 - Enlightened - 193.2
+Total for this Primary Site:
+Resistance - 58 - Enlightened - 193.2
+Measurement Time Details:
+Original: 9:28 (Minutes:Seconds within Measurement Window)
+Padded String: \u!eI#x57*6X6$ 9:28 hdCxb|d}aScgg"
+SHA256 of Padded String: b25342092ee8e9c76a30e91f48a6068c945ea8d21535dbaa64e87423a33b8e0f
+Portal Ownership Details
+ENL - CASs farms Green Valley
+ENL - CCS Art Centre
+ENL - Cohn Building
+ENL - Creeper Statue
+ENL - Dauris Jackson
+ENL - DeRoy Hall Wayne State University
+ENL - Detroit Public Library
+ENL - Dia Sculpture
+ENL - Ferry Mall Sculpture
+ENL - Hayes Home
+ENL - Hellenic Museum of Michigan
+ENL - Historical Thompson home
+ENL - I'm Thinking
+ENL - Invisible Doors Sculpture
+ENL - Legends Plaza
+ENL - Madonna and Child
+ENL - Manoogian Visual Resource Cent
+ENL - Pi Kappa Alpha
+ENL - Robert P. Scherer Historical Site
+ENL - Science Hall
+ENL - Sculpture of Urban Living
+ENL - Seat Statue
+ENL - Stone with Iron Sheet
+ENL - The Bronx
+ENL - The Philosopher
+ENL - Warrior Demonstration Garden
+ENL - Wayne State Fountain
+ENL - Wsu Anthropology Museum
+ENL - Yamasaki Reflecting Pool At Wayne State University
+ENL [Vol] - Art Center Garden Park
+ENL [Vol] - Detroit Institute of Arts Outd
+ENL [Vol] - General Anthony Wayne
+ENL [Vol] - Rodin's "The Thinker"
+NEU - Cass Cafe
+NEU - CCS Sculpture
+NEU - Chair of Steel
+NEU - City Bird at the Canfield Lofts
+NEU - Dancing Artists
+NEU - David Adamany Undergraduate Li
+NEU - Detroit Institute of Arts
+NEU - Detroit Public Library
+NEU - Engineering Society
+NEU - Exploration
+NEU - Gettin' Buggie in Detroit
+NEU - Greek Rock
+NEU - Hall of Mirrors
+NEU - Hip Kitty Sculpture
+NEU - Lewis College Of Business
+NEU - Limb-less Larry
+NEU - Max J. Pincus Court
+NEU - Nuts and Bolts
+NEU - Old Main Wayne State University
+NEU - Rackham Educational Memorial
+NEU - Richard Library
+NEU - Sculpture of Fitness
+NEU - Standing Steel Statue
+NEU - Star Gazer
+NEU - Swirl of Steel
+NEU - Two lines Oblique Down, Variation III
+NEU - Wheels of Time
+NEU [Vol] - Michigan Science Center
+RES - Blossom Sundial
+RES - Cathedral Church of St. Paul
+RES - Charles H. Wright Museum of African American History
+RES - Charles Lang Freer House
+RES - Cool Beanstalks in Detroit
+RES - Detroit Clock
+RES - Detroit Film Theater
+RES - Detroit Historical Museum
+RES - DIA Fountain
+RES - Elaine L Jacob Gallery
+RES - First Unitarian Universalist Church of Detroit
+RES - Genealogy
+RES - Hilberry Theater
+RES - Historic Linsell House
+RES - Horse Le Cheval Majeur
+RES - Hudsons Art Park
+RES - In Lieu
+RES - Mackenzie House
+RES - Max Jacob House
+RES - MLK Wall Mural
+RES - Motor City Brewing Works &amp; Winery
+RES - Path of Lights
+RES - Patterns of Detroit
+RES - Rackham Hall Sculpture
+RES - Royal Danish Consulate
+RES - Sentinel No. 2
+RES - Six Stone Seats
+RES - Whichever Way You go
+RES - Winter Flower
+#Helios: Baltimore - Measurement 1 Report
+The Resistance captured this Measurement, 67 to 14.
+The Resistance currently control this Secondary Site, leading by 53.
+Portals Owned - RES: 17 - ENL: 14 - [Value: 1 each]
+Volatile Portals Owned - RES: 5 - ENL: 0 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 67 - Enlightened - 14
+Total for this Secondary Site:
+Resistance - 67 - Enlightened - 14
+Portal Ownership Details
+ENL - "Marcy's Tree"
+ENL - "Untitled Sculpture" at the Maryland Science Center
+ENL - 30 ft Violin
+ENL - Admiral Guillermo Brown
+ENL - Baltimore Aquarium
+ENL - Baltimore Bicentennial Time Capsule
+ENL - Baltimore's Pride Memorial
+ENL - Federal Hill Cannon
+ENL - Focused Sound
+ENL - Gwynns Falls Trail - The Olmsted Legacy
+ENL - Major General Samuel Smith
+ENL - Maryland Science Center
+ENL - The Attack at Dawn Mural
+ENL - The Lutheran Center at Christ Church
+NEU - Baltimore's Maritime Heritage
+NEU - Cannon atop Federal Hill
+NEU - Carousel
+NEU - Christ Lutheran Church
+NEU - Christ Lutheran Steeple
+NEU - Fort Lookout Gazebo
+NEU - Good Samaritan Quilt Plaza
+NEU - Hand stuck in wall?
+NEU - LOVE
+NEU - The Chesapeake Bay Critical Area Program Plaque
+NEU - U Shaped Structure
+RES - A History of Firsts
+RES - American Visionary Art Museum
+RES - Captain John Smith National Historic Trail
+RES - Col. Geo. Armistead
+RES - Generating Electricity
+RES - Kurt L Schmoke Plaque
+RES - Mosaic Bus
+RES - O Say Can You See
+RES - Oriental Statue
+RES - Oval Fountain
+RES - Pride of Baltimore
+RES - Pride of Baltimore Sailing Schedule
+RES - Ripley Dragon
+RES - Stone Maze
+RES - The Great Baltimore Fire
+RES - USA - MD - Baltimore. Inner Ha
+RES - William Donald Schaefer Statue
+RES [Vol] - Harry D. Kaufman Pavilion
+RES [Vol] - Inner Harbor Baltimore
+RES [Vol] - Joseph H. Rash Memorial Park
+RES [Vol] - Stone Penguin
+RES [Vol] - Walter Sondheim Fountain
+#Helios: Indianapolis - Measurement 1 Report
+The Resistance captured this Measurement, 64 to 22.
+The Resistance currently control this Secondary Site, leading by 42.
+Portals Owned - RES: 31 - ENL: 12 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 1 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 64 - Enlightened - 22
+Total for this Secondary Site:
+Resistance - 64 - Enlightened - 22
+Portal Ownership Details
+ENL - Bulgarian Orthodox Church
+ENL - Dr. Mirsky Memorial
+ENL - Greene County
+ENL - History of Home Comfort Mural
+ENL - Hobo Stargazer
+ENL - Home Comfort
+ENL - Indiana Limestone
+ENL - Indianapolis NCAA
+ENL - Recognition of Founding Members
+ENL - The Covering
+ENL - Tornado Alley Art
+ENL - Torso Fragment
+ENL [Vol] - Cage
+NEU - Flower Gardens (Vases)
+NEU - Herron Art
+NEU - Indiana University School Of M
+NEU - IUPUI Campus Center
+NEU - Jones Tabernacle
+NEU - Joseph and Matthew Payton Philanthropic Studies
+NEU - Red Locks
+NEU - Shock &amp; Awe
+NEU - Tar
+NEU - The Hut
+NEU - Thorn Shaped Structure
+NEU [Vol] - Spiral
+RES - Adams County
+RES - ANTS!
+RES - Art In Death
+RES - Cultural Arts Gallery
+RES - Diamond
+RES - Engineering, Science and Technology Building
+RES - Gerald L Bepko
+RES - Gondola
+RES - Hine Hall and Post Office
+RES - Indianapolis Brewing Company Site
+RES - Infinite Circle
+RES - International Engineering Artifacts
+RES - Iron Rocket
+RES - IUPUI Bell Tower
+RES - IUPUI Globe
+RES - IUPUI Pierce Geodetic Monument
+RES - IUPUI Science Building
+RES - IUPUI Urban Garden
+RES - Jennings County
+RES - Johnson County
+RES - Laporte County
+RES - Luminary
+RES - National Art Museum of Sport
+RES - Point to the Stars
+RES - Romanian Orthodox Church
+RES - Steel Riders
+RES - Torture Art
+RES - Totem of Questions
+RES - University Tower
+RES - Washington County
+RES - Water Fountain on IUPUI Campus
+RES [Vol] - Bartholomew County
+RES [Vol] - Baseball Statue
+RES [Vol] - Metal Art](https://lh6.googleusercontent.com/-5Vrws7qnn3Q/U_jdRar4i4I/AAAAAAAA_no/vLEQt8akwR8/w2683-h1172/PANO_20140823_125919.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/HM8tCB2BaKP](https://plus.google.com/+NianticProject/posts/HM8tCB2BaKP)

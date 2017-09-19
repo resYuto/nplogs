@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2015-04-12 13:21:51 +0900"
+date:   2015-04-12 13:21:51 +0900
+categories: nianticproject
+---
+Most intriguing: A voice from deep in the past. +[Paul School](https://plus.google.com/109763890472937053947 ""), one of Dr. +[Devra Bogdanovich](https://plus.google.com/102598577258553073047 "")'s former colleagues, has emerged into public and is attempting to contact +[Hank Johnson](https://plus.google.com/117792105926525258257 "").
+
+He claims that he has received communication from Bogdanovich herself. It's unclear at this stage whether this 'dialtone' is the same as the messages recovered in the wake of the final Shōnin Anomalies or something unique.
+
+I expect further details will emerge after he and Hank Johnson connect.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1037, :value=>"shared"@1044}], :children=>["<br />", "<h2>Paul School</h2>", "Attention ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " ", "<br />", "<br />", "As you might remember, I worked extensively with ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], " in Arecibo in a search of what we code-named DIALTONE. At the time, we were searching for extra-terrestrial communication. Devra and I made an agreement that we would tell each other if either of us were ultimately successful in achieving dialtone, but never did it occur to me that that communication would come from Devra Bogdanovich herself.  Which leads me to the reason I am breaking my public silence and attempting to contact you (this is the only way I know how to reach you).  An entity contacted me from a Portal through a very strange mechanism, and I believe that communication to have come from Devra. ", "<br />", "<br />", "We need to talk. Please message me.", "<br />", "<br />", "~School", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/W2P31C5DxFa](https://plus.google.com/+NianticProject/posts/W2P31C5DxFa)

@@ -1,0 +1,244 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-27 00:50:05 +0900"
+date:   2014-04-27 00:50:05 +0900
+categories: nianticproject
+---
+[#Interitus](https://plus.google.com/s/%23Interitus "")  02 rests on a razor's edge.
+
+At Measurement 2, the Resistance are ahead by 51, far from a comfortable lead...
+
+If the Enlightened can continue to dominate Stockholm and balance the conditions in Frankfurt or execute a few large field-ops, they may wrest control of the situation on the ground.
+
+With the Primary and Secondary sites in such tight competition, it's Agents across the world, in Cells from Indonesia to South Africa to the United States, who may ultimately be the arbiters of today's outcome.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@636, :value=>"shared"@643}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b> Measurement 2 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " continue to control ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a>", " 02, leading by 51 (466 to 415). ", "<br />", "<br />", "The margin continues to be extremely thin… A single field or high performing measurement, and the Resistance advantage could disappear in a flash.", "<br />", "<br />", "The Enlightened are leveraging Stockholm, where they seem to have a stronger ground presence, to their advantage, while the Resistance are doing the same in Frankfurt. In London, it’s an extraordinarily evenly matched bout.", "<br />", "<br />", "2 Measurements to go. Good luck, Agents. ", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: London - Measurement 2 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " captured this Measurement, 161 to 139.", "<br />", "The ", "<b>Resistance</b>", " currently control this Primary Site, leading by 40.", "<br />", "<br />", "Portals Owned - RES: 28 - ", "<b>ENL:</b>", " 32 - [Value: 2 each]", "<br />", "Volatile Portals Owned - ", "<b>RES:</b>", " 3 - ENL: 2 - [Value: 20 each]", "<br />", "Links Created - ", "<b>RES:</b>", " 9 - ENL: 7 - [Value: 5 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: 100]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "<b>Resistance</b>", " - 161 - Enlightened - 139", "<br />", "<br />", "<b>Total for this Primary Site:</b>", "<br />", "<b>Resistance</b>", " - 266 - Enlightened - 226", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 1:40 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: XwigGdFNeA 1:40 GSIskWzOEHEGYpwZaPeD", "<br />", "MD5 of Padded String: 116e1f091e8a01697afcb62d9f160352", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - Wellington Monument", "<br />", "Resistance - Third Church of Christ, Scientist", "<br />", "Resistance - The Wellington Arch", "<br />", "Resistance - The Royal Parks, Hyde Park", "<br />", "Resistance - The Cavalry and Guards Sculpture", "<br />", "Resistance - Statue of Edward Jenner in The", "<br />", "Resistance - Shepherd Market", "<br />", "Resistance - Serpentine Sackler Gallery", "<br />", "Resistance - Queen Elizabeth Gates", "<br />", "Resistance - Queen Caroline Memorial", "<br />", "Resistance - New Zealand Memorial", "<br />", "Resistance - Nero's Horsed Guardian", "<br />", "Resistance - Lorenzo Quinn sculpture \"Hand ", "<br />", "Resistance - Lancaster gate Hyde park", "<br />", "Resistance - Hyde Park Fountain", "<br />", "Resistance - Hyde Park", "<br />", "Resistance - Horse's Head", "<br />", "Resistance - Green Park Water Fountain", "<br />", "Resistance - Green Park Station", "<br />", "Resistance - Green Park Gates", "<br />", "Resistance - Fountain In Hyde Park", "<br />", "Resistance - Elephant Balancing ", "<br />", "Resistance - Cupid Statue, Hyde Park, Jan 2", "<br />", "Resistance - Bomber Command War Memorial", "<br />", "Resistance - Artillery Memorial", "<br />", "Resistance - Achilles by Richard Westmacott", "<br />", "Resistance - 7/7 Memorial", "<br />", "Resistance - [Untitled]", "<br />", "Resistance - (VOLATILE) - Red Telephone Box", "<br />", "Resistance - (VOLATILE) - Memorial of Henry Purcell", "<br />", "Resistance - (VOLATILE) - Churchill War Rooms", "<br />", "Neutral - Wellington statue, Hyde Park C", "<br />", "Neutral - The Ritz", "<br />", "Neutral - Stone Head", "<br />", "Neutral - Princess Diana Memorial Founta", "<br />", "Neutral - Mermaid", "<br />", "Neutral - Memorial Stone", "<br />", "Neutral - Marble Arch Fountains ", "<br />", "Neutral - Ibis", "<br />", "Neutral - Genghis Khan by Dashi Namdakov", "<br />", "Enlightened - The Reformation Tree", "<br />", "Enlightened - The Quadriga, Wellington Arch,", "<br />", "Enlightened - The memorial pavilion on the G", "<br />", "Enlightened - Taichi Spin Kick, 1991, Ju Min", "<br />", "Enlightened - Statue", "<br />", "Enlightened - Soldier on a pedestal", "<br />", "Enlightened - Silver Bed Memorial Plaque", "<br />", "Enlightened - Serpentine Magazine", "<br />", "Enlightened - Serpentine Lido Clock", "<br />", "Enlightened - Razz's - Wellington Arch Close", "<br />", "Enlightened - Princess Diana Memorial Walk", "<br />", "Enlightened - Mother and Child", "<br />", "Enlightened - Marble Arch", "<br />", "Enlightened - Looking up from Wellington Arc", "<br />", "Enlightened - Hyde Park Shed", "<br />", "Enlightened - Hyde Park in Christmas Fog", "<br />", "Enlightened - Hyde Park Drinking Fountain Globe", "<br />", "Enlightened - Hyde park corner", "<br />", "Enlightened - Hyde park", "<br />", "Enlightened - Hyde Park", "<br />", "Enlightened - Hyde park", "<br />", "Enlightened - Horse Head - Marble Arch", "<br />", "Enlightened - Green Park", "<br />", "Enlightened - Golden Eagle", "<br />", "Enlightened - Giant mirror in Kensington Gar", "<br />", "Enlightened - Fountain in Green Park", "<br />", "Enlightened - Earth Spiral", "<br />", "Enlightened - Duke of Wellington", "<br />", "Enlightened - Christ Church ", "<br />", "Enlightened - Campagne dans Londres pour sau", "<br />", "Enlightened - Buckhill Lodge", "<br />", "Enlightened - Bert Ambrose", "<br />", "Enlightened - (VOLATILE) - St John's Notting Hill Church", "<br />", "Enlightened - (VOLATILE) - John Everett Millais Statue, Tate Britain", "<br />", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: Frankfurt - Measurement 2 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " captured this Measurement, 64 to 23.", "<br />", "The ", "<b>Resistance</b>", " currently control this Secondary Site, leading by 72.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 32 - ENL: 13 - [Value: 1 each]", "<br />", "Volatile Portals Owned - ", "<b>RES:</b>", " 3 - ENL: 1 - [Value: 10 each]", "<br />", "Links Created - ", "<b>RES:</b>", " 1 - ENL: 0 - [Value: 2 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: 50]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "<b>Resistance</b>", " - 64 - Enlightened - 23", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "<b>Resistance</b>", " - 139 - Enlightened - 67", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 1:40 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: XwigGdFNeA 1:40 GSIskWzOEHEGYpwZaPeD", "<br />", "MD5 of Padded String: 116e1f091e8a01697afcb62d9f160352", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - The Missing Piece", "<br />", "Resistance - Street Art Kleinmarkthalle", "<br />", "Resistance - Stolze Museum Frankfurt ", "<br />", "Resistance - Stoltze Brunnen", "<br />", "Resistance - Steigenberger Frankfurter Hof", "<br />", "Resistance - Statue von R. Kipp", "<br />", "Resistance - Römische Figur an der Wand", "<br />", "Resistance - Platz der alten Hauptsynagoge Frankfurt", "<br />", "Resistance - Partner Cities", "<br />", "Resistance - Otto Hahn Geburtshaus", "<br />", "Resistance - Orange Angry Lady", "<br />", "Resistance - Modulor Skulptur Alte Hauptwac", "<br />", "Resistance - Metallsäulen", "<br />", "Resistance - Main Tower", "<br />", "Resistance - Liebfrauenkirche", "<br />", "Resistance - Heine Denkmal 1913 ", "<br />", "Resistance - Hauptwache", "<br />", "Resistance - Grandpa Goethe", "<br />", "Resistance - Grabstein Liegende Frau", "<br />", "Resistance - Goethe Statue", "<br />", "Resistance - Goethe Haus", "<br />", "Resistance - Gedenksteine", "<br />", "Resistance - Frau mit Obstteller", "<br />", "Resistance - Figur an der Wand", "<br />", "Resistance - Figur 1961", "<br />", "Resistance - Euro", "<br />", "Resistance - Ein Haus fuer Goethe", "<br />", "Resistance - Die Diagonale", "<br />", "Resistance - Denkmal für das 2te Nassauische Feldartillerieregiment", "<br />", "Resistance - Commerzbank", "<br />", "Resistance - Bunte Träger", "<br />", "Resistance - Beethoven-Denkmal", "<br />", "Resistance - (VOLATILE) - Stele 1984", "<br />", "Resistance - (VOLATILE) - Skyline Garden", "<br />", "Resistance - (VOLATILE) - Ring der Statuen", "<br />", "Neutral - Stadtmauer Frankfurt", "<br />", "Neutral - Marshall-Brunnen", "<br />", "Neutral - Denkmal für Jakob Guiollett", "<br />", "Neutral - Denkmal für die Opfer des WW2", "<br />", "Neutral - (VOLATILE) - Kuhherde", "<br />", "Enlightened - Tugendbrunnen", "<br />", "Enlightened - Stolpersteine Zuntz", "<br />", "Enlightened - Stella von Baltasar Logo", "<br />", "Enlightened - Solar Eclipse", "<br />", "Enlightened - Skulptur Notenschlüssel", "<br />", "Enlightened - Schillerdenkmal, Taunusanlage", "<br />", "Enlightened - Liebfrauenbrunnen", "<br />", "Enlightened - Katherinenkirche", "<br />", "Enlightened - Kaiserplatzbrunnen", "<br />", "Enlightened - Frankfurt am Main, Roßmarkt", "<br />", "Enlightened - Brunnen mit Löwenköpfen", "<br />", "Enlightened - Birmingham Pub ", "<br />", "Enlightened - Aufforderung", "<br />", "Enlightened - (VOLATILE) - Immanuelkirche", "<br />", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: Stockholm - Measurement 2 Report</b>", "<br />", "<br />", "The ", "<b>Enlightened</b>", " captured this Measurement, 66 to 37.", "<br />", "The ", "<b>Enlightened</b>", " currently control this Secondary Site, leading by 61.", "<br />", "<br />", "Portals Owned - RES: 15 - ", "<b>ENL:</b>", " 18 - [Value: 1 each]", "<br />", "Volatile Portals Owned - RES: 1 - ", "<b>ENL:</b>", " 3 - [Value: 10 each]", "<br />", "Links Created - RES: 6 - ", "<b>ENL:</b>", " 9 - [Value: 2 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: 50]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "Resistance - 37 - ", "<b>Enlightened</b>", " - 66", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "Resistance - 61 - ", "<b>Enlightened</b>", " - 122", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 1:40 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: XwigGdFNeA 1:40 GSIskWzOEHEGYpwZaPeD", "<br />", "MD5 of Padded String: 116e1f091e8a01697afcb62d9f160352", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - Yxman", "<br />", "Resistance - Violinisten", "<br />", "Resistance - Stylish Bird", "<br />", "Resistance - Smed Med Svärd", "<br />", "Resistance - Skulptur, Norrmälarstrand", "<br />", "Resistance - Samling", "<br />", "Resistance - Rålambshovsparken", "<br />", "Resistance - Posten Fridhemsplan", "<br />", "Resistance - Pontonjärparken", "<br />", "Resistance - Organisk Form (1971)", "<br />", "Resistance - Old Broken Clock ", "<br />", "Resistance - Löwenbrau", "<br />", "Resistance - Husets Historia Norr Mälarstrand 52", "<br />", "Resistance - Dyrkar Kvinnan i Mitten", "<br />", "Resistance - Allmänt Läroverk", "<br />", "Resistance - (VOLATILE) - Rainbow Statue, Lindhagensplan 1", "<br />", "Neutral - Välkommen till Parklek Rålis", "<br />", "Neutral - Stockholms läns landsting", "<br />", "Neutral - Large Propeller", "<br />", "Neutral - Kungsholmens Brandstation", "<br />", "Neutral - Kungl. Livgardet Till Häst (1793-1811)", "<br />", "Neutral - Drottningholmsvägen Flames", "<br />", "Neutral - Betong Fåtölj", "<br />", "Neutral - (VOLATILE) - Handstående", "<br />", "Enlightened - Vesslan", "<br />", "Enlightened - Tufsen", "<br />", "Enlightened - Strandpromenaden", "<br />", "Enlightened - Stone Throne", "<br />", "Enlightened - Spänner", "<br />", "Enlightened - Sappörer Och Pontonjärer", "<br />", "Enlightened - Salt", "<br />", "Enlightened - Riksväg 2000", "<br />", "Enlightened - Rålis Bouldering", "<br />", "Enlightened - Pojke med ostron", "<br />", "Enlightened - Mosaicstatue and Ponies", "<br />", "Enlightened - Large Anchor", "<br />", "Enlightened - Gosse Med Urna (1942)", "<br />", "Enlightened - Fiskarflickan ", "<br />", "Enlightened - Fabeldjur", "<br />", "Enlightened - Draken", "<br />", "Enlightened - Dansande Par ", "<br />", "Enlightened - Bladstruktur", "<br />", "Enlightened - (VOLATILE) - Språnget", "<br />", "Enlightened - (VOLATILE) - Smalspårig Växel", "<br />", "Enlightened - (VOLATILE) - Moby Dick by Johan Paalzow", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108462754762987760008\" oid=\"108462754762987760008\">Andreas Simonowski</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Interitus Measurement 2 Report
+The Resistance continue to control #Interitus 02, leading by 51 (466 to 415).
+The margin continues to be extremely thin… A single field or high performing measurement, and the Resistance advantage could disappear in a flash.
+The Enlightened are leveraging Stockholm, where they seem to have a stronger ground presence, to their advantage, while the Resistance are doing the same in Frankfurt. In London, it’s an extraordinarily evenly matched bout.
+2 Measurements to go. Good luck, Agents.
+#Interitus: London - Measurement 2 Report
+The Resistance captured this Measurement, 161 to 139.
+The Resistance currently control this Primary Site, leading by 40.
+Portals Owned - RES: 28 - ENL: 32 - [Value: 2 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 20 each]
+Links Created - RES: 9 - ENL: 7 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: 100]
+Total for this Measurement:
+Resistance - 161 - Enlightened - 139
+Total for this Primary Site:
+Resistance - 266 - Enlightened - 226
+Measurement Time Details:
+Original: 1:40 (Minutes:Seconds within Measurement Window)
+Padded String: XwigGdFNeA 1:40 GSIskWzOEHEGYpwZaPeD
+MD5 of Padded String: 116e1f091e8a01697afcb62d9f160352
+Portal Ownership Details
+Resistance - Wellington Monument
+Resistance - Third Church of Christ, Scientist
+Resistance - The Wellington Arch
+Resistance - The Royal Parks, Hyde Park
+Resistance - The Cavalry and Guards Sculpture
+Resistance - Statue of Edward Jenner in The
+Resistance - Shepherd Market
+Resistance - Serpentine Sackler Gallery
+Resistance - Queen Elizabeth Gates
+Resistance - Queen Caroline Memorial
+Resistance - New Zealand Memorial
+Resistance - Nero's Horsed Guardian
+Resistance - Lorenzo Quinn sculpture "Hand
+Resistance - Lancaster gate Hyde park
+Resistance - Hyde Park Fountain
+Resistance - Hyde Park
+Resistance - Horse's Head
+Resistance - Green Park Water Fountain
+Resistance - Green Park Station
+Resistance - Green Park Gates
+Resistance - Fountain In Hyde Park
+Resistance - Elephant Balancing
+Resistance - Cupid Statue, Hyde Park, Jan 2
+Resistance - Bomber Command War Memorial
+Resistance - Artillery Memorial
+Resistance - Achilles by Richard Westmacott
+Resistance - 7/7 Memorial
+Resistance - [Untitled]
+Resistance - (VOLATILE) - Red Telephone Box
+Resistance - (VOLATILE) - Memorial of Henry Purcell
+Resistance - (VOLATILE) - Churchill War Rooms
+Neutral - Wellington statue, Hyde Park C
+Neutral - The Ritz
+Neutral - Stone Head
+Neutral - Princess Diana Memorial Founta
+Neutral - Mermaid
+Neutral - Memorial Stone
+Neutral - Marble Arch Fountains
+Neutral - Ibis
+Neutral - Genghis Khan by Dashi Namdakov
+Enlightened - The Reformation Tree
+Enlightened - The Quadriga, Wellington Arch,
+Enlightened - The memorial pavilion on the G
+Enlightened - Taichi Spin Kick, 1991, Ju Min
+Enlightened - Statue
+Enlightened - Soldier on a pedestal
+Enlightened - Silver Bed Memorial Plaque
+Enlightened - Serpentine Magazine
+Enlightened - Serpentine Lido Clock
+Enlightened - Razz's - Wellington Arch Close
+Enlightened - Princess Diana Memorial Walk
+Enlightened - Mother and Child
+Enlightened - Marble Arch
+Enlightened - Looking up from Wellington Arc
+Enlightened - Hyde Park Shed
+Enlightened - Hyde Park in Christmas Fog
+Enlightened - Hyde Park Drinking Fountain Globe
+Enlightened - Hyde park corner
+Enlightened - Hyde park
+Enlightened - Hyde Park
+Enlightened - Hyde park
+Enlightened - Horse Head - Marble Arch
+Enlightened - Green Park
+Enlightened - Golden Eagle
+Enlightened - Giant mirror in Kensington Gar
+Enlightened - Fountain in Green Park
+Enlightened - Earth Spiral
+Enlightened - Duke of Wellington
+Enlightened - Christ Church
+Enlightened - Campagne dans Londres pour sau
+Enlightened - Buckhill Lodge
+Enlightened - Bert Ambrose
+Enlightened - (VOLATILE) - St John's Notting Hill Church
+Enlightened - (VOLATILE) - John Everett Millais Statue, Tate Britain
+#Interitus: Frankfurt - Measurement 2 Report
+The Resistance captured this Measurement, 64 to 23.
+The Resistance currently control this Secondary Site, leading by 72.
+Portals Owned - RES: 32 - ENL: 13 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 1 - ENL: 0 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: 50]
+Total for this Measurement:
+Resistance - 64 - Enlightened - 23
+Total for this Secondary Site:
+Resistance - 139 - Enlightened - 67
+Measurement Time Details:
+Original: 1:40 (Minutes:Seconds within Measurement Window)
+Padded String: XwigGdFNeA 1:40 GSIskWzOEHEGYpwZaPeD
+MD5 of Padded String: 116e1f091e8a01697afcb62d9f160352
+Portal Ownership Details
+Resistance - The Missing Piece
+Resistance - Street Art Kleinmarkthalle
+Resistance - Stolze Museum Frankfurt
+Resistance - Stoltze Brunnen
+Resistance - Steigenberger Frankfurter Hof
+Resistance - Statue von R. Kipp
+Resistance - Römische Figur an der Wand
+Resistance - Platz der alten Hauptsynagoge Frankfurt
+Resistance - Partner Cities
+Resistance - Otto Hahn Geburtshaus
+Resistance - Orange Angry Lady
+Resistance - Modulor Skulptur Alte Hauptwac
+Resistance - Metallsäulen
+Resistance - Main Tower
+Resistance - Liebfrauenkirche
+Resistance - Heine Denkmal 1913
+Resistance - Hauptwache
+Resistance - Grandpa Goethe
+Resistance - Grabstein Liegende Frau
+Resistance - Goethe Statue
+Resistance - Goethe Haus
+Resistance - Gedenksteine
+Resistance - Frau mit Obstteller
+Resistance - Figur an der Wand
+Resistance - Figur 1961
+Resistance - Euro
+Resistance - Ein Haus fuer Goethe
+Resistance - Die Diagonale
+Resistance - Denkmal für das 2te Nassauische Feldartillerieregiment
+Resistance - Commerzbank
+Resistance - Bunte Träger
+Resistance - Beethoven-Denkmal
+Resistance - (VOLATILE) - Stele 1984
+Resistance - (VOLATILE) - Skyline Garden
+Resistance - (VOLATILE) - Ring der Statuen
+Neutral - Stadtmauer Frankfurt
+Neutral - Marshall-Brunnen
+Neutral - Denkmal für Jakob Guiollett
+Neutral - Denkmal für die Opfer des WW2
+Neutral - (VOLATILE) - Kuhherde
+Enlightened - Tugendbrunnen
+Enlightened - Stolpersteine Zuntz
+Enlightened - Stella von Baltasar Logo
+Enlightened - Solar Eclipse
+Enlightened - Skulptur Notenschlüssel
+Enlightened - Schillerdenkmal, Taunusanlage
+Enlightened - Liebfrauenbrunnen
+Enlightened - Katherinenkirche
+Enlightened - Kaiserplatzbrunnen
+Enlightened - Frankfurt am Main, Roßmarkt
+Enlightened - Brunnen mit Löwenköpfen
+Enlightened - Birmingham Pub
+Enlightened - Aufforderung
+Enlightened - (VOLATILE) - Immanuelkirche
+#Interitus: Stockholm - Measurement 2 Report
+The Enlightened captured this Measurement, 66 to 37.
+The Enlightened currently control this Secondary Site, leading by 61.
+Portals Owned - RES: 15 - ENL: 18 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 6 - ENL: 9 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: 50]
+Total for this Measurement:
+Resistance - 37 - Enlightened - 66
+Total for this Secondary Site:
+Resistance - 61 - Enlightened - 122
+Measurement Time Details:
+Original: 1:40 (Minutes:Seconds within Measurement Window)
+Padded String: XwigGdFNeA 1:40 GSIskWzOEHEGYpwZaPeD
+MD5 of Padded String: 116e1f091e8a01697afcb62d9f160352
+Portal Ownership Details
+Resistance - Yxman
+Resistance - Violinisten
+Resistance - Stylish Bird
+Resistance - Smed Med Svärd
+Resistance - Skulptur, Norrmälarstrand
+Resistance - Samling
+Resistance - Rålambshovsparken
+Resistance - Posten Fridhemsplan
+Resistance - Pontonjärparken
+Resistance - Organisk Form (1971)
+Resistance - Old Broken Clock
+Resistance - Löwenbrau
+Resistance - Husets Historia Norr Mälarstrand 52
+Resistance - Dyrkar Kvinnan i Mitten
+Resistance - Allmänt Läroverk
+Resistance - (VOLATILE) - Rainbow Statue, Lindhagensplan 1
+Neutral - Välkommen till Parklek Rålis
+Neutral - Stockholms läns landsting
+Neutral - Large Propeller
+Neutral - Kungsholmens Brandstation
+Neutral - Kungl. Livgardet Till Häst (1793-1811)
+Neutral - Drottningholmsvägen Flames
+Neutral - Betong Fåtölj
+Neutral - (VOLATILE) - Handstående
+Enlightened - Vesslan
+Enlightened - Tufsen
+Enlightened - Strandpromenaden
+Enlightened - Stone Throne
+Enlightened - Spänner
+Enlightened - Sappörer Och Pontonjärer
+Enlightened - Salt
+Enlightened - Riksväg 2000
+Enlightened - Rålis Bouldering
+Enlightened - Pojke med ostron
+Enlightened - Mosaicstatue and Ponies
+Enlightened - Large Anchor
+Enlightened - Gosse Med Urna (1942)
+Enlightened - Fiskarflickan
+Enlightened - Fabeldjur
+Enlightened - Draken
+Enlightened - Dansande Par
+Enlightened - Bladstruktur
+Enlightened - (VOLATILE) - Språnget
+Enlightened - (VOLATILE) - Smalspårig Växel
+Enlightened - (VOLATILE) - Moby Dick by Johan Paalzow
+Photo by Agent +Andreas Simonowski ](https://lh6.googleusercontent.com/-CXjzRTCYgpg/U1u-2wSftlI/AAAAAAAAs4E/PnhtRc76h4g/w2048-h1632/andreas_tag_ff.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ZKcQwMbnG6v](https://plus.google.com/+NianticProject/posts/ZKcQwMbnG6v)

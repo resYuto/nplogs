@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Niantic Project: 2014-11-21 14:15:46 +0900"
+date:   2014-11-21 14:15:46 +0900
+categories: nianticproject
+---
+PAC weighs in on some of the recent events.  As always, he has some good insights and raises some interesting questions.  
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@136, :value=>"shared"@143}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "So is this the pause before the storm?  Devra either submits to Ni and Hulong or... or what?  Where does she go? What does she do?  Meanwhile, Hank is quiet. Don't blame him. Kinetic action has turned into multipronged urban manhunt with local police and quite possibly Indian intelligence involved.  I wouldn't be chatty either.", "<br />", "<br />", "Have to say that I'd love to see the sniper cage match that seems to be lining up... Antoine Smith vs Claudia Glas.  Azmati loses his home field advantage. Lorazon getting his hands dirty.  Not sure who wins. If only their bosses would unshackle them.  By the way, who is Smith's boss?", "<br />", "<br />", "Meanwhile...  Keep looking for more Klue/Ada drops.  Places associated with them.  And I think I'm detecting a pattern.  The finding of one drop leads to another.  I'm very interested in their communications -- especially given that they involve me. Call me a narcissist.  ", "<br />", "<br />", "And I don't know whether you saw it. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110121765906623349320\" oid=\"110121765906623349320\">Oliver Lynton-Wolfe</a>"], " is looking for an apartment. That's hilarious.  What's not funny is that he seems to be telling us that he's going to be working for ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115880454950193571355\" oid=\"115880454950193571355\">Visur Technology</a>"], ".  Not a great sign.  ", "<br />", "<br />", "As I said, this feels like the calm before the storm.  What happens when the storm breaks?", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/SnaExCmy59D](https://plus.google.com/+NianticProject/posts/SnaExCmy59D)

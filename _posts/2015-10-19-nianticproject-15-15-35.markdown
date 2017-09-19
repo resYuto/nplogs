@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2015-10-19 15:15:35 +0900"
+date:   2015-10-19 15:15:35 +0900
+categories: nianticproject
+---
+*"I'm sensing changes. Changes in the way the future is perceived. Changes in the way technology is perceived. A new awareness of the edge of our reality being something... porous.*
+
+*Is this just me or do you sense something too?"*
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@262, :value=>"shared"@269}], :children=>["<br />", "<h2>Klue S.</h2>", "Colour me surprised me that ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107293393622139455503\" oid=\"107293393622139455503\">Society for the Ethical Treatment of AIs</a>"], " hasn't posted this yet.", "<br />", "<br />", "I strongly suspect that the main-streaming of these new and increasingly complex forms of AI is part of a cultural shift being caused by the N'zeer.", "<br />", "<br />", "I have no way to prove this, call it a feeling.", "<br />", "<br />", "It's not just in the scientific world either, even within culture, I'm sensing changes. Changes in the way the future is perceived. Changes in the way technology is perceived. A new awareness of the edge of our reality being something... porous.", "<br />", "<br />", "Is this just me or do you sense something too?", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/XA6jrs73JrD](https://plus.google.com/+NianticProject/posts/XA6jrs73JrD)

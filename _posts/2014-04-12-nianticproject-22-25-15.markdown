@@ -1,0 +1,211 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-12 22:25:15 +0900"
+date:   2014-04-12 22:25:15 +0900
+categories: nianticproject
+---
+[#Interitus](https://plus.google.com/s/%23Interitus "")  01
+
+Measurement 2 Report
+
+The Resistance gain ground and take the lead from the Enlightened.  However, the Enlightened have an opportunity to take a stand in Amsterdam if they can wrestle away the Resistance stronghold.
+
+Midpoint check.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> - AMSTERDAM - Measurement 2 Report</b><br /><br />The Resistance establish a Megafield that covers both Amsterdam and Glasgow. Enlightened Agents have jumped to COMM to reach out to Agents who can help neutralize the Field before the next Measurement.<br /><br /><b>Total for Resistance this Anomaly = 579</b><br />Total for Enlightened this Anomaly = 500<br /><br /><b>The Resistance owned 2 Volatile Portals and 47 Non-Volatile Portals</b><br />The Enlightened owned 3 Volatile Portals and 14 Non-Volatile Portals<br /><br /><b>A Resistance Field covered all the Portals in this Cluster (100)</b><br /><br /><b>Total for Resistance this Measurement = 234</b><br />Total for Enlightened this Measurement = 88<br /><br /><b>Total for Resistance this Anomaly = 387</b><br />Total for Enlightened this Anomaly = 100<br /><br /><b>Measurement Time Details:</b><br />Original: 2:41 (Minutes:Seconds past the hour)<br />Padded: J 2:41 StRkTylFqIqIiAUhlEHxwbIsxzhvB<br />MD5 of Padded String: 22a9c97a91461530bd03f3f60308007d<br /><br /><b>Portal Ownership Details:</b><br />Droombeeld (1965) - Cephas Stauthamer (VOLATILE) - Enlightened<br />Dam Square (VOLATILE) - Enlightened<br />Rustende Tuinman (1938) - Jan Havermans (VOLATILE) - Enlightened<br />Jordaanoproer (VOLATILE) - Resistance<br />De Ratelaar (VOLATILE) - Resistance<br />D'VERGULDE DOLFYN - Enlightened<br />Ams, West - Separated - Unknown Artist - Enlightened<br />het wapen van Schagen - Enlightened<br />De Kerk Kroon - Enlightened<br />DE SAAYER 1752 - Enlightened<br />The Moon over Amsterdam  - Enlightened<br />Energie En Tijd, 1962, Hans Verhulst - Enlightened<br />Bloemgracht, 34 - Stone Table - Enlightened<br />"Masks"  - Enlightened<br />LG - Kanesch - Enlightened<br />Mateloos Verlangen - Enlightened<br />Turkish Poort - Enlightened<br />Homomonument Stairs - Enlightened<br />Scissor Scissor on the Wall - Enlightened<br />Hanging Snake Mural - Neutral<br />Hare Street  - Neutral<br />De Vis Kooper  - Neutral<br />Oscar A'la Anne - Neutral<br />De Hoop - Resistance<br />Stedelijk Museum Bureau  - Resistance<br />The Steel Workers - Resistance<br />Headless Musician, Marnix Park - Resistance<br />Art at Policestation - Resistance<br />Bolwerk Reijkeroordt/Youth Produxtion House 'fusion' - Resistance<br />Church-Like Architecture  - Resistance<br />Gouden Leeuw - Resistance<br />Roothaan - Resistance<br />De 2 Krant Bargen - Resistance<br />De Witte Valk - Resistance<br />Antiekmarkt De Looier 2 - Resistance<br />Classic Stain Glass  - Resistance<br />Het Groene Wout - Resistance<br />De Gekroonde Waterhond 1732 - Resistance<br />Twee Gebroeders - Resistance<br />D PELLECAEN - Resistance<br />Rooie Nelis - Resistance<br />The Lutheran Preacher - Resistance<br />Anne Frank Statue - Resistance<br />The Architect  - Resistance<br />The Westertoren - Resistance<br />Church - Resistance<br />St Chrispin  - Resistance<br />Rozenhofje - Resistance<br />Felix Meritis  - Resistance<br />Jakobs Droom - Resistance<br />Man with Cat - Resistance<br />Goyse Boer - Resistance<br />Ninja - Resistance<br />Yder Zyn Zin 1787 - Resistance<br />Johnny Jordaanplein, Elandsgra - Resistance<br />Batenburg - Resistance<br />LG - Groen Monster  - Resistance<br />Feed Him - Resistance<br />Love's the Fundament - Resistance<br />De Schaaf En Krul  - Resistance<br />The Key - Resistance<br />Remember Who You Are - Resistance<br />Horse Statue - Resistance<br />Over NES - Resistance<br />Ams, Centrum - Naatje  - Resistance<br />It Must be Art - Resistance<br />Homomonument, Westermarkt - Resistance<br />Casteel van Malaga  - Resistance<br />Edison - Resistance<br />Together - Resistance<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> - MALAGA - Measurement 2 Report</b><br /><br />The Resistance owned 1 Volatile Portals and 6 Non-Volatile Portals<br /><b>The Enlightened owned 4 Volatile Portals and 19 Non-Volatile Portals</b><br /><br />The Resistance had 1 Link standing at Measurement Time<br /><b>The Enlightened had 14 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 18<br /><b>Total for Enlightened this Measurement = 87</b><br /><br />Total for Resistance this Anomaly = 37<br /><b>Total for Enlightened this Anomaly = 191</b><br /><br /><b>Portal Ownership Details:</b><br />Alcazaba de Málaga (VOLATILE) - Enlightened<br />Plaza Lex Flavia (VOLATILE) - Enlightened<br />Convento De Las Adoratrices (VOLATILE) - Enlightened<br />fuente de olletas (VOLATILE) - Enlightened<br />Santuario de la Victoria (VOLATILE) - Resistance<br />Teatro Echegaray - Enlightened<br />Cerise Graffiti Art - Enlightened<br />Estatua Miguel de los Reyes  - Enlightened<br />Bodega Bar El Pimpi - Enlightened<br />Jardín de los Monos, estatuas  - Enlightened<br />The Citadel of Malaga - Enlightened<br />Museo Picasso - Enlightened<br />Teatro Cervantes - Enlightened<br />Plaza de la Merced - Enlightened<br />Iglesia del Convento de San Ag - Enlightened<br />Iglesia de Santiago - Enlightened<br />Musician and Dancer - Enlightened<br />La Biblioteca - Enlightened<br />Cofradía De La Columna - Enlightened<br />Museo Interactivo De Musica De Malaga  - Enlightened<br />Cine Albéniz - Enlightened<br />Estatua Pablo Picasso - Enlightened<br />Vistas Alcazaba De Málaga - Enlightened<br />Galeria De Arte Benedito - Enlightened<br />Cristo - Neutral<br />Fuente entre cruce Calle Grana - Neutral<br />Teatro Romano - Neutral<br />Palacio De La Aduana - Neutral<br />Statue of Juan Temboury Alvare - Neutral<br />Torre De San Agustín - Neutral<br />San Marcelino - Neutral<br />Fuente de pescador - Neutral<br />Torre De La Bóveda Vaida - Neutral<br />Estatua Ben Gabirol - Neutral<br />La Cosmopolita - Neutral<br />Cofradía de Jesús "El Rico" - Neutral<br />Palazzo. Malaga - Neutral<br />Iglesia de San Lázaro - Resistance<br />La Alcazaba - Resistance<br />Casa Montana - Resistance<br />Fundación Picasso - Resistance<br />Graffiti-Girl  - Resistance<br />Teteria El Jamal - Resistance<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> - GLASGOW - Measurement 2 Report</b><br /><br />The Resistance owned 2 Volatile Portals and 14 Non-Volatile Portals<br /><b>The Enlightened owned 3 Volatile Portals and 20 Non-Volatile Portals</b><br /><br /><b>A Resistance Field covered all the Portals in this Cluster (50)</b><br /><br />The Resistance had 16 Links standing at Measurement Time<br /><b>The Enlightened had 19 Links standing at Measurement Time</b><br /><br /><b>Total for Resistance this Measurement = 116</b><br />Total for Enlightened this Measurement = 88<br /><br />Total for Resistance this Anomaly = 155<br /><b>Total for Enlightened this Anomaly = 209</b><br /><br /><b>Portal Ownership Details:</b><br />Chinatown Glasgow (VOLATILE) - Enlightened<br />St George and the Dragon (VOLATILE) - Enlightened<br />Glasgow Sailing Ship (VOLATILE) - Enlightened<br />Saltire Centre (VOLATILE) - Resistance<br />Charing Cross Fountain (VOLATILE) - Resistance<br />Beresford - Enlightened<br />Kings Theatre - Enlightened<br />Glasgow School of Art  - Enlightened<br />Renfield St. Stephens - Enlightened<br />Royal Scottish Automobile Hq - Enlightened<br />The Waves Structures - Enlightened<br />The Henglers Circus  - Enlightened<br />Charing Cross Train Station  - Enlightened<br />Yellow Truck Murial  - Enlightened<br />Wall Mural - Enlightened<br />Rennie Mackintosh Building - Enlightened<br />Scottish Opera - Enlightened<br />Balance Ball - Enlightened<br />Saint Vincent Street Church - Enlightened<br />Centre for Contemporary Art Gallery - Enlightened<br />The ABC Arena - Enlightened<br />The High School  - Enlightened<br />Garage Night Club - Enlightened<br />McLellan Galleries - Enlightened<br />Willow Tea Rooms  - Enlightened<br />1978 Science Mural - Neutral<br />Pyramid - Neutral<br />Royal Highland Fusiliers  - Neutral<br />The Trident Lady - Neutral<br />Glasgow Film Theatre - Neutral<br />Tiki Bar - Resistance<br />Sovereign House - Resistance<br />Sacrum - Resistance<br />St Aloysius Jesuit Chappel - Resistance<br />Charing Cross Mansions - Resistance<br />Royal Glasgow Institute of Fine Arts - Resistance<br />Royal College of Physicians and Surgeons - Resistance<br />Marks Hotel - Resistance<br />King Tut's - Resistance<br />Glasgow City Free Church - Resistance<br />Giant Mozart Head Sculpture - Resistance<br />Glasgow Art Club  - Resistance<br />Metal Fish - Resistance<br />Haldane Building - Resistance<br /><br /></div>
+[#### photo: #Interitus - AMSTERDAM - Measurement 2 Report
+The Resistance establish a Megafield that covers both Amsterdam and Glasgow. Enlightened Agents have jumped to COMM to reach out to Agents who can help neutralize the Field before the next Measurement.
+Total for Resistance this Anomaly = 579
+Total for Enlightened this Anomaly = 500
+The Resistance owned 2 Volatile Portals and 47 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 14 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (100)
+Total for Resistance this Measurement = 234
+Total for Enlightened this Measurement = 88
+Total for Resistance this Anomaly = 387
+Total for Enlightened this Anomaly = 100
+Measurement Time Details:
+Original: 2:41 (Minutes:Seconds past the hour)
+Padded: J 2:41 StRkTylFqIqIiAUhlEHxwbIsxzhvB
+MD5 of Padded String: 22a9c97a91461530bd03f3f60308007d
+Portal Ownership Details:
+Droombeeld (1965) - Cephas Stauthamer (VOLATILE) - Enlightened
+Dam Square (VOLATILE) - Enlightened
+Rustende Tuinman (1938) - Jan Havermans (VOLATILE) - Enlightened
+Jordaanoproer (VOLATILE) - Resistance
+De Ratelaar (VOLATILE) - Resistance
+D'VERGULDE DOLFYN - Enlightened
+Ams, West - Separated - Unknown Artist - Enlightened
+het wapen van Schagen - Enlightened
+De Kerk Kroon - Enlightened
+DE SAAYER 1752 - Enlightened
+The Moon over Amsterdam  - Enlightened
+Energie En Tijd, 1962, Hans Verhulst - Enlightened
+Bloemgracht, 34 - Stone Table - Enlightened
+"Masks"  - Enlightened
+LG - Kanesch - Enlightened
+Mateloos Verlangen - Enlightened
+Turkish Poort - Enlightened
+Homomonument Stairs - Enlightened
+Scissor Scissor on the Wall - Enlightened
+Hanging Snake Mural - Neutral
+Hare Street  - Neutral
+De Vis Kooper  - Neutral
+Oscar A'la Anne - Neutral
+De Hoop - Resistance
+Stedelijk Museum Bureau  - Resistance
+The Steel Workers - Resistance
+Headless Musician, Marnix Park - Resistance
+Art at Policestation - Resistance
+Bolwerk Reijkeroordt/Youth Produxtion House 'fusion' - Resistance
+Church-Like Architecture  - Resistance
+Gouden Leeuw - Resistance
+Roothaan - Resistance
+De 2 Krant Bargen - Resistance
+De Witte Valk - Resistance
+Antiekmarkt De Looier 2 - Resistance
+Classic Stain Glass  - Resistance
+Het Groene Wout - Resistance
+De Gekroonde Waterhond 1732 - Resistance
+Twee Gebroeders - Resistance
+D PELLECAEN - Resistance
+Rooie Nelis - Resistance
+The Lutheran Preacher - Resistance
+Anne Frank Statue - Resistance
+The Architect  - Resistance
+The Westertoren - Resistance
+Church - Resistance
+St Chrispin  - Resistance
+Rozenhofje - Resistance
+Felix Meritis  - Resistance
+Jakobs Droom - Resistance
+Man with Cat - Resistance
+Goyse Boer - Resistance
+Ninja - Resistance
+Yder Zyn Zin 1787 - Resistance
+Johnny Jordaanplein, Elandsgra - Resistance
+Batenburg - Resistance
+LG - Groen Monster  - Resistance
+Feed Him - Resistance
+Love's the Fundament - Resistance
+De Schaaf En Krul  - Resistance
+The Key - Resistance
+Remember Who You Are - Resistance
+Horse Statue - Resistance
+Over NES - Resistance
+Ams, Centrum - Naatje  - Resistance
+It Must be Art - Resistance
+Homomonument, Westermarkt - Resistance
+Casteel van Malaga  - Resistance
+Edison - Resistance
+Together - Resistance
+#Interitus - MALAGA - Measurement 2 Report
+The Resistance owned 1 Volatile Portals and 6 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 19 Non-Volatile Portals
+The Resistance had 1 Link standing at Measurement Time
+The Enlightened had 14 Links standing at Measurement Time
+Total for Resistance this Measurement = 18
+Total for Enlightened this Measurement = 87
+Total for Resistance this Anomaly = 37
+Total for Enlightened this Anomaly = 191
+Portal Ownership Details:
+Alcazaba de Málaga (VOLATILE) - Enlightened
+Plaza Lex Flavia (VOLATILE) - Enlightened
+Convento De Las Adoratrices (VOLATILE) - Enlightened
+fuente de olletas (VOLATILE) - Enlightened
+Santuario de la Victoria (VOLATILE) - Resistance
+Teatro Echegaray - Enlightened
+Cerise Graffiti Art - Enlightened
+Estatua Miguel de los Reyes  - Enlightened
+Bodega Bar El Pimpi - Enlightened
+Jardín de los Monos, estatuas  - Enlightened
+The Citadel of Malaga - Enlightened
+Museo Picasso - Enlightened
+Teatro Cervantes - Enlightened
+Plaza de la Merced - Enlightened
+Iglesia del Convento de San Ag - Enlightened
+Iglesia de Santiago - Enlightened
+Musician and Dancer - Enlightened
+La Biblioteca - Enlightened
+Cofradía De La Columna - Enlightened
+Museo Interactivo De Musica De Malaga  - Enlightened
+Cine Albéniz - Enlightened
+Estatua Pablo Picasso - Enlightened
+Vistas Alcazaba De Málaga - Enlightened
+Galeria De Arte Benedito - Enlightened
+Cristo - Neutral
+Fuente entre cruce Calle Grana - Neutral
+Teatro Romano - Neutral
+Palacio De La Aduana - Neutral
+Statue of Juan Temboury Alvare - Neutral
+Torre De San Agustín - Neutral
+San Marcelino - Neutral
+Fuente de pescador - Neutral
+Torre De La Bóveda Vaida - Neutral
+Estatua Ben Gabirol - Neutral
+La Cosmopolita - Neutral
+Cofradía de Jesús "El Rico" - Neutral
+Palazzo. Malaga - Neutral
+Iglesia de San Lázaro - Resistance
+La Alcazaba - Resistance
+Casa Montana - Resistance
+Fundación Picasso - Resistance
+Graffiti-Girl  - Resistance
+Teteria El Jamal - Resistance
+#Interitus - GLASGOW - Measurement 2 Report
+The Resistance owned 2 Volatile Portals and 14 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 20 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (50)
+The Resistance had 16 Links standing at Measurement Time
+The Enlightened had 19 Links standing at Measurement Time
+Total for Resistance this Measurement = 116
+Total for Enlightened this Measurement = 88
+Total for Resistance this Anomaly = 155
+Total for Enlightened this Anomaly = 209
+Portal Ownership Details:
+Chinatown Glasgow (VOLATILE) - Enlightened
+St George and the Dragon (VOLATILE) - Enlightened
+Glasgow Sailing Ship (VOLATILE) - Enlightened
+Saltire Centre (VOLATILE) - Resistance
+Charing Cross Fountain (VOLATILE) - Resistance
+Beresford - Enlightened
+Kings Theatre - Enlightened
+Glasgow School of Art  - Enlightened
+Renfield St. Stephens - Enlightened
+Royal Scottish Automobile Hq - Enlightened
+The Waves Structures - Enlightened
+The Henglers Circus  - Enlightened
+Charing Cross Train Station  - Enlightened
+Yellow Truck Murial  - Enlightened
+Wall Mural - Enlightened
+Rennie Mackintosh Building - Enlightened
+Scottish Opera - Enlightened
+Balance Ball - Enlightened
+Saint Vincent Street Church - Enlightened
+Centre for Contemporary Art Gallery - Enlightened
+The ABC Arena - Enlightened
+The High School  - Enlightened
+Garage Night Club - Enlightened
+McLellan Galleries - Enlightened
+Willow Tea Rooms  - Enlightened
+1978 Science Mural - Neutral
+Pyramid - Neutral
+Royal Highland Fusiliers  - Neutral
+The Trident Lady - Neutral
+Glasgow Film Theatre - Neutral
+Tiki Bar - Resistance
+Sovereign House - Resistance
+Sacrum - Resistance
+St Aloysius Jesuit Chappel - Resistance
+Charing Cross Mansions - Resistance
+Royal Glasgow Institute of Fine Arts - Resistance
+Royal College of Physicians and Surgeons - Resistance
+Marks Hotel - Resistance
+King Tut's - Resistance
+Glasgow City Free Church - Resistance
+Giant Mozart Head Sculpture - Resistance
+Glasgow Art Club  - Resistance
+Metal Fish - Resistance
+Haldane Building - Resistance](https://lh4.googleusercontent.com/-RUvtPBdLcSs/U0k7c2V7UBI/AAAAAAAAq6Y/UNwAoWzrods/w1440-h1080/IMG_20140412_135144.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Mnqcg8eUZG7](https://plus.google.com/+NianticProject/posts/Mnqcg8eUZG7)

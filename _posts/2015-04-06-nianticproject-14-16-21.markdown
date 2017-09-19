@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-04-06 14:16:21 +0900"
+date:   2015-04-06 14:16:21 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") finds +[Oliver Lynton-Wolfe](https://plus.google.com/108200572857719809031 "")'s apartment in Wünsdorf, but it looks like someone beat him to it...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@479, :value=>"shared"@486}], :children=>["<br />", "<h2>Hank Johnson</h2>", "Found what appeared to be ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108200572857719809031\" oid=\"108200572857719809031\">Oliver Lynton-Wolfe</a>"], "'s apartment in Wünsdorf.  ", "<br />", "<br />", "I say appeared because it seemed more staged to look like he’d been there than he’d actually ever been there. Couldn’t quite put my finger on it, but it was little stuff. ", "<br />", "<br />", "A mess of paperwork on the desk that was just a little too chaotic. A trap I've seen before. The inexperienced operative would see the clutter, assume it's just a thoughtless mess and carelessly move things while examining them. All the while everything's been carefully constructed to reveal the slightest change in the order and placement of items. Signs of a pro. One of ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115880454950193571355\" oid=\"115880454950193571355\">Visur Technology</a>"], "'s ? Maybe...", "<br />", "<br />", "It just didn’t feel right. I can’t prove he was never there, but it didn’t feel right. In any case, if this was once the place where he lived and worked, almost everything that could reveal his research or his current status has been stripped by whoever got here first.  Did I find anything of value? Maybe... not sure if what I found was real or something designed to mislead by whoever staged the place. For now, there's no obvious way to follow up in my hunt for him. Personally, I believe he was impacted the same as the others when the Nest 'exploded' (for lack of a better term). A disturbing though, but one that needs to be had. ", "<br />", "<br />", "I have some time before Persepolis and I have some other things to investigate. Am compiling a partial list of unanswered questions.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: f9jrxxffyx71x0frbc4l52s](https://lh3.googleusercontent.com/-ovVzrg3epAs/VSIVdjXZamI/AAAAAAAACZo/Aq1aBvarYxs/w800-h450/oliver.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/dSeZrpLpnaw](https://plus.google.com/+NianticProject/posts/dSeZrpLpnaw)

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-06-26 17:15:13 +0900"
+date:   2015-06-26 17:15:13 +0900
+categories: nianticproject
+---
+Following [#Persepolis](https://plus.google.com/s/%23Persepolis "") Portland, +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") reports that +[Klue S.](https://plus.google.com/110350977702120778591 "") has gone radio silent.
+
+It's unclear if she is only avoiding him, or if she has gone under the radar entirely. I have reached out to Klue myself to see if she responds, and if she is OK.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@721, :value=>"shared"@728}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " has not responded to any of my messages since her strange and sudden departure. I saw the pictures of her at Portland. She looked fine, happy even, which makes this all the more strange. I reached out to a trusted friend who I knew was going to be there, and asked that she let Klue know that I am trying to get a hold her. She said she passed my message on, but still no contact.", "<br />", "<br />", "I'm starting to get worried, no longer because I think she's in any kind of danger, but because I just don't know what she's thinking, and why she's closed all channels of communication to me.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 3wtm5fosea3d1k](https://lh3.googleusercontent.com/-MapE4YVZPU0/VY0FY8_eVSI/AAAAAAAABLg/Mf0WV-HFnqE/w600-h600/KluePortland.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ZuNKkJ3GrfJ](https://plus.google.com/+NianticProject/posts/ZuNKkJ3GrfJ)

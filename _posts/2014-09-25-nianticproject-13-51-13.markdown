@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-09-25 13:51:13 +0900"
+date:   2014-09-25 13:51:13 +0900
+categories: nianticproject
+---
++[Stein Lightman](https://plus.google.com/115238965157544465033 "") shares his hopes and fears about the  [#Helios](https://plus.google.com/s/%23Helios "")  Artifacts.
+
+Within them he sees tremendous power: A revelation into the nature of the universe so powerful that it would begin a new era in our collective journey through reality.
+
+And yet, as Jarvis warned him, to know is a one way journey. As we gain knowledge, we begin to lose our innocence.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@646, :value=>"shared"@653}], :children=>["<br />", "<h2>Stein Lightman</h2>", "Before and After, but before and after what?", "<br />", "<br />", "As I delve deeper into the mystery contained within the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", " Artifacts, I oscillate between fear and wonder. We are days away from learning their true potential. I recall something Jarvis said in offhand conversation to me once: \"To know is a one way journey.\"", "<br />", "<br />", "I can't but help look back at the many times ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], " has attempted to warn us about them. And yet, the forms they contain are, in truth, wondrous and complex. Filled with a richness of meaning.", "<br />", "<br />", "I believe that Jarvis's fears are unwarranted, or perhaps one-sided would be a better way of phrasing it. The Helios Artifacts are likely to enable us to explore the fundamental power that our universe represents. ", "<br />", "<br />", "Across our history, key points have separated the epochs. Fire. Metal. Machinery. Systems.", "<br />", "<br />", "I believe these Glyphs evoke that meaning. Before and After the point where we crossed the one-way bridge of knowing.", "<br />", "<br />"], :ignore=>true}}
+[#### album: 2014-09-24](https://plus.google.com/photos/115238965157544465033/albums/6062862150669354145 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/1hmGYjw7XV5](https://plus.google.com/+NianticProject/posts/1hmGYjw7XV5)

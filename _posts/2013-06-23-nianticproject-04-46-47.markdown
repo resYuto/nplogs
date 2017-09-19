@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Niantic Project: 2013-06-23 04:46:47 +0900"
+date:   2013-06-23 04:46:47 +0900
+categories: nianticproject
+---
+As I expected, here is +[Visur Technology](https://plus.google.com/115880454950193571355 "")'s pitch to obtain the first images from the  [#timezero](https://plus.google.com/s/%23timezero "")  package.
+
+I am eagerly awaiting to hear from +[Richard Walden](https://plus.google.com/112217333135124700456 ""), who I believe is currently in possession of the package, further details about what the package contains, as well as an image of the package itself.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@760, :value=>"shared"@767}], :children=>["<br />", "<h2>Visur Technology</h2>", "Clearly our colleagues at ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108020987035258478791\" oid=\"108020987035258478791\">IQTech Research</a>"], " and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107849663787965375687\" oid=\"107849663787965375687\">Hulong Transglobal</a>"], " are eager to gain your trust.  Don't be hasty.... ", "<br />", "<br />", "Viskas Visur Visiems. ", "<br />", "<br />", "Everything, Everywhere, and for Everyone. ", "<br />", "<br />", "Enlightened: My name is Ilya Pevtsov, and Visur represents, at heart, an iridescent tomorrow built on a solid foundation of technology and infrastructure.", "<br />", "<br />", "The package you hold would make a powerful contribution in helping us build that grand vision.", "<br />", "<br />", "Hulong and IQTech have wooed you with their seemingly generous offers, but what price would you put on a secure tomorrow? Visur would use the knowledge within the package for good. ", "<br />", "<br />", "I am personally prepared to offer 14 one time passcodes redeeming our sophisticated Multi-Hack technology in exchange for one of the images contained in the package. ", "<br />", "<br />", "If this offer interests you respond privately and include an image verifying your participation in  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23timezero\">#timezero</a>", " .", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/XTYPKxdczQQ](https://plus.google.com/+NianticProject/posts/XTYPKxdczQQ)

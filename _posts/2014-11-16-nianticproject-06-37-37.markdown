@@ -1,0 +1,263 @@
+---
+layout: post
+title:  "Niantic Project: 2014-11-16 06:37:37 +0900"
+date:   2014-11-16 06:37:37 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a>  03<br /><br /><b>Cumulative Summary of Anomaly Conditions at M2:</b><br /><br />New Orleans - R:98.4 - <b>E:206</b><br />Oklahoma City - <b>R:125</b> - E:36.4<br />Santo Domingo - <b>R:120.4</b> - E:64<br />Virginia Beach - <b>R:109</b> - E:96<br /><br />The Enlightened surge ahead in New Orleans despite an overhead Resistance Field, thanks to powerfully orchestrated control on the ground. In Oklahoma City and Santo Domingo, the Resistance begin to tighten their grip. The Resistance threw a large Field over the Santo Domingo Anomaly Zone, effectively boosting an already strong ground performance. Virginia Beach remains hotly contested, flipping from Enlightened control to a slight Resistance lead at this Measurement.<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: New Orleans - Measurement 2 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 150 to 64.4.<br />The <b>Enlightened</b> currently control this Primary Site, leading by 107.6.<br /><br />Portals Owned - RES: 23 - <b>ENL:</b> 25 - [Value: 2 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 5 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (18.4)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 64.4 - <b>Enlightened</b> - 150<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 98.4 - <b>Enlightened</b> - 206<br /><br /><b>Measurement Time Details:</b><br />Original: 9:42 (Minutes:Seconds within Measurement Window)<br />Padded String: `si)o~/T{"SFtXV% 9:42 G=X2Ambs<br />SHA256 of Padded String: f4ccf087342d9819c744842b5526ff86e7ce80bccf654f376d546c6c09697c29<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - 1032 Bourbon St. Historic Plaque <br />ENL - 12 Chartres Historic Plaque <br />ENL - Archbishop Antoine Blanc Memor<br />ENL - Bosque House<br />ENL - Bosque House Plaque<br />ENL - Bringier-Barnett House Plaque<br />ENL - Calle De Arsenal<br />ENL - Calle Del Arsenal at Bourbon<br />ENL - Camino Bayona Tile Plaque<br />ENL - Chartres Street Plaque <br />ENL - Court of the Two Sisters<br />ENL - Cucullu Row<br />ENL - David Bannister Morgan<br />ENL - De La Ronde House<br />ENL - Gallier House<br />ENL - Le Carpentier-Beauregard-Keyes House<br />ENL - Le carré Français avec le<br />ENL - Le Richelieu Motor Hotel<br />ENL - Pat O’Brien’s<br />ENL - Petite Amelie Fountain <br />ENL - Residence of Don Manuel Lanzos<br />ENL - Rue Chartres House<br />ENL - Site of First Louisiana School<br />ENL - Thomas Poree House<br />ENL - Uneed A Biscuit Vintage Advertising<br />ENL [Vol] - A Tribute to Clay Shaw<br />ENL [Vol] - Fountain at Pat O'Brien's<br />ENL [Vol] - Francis Parkinson Keyes Memorial Plaque<br />ENL [Vol] - Lafitte's Blacksmith Shop<br />ENL [Vol] - New Orleans Historic Voodoo Museum<br />NEU - Birthplace of Danny Barker<br />NEU - Calle Real Tile Marker 1762-1803<br />NEU - Creole Cottage c. 1810<br />NEU - First U.S District Court<br />NEU - LaBranche Buildings<br />NEU - Lamothe House Hotel<br />NEU - Pedesclaux-Lemonnier House<br />NEU - St Mary's Recreation Center<br />NEU - Thomas House<br />RES - Avart-Peretti House<br />RES - Baure-Dupremont House<br />RES - Bringier Barnett House<br />RES - Café Brazil<br />RES - Calle Bourbon<br />RES - Calle Del Cuartel at Royal<br />RES - Calle Real Tile Plaque<br />RES - Camino D Bayona<br />RES - Dolliole Cottage<br />RES - Dominique Bouligny House<br />RES - Erard-Espy House<br />RES - Faulkner House<br />RES - Frances Benjamin Johnston Hous<br />RES - Gallier House Museum<br />RES - Gauche House<br />RES - Jug Fountain<br />RES - Maison Hospitalière<br />RES - Old Ursuline Convent<br />RES - Provincial Motel (site)<br />RES - Sea Life Mural<br />RES - Soniat House<br />RES - Tresor Art Gallery<br />RES - Victor David House<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Oklahoma City - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 65 to 14.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 88.6.<br /><br />Portals Owned - RES: 12 - <b>ENL:</b> 14 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 5 - ENL: 0 - [Value: 10 each]<br />Links Created - <b>RES:</b> 1 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 65 - Enlightened - 14<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 125 - Enlightened - 36.4<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Bobby Jones Career Wins Plaque<br />ENL - Bricktown Ballpark<br />ENL - Bricktown canal - Oklahoma Cit<br />ENL - Bricktown Mural<br />ENL - Johnny Bench<br />ENL - Mickey Mantle Plaza<br />ENL - OKC Bricktown Riverwalk<br />ENL - Oklahoma Baseball - Boston Bloomers<br />ENL - Oklahoma Baseball A and M College<br />ENL - Paul Glee Waner<br />ENL - Rack Up!<br />ENL - Thunder Up<br />ENL - Tile Mural - Crossroads Of Renewal Panel<br />ENL - Yucatan Taco Stand<br />NEU - Allie Pierce Reynolds<br />NEU - John L.R. "Pepper" Martin<br />NEU - Mural<br />NEU - Wells Fargo Livery Stable Historical Maker<br />RES - Bobby Murcer<br />RES - Bricktown Water Silo <br />RES - Chevy Bricktown Events Center<br />RES - Crabtown Mural<br />RES - Devon Mosaic<br />RES - Hampton Fountains<br />RES - Head of the Herd<br />RES - Jim Brewer Founders Plaque. <br />RES - Oklahoma Baseball - Allie Reynolds<br />RES - Oklahoma Baseball - Dale Mitchell<br />RES - Rock Island Plow Building <br />RES - Statue<br />RES [Vol] - ACM Performance Lab <br />RES [Vol] - Bricktown Buffalo<br />RES [Vol] - Centennial Land Run Monument <br />RES [Vol] - Industrial Atlas<br />RES [Vol] - Roy Ackerman Fountains<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Santo Domingo - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 60.2 to 11.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 56.4.<br /><br />Portals Owned - RES: 3 - <b>ENL:</b> 11 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 0 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (17.2)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 60.2 - Enlightened - 11<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 120.4 - Enlightened - 64<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Busto Teatro Nacional <br />ENL - Escultura Caballito De Mar <br />ENL - Eugenio M. De Hostos<br />ENL - Musa del museo<br />ENL - Pergamino De Don Quijote<br />ENL - Placa Almira<br />ENL - Sillas Yo Y El<br />ENL - Teatro Nacional Eduardo Brito<br />ENL - Totem Artagnan Perez Mendez<br />ENL - Totem Raymundo Amaro<br />ENL - Totem Saulo Hidalgo<br />NEU - Angelito 1 Teatro Nacional<br />NEU - Bailarina Del Museo<br />NEU - Calderon de la Barca<br />NEU - El País De Hierro<br />NEU - Escultura De Piedra Museo Arte Moderno<br />NEU - Escultura Golden Tree<br />NEU - Escultura Metal DeMonjes<br />NEU - Esculturas De Hierro<br />NEU - Estatua Manuel De Jesus Galvan<br />NEU - Flores Metro De Santo Domingo<br />NEU - Francisco Quevedo y Villegas<br />NEU - Fuente de la Familia<br />NEU - Fuente Museo De Historia<br />NEU - Giuseppe Verdi<br />NEU - La Musa De La Tragedia<br />NEU - Lope de Vega<br />NEU - Monjes Egipcios<br />NEU - Monumento a Don Quijote de la Mancha<br />NEU - Mural Ascendente<br />NEU - Mural Estudiantes De Bellas Artes <br />NEU - Mural Libros<br />NEU - Musa de La Musica<br />NEU - Musa De La Musica II<br />NEU - Museo De Arte Moderno<br />NEU - Pedro Henriquez Ureña<br />NEU - Placa Juan Ruiz Alarcon<br />NEU - Placa MJG<br />NEU - Romeo Y Julieta<br />NEU - Salome Ureña<br />NEU - Totem 1J4<br />NEU - Totem Armando Almanzar R.<br />NEU - Totem Duarte<br />NEU [Vol] - Fuente Estatua<br />RES - Casandra Damiron Metro Line<br />RES - El Letrerio<br />RES - Escultura Muñeco De Nieve<br />RES [Vol] - Escultura Alto Y Bajo<br />RES [Vol] - Escultura Máquina del Pasado y del Presente<br />RES [Vol] - Fuente Entrada Teatro Nacional<br />RES [Vol] - Juan Ruiz de Alarcón<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Virginia Beach - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 63 to 48.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 13.<br /><br />Portals Owned - <b>RES:</b> 19 - ENL: 18 - [Value: 1 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 10 each]<br />Links Created - <b>RES:</b> 8 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 63 - Enlightened - 48<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 109 - Enlightened - 96<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Alamar Dolphin Fountain<br />ENL - Barr's Pharmacy Airplane Mural<br />ENL - Brainwaves at the Beach<br />ENL - Ferris wheel<br />ENL - Giant Spheres <br />ENL - Half Moon Music<br />ENL - Massive Pillars <br />ENL - Nightmare Mansion<br />ENL - Rock Fish<br />ENL - Surf Mural<br />ENL - Tidewater Veteran's Memorial Sculpture<br />ENL - Tidewater Veteran's Memorial.<br />ENL - Veterans Memorial Park<br />ENL - Virginia Beach Convention Centre<br />ENL - Virginia Beach Fishing Pier<br />ENL - Virginia Beach History Museum<br />ENL - Virginia Beach Masonic Temple<br />ENL - Whale Mural<br />ENL [Vol] - Christ Statue<br />ENL [Vol] - City of Virginia Beach Library<br />ENL [Vol] - The Cave <br />NEU - Captain Cline's Pirate Ghost Ride<br />NEU - Lucky Lady Zebra Stripes<br />NEU - Rock Fish  <br />NEU - Ry Art<br />NEU - Street Dolphin <br />RES - Big Axe Small Engine<br />RES - Boardwalk Hotel Clock<br />RES - Boardwalk Tour - VA Aquarium<br />RES - Dairy Queen Virginia Beach<br />RES - Dolphin Cove Mural  <br />RES - Eye Boggling<br />RES - Fairfield Fountain<br />RES - Graffiti on a Wall<br />RES - Great Public Spaces Plaque<br />RES - Half Moon Mural<br />RES - Happy Sunsations<br />RES - Light House Mural<br />RES - Love Virginia Beach Mural<br />RES - No one Left Behind <br />RES - Pineapple Art Mural<br />RES - Stone Art<br />RES - VB Contention Center Dolphin<br />RES - Virginia Beach Methodist Church<br />RES - Zero's Mural<br />RES [Vol] - Statue at 17th Street Park<br />RES [Vol] - Three Birds<br /><br /></div>
+[#### photo: #Darsana  03
+Cumulative Summary of Anomaly Conditions at M2:
+New Orleans - R:98.4 - E:206
+Oklahoma City - R:125 - E:36.4
+Santo Domingo - R:120.4 - E:64
+Virginia Beach - R:109 - E:96
+The Enlightened surge ahead in New Orleans despite an overhead Resistance Field, thanks to powerfully orchestrated control on the ground. In Oklahoma City and Santo Domingo, the Resistance begin to tighten their grip. The Resistance threw a large Field over the Santo Domingo Anomaly Zone, effectively boosting an already strong ground performance. Virginia Beach remains hotly contested, flipping from Enlightened control to a slight Resistance lead at this Measurement.
+#Darsana: New Orleans - Measurement 2 Report
+The Enlightened captured this Measurement, 150 to 64.4.
+The Enlightened currently control this Primary Site, leading by 107.6.
+Portals Owned - RES: 23 - ENL: 25 - [Value: 2 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (18.4)]
+Total for this Measurement:
+Resistance - 64.4 - Enlightened - 150
+Total for this Primary Site:
+Resistance - 98.4 - Enlightened - 206
+Measurement Time Details:
+Original: 9:42 (Minutes:Seconds within Measurement Window)
+Padded String: `si)o~/T{"SFtXV% 9:42 G=X2Ambs
+SHA256 of Padded String: f4ccf087342d9819c744842b5526ff86e7ce80bccf654f376d546c6c09697c29
+Portal Ownership Details
+ENL - 1032 Bourbon St. Historic Plaque
+ENL - 12 Chartres Historic Plaque
+ENL - Archbishop Antoine Blanc Memor
+ENL - Bosque House
+ENL - Bosque House Plaque
+ENL - Bringier-Barnett House Plaque
+ENL - Calle De Arsenal
+ENL - Calle Del Arsenal at Bourbon
+ENL - Camino Bayona Tile Plaque
+ENL - Chartres Street Plaque
+ENL - Court of the Two Sisters
+ENL - Cucullu Row
+ENL - David Bannister Morgan
+ENL - De La Ronde House
+ENL - Gallier House
+ENL - Le Carpentier-Beauregard-Keyes House
+ENL - Le carré Français avec le
+ENL - Le Richelieu Motor Hotel
+ENL - Pat O’Brien’s
+ENL - Petite Amelie Fountain
+ENL - Residence of Don Manuel Lanzos
+ENL - Rue Chartres House
+ENL - Site of First Louisiana School
+ENL - Thomas Poree House
+ENL - Uneed A Biscuit Vintage Advertising
+ENL [Vol] - A Tribute to Clay Shaw
+ENL [Vol] - Fountain at Pat O'Brien's
+ENL [Vol] - Francis Parkinson Keyes Memorial Plaque
+ENL [Vol] - Lafitte's Blacksmith Shop
+ENL [Vol] - New Orleans Historic Voodoo Museum
+NEU - Birthplace of Danny Barker
+NEU - Calle Real Tile Marker 1762-1803
+NEU - Creole Cottage c. 1810
+NEU - First U.S District Court
+NEU - LaBranche Buildings
+NEU - Lamothe House Hotel
+NEU - Pedesclaux-Lemonnier House
+NEU - St Mary's Recreation Center
+NEU - Thomas House
+RES - Avart-Peretti House
+RES - Baure-Dupremont House
+RES - Bringier Barnett House
+RES - Café Brazil
+RES - Calle Bourbon
+RES - Calle Del Cuartel at Royal
+RES - Calle Real Tile Plaque
+RES - Camino D Bayona
+RES - Dolliole Cottage
+RES - Dominique Bouligny House
+RES - Erard-Espy House
+RES - Faulkner House
+RES - Frances Benjamin Johnston Hous
+RES - Gallier House Museum
+RES - Gauche House
+RES - Jug Fountain
+RES - Maison Hospitalière
+RES - Old Ursuline Convent
+RES - Provincial Motel (site)
+RES - Sea Life Mural
+RES - Soniat House
+RES - Tresor Art Gallery
+RES - Victor David House
+#Darsana: Oklahoma City - Measurement 2 Report
+The Resistance captured this Measurement, 65 to 14.
+The Resistance currently control this Secondary Site, leading by 88.6.
+Portals Owned - RES: 12 - ENL: 14 - [Value: 1 each]
+Volatile Portals Owned - RES: 5 - ENL: 0 - [Value: 10 each]
+Links Created - RES: 1 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 65 - Enlightened - 14
+Total for this Secondary Site:
+Resistance - 125 - Enlightened - 36.4
+Portal Ownership Details
+ENL - Bobby Jones Career Wins Plaque
+ENL - Bricktown Ballpark
+ENL - Bricktown canal - Oklahoma Cit
+ENL - Bricktown Mural
+ENL - Johnny Bench
+ENL - Mickey Mantle Plaza
+ENL - OKC Bricktown Riverwalk
+ENL - Oklahoma Baseball - Boston Bloomers
+ENL - Oklahoma Baseball A and M College
+ENL - Paul Glee Waner
+ENL - Rack Up!
+ENL - Thunder Up
+ENL - Tile Mural - Crossroads Of Renewal Panel
+ENL - Yucatan Taco Stand
+NEU - Allie Pierce Reynolds
+NEU - John L.R. "Pepper" Martin
+NEU - Mural
+NEU - Wells Fargo Livery Stable Historical Maker
+RES - Bobby Murcer
+RES - Bricktown Water Silo
+RES - Chevy Bricktown Events Center
+RES - Crabtown Mural
+RES - Devon Mosaic
+RES - Hampton Fountains
+RES - Head of the Herd
+RES - Jim Brewer Founders Plaque.
+RES - Oklahoma Baseball - Allie Reynolds
+RES - Oklahoma Baseball - Dale Mitchell
+RES - Rock Island Plow Building
+RES - Statue
+RES [Vol] - ACM Performance Lab
+RES [Vol] - Bricktown Buffalo
+RES [Vol] - Centennial Land Run Monument
+RES [Vol] - Industrial Atlas
+RES [Vol] - Roy Ackerman Fountains
+#Darsana: Santo Domingo - Measurement 2 Report
+The Resistance captured this Measurement, 60.2 to 11.
+The Resistance currently control this Secondary Site, leading by 56.4.
+Portals Owned - RES: 3 - ENL: 11 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 0 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (17.2)]
+Total for this Measurement:
+Resistance - 60.2 - Enlightened - 11
+Total for this Secondary Site:
+Resistance - 120.4 - Enlightened - 64
+Portal Ownership Details
+ENL - Busto Teatro Nacional
+ENL - Escultura Caballito De Mar
+ENL - Eugenio M. De Hostos
+ENL - Musa del museo
+ENL - Pergamino De Don Quijote
+ENL - Placa Almira
+ENL - Sillas Yo Y El
+ENL - Teatro Nacional Eduardo Brito
+ENL - Totem Artagnan Perez Mendez
+ENL - Totem Raymundo Amaro
+ENL - Totem Saulo Hidalgo
+NEU - Angelito 1 Teatro Nacional
+NEU - Bailarina Del Museo
+NEU - Calderon de la Barca
+NEU - El País De Hierro
+NEU - Escultura De Piedra Museo Arte Moderno
+NEU - Escultura Golden Tree
+NEU - Escultura Metal DeMonjes
+NEU - Esculturas De Hierro
+NEU - Estatua Manuel De Jesus Galvan
+NEU - Flores Metro De Santo Domingo
+NEU - Francisco Quevedo y Villegas
+NEU - Fuente de la Familia
+NEU - Fuente Museo De Historia
+NEU - Giuseppe Verdi
+NEU - La Musa De La Tragedia
+NEU - Lope de Vega
+NEU - Monjes Egipcios
+NEU - Monumento a Don Quijote de la Mancha
+NEU - Mural Ascendente
+NEU - Mural Estudiantes De Bellas Artes
+NEU - Mural Libros
+NEU - Musa de La Musica
+NEU - Musa De La Musica II
+NEU - Museo De Arte Moderno
+NEU - Pedro Henriquez Ureña
+NEU - Placa Juan Ruiz Alarcon
+NEU - Placa MJG
+NEU - Romeo Y Julieta
+NEU - Salome Ureña
+NEU - Totem 1J4
+NEU - Totem Armando Almanzar R.
+NEU - Totem Duarte
+NEU [Vol] - Fuente Estatua
+RES - Casandra Damiron Metro Line
+RES - El Letrerio
+RES - Escultura Muñeco De Nieve
+RES [Vol] - Escultura Alto Y Bajo
+RES [Vol] - Escultura Máquina del Pasado y del Presente
+RES [Vol] - Fuente Entrada Teatro Nacional
+RES [Vol] - Juan Ruiz de Alarcón
+#Darsana: Virginia Beach - Measurement 2 Report
+The Resistance captured this Measurement, 63 to 48.
+The Resistance currently control this Secondary Site, leading by 13.
+Portals Owned - RES: 19 - ENL: 18 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 8 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 63 - Enlightened - 48
+Total for this Secondary Site:
+Resistance - 109 - Enlightened - 96
+Portal Ownership Details
+ENL - Alamar Dolphin Fountain
+ENL - Barr's Pharmacy Airplane Mural
+ENL - Brainwaves at the Beach
+ENL - Ferris wheel
+ENL - Giant Spheres
+ENL - Half Moon Music
+ENL - Massive Pillars
+ENL - Nightmare Mansion
+ENL - Rock Fish
+ENL - Surf Mural
+ENL - Tidewater Veteran's Memorial Sculpture
+ENL - Tidewater Veteran's Memorial.
+ENL - Veterans Memorial Park
+ENL - Virginia Beach Convention Centre
+ENL - Virginia Beach Fishing Pier
+ENL - Virginia Beach History Museum
+ENL - Virginia Beach Masonic Temple
+ENL - Whale Mural
+ENL [Vol] - Christ Statue
+ENL [Vol] - City of Virginia Beach Library
+ENL [Vol] - The Cave
+NEU - Captain Cline's Pirate Ghost Ride
+NEU - Lucky Lady Zebra Stripes
+NEU - Rock Fish
+NEU - Ry Art
+NEU - Street Dolphin
+RES - Big Axe Small Engine
+RES - Boardwalk Hotel Clock
+RES - Boardwalk Tour - VA Aquarium
+RES - Dairy Queen Virginia Beach
+RES - Dolphin Cove Mural
+RES - Eye Boggling
+RES - Fairfield Fountain
+RES - Graffiti on a Wall
+RES - Great Public Spaces Plaque
+RES - Half Moon Mural
+RES - Happy Sunsations
+RES - Light House Mural
+RES - Love Virginia Beach Mural
+RES - No one Left Behind
+RES - Pineapple Art Mural
+RES - Stone Art
+RES - VB Contention Center Dolphin
+RES - Virginia Beach Methodist Church
+RES - Zero's Mural
+RES [Vol] - Statue at 17th Street Park
+RES [Vol] - Three Birds](https://lh4.googleusercontent.com/-lrat4wT4A14/VGfGObZ7PZI/AAAAAAABIck/QJNCfT6vcdU/w1536-h1152/IMG_20141115_140008733.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/aNM8ygThzPv](https://plus.google.com/+NianticProject/posts/aNM8ygThzPv)

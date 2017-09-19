@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-27 03:40:58 +0900"
+date:   2014-04-27 03:40:58 +0900
+categories: nianticproject
+---
+Agents gather once again to shape mankind's destiny.
+
+ [#Interitus](https://plus.google.com/s/%23Interitus "")  02 approaches.
+
+Here are the Volatile Portals for Frankfurt and Stockholm, Cluster 1.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@265, :value=>"shared"@272}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 02 - FRANKFURT, STOCKHOLM - C1 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/Te1BJ2\" class=\"ot-anchor\">http://goo.gl/Te1BJ2</a>", "<br />", "<br />", "MD5: bdca155230ab850891b39e63c8cb5947", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110329478528649289762\" oid=\"110329478528649289762\">Andreas Vogt</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #INTERITUS 02 - FRANKFURT, STOCKHOLM - C1 VOLs
+Volatiles: http://goo.gl/Te1BJ2
+MD5: bdca155230ab850891b39e63c8cb5947
+Photo by Agent +Andreas Vogt ](https://lh5.googleusercontent.com/-vr88g6XRnBY/U1ufHFJ1j9I/AAAAAAAAstY/Z03_zZbm8oo/w2048-h1158/vogt_group_ff.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Z7JDP3urcFE](https://plus.google.com/+NianticProject/posts/Z7JDP3urcFE)

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-23 23:47:16 +0900"
+date:   2014-08-23 23:47:16 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 05 - MANCHESTER, ROTTERDAM - C4 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/PJRMsA\" class=\"ot-anchor\">http://goo.gl/PJRMsA</a>", "<br />", "<br />", "SHA256: acd5c96dd2c187be5d482ea712db6de954f62ebe72592e75867819e44ed858e2", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103305858434342776580\" oid=\"103305858434342776580\">jean-françois suret</a>"], " in Rotterdam", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-Zt2rP9R2GKE/U_io_zlXlNI/AAAAAAAA_YU/sXoILuH-Dxk/IMG_20140823_134928.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/FJm4dF8ShPw](https://plus.google.com/+NianticProject/posts/FJm4dF8ShPw)

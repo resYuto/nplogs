@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2013-07-13 22:27:36 +0900"
+date:   2013-07-13 22:27:36 +0900
+categories: nianticproject
+---
+An incredible number of Links established by the Enlightened. But the Resistance will never back down.
+
+ [#voynich](https://plus.google.com/s/%23voynich "")  {:element=>{:name=>"div", :attributes=>[{:name=>"class"@211, :value=>"shared"@218}], :children=>["<br />", "<h2>Ingress</h2>", "Operation:  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Voynich\">#Voynich</a>", "  Measurement 3", "<br />", "<br />", "<b>The Enlightened owned the Portal nearest </b>", {:element=>{:name=>"b"@423, :attributes=>[], :children=>[[["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101180225942784917383\" oid=\"101180225942784917383\">Carrie Campbell</a>"]], :ignore=>true}}, "<b>.</b>", "<br />", "<b>The Resistance owned 4 Volatile Cluster Pairs.</b>", "<br />", "The Enlightened owned 2 Volatile Cluster Pairs.", "<br />", "The Resistance owned 27 Non-Volatile Portals.", "<br />", "<b>The Enlightened owned 50 Non-Volatile Portals.</b>", "<br />", "The Resistance had 27 Links standing at Measurement Time.", "<br />", "<b>The Enlightened had 75 Links standing at Measurement Time.</b>", "<br />", "Measurement 3 Total for the Resistance is 121.", "<br />", "<b>Measurement 3 Total for the Enlightened is 235.</b>", "<br />", "Anomaly Total for the Resistance is 358.", "<br />", "<b>Anomaly Total for the Enlightened is 520.</b>", "<br />", "<br />", "OTP / PADDED / ENCRYPTED / MD5", "<br />", "XFMYPXRGVSEVAKIABKCJTLJUYXISASTEBZHBQJJZRWGIBMOPIIHDCSYHJAIHMVVCATFGTU", "<br />", "MEASUREMENTXTHREEXXXXXXISXATXTHREEXOXCLOCKXTWOXMINUTESXANDXTWOXSECONDS", "<br />", "JJMQJOVSZFXSTRZEFHZGQIGCQUILXLAVFDEPNLUNTGDBXALBQVBWGKVHWDFAIJSUEVTTWM", "<br />", "55183EC269385024D132DB688D4BA62B", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-7CzesAiXmqs/UeFSdYLMQjI/AAAAAAAALg8/cm_8nslMbhQ/s0-d/voynich3.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/LQHBrbMArmw](https://plus.google.com/+NianticProject/posts/LQHBrbMArmw)

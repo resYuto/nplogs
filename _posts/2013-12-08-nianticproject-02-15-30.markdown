@@ -1,0 +1,126 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-08 02:15:30 +0900"
+date:   2013-12-08 02:15:30 +0900
+categories: nianticproject
+---
+The Enlightened successfully capture Rome. While evenly matched on the ground, ownership of more Jarvis Shards and a greater positive Global MU Shift helped boost the Enlightened. But the day is far from over -- Phoenix, Tucson, and Nashville will begin shortly.
+
+x
+
+Operation [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  <div class="shared"><br /><h2>Ingress</h2><br /><b>The Enlightened capture</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- ROME.</b> <br /><br />Coordinating with their global counterparts was the key to their success. The Enlightened evolve an additional 87,931,962 Mind Units and control 8 of 12 known Jarvis Shards at Measurement 4. But will their sizeable increase in MU help or hinder the Enlightened in Phoenix? Stay tuned.<br /><br /><b>Measurement 4 Report</b><br /><br />The Resistance owned 2 Volatile Portals and 29 Non-Volatile Portals<br /><b>The Enlightened owned 3 Volatile Portals and 23 Non-Volatile Portals</b><br /><br />The Resistance had 1 Link standing at Measurement Time<br /><b>The Enlightened had 10 Links standing at Measurement Time</b><br /><br />The Resistance Controlled 4 Jarvis Shards<br /><b>The Enlightened Controlled 8 Jarvis Shards</b><br /><br />Mind Units at Anomaly END (R): 549844980<br />Mind Units at Anomaly END (E): 581503482<br /><br />Mind Units Shift (R): 13287468<br />Mind Units Shift (E): 87931962<br /><br /><b>The Enlightened had the largest Net Positive MU Shift (100)</b><br /><br />Total for Resistance this Measurement = 143<br /><b>Total for Enlightened this Measurement = 336</b><br /><br />Total for Resistance this Anomaly = 666<br /><b>Total for Enlightened this Anomaly = 927</b><br /><br /><b>Measurement Time Details:</b><br />Original: 4:02 (Minutes:Seconds past the hour)<br />Padded: AzKnBTnGbBEoCDucP 4:02 iqoFZaxtEgcVf<br />MD5 of Padded String: b24d616f107a7a80044d970caf93935b<br /><br /><b>Jarvis Shard Ownership (at Measurement Time):</b><br />Shard 01 - Awareness: Enlightened<br />Shard 02 - Creativity: Enlightened<br />Shard 03 - Strength: Enlightened<br />Shard 04 - Insight: Enlightened<br />Shard 05 - Understanding: Enlightened<br />Shard 06 - Memory: Resistance<br />Shard 07 - Belief: Enlightened<br />Shard 08 - Charisma: Resistance<br />Shard 09 - Empathy: Resistance<br />Shard 10 - Identity: Enlightened<br />Shard 11 - Aesthetic: Resistance<br />Shard 12 - Intuition: Enlightened<br />Shard 13 - Immortality - In Flux<br /><br /><b>Portal Ownership Details:</b><br />Targa Adelaide Cairoli (VOLATILE) - Enlightened<br />Piazzetta Monti (VOLATILE) - Enlightened<br />Fontanella San Vito  (VOLATILE) - Enlightened<br />Scultura.... (VOLATILE) - Resistance<br />Fountain of Iside, Rome (VOLATILE) - Resistance<br />Santa Maria Maggiore - Enlightened<br />Teatro Ambra Jovinelli - Enlightened<br />Angolo Via Paolina - Enlightened<br />Istat - Enlightened<br />Statue of Confucius - Enlightened<br />Porta Magica - Enlightened<br />Strano Fontanella - Enlightened<br />Carlo Alberto statue - Enlightened<br />Rom - Romulus,Remus und die Wö - Enlightened<br />Sarcophagus Drinking Fountain - Enlightened<br />Square of the Colosseum - Enlightened<br />Via dei Fori Imperiali; groen  - Enlightened<br />Nasone Vittorio - Enlightened<br />Santa Maria Maggiore, Roma, It - Enlightened<br />Chiesa Finestrone - Enlightened<br />Basilica S. Pudenziana - Enlightened<br />San Lorenzo in Panisperna - Enlightened<br />Urbano VIII Pont Opt Max - Enlightened<br />Chiesa Sotterranea - Enlightened<br />Roma Termini Train Station - Laziale Entrance - Enlightened<br />Santa Maria Maggiore - Retro - Enlightened<br />Palazzo delle Esposizioni - Enlightened<br />Casse di Risparmio Postali - Enlightened<br />San Marcellino e Pietro - Neutral<br />Mi dimentico qualcosa ? - Neutral<br />Santa Maria Maggiore - Neutral<br />Giardino Nicola Calipari - Neutral<br />Decus Et Praesidium - Neutral<br />Church of St. Alfonso - Neutral<br />Light Church - Neutral<br />Chiesa Di Sant'Eusebio - Neutral<br />Colonnade - Neutral<br />Sainte Marie Majeure - Neutral<br />Avenue of the Imperial Forums - Neutral<br />Monastero di San Filippo - Resistance<br />Chiesa Di Sant'Antonio - Resistance<br />roma - piazza degli zingari - Resistance<br />Traforo Umberto I - Resistance<br />Piazza Vittorio - Resistance<br />Ninfeo di Alessandro - Resistance<br />Basilica of Maxentius and Cons - Resistance<br />La Venere Bianca - Resistance<br />Ministero degli Interni - Resistance<br />Chiesa - Resistance<br />Acquario Romano A Piazza Fanti - Resistance<br />Carlo Alberto statue - Resistance<br />Arco Di Gallieno  - Resistance<br />Palazzo Koch - Resistance<br />Teatro Brancaccio - Resistance<br />Madonnina Della Grazia Di Via Merulana - Resistance<br />S Francesco  - Resistance<br />Architecture of Imperial Rome - Resistance<br />S. Maria Immacolata All'Esquilino  - Resistance<br />Retro Santa Maria Maggiore - Resistance<br />Statue Newton - Resistance<br />Fontana con statua - Resistance<br />Teatro Eliseo - Resistance<br />Vecchio Poligrafico  - Resistance<br />Madonna Delle Ferie - Resistance<br />Palazzo Koch - Resistance<br />S. Agata Dei Goti  Roma - Resistance<br />Rom Sinti  E Camminanti Roma - Resistance<br />Roma Acquedotto Iulio - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>DEC 7 PRIMARY SITES:</b> <br />Phoenix: <a href="http://goo.gl/uMLR7j" class="ot-anchor">http://goo.gl/uMLR7j</a> <br />Rome: <a href="http://goo.gl/8H9OET" class="ot-anchor">http://goo.gl/8H9OET</a> <br /><br /><b>SATELLITE SITES:</b> <br />Athens: <a href="http://goo.gl/PBCyd8" class="ot-anchor">http://goo.gl/PBCyd8</a> <br />Istanbul: <a href="http://goo.gl/9oD3cm" class="ot-anchor">http://goo.gl/9oD3cm</a> <br />Nashville: <a href="http://goo.gl/rvsDXh" class="ot-anchor">http://goo.gl/rvsDXh</a> <br />Tucson: <a href="http://goo.gl/RD8c3u" class="ot-anchor">http://goo.gl/RD8c3u</a> <br /><br /></div>
+[#### photo: The Enlightened capture #13MAGNUS - ROME. 
+Coordinating with their global counterparts was the key to their success. The Enlightened evolve an additional 87,931,962 Mind Units and control 8 of 12 known Jarvis Shards at Measurement 4. But will their sizeable increase in MU help or hinder the Enlightened in Phoenix? Stay tuned.
+Measurement 4 Report
+The Resistance owned 2 Volatile Portals and 29 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 23 Non-Volatile Portals
+The Resistance had 1 Link standing at Measurement Time
+The Enlightened had 10 Links standing at Measurement Time
+The Resistance Controlled 4 Jarvis Shards
+The Enlightened Controlled 8 Jarvis Shards
+Mind Units at Anomaly END (R): 549844980
+Mind Units at Anomaly END (E): 581503482
+Mind Units Shift (R): 13287468
+Mind Units Shift (E): 87931962
+The Enlightened had the largest Net Positive MU Shift (100)
+Total for Resistance this Measurement = 143
+Total for Enlightened this Measurement = 336
+Total for Resistance this Anomaly = 666
+Total for Enlightened this Anomaly = 927
+Measurement Time Details:
+Original: 4:02 (Minutes:Seconds past the hour)
+Padded: AzKnBTnGbBEoCDucP 4:02 iqoFZaxtEgcVf
+MD5 of Padded String: b24d616f107a7a80044d970caf93935b
+Jarvis Shard Ownership (at Measurement Time):
+Shard 01 - Awareness: Enlightened
+Shard 02 - Creativity: Enlightened
+Shard 03 - Strength: Enlightened
+Shard 04 - Insight: Enlightened
+Shard 05 - Understanding: Enlightened
+Shard 06 - Memory: Resistance
+Shard 07 - Belief: Enlightened
+Shard 08 - Charisma: Resistance
+Shard 09 - Empathy: Resistance
+Shard 10 - Identity: Enlightened
+Shard 11 - Aesthetic: Resistance
+Shard 12 - Intuition: Enlightened
+Shard 13 - Immortality - In Flux
+Portal Ownership Details:
+Targa Adelaide Cairoli (VOLATILE) - Enlightened
+Piazzetta Monti (VOLATILE) - Enlightened
+Fontanella San Vito  (VOLATILE) - Enlightened
+Scultura.... (VOLATILE) - Resistance
+Fountain of Iside, Rome (VOLATILE) - Resistance
+Santa Maria Maggiore - Enlightened
+Teatro Ambra Jovinelli - Enlightened
+Angolo Via Paolina - Enlightened
+Istat - Enlightened
+Statue of Confucius - Enlightened
+Porta Magica - Enlightened
+Strano Fontanella - Enlightened
+Carlo Alberto statue - Enlightened
+Rom - Romulus,Remus und die Wö - Enlightened
+Sarcophagus Drinking Fountain - Enlightened
+Square of the Colosseum - Enlightened
+Via dei Fori Imperiali; groen  - Enlightened
+Nasone Vittorio - Enlightened
+Santa Maria Maggiore, Roma, It - Enlightened
+Chiesa Finestrone - Enlightened
+Basilica S. Pudenziana - Enlightened
+San Lorenzo in Panisperna - Enlightened
+Urbano VIII Pont Opt Max - Enlightened
+Chiesa Sotterranea - Enlightened
+Roma Termini Train Station - Laziale Entrance - Enlightened
+Santa Maria Maggiore - Retro - Enlightened
+Palazzo delle Esposizioni - Enlightened
+Casse di Risparmio Postali - Enlightened
+San Marcellino e Pietro - Neutral
+Mi dimentico qualcosa ? - Neutral
+Santa Maria Maggiore - Neutral
+Giardino Nicola Calipari - Neutral
+Decus Et Praesidium - Neutral
+Church of St. Alfonso - Neutral
+Light Church - Neutral
+Chiesa Di Sant'Eusebio - Neutral
+Colonnade - Neutral
+Sainte Marie Majeure - Neutral
+Avenue of the Imperial Forums - Neutral
+Monastero di San Filippo - Resistance
+Chiesa Di Sant'Antonio - Resistance
+roma - piazza degli zingari - Resistance
+Traforo Umberto I - Resistance
+Piazza Vittorio - Resistance
+Ninfeo di Alessandro - Resistance
+Basilica of Maxentius and Cons - Resistance
+La Venere Bianca - Resistance
+Ministero degli Interni - Resistance
+Chiesa - Resistance
+Acquario Romano A Piazza Fanti - Resistance
+Carlo Alberto statue - Resistance
+Arco Di Gallieno  - Resistance
+Palazzo Koch - Resistance
+Teatro Brancaccio - Resistance
+Madonnina Della Grazia Di Via Merulana - Resistance
+S Francesco  - Resistance
+Architecture of Imperial Rome - Resistance
+S. Maria Immacolata All'Esquilino  - Resistance
+Retro Santa Maria Maggiore - Resistance
+Statue Newton - Resistance
+Fontana con statua - Resistance
+Teatro Eliseo - Resistance
+Vecchio Poligrafico  - Resistance
+Madonna Delle Ferie - Resistance
+Palazzo Koch - Resistance
+S. Agata Dei Goti  Roma - Resistance
+Rom Sinti  E Camminanti Roma - Resistance
+Roma Acquedotto Iulio - Resistance
+#13MAGNUS DEC 7 PRIMARY SITES: 
+Phoenix: http://goo.gl/uMLR7j 
+Rome: http://goo.gl/8H9OET 
+SATELLITE SITES: 
+Athens: http://goo.gl/PBCyd8 
+Istanbul: http://goo.gl/9oD3cm 
+Nashville: http://goo.gl/rvsDXh 
+Tucson: http://goo.gl/RD8c3u ](https://lh3.googleusercontent.com/-kcAvD0fAv9M/UqNQ6YvOzgI/AAAAAAAAcJY/xh6cz70Ieos/w2048-h1536/IMG_20131207_171049_1.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ekzcEwiaJpZ](https://plus.google.com/+NianticProject/posts/ekzcEwiaJpZ)

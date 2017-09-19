@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-09-19 13:18:59 +0900"
+date:   2015-09-19 13:18:59 +0900
+categories: nianticproject
+---
+"Are there any simulacra left walking the Earth?"
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@63, :value=>"shared"@70}], :children=>["<br />", "<h2>Klue S.</h2>", "So here's something I've been pondering...", "<br />", "<br />", "Are there any simulacra left walking the Earth?", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " is no longer a simulacrum. The Niantic Researchers (if that's what they were, that's what caused them to disappear during the Shōnin XM explosion) are inside the Portal Network.", "<br />", "<br />", "If, in order to uncover the secrets of ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Abaddon\">#Abaddon</a>", ", our journey takes us to ancient 13MAGNUS sites, will we be able to enter them without a Simulacrum?", "<br />", "<br />", "My understanding was that only a Simulacrum could open the door to a 13MAGNUS Nest (that's why Jahan kidnapped Hank and had him lead her there, right?)", "<br />", "<br />"], :ignore=>true}}
+[#### photo: ttt-m-aaaaa-5-1-1000-p-50-2.718-bait-b-7-9.8](https://lh3.googleusercontent.com/-7Rsd7UBERh8/Vfzhq7y89YI/AAAAAAAABFw/2SaPHKWvbbg/w800-h449/Simulacra.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/CBModucy9ZU](https://plus.google.com/+NianticProject/posts/CBModucy9ZU)

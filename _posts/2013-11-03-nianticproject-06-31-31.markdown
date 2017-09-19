@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-03 06:31:31 +0900"
+date:   2013-11-03 06:31:31 +0900
+categories: nianticproject
+---
+The Enlightened, capturing both the Charlotte and Raleigh 11/2  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  Anomalies, successfully control all 4 Secondary Anomaly sites this day.
+
+The Measurement 4 Report for Atlanta will arrive shortly.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@311, :value=>"shared"@318}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- CHARLOTTE - Measurement 4 Report</b>", "<br />", "<br />", "We have heard news that ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], " will be releasing the results of the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " - ATLANTA Anomaly shortly. In the meantime, we do have the outcomes of CHARLOTTE and RALEIGH. The Charlotte Enlightened worked to create Fields over Anomaly Clusters, and the Raleigh Enlightened focused on establishing Link networks and capturing key Volatiles.", "<br />", "<br />", "The Enlightened capture ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " - CHARLOTTE and RALEIGH.", "<br />", "<br />", "<b>The Resistance owned 3 Volatile Portals and 7 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 2 Volatile Portals and 0 Non-Volatile Portals", "<br />", "<br />", "<b>Total for Resistance this Measurement = 37</b>", "<br />", "Total for Enlightened this Measurement = 20", "<br />", "<br />", "Total for Resistance this Anomaly = 111", "<br />", "<b>Total for Enlightened this Anomaly = 226</b>", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- RALEIGH - Measurement 4 Report</b>", "<br />", "<br />", "The Resistance owned 1 Volatile Portals and 7 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 3 Volatile Portals and 11 Non-Volatile Portals</b>", "<br />", "<br />", "The Resistance had 5 Links standing at Measurement Time", "<br />", "<b>The Enlightened had 13 Links standing at Measurement Time</b>", "<br />", "<br />", "Total for Resistance this Measurement = 27", "<br />", "<b>Total for Enlightened this Measurement = 67</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 79", "<br />", "<b>Total for Enlightened this Anomaly = 398</b>", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 3:13 (Minutes:Seconds past the hour)", "<br />", "Padded: mioXuMBfTTsGBWDNVoDXqnmSUZE 3:13 DinWrxxocPK", "<br />", "MD5 of Padded String: A2532F0BE8D948A36C76EB9C8A4F5E35", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>NOV 2 PRIMARY SITES:</b>", "<br />", "Atlanta: ", "<a href=\"http://goo.gl/6qEZHx\" class=\"ot-anchor\">http://goo.gl/6qEZHx</a>", " ", "<br />", "Madrid: ", "<a href=\"http://goo.gl/Cu0Qkz\" class=\"ot-anchor\">http://goo.gl/Cu0Qkz</a>", " ", "<br />", "Mumbai: ", "<a href=\"http://goo.gl/B07bMC\" class=\"ot-anchor\">http://goo.gl/B07bMC</a>", " ", "<br />", "<br />", "<b>REMOTE SITES:</b>", "<br />", "Barcelona: ", "<a href=\"http://goo.gl/wjSbor\" class=\"ot-anchor\">http://goo.gl/wjSbor</a>", " ", "<br />", "Charlotte: ", "<a href=\"http://goo.gl/bcUvi4\" class=\"ot-anchor\">http://goo.gl/bcUvi4</a>", " ", "<br />", "Lisbon: ", "<a href=\"http://goo.gl/0DxIOf\" class=\"ot-anchor\">http://goo.gl/0DxIOf</a>", " ", "<br />", "Raleigh: ", "<a href=\"http://goo.gl/4iSH8r\" class=\"ot-anchor\">http://goo.gl/4iSH8r</a>", "<br />", "<br />", "<b>NOV 16 PRIMARY SITES:</b>", " ", "<br />", "Dallas: ", "<a href=\"http://goo.gl/xIOPHV\" class=\"ot-anchor\">http://goo.gl/xIOPHV</a>", " ", "<br />", "Vienna: ", "<a href=\"http://goo.gl/mZF46x\" class=\"ot-anchor\">http://goo.gl/mZF46x</a>", " ", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Austin: ", "<a href=\"http://goo.gl/a33LRA\" class=\"ot-anchor\">http://goo.gl/a33LRA</a>", " ", "<br />", "Bratislava: ", "<a href=\"http://goo.gl/VaLXum\" class=\"ot-anchor\">http://goo.gl/VaLXum</a>", " ", "<br />", "Graz: ", "<a href=\"http://goo.gl/LISRXM\" class=\"ot-anchor\">http://goo.gl/LISRXM</a>", " ", "<br />", "Houston: ", "<a href=\"http://goo.gl/JUhO0S\" class=\"ot-anchor\">http://goo.gl/JUhO0S</a>", " ", "<br />", "San Antonio: ", "<a href=\"http://goo.gl/bsJEXr\" class=\"ot-anchor\">http://goo.gl/bsJEXr</a>", " ", "<br />", "Zurich: ", "<a href=\"http://goo.gl/d9uv9v\" class=\"ot-anchor\">http://goo.gl/d9uv9v</a>", " ", "<br />", "<br />", "<b>DEC 7 PRIMARY SITES:</b>", " ", "<br />", "Phoenix: ", "<a href=\"http://goo.gl/uMLR7j\" class=\"ot-anchor\">http://goo.gl/uMLR7j</a>", " ", "<br />", "Rome: ", "<a href=\"http://goo.gl/8H9OET\" class=\"ot-anchor\">http://goo.gl/8H9OET</a>", " ", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Athens: ", "<a href=\"http://goo.gl/PBCyd8\" class=\"ot-anchor\">http://goo.gl/PBCyd8</a>", " ", "<br />", "Istanbul: ", "<a href=\"http://goo.gl/9oD3cm\" class=\"ot-anchor\">http://goo.gl/9oD3cm</a>", " ", "<br />", "Nashville: ", "<a href=\"http://goo.gl/rvsDXh\" class=\"ot-anchor\">http://goo.gl/rvsDXh</a>", " ", "<br />", "Tucson: ", "<a href=\"http://goo.gl/RD8c3u\" class=\"ot-anchor\">http://goo.gl/RD8c3u</a>", " ", "<br />", "<br />", "<b>DEC 17 PRIMARY SITES:</b>", " ", "<br />", "Buenos Aires: ", "<a href=\"http://goo.gl/BDcLTZ\" class=\"ot-anchor\">http://goo.gl/BDcLTZ</a>", " ", "<br />", "San Francisco: ", "<a href=\"http://goo.gl/plCBZL\" class=\"ot-anchor\">http://goo.gl/plCBZL</a>", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Rio de Janeiro: ", "<a href=\"http://goo.gl/EeuyO4\" class=\"ot-anchor\">http://goo.gl/EeuyO4</a>", " ", "<br />", "San Diego: ", "<a href=\"http://goo.gl/uqmCci\" class=\"ot-anchor\">http://goo.gl/uqmCci</a>", " ", "<br />", "Santiago: ", "<a href=\"http://goo.gl/BE71fV\" class=\"ot-anchor\">http://goo.gl/BE71fV</a>", " ", "<br />", "Sao Paulo: ", "<a href=\"http://goo.gl/AnJNro\" class=\"ot-anchor\">http://goo.gl/AnJNro</a>", " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #13MAGNUS - CHARLOTTE - Measurement 4 Report
+We have heard news that +Devra Bogdanovich will be releasing the results of the #13MAGNUS - ATLANTA Anomaly shortly. In the meantime, we do have the outcomes of CHARLOTTE and RALEIGH. The Charlotte Enlightened worked to create Fields over Anomaly Clusters, and the Raleigh Enlightened focused on establishing Link networks and capturing key Volatiles.
+The Enlightened capture #13MAGNUS - CHARLOTTE and RALEIGH.
+The Resistance owned 3 Volatile Portals and 7 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 0 Non-Volatile Portals
+Total for Resistance this Measurement = 37
+Total for Enlightened this Measurement = 20
+Total for Resistance this Anomaly = 111
+Total for Enlightened this Anomaly = 226
+#13MAGNUS - RALEIGH - Measurement 4 Report
+The Resistance owned 1 Volatile Portals and 7 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 11 Non-Volatile Portals
+The Resistance had 5 Links standing at Measurement Time
+The Enlightened had 13 Links standing at Measurement Time
+Total for Resistance this Measurement = 27
+Total for Enlightened this Measurement = 67
+Total for Resistance this Anomaly = 79
+Total for Enlightened this Anomaly = 398
+Measurement Time Details:
+Original: 3:13 (Minutes:Seconds past the hour)
+Padded: mioXuMBfTTsGBWDNVoDXqnmSUZE 3:13 DinWrxxocPK
+MD5 of Padded String: A2532F0BE8D948A36C76EB9C8A4F5E35
+#13MAGNUS NOV 2 PRIMARY SITES:
+Atlanta: http://goo.gl/6qEZHx 
+Madrid: http://goo.gl/Cu0Qkz 
+Mumbai: http://goo.gl/B07bMC 
+REMOTE SITES:
+Barcelona: http://goo.gl/wjSbor 
+Charlotte: http://goo.gl/bcUvi4 
+Lisbon: http://goo.gl/0DxIOf 
+Raleigh: http://goo.gl/4iSH8r
+NOV 16 PRIMARY SITES: 
+Dallas: http://goo.gl/xIOPHV 
+Vienna: http://goo.gl/mZF46x 
+REMOTE SITES: 
+Austin: http://goo.gl/a33LRA 
+Bratislava: http://goo.gl/VaLXum 
+Graz: http://goo.gl/LISRXM 
+Houston: http://goo.gl/JUhO0S 
+San Antonio: http://goo.gl/bsJEXr 
+Zurich: http://goo.gl/d9uv9v 
+DEC 7 PRIMARY SITES: 
+Phoenix: http://goo.gl/uMLR7j 
+Rome: http://goo.gl/8H9OET 
+REMOTE SITES: 
+Athens: http://goo.gl/PBCyd8 
+Istanbul: http://goo.gl/9oD3cm 
+Nashville: http://goo.gl/rvsDXh 
+Tucson: http://goo.gl/RD8c3u 
+DEC 17 PRIMARY SITES: 
+Buenos Aires: http://goo.gl/BDcLTZ 
+San Francisco: http://goo.gl/plCBZL
+REMOTE SITES: 
+Rio de Janeiro: http://goo.gl/EeuyO4 
+San Diego: http://goo.gl/uqmCci 
+Santiago: http://goo.gl/BE71fV 
+Sao Paulo: http://goo.gl/AnJNro ](https://lh4.googleusercontent.com/-GDPTPEl1iz0/UnVtC8Q72VI/AAAAAAAAXoA/5_x5XjDb0Ws/w1024-h768/13magnusnov2-5.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/MKnnFP7Ab78](https://plus.google.com/+NianticProject/posts/MKnnFP7Ab78)

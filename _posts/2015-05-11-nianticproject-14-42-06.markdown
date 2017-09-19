@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-05-11 14:42:06 +0900"
+date:   2015-05-11 14:42:06 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") looks into the details around +[Carrie Campbell](https://plus.google.com/101180225942784917383 "")'s death.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@439, :value=>"shared"@446}], :children=>["<br />", "<h2>Hank Johnson</h2>", "The Disposition of ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101180225942784917383\" oid=\"101180225942784917383\">Carrie Campbell</a>"], "'s corpse was even more mysterious.", "<br />", "<br />", "P. A. Chapeau was the last person known to me who saw it.  A graphic image created by ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106965960712090580437\" oid=\"106965960712090580437\">Tycho C.</a>"], " is the only known image of her corpse in a morgue in Chicago.", "<br />", "<br />", "I checked the records. Carrie’s death is listed as suicide by unknown cause and technically remains a cold case with the CPD. I inquired where she had been buried or cremated. Somehow, 'the bureaucracy' had managed to 'misplace' that information. Big surprise.", "<br />", "<br />", "There is no active investigation despite the unusual circumstances of her death and the events leading up to it.  I’m not blaming the police. Not every mystery is solve-able and those within the Niantic Investigation are probably better equipped to understand the true nature of this case than a conventional police force anyway.  ", "<br />", "<br />", "It should be noted that her death happened at approximately the same time as the incident that led to Klue and ADA become a unified mind. It was when we were just beginning to learn about Glyphs and their power. There was both opportunity and fear in the air.", "<br />", "<br />", "The events during the Teeth of the Hydra era of the investigation are seeming very relevant to both my investigation today and to other recent events (particularly Loeb’s attempt to separate Klue and ADA’s minds.)", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 870940090670180480870880580701801580280680111250280601470370](https://lh3.googleusercontent.com/-bjI_-JQapuM/VVA_SSh4HFI/AAAAAAAACvw/gcm44wW4js0/w400-h297/Carrie.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/M2r9JKYaefd](https://plus.google.com/+NianticProject/posts/M2r9JKYaefd)

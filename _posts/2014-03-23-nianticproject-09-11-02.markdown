@@ -1,0 +1,158 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-23 09:11:02 +0900"
+date:   2014-03-23 09:11:02 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  06
+
+Congratulations to the Resistance for capturing  [#Recursion](https://plus.google.com/s/%23Recursion "")  06.  They swept Boulder, Boise, and Provo.  
+
+The Enlightened still have one more opportunity to come through for Hank Johnson next week, however.  
+
+I am curious what the outcome will be whatever the result.  
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@493, :value=>"shared"@500}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b>The Resistance capture </b>", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> 06</b>", "<br />", "<br />", "The Resistance capture Boulder, Boise, and Provo Anomaly Sites, and will soon continue working to secure the XM Artifacts for ADA. The Enlightened's last remaining opportunities to secure the Artifacts for ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " come on SAT MAR 29:", "<br />", "<br />", "<b>MAR 29 PRIMARY:</b>", " ", "<br />", "Berlin, Germany ", "<a href=\"http://goo.gl/2jsTfL\" class=\"ot-anchor\">http://goo.gl/2jsTfL</a>", "<br />", "Los Angeles, CA ", "<a href=\"http://goo.gl/2eawGc\" class=\"ot-anchor\">http://goo.gl/2eawGc</a>", "<br />", "<br />", "<b>SATELLITE:</b>", " ", "<br />", "Brussels, Belgium ", "<a href=\"http://goo.gl/dWsSNO\" class=\"ot-anchor\">http://goo.gl/dWsSNO</a>", "<br />", "Nantes, France ", "<a href=\"http://goo.gl/uo3MQo\" class=\"ot-anchor\">http://goo.gl/uo3MQo</a>", " ", "<br />", "Oakland, CA ", "<a href=\"http://goo.gl/IQGE3x\" class=\"ot-anchor\">http://goo.gl/IQGE3x</a>", "<br />", "Spokane, WA ", "<a href=\"http://goo.gl/9Zwl4B\" class=\"ot-anchor\">http://goo.gl/9Zwl4B</a>", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 1,079</b>", "<br />", "Total for Enlightened this Anomaly = 616", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - BOULDER - Measurement 4 Report</b>", "<br />", "<br />", "<b>The Resistance owned 3 Volatile Portals and 18 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 1 Volatile Portals and 4 Non-Volatile Portals", "<br />", "<br />", "<b>The Resistance had 14 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>The Enlightened controlled AM01-FOXTROT-05, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (50)</b>", "<br />", "<br />", "<b>The Resistance controlled the Global Score, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (100)</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 266</b>", "<br />", "Total for Enlightened this Measurement = 78", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 596</b>", "<br />", "Total for Enlightened this Anomaly = 438", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Bolder Boulder Mural (VOLATILE) - Enlightened", "<br />", "Boulder Masonic Lodge (VOLATILE) - Neutral", "<br />", "Compass Rock (VOLATILE) - Resistance", "<br />", "Mapleton Hill Marker with Stone (VOLATILE) - Resistance", "<br />", "Artistic Tree Stump Bench (VOLATILE) - Resistance", "<br />", "Babbling Old Man - Enlightened", "<br />", "Bohemian Biergarten - Enlightened", "<br />", "First Congregational Church - Enlightened", "<br />", "Arnett-Fullen - Enlightened", "<br />", "Boulder National State Bank Cl - Neutral", "<br />", "The Carnegie Branch Library for Local History - Neutral", "<br />", "Courthouse, Boulder, CO - Neutral", "<br />", "Rock Sculpture Pearl Street Ma - Neutral", "<br />", "Pearl Street Panel 6 - Neutral", "<br />", "Messenger of the Skies Sculptu - Neutral", "<br />", "Pearl Street Panel - Neutral", "<br />", "Press Play Cherry Sign - Neutral", "<br />", "Squires-Tourtellot House - Resistance", "<br />", "Time Capsule 2096   - Resistance", "<br />", "Boulder County Justice Center - Resistance", "<br />", "Pearl Street Panel 4 - Resistance", "<br />", "May Peace Prevail on Earth - Resistance", "<br />", "Trident Booksellers - Resistance", "<br />", "University Bicycles  - Resistance", "<br />", "Boy and Dog Statue - Resistance", "<br />", "Trinity Lutheran Church - Resistance", "<br />", "Beaver Goren Memorial Bench - Resistance", "<br />", "Alley Art Collection - Resistance", "<br />", "Gold Miner Sculpture - Resistance", "<br />", "Nomad - Resistance", "<br />", "Hearts on a Swing Sculpture - Resistance", "<br />", "Canyon Pointe Park - Resistance", "<br />", "Pearl Street Panel 3 - Resistance", "<br />", "Love Heart Sculpture - Resistance", "<br />", "Civil War Monument - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - BOISE - Measurement 4 Report</b>", "<br />", "<br />", "<b>The Resistance owned 3 Volatile Portals and 10 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 0 Volatile Portals and 3 Non-Volatile Portals", "<br />", "<br />", "<b>Total for Resistance this Measurement = 40</b>", "<br />", "Total for Enlightened this Measurement = 3", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 231</b>", "<br />", "Total for Enlightened this Anomaly = 134", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "City Hall Fountain (VOLATILE) - Neutral", "<br />", "Regen Water Fountain (VOLATILE) - Neutral", "<br />", "Lincoln Gettysburg  (VOLATILE) - Resistance", "<br />", "Totem Poles (VOLATILE) - Resistance", "<br />", "Egyptian Theater (VOLATILE) - Resistance", "<br />", "The Grove - Enlightened", "<br />", "Desert Storm Memorial - Enlightened", "<br />", "Frank Steunenberg Monument - Enlightened", "<br />", "Union Block - Neutral", "<br />", "Boise City National Bank building - Neutral", "<br />", "West Bannock Street Post Office - Neutral", "<br />", "Goldy's Breakfast - Neutral", "<br />", "Idaho Blueprint and Supply Co. - Neutral", "<br />", "Jones and Company Troy Bell - Neutral", "<br />", "Street Art: Where You Are - Neutral", "<br />", "Basque Mural - Neutral", "<br />", "Laiak Artwork - Neutral", "<br />", "Cyrus Jacobs / Uberuaga House - Neutral", "<br />", "Zions Bank Clock  - Neutral", "<br />", "Wells Fargo Statue - Neutral", "<br />", "1867 - Neutral", "<br />", "Keepsies - Neutral", "<br />", "Homage to the Pedestrian - Neutral", "<br />", "Boise River Sculpture - Neutral", "<br />", "Les Bois - Neutral", "<br />", "Iron Artwork - Neutral", "<br />", "George Washington Flag Pole - Neutral", "<br />", "Tubular Array - Neutral", "<br />", "The Basque Museum &amp; Cultural Centre - Neutral", "<br />", "\"I've Heard\" Transit Shelter Art - Neutral", "<br />", "Great Blues Art - Neutral", "<br />", "Pioneer Tent Building - Neutral", "<br />", "Garage Art - Neutral", "<br />", "Traffic Jam on Bannock and Capitol - Neutral", "<br />", "Idaho Trout Art - Resistance", "<br />", "Hospitality of the Nez Perce S - Resistance", "<br />", "Jamba Juice Capital Terrace - Resistance", "<br />", "Stearns Ultimate Car - Resistance", "<br />", "Spacebar Sign - Resistance", "<br />", "First Computer in Boise  - Resistance", "<br />", "Animal Lover - Resistance", "<br />", "Electric Jelly - Resistance", "<br />", "The Old Telephone Building - Resistance", "<br />", "Old Boise 6th and Main Mural - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - PROVO - Measurement 4 Report</b>", "<br />", "<br />", "<b>The Resistance owned 5 Volatile Portals and 8 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 0 Volatile Portals and 2 Non-Volatile Portals", "<br />", "<br />", "<b>The Resistance had 3 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 64</b>", "<br />", "Total for Enlightened this Measurement = 2", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 252</b>", "<br />", "Total for Enlightened this Anomaly = 44", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 4:47 (Minutes:Seconds past the hour)", "<br />", "Padded: tanyEdqzhrLshVgal 4:47 spfxEqqxxkowz", "<br />", "MD5 of Padded String: e2e3dc9246add870ec192e66e7b806fb", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Provo Indian War Vet Statue (VOLATILE) - Resistance", "<br />", "Covey Center for the Arts (VOLATILE) - Resistance", "<br />", "Ivy Tower (VOLATILE) - Resistance", "<br />", "Earthmovers (VOLATILE) - Resistance", "<br />", "Friendship Tree (VOLATILE) - Resistance", "<br />", "Prince of Okavango - Enlightened", "<br />", "Provo Splash Pad - Enlightened", "<br />", "Brigham Young Academy - Neutral", "<br />", "Pioneer Park Marker - Neutral", "<br />", "Historic Downtown Provo - Neutral", "<br />", "Octagon House Historical Marker - Resistance", "<br />", "Provo Fire Department - Resistance", "<br />", "Time Capsule - Resistance", "<br />", "The Freedom Tree - Resistance", "<br />", "Veterans Plaque - Resistance", "<br />", "Historic Hines Mansion - Resistance", "<br />", "First Lds Seminary Building in Provo - Resistance", "<br />", "Great Salt Lake Guitar Company - Resistance", "<br />", "<br />"], :ignore=>true}}
+[#### photo: The Resistance capture #Recursion 06
+The Resistance capture Boulder, Boise, and Provo Anomaly Sites, and will soon continue working to secure the XM Artifacts for ADA. The Enlightened's last remaining opportunities to secure the Artifacts for +Hank Johnson come on SAT MAR 29:
+MAR 29 PRIMARY: 
+Berlin, Germany http://goo.gl/2jsTfL
+Los Angeles, CA http://goo.gl/2eawGc
+SATELLITE: 
+Brussels, Belgium http://goo.gl/dWsSNO
+Nantes, France http://goo.gl/uo3MQo 
+Oakland, CA http://goo.gl/IQGE3x
+Spokane, WA http://goo.gl/9Zwl4B
+Total for Resistance this Anomaly = 1,079
+Total for Enlightened this Anomaly = 616
+#Recursion - BOULDER - Measurement 4 Report
+The Resistance owned 3 Volatile Portals and 18 Non-Volatile Portals
+The Enlightened owned 1 Volatile Portals and 4 Non-Volatile Portals
+The Resistance had 14 Links standing at Measurement Time
+The Enlightened controlled AM01-FOXTROT-05, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (50)
+The Resistance controlled the Global Score, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (100)
+Total for Resistance this Measurement = 266
+Total for Enlightened this Measurement = 78
+Total for Resistance this Anomaly = 596
+Total for Enlightened this Anomaly = 438
+Portal Ownership Details:
+Bolder Boulder Mural (VOLATILE) - Enlightened
+Boulder Masonic Lodge (VOLATILE) - Neutral
+Compass Rock (VOLATILE) - Resistance
+Mapleton Hill Marker with Stone (VOLATILE) - Resistance
+Artistic Tree Stump Bench (VOLATILE) - Resistance
+Babbling Old Man - Enlightened
+Bohemian Biergarten - Enlightened
+First Congregational Church - Enlightened
+Arnett-Fullen - Enlightened
+Boulder National State Bank Cl - Neutral
+The Carnegie Branch Library for Local History - Neutral
+Courthouse, Boulder, CO - Neutral
+Rock Sculpture Pearl Street Ma - Neutral
+Pearl Street Panel 6 - Neutral
+Messenger of the Skies Sculptu - Neutral
+Pearl Street Panel - Neutral
+Press Play Cherry Sign - Neutral
+Squires-Tourtellot House - Resistance
+Time Capsule 2096   - Resistance
+Boulder County Justice Center - Resistance
+Pearl Street Panel 4 - Resistance
+May Peace Prevail on Earth - Resistance
+Trident Booksellers - Resistance
+University Bicycles  - Resistance
+Boy and Dog Statue - Resistance
+Trinity Lutheran Church - Resistance
+Beaver Goren Memorial Bench - Resistance
+Alley Art Collection - Resistance
+Gold Miner Sculpture - Resistance
+Nomad - Resistance
+Hearts on a Swing Sculpture - Resistance
+Canyon Pointe Park - Resistance
+Pearl Street Panel 3 - Resistance
+Love Heart Sculpture - Resistance
+Civil War Monument - Resistance
+#Recursion - BOISE - Measurement 4 Report
+The Resistance owned 3 Volatile Portals and 10 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 3 Non-Volatile Portals
+Total for Resistance this Measurement = 40
+Total for Enlightened this Measurement = 3
+Total for Resistance this Anomaly = 231
+Total for Enlightened this Anomaly = 134
+Portal Ownership Details:
+City Hall Fountain (VOLATILE) - Neutral
+Regen Water Fountain (VOLATILE) - Neutral
+Lincoln Gettysburg  (VOLATILE) - Resistance
+Totem Poles (VOLATILE) - Resistance
+Egyptian Theater (VOLATILE) - Resistance
+The Grove - Enlightened
+Desert Storm Memorial - Enlightened
+Frank Steunenberg Monument - Enlightened
+Union Block - Neutral
+Boise City National Bank building - Neutral
+West Bannock Street Post Office - Neutral
+Goldy's Breakfast - Neutral
+Idaho Blueprint and Supply Co. - Neutral
+Jones and Company Troy Bell - Neutral
+Street Art: Where You Are - Neutral
+Basque Mural - Neutral
+Laiak Artwork - Neutral
+Cyrus Jacobs / Uberuaga House - Neutral
+Zions Bank Clock  - Neutral
+Wells Fargo Statue - Neutral
+1867 - Neutral
+Keepsies - Neutral
+Homage to the Pedestrian - Neutral
+Boise River Sculpture - Neutral
+Les Bois - Neutral
+Iron Artwork - Neutral
+George Washington Flag Pole - Neutral
+Tubular Array - Neutral
+The Basque Museum &amp; Cultural Centre - Neutral
+"I've Heard" Transit Shelter Art - Neutral
+Great Blues Art - Neutral
+Pioneer Tent Building - Neutral
+Garage Art - Neutral
+Traffic Jam on Bannock and Capitol - Neutral
+Idaho Trout Art - Resistance
+Hospitality of the Nez Perce S - Resistance
+Jamba Juice Capital Terrace - Resistance
+Stearns Ultimate Car - Resistance
+Spacebar Sign - Resistance
+First Computer in Boise  - Resistance
+Animal Lover - Resistance
+Electric Jelly - Resistance
+The Old Telephone Building - Resistance
+Old Boise 6th and Main Mural - Resistance
+#Recursion - PROVO - Measurement 4 Report
+The Resistance owned 5 Volatile Portals and 8 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 2 Non-Volatile Portals
+The Resistance had 3 Links standing at Measurement Time
+Total for Resistance this Measurement = 64
+Total for Enlightened this Measurement = 2
+Total for Resistance this Anomaly = 252
+Total for Enlightened this Anomaly = 44
+Measurement Time Details:
+Original: 4:47 (Minutes:Seconds past the hour)
+Padded: tanyEdqzhrLshVgal 4:47 spfxEqqxxkowz
+MD5 of Padded String: e2e3dc9246add870ec192e66e7b806fb
+Portal Ownership Details:
+Provo Indian War Vet Statue (VOLATILE) - Resistance
+Covey Center for the Arts (VOLATILE) - Resistance
+Ivy Tower (VOLATILE) - Resistance
+Earthmovers (VOLATILE) - Resistance
+Friendship Tree (VOLATILE) - Resistance
+Prince of Okavango - Enlightened
+Provo Splash Pad - Enlightened
+Brigham Young Academy - Neutral
+Pioneer Park Marker - Neutral
+Historic Downtown Provo - Neutral
+Octagon House Historical Marker - Resistance
+Provo Fire Department - Resistance
+Time Capsule - Resistance
+The Freedom Tree - Resistance
+Veterans Plaque - Resistance
+Historic Hines Mansion - Resistance
+First Lds Seminary Building in Provo - Resistance
+Great Salt Lake Guitar Company - Resistance](https://lh5.googleusercontent.com/-af592QXPvAY/Uy4fVv24ViI/AAAAAAAAofQ/J49lu1H7Ebw/w2048-h1153/IMG_20140322_163036235.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/TQhcTFbww9T](https://plus.google.com/+NianticProject/posts/TQhcTFbww9T)

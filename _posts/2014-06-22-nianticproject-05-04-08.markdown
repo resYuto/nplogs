@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-22 05:04:08 +0900"
+date:   2014-06-22 05:04:08 +0900
+categories: nianticproject
+---
+[#Interitus](https://plus.google.com/s/%23Interitus "")  06
+
+Here are the C4 Volatiles for Gettysburg, Hoboken, and Jacksonville.  
+
+Good luck in the last Cluster of Agents.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@232, :value=>"shared"@239}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 06 - GETTYSBURG, HOBOKEN, JACKSONVILLE - C4 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/dJEF6B\" class=\"ot-anchor\">http://goo.gl/dJEF6B</a>", "<br />", "<br />", "MD5: 6e811343b0ff35a2813184db95f1d4ba", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115854324145253887646\" oid=\"115854324145253887646\">Jackie R.</a>"], " in Hoboken.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh5.googleusercontent.com/-xmtTyLN5AR0/U6XjyWHQuJI/AAAAAAAA1tA/lKOeTYkB5v8/hoboken.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/V1eG9sst3x7](https://plus.google.com/+NianticProject/posts/V1eG9sst3x7)

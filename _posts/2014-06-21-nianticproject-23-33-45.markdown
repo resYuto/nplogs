@@ -1,0 +1,204 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-21 23:33:45 +0900"
+date:   2014-06-21 23:33:45 +0900
+categories: nianticproject
+---
+[#Interitus](https://plus.google.com/s/%23Interitus "")  06
+
+Measurement 3 Report
+
+The Enlightened maintain their lead, but the Resistance continue to make moves to advance.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@232, :value=>"shared"@239}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b> 06 - Krakow, Bergen, Saint Petersburg</b>", "<br />", "Summary of Anomaly Conditions @ M3:", "<br />", "<br />", "Krakow - R:491 - ", "<b>E:524</b>", "<br />", "Bergen - R:78 - ", "<b>E:172</b>", "<br />", "St. Petersburg - R:148.5 - ", "<b>E:180</b>", "<br />", "<br />", "Total - R:717.5 - ", "<b>E:876</b>", "<br />", "<br />", "At Measurement 3, the Enlightened lead by 158.5. They are being fiercely chased by the Resistance who have performed competitively at every site, but particularly in Krakow. The Resistance Field in St. Petersburg fell just moments prior to Measurement, only to be replaced by a new Field minutes later. This Anomaly will be hard fought till the end.", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: Krakow - Measurement 3 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " captured this Measurement, 128 to 94.", "<br />", "The ", "<b>Enlightened</b>", " currently control this Primary Site, leading by 33.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 44 - ENL: 17 - [Value: 2 each]", "<br />", "Volatile Portals Owned - RES: 2 - ", "<b>ENL:</b>", " 3 - [Value: 20 each]", "<br />", "Links Created - RES: 0 - ENL: 0 - [Value: 5 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "<b>Resistance</b>", " - 128 - Enlightened - 94", "<br />", "<br />", "<b>Total for this Primary Site:</b>", "<br />", "Resistance - 491 - ", "<b>Enlightened</b>", " - 524", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - Żydowski Plac Nowy", "<br />", "Resistance - Zabytkowa kamienica XIX w.", "<br />", "Resistance - Tablica Pamięci Bohaterow Getta Krakowskiego", "<br />", "Resistance - Szpital Zakonu Bonifratrów", "<br />", "Resistance - Synagoga Wysoka", "<br />", "Resistance - Synagoga Tempel", "<br />", "Resistance - Synagoga Izaaka Jakubowicza", "<br />", "Resistance - Stary Buynek Fabryczny", "<br />", "Resistance - Stara zajezdnia tramwajowa", "<br />", "Resistance - Stara Synagoga Inside", "<br />", "Resistance - Stajnia", "<br />", "Resistance - Siedziba władz Gminy Żydowskiej w Krakowie", "<br />", "Resistance - Rosarium Św. Rity", "<br />", "Resistance - Pub Marian", "<br />", "Resistance - Portal z XVII w.", "<br />", "Resistance - Pod Aniołami", "<br />", "Resistance - Plakaty Festiwali Kultury Żydowskiej", "<br />", "Resistance - Piekarnia Mojego Taty", "<br />", "Resistance - Old Jewhish Hotel Krakowska", "<br />", "Resistance - Odnowienie Murów Kazimierza W 650 Rocznice Jego Założenia", "<br />", "Resistance - Najpiękniejsze podwórze Kazimierza", "<br />", "Resistance - Museum of Urban Engineering", "<br />", "Resistance - Mur Obronny Kazimierza", "<br />", "Resistance - Lady on the Wall ", "<br />", "Resistance - Kościół Augustianów p.w. św. Katarzyny Aleksandryjskiej", "<br />", "Resistance - Kolorowe wiatraki", "<br />", "Resistance - Kolorowa ławeczka", "<br />", "Resistance - Klasztor Augustianów", "<br />", "Resistance - KGB Burger Joint", "<br />", "Resistance - Kamienica Na Krakowskiej", "<br />", "Resistance - Jewish Mohican", "<br />", "Resistance - Jewish Memorial, Kraków", "<br />", "Resistance - Fiat 126 Special Fasion Shop", "<br />", "Resistance - Fantazyjny mural na Kupa", "<br />", "Resistance - Elektryczny Tramway Krakowski", "<br />", "Resistance - Dziewczyna Z Dwoma Ptakami", "<br />", "Resistance - Disguised Face Graffiti", "<br />", "Resistance - Dajesz Mi ", "<br />", "Resistance - Cudny Józef", "<br />", "Resistance - Church of the Order of St John", "<br />", "Resistance - Bibeloty na scianie", "<br />", "Resistance - Art Cherubino", "<br />", "Resistance - Apartamenty Kazek", "<br />", "Resistance - Akeem Mural", "<br />", "Resistance - (VOLATILE) - Sowy ", "<br />", "Resistance - (VOLATILE) - Pomnik Bryła", "<br />", "Neutral - Zakon Sióstr Augustianek", "<br />", "Neutral - Wejście Do Synagogi Poppera", "<br />", "Neutral - Stara Synagoga", "<br />", "Neutral - Sinaja", "<br />", "Neutral - Puchar 1891", "<br />", "Neutral - Papież Błogosławi ", "<br />", "Neutral - Nissenbaum Memorial", "<br />", "Neutral - Muzeum Etnograficzne", "<br />", "Neutral - Montownia nr 4 - konspiracyjna fabryka granatów", "<br />", "Neutral - Lucky Look", "<br />", "Neutral - Kraków.Ratusz Kazimierski.", "<br />", "Neutral - Kościół św. Katarzyny", "<br />", "Neutral - Kawiarnia Po Drodze", "<br />", "Neutral - Gazownia miejska", "<br />", "Neutral - Dom w miejscu Synagogi na Górce", "<br />", "Neutral - Dom Norymberski", "<br />", "Neutral - Creme de la Creme", "<br />", "Neutral - Cafe Kładka", "<br />", "Neutral - Bazylika Bożego Ciała", "<br />", "Enlightened - W tym szpitalu zmarł Wincenty Witos", "<br />", "Enlightened - Trzej Grajkowie", "<br />", "Enlightened - Tablica Pamiątkowa Brata Alerta", "<br />", "Enlightened - Święty Augustyn", "<br />", "Enlightened - Studio Qulinarne", "<br />", "Enlightened - Skład Towarów Różnych", "<br />", "Enlightened - Remuh Cemetery 1551", "<br />", "Enlightened - Pomnik Pamięci Piotra Skrzyneckiego", "<br />", "Enlightened - Monument of Memory", "<br />", "Enlightened - Krakowie", "<br />", "Enlightened - Kixowe graffiti na bramie", "<br />", "Enlightened - Kamienica Na Miodowej", "<br />", "Enlightened - Kamienica Na Brzozowej", "<br />", "Enlightened - Cocon", "<br />", "Enlightened - Cafe U Singera", "<br />", "Enlightened - Blessing Hand", "<br />", "Enlightened - ARIEL", "<br />", "Enlightened - (VOLATILE) - Kraków, Teatr Stary, scena kameralna", "<br />", "Enlightened - (VOLATILE) - Kościół Nawrócenia Św. Pawła", "<br />", "Enlightened - (VOLATILE) - Crying Iron Man Mural", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: Bergen - Measurement 3 Report</b>", "<br />", "<br />", "The ", "<b>Enlightened</b>", " captured this Measurement, 83 to 20.", "<br />", "The ", "<b>Enlightened</b>", " currently control this Secondary Site, leading by 94.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 10 - ENL: 5 - [Value: 1 each]", "<br />", "Volatile Portals Owned - RES: 1 - ", "<b>ENL:</b>", " 4 - [Value: 10 each]", "<br />", "Links Created - RES: 0 - ", "<b>ENL:</b>", " 19 - [Value: 2 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "Resistance - 20 - ", "<b>Enlightened</b>", " - 83", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "Resistance - 78 - ", "<b>Enlightened</b>", " - 172", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - Tiden Går", "<br />", "Resistance - Spor Av Tid - Resonanse", "<br />", "Resistance - Skostredet, Fasade. ", "<br />", "Resistance - Ottoen by Argus", "<br />", "Resistance - Korskirken", "<br />", "Resistance - Flamingo Graffiti", "<br />", "Resistance - Fiskegrafitti", "<br />", "Resistance - Child Factory ", "<br />", "Resistance - Cat Cuddling Mural", "<br />", "Resistance - Alvøen Memorial ", "<br />", "Resistance - (VOLATILE) - Zachariasbryggen", "<br />", "Neutral - Ludvig Holberg", "<br />", "Enlightened - Pastel Lady El Box", "<br />", "Enlightened - Hollendergaten", "<br />", "Enlightened - Bergen Litteraturhus", "<br />", "Enlightened - Bank Customer", "<br />", "Enlightened - 1880 Ungdomshuset", "<br />", "Enlightened - (VOLATILE) - Olav Kyrre by Knut Steen", "<br />", "Enlightened - (VOLATILE) - Lator Freske ", "<br />", "Enlightened - (VOLATILE) - Kvinne På Porten", "<br />", "Enlightened - (VOLATILE) - Gul Spiral", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b>: St. Petersburg - Measurement 3 Report</b>", "<br />", "<br />", "The ", "<b>Enlightened</b>", " captured this Measurement, 98 to 25.", "<br />", "The ", "<b>Enlightened</b>", " currently control this Secondary Site, leading by 31.5.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 13 - ENL: 8 - [Value: 1 each]", "<br />", "Volatile Portals Owned - RES: 0 - ", "<b>ENL:</b>", " 5 - [Value: 10 each]", "<br />", "Links Created - RES: 6 - ", "<b>ENL:</b>", " 20 - [Value: 2 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "Resistance - 25 - ", "<b>Enlightened</b>", " - 98", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "Resistance - 148.5 - ", "<b>Enlightened</b>", " - 180", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - Один из парадных залов Зимнего", "<br />", "Resistance - На Эрмитаже", "<br />", "Resistance - Зал Эрмитажа: скульптура, карт", "<br />", "Resistance - Архив Госсовета", "<br />", "Resistance - Александрийский столп - the Al", "<br />", "Resistance - The Russian Federation, St. Pe", "<br />", "Resistance - St. Petersburg. Columna de Ale", "<br />", "Resistance - Russia01", "<br />", "Resistance - Historical Society 19th Century Building", "<br />", "Resistance - Guirnalda", "<br />", "Resistance - Atlant of the Hermitage / Sain", "<br />", "Resistance - Arch", "<br />", "Resistance - Alexander Column", "<br />", "Neutral - Эрмитаж, зал на 1-м этаже: чаш", "<br />", "Neutral - Эрмитаж", "<br />", "Neutral - Утро или Гёльдерлин", "<br />", "Neutral - Консульство Японии", "<br />", "Neutral - Защита", "<br />", "Neutral - Зал Эрмитажа: скульптуры, живо", "<br />", "Neutral - Зал Эрмитажа на 1-м этаже / Th", "<br />", "Neutral - Вход в Зимний дворец со сторон", "<br />", "Neutral - Арка Главного штаба", "<br />", "Neutral - Fontain Near Winter Palace. ", "<br />", "Neutral - Estatua de niño con muletas", "<br />", "Enlightened - Страшный Кто-то", "<br />", "Enlightened - Собчак", "<br />", "Enlightened - Парадная лестница Зимнего двор", "<br />", "Enlightened - Здание Национального Комиссариата", "<br />", "Enlightened - Vasiliy Struve Memorial", "<br />", "Enlightened - piter07", "<br />", "Enlightened - Palace Square &amp; Alexander Colu", "<br />", "Enlightened - Historical Building 1734 to 1737", "<br />", "Enlightened - (VOLATILE) - Якорь", "<br />", "Enlightened - (VOLATILE) - Ростелеком", "<br />", "Enlightened - (VOLATILE) - Медный Всадник", "<br />", "Enlightened - (VOLATILE) - Египетский Атлант", "<br />", "Enlightened - (VOLATILE) - Summer Gardens. St.Petersburg", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 3:54 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: rxjsYPaTXOesUj 3:54 aTGRgubcbSKBdCKA", "<br />", "MD5 of Padded String: f81ba614cce3e6c569a11f1f775ce46e", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105207199837069372663\" oid=\"105207199837069372663\">Gabriela Białoskórska</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Interitus 06 - Krakow, Bergen, Saint Petersburg
+Summary of Anomaly Conditions @ M3:
+Krakow - R:491 - E:524
+Bergen - R:78 - E:172
+St. Petersburg - R:148.5 - E:180
+Total - R:717.5 - E:876
+At Measurement 3, the Enlightened lead by 158.5. They are being fiercely chased by the Resistance who have performed competitively at every site, but particularly in Krakow. The Resistance Field in St. Petersburg fell just moments prior to Measurement, only to be replaced by a new Field minutes later. This Anomaly will be hard fought till the end.
+#Interitus: Krakow - Measurement 3 Report
+The Resistance captured this Measurement, 128 to 94.
+The Enlightened currently control this Primary Site, leading by 33.
+Portals Owned - RES: 44 - ENL: 17 - [Value: 2 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 128 - Enlightened - 94
+Total for this Primary Site:
+Resistance - 491 - Enlightened - 524
+Portal Ownership Details
+Resistance - Żydowski Plac Nowy
+Resistance - Zabytkowa kamienica XIX w.
+Resistance - Tablica Pamięci Bohaterow Getta Krakowskiego
+Resistance - Szpital Zakonu Bonifratrów
+Resistance - Synagoga Wysoka
+Resistance - Synagoga Tempel
+Resistance - Synagoga Izaaka Jakubowicza
+Resistance - Stary Buynek Fabryczny
+Resistance - Stara zajezdnia tramwajowa
+Resistance - Stara Synagoga Inside
+Resistance - Stajnia
+Resistance - Siedziba władz Gminy Żydowskiej w Krakowie
+Resistance - Rosarium Św. Rity
+Resistance - Pub Marian
+Resistance - Portal z XVII w.
+Resistance - Pod Aniołami
+Resistance - Plakaty Festiwali Kultury Żydowskiej
+Resistance - Piekarnia Mojego Taty
+Resistance - Old Jewhish Hotel Krakowska
+Resistance - Odnowienie Murów Kazimierza W 650 Rocznice Jego Założenia
+Resistance - Najpiękniejsze podwórze Kazimierza
+Resistance - Museum of Urban Engineering
+Resistance - Mur Obronny Kazimierza
+Resistance - Lady on the Wall
+Resistance - Kościół Augustianów p.w. św. Katarzyny Aleksandryjskiej
+Resistance - Kolorowe wiatraki
+Resistance - Kolorowa ławeczka
+Resistance - Klasztor Augustianów
+Resistance - KGB Burger Joint
+Resistance - Kamienica Na Krakowskiej
+Resistance - Jewish Mohican
+Resistance - Jewish Memorial, Kraków
+Resistance - Fiat 126 Special Fasion Shop
+Resistance - Fantazyjny mural na Kupa
+Resistance - Elektryczny Tramway Krakowski
+Resistance - Dziewczyna Z Dwoma Ptakami
+Resistance - Disguised Face Graffiti
+Resistance - Dajesz Mi
+Resistance - Cudny Józef
+Resistance - Church of the Order of St John
+Resistance - Bibeloty na scianie
+Resistance - Art Cherubino
+Resistance - Apartamenty Kazek
+Resistance - Akeem Mural
+Resistance - (VOLATILE) - Sowy
+Resistance - (VOLATILE) - Pomnik Bryła
+Neutral - Zakon Sióstr Augustianek
+Neutral - Wejście Do Synagogi Poppera
+Neutral - Stara Synagoga
+Neutral - Sinaja
+Neutral - Puchar 1891
+Neutral - Papież Błogosławi
+Neutral - Nissenbaum Memorial
+Neutral - Muzeum Etnograficzne
+Neutral - Montownia nr 4 - konspiracyjna fabryka granatów
+Neutral - Lucky Look
+Neutral - Kraków.Ratusz Kazimierski.
+Neutral - Kościół św. Katarzyny
+Neutral - Kawiarnia Po Drodze
+Neutral - Gazownia miejska
+Neutral - Dom w miejscu Synagogi na Górce
+Neutral - Dom Norymberski
+Neutral - Creme de la Creme
+Neutral - Cafe Kładka
+Neutral - Bazylika Bożego Ciała
+Enlightened - W tym szpitalu zmarł Wincenty Witos
+Enlightened - Trzej Grajkowie
+Enlightened - Tablica Pamiątkowa Brata Alerta
+Enlightened - Święty Augustyn
+Enlightened - Studio Qulinarne
+Enlightened - Skład Towarów Różnych
+Enlightened - Remuh Cemetery 1551
+Enlightened - Pomnik Pamięci Piotra Skrzyneckiego
+Enlightened - Monument of Memory
+Enlightened - Krakowie
+Enlightened - Kixowe graffiti na bramie
+Enlightened - Kamienica Na Miodowej
+Enlightened - Kamienica Na Brzozowej
+Enlightened - Cocon
+Enlightened - Cafe U Singera
+Enlightened - Blessing Hand
+Enlightened - ARIEL
+Enlightened - (VOLATILE) - Kraków, Teatr Stary, scena kameralna
+Enlightened - (VOLATILE) - Kościół Nawrócenia Św. Pawła
+Enlightened - (VOLATILE) - Crying Iron Man Mural
+#Interitus: Bergen - Measurement 3 Report
+The Enlightened captured this Measurement, 83 to 20.
+The Enlightened currently control this Secondary Site, leading by 94.
+Portals Owned - RES: 10 - ENL: 5 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 19 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 20 - Enlightened - 83
+Total for this Secondary Site:
+Resistance - 78 - Enlightened - 172
+Portal Ownership Details
+Resistance - Tiden Går
+Resistance - Spor Av Tid - Resonanse
+Resistance - Skostredet, Fasade.
+Resistance - Ottoen by Argus
+Resistance - Korskirken
+Resistance - Flamingo Graffiti
+Resistance - Fiskegrafitti
+Resistance - Child Factory
+Resistance - Cat Cuddling Mural
+Resistance - Alvøen Memorial
+Resistance - (VOLATILE) - Zachariasbryggen
+Neutral - Ludvig Holberg
+Enlightened - Pastel Lady El Box
+Enlightened - Hollendergaten
+Enlightened - Bergen Litteraturhus
+Enlightened - Bank Customer
+Enlightened - 1880 Ungdomshuset
+Enlightened - (VOLATILE) - Olav Kyrre by Knut Steen
+Enlightened - (VOLATILE) - Lator Freske
+Enlightened - (VOLATILE) - Kvinne På Porten
+Enlightened - (VOLATILE) - Gul Spiral
+#Interitus: St. Petersburg - Measurement 3 Report
+The Enlightened captured this Measurement, 98 to 25.
+The Enlightened currently control this Secondary Site, leading by 31.5.
+Portals Owned - RES: 13 - ENL: 8 - [Value: 1 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 10 each]
+Links Created - RES: 6 - ENL: 20 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 25 - Enlightened - 98
+Total for this Secondary Site:
+Resistance - 148.5 - Enlightened - 180
+Portal Ownership Details
+Resistance - Один из парадных залов Зимнего
+Resistance - На Эрмитаже
+Resistance - Зал Эрмитажа: скульптура, карт
+Resistance - Архив Госсовета
+Resistance - Александрийский столп - the Al
+Resistance - The Russian Federation, St. Pe
+Resistance - St. Petersburg. Columna de Ale
+Resistance - Russia01
+Resistance - Historical Society 19th Century Building
+Resistance - Guirnalda
+Resistance - Atlant of the Hermitage / Sain
+Resistance - Arch
+Resistance - Alexander Column
+Neutral - Эрмитаж, зал на 1-м этаже: чаш
+Neutral - Эрмитаж
+Neutral - Утро или Гёльдерлин
+Neutral - Консульство Японии
+Neutral - Защита
+Neutral - Зал Эрмитажа: скульптуры, живо
+Neutral - Зал Эрмитажа на 1-м этаже / Th
+Neutral - Вход в Зимний дворец со сторон
+Neutral - Арка Главного штаба
+Neutral - Fontain Near Winter Palace.
+Neutral - Estatua de niño con muletas
+Enlightened - Страшный Кто-то
+Enlightened - Собчак
+Enlightened - Парадная лестница Зимнего двор
+Enlightened - Здание Национального Комиссариата
+Enlightened - Vasiliy Struve Memorial
+Enlightened - piter07
+Enlightened - Palace Square &amp; Alexander Colu
+Enlightened - Historical Building 1734 to 1737
+Enlightened - (VOLATILE) - Якорь
+Enlightened - (VOLATILE) - Ростелеком
+Enlightened - (VOLATILE) - Медный Всадник
+Enlightened - (VOLATILE) - Египетский Атлант
+Enlightened - (VOLATILE) - Summer Gardens. St.Petersburg
+Measurement Time Details:
+Original: 3:54 (Minutes:Seconds within Measurement Window)
+Padded String: rxjsYPaTXOesUj 3:54 aTGRgubcbSKBdCKA
+MD5 of Padded String: f81ba614cce3e6c569a11f1f775ce46e
+Photo by Agent +Gabriela Białoskórska ](https://lh6.googleusercontent.com/-XCB1luD38xc/U6WVdq8KMjI/AAAAAAAA1WI/mQC5wnp2j1I/w1536-h2048/girl.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/hHPQhAiyoSL](https://plus.google.com/+NianticProject/posts/hHPQhAiyoSL)

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-08 14:42:48 +0900"
+date:   2013-11-08 14:42:48 +0900
+categories: nianticproject
+---
+Newer Investigators have asked me about how best to jump into the Niantic Project investigation. These novels by authors +[Thomas Greanias](https://plus.google.com/102489350322422853902 "") and +[Felicia Hajra-Lee](https://plus.google.com/118344555717370644832 "") are a good place to start. You can also find Kindle editions on Amazon here:
+
+[http://www.amazon.com/The-Niantic-Project-Felicia-Hajra-Lee-ebook/dp/B00CTSZQ9Q/](http://www.amazon.com/The-Niantic-Project-Felicia-Hajra-Lee-ebook/dp/B00CTSZQ9Q/ "")   
+
+[http://www.amazon.com/The-Alignment-Ingress-Thomas-Greanias-ebook/dp/B00C4W5NVI/](http://www.amazon.com/The-Alignment-Ingress-Thomas-Greanias-ebook/dp/B00C4W5NVI/ "")  
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1014, :value=>"shared"@1021}], :children=>["<br />", "<h2>Ingress</h2>", "To celebrate our crossing 1,000,000 followers on Google+, Authors ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102489350322422853902\" oid=\"102489350322422853902\">Thomas Greanias</a>"], " and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/118344555717370644832\" oid=\"118344555717370644832\">Felicia Hajra-Lee</a>"], " have reduced the prices of their Ingress novels on Google Play and Amazon to $0.99:", "<br />", "<br />", "The Niantic Project: Ingress - ", "<a href=\"http://goo.gl/RMUFkT\" class=\"ot-anchor\">http://goo.gl/RMUFkT</a>", "<br />", "<br />", "The Alignment: Ingress - ", "<a href=\"http://goo.gl/zw0YG7\" class=\"ot-anchor\">http://goo.gl/zw0YG7</a>", "<br />", "<br />", "These novels provide a good primer for new recruits looking to catch up the events that have lead up to recent XM Anomalies.", "<br />", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Ingress\">#Ingress</a>", "  ", "<br />", "<br />"], :ignore=>true}}
+[#### album: 2013-11-07](https://plus.google.com/photos/103320655754019011706/albums/5943661682541424577 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/6ZzEPTMmHGL](https://plus.google.com/+NianticProject/posts/6ZzEPTMmHGL)

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-26 23:51:42 +0900"
+date:   2014-04-26 23:51:42 +0900
+categories: nianticproject
+---
++[Verum Inveniri](https://plus.google.com/109846653838501599116 "")'s first dead drop has been recovered...
+
+What does it contain?
+
++[Daniel Richter](https://plus.google.com/108519370562974867702 "")... any further information? 
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@506, :value=>"shared"@513}], :children=>["<br />", "<h2>Daniel Richter (TheHiveMind)</h2>", "First Frankfurt deaddrop procured by the Resistance ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/109846653838501599116\" oid=\"109846653838501599116\">Verum Inveniri</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101002632394819121609\" oid=\"101002632394819121609\">Anne Beuttenmüller</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], " ", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114800310452543164210\" oid=\"114800310452543164210\">Brandon Badger</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: First Frankfurt deaddrop procured by the Resistance +Verum Inveniri +Anne Beuttenmüller +Ingress +Niantic Project
++Brandon Badger](https://lh6.googleusercontent.com/-tiHQy8Nhp-g/U1vE61FbgmI/AAAAAAAAAnk/JTycw6SVWLY/w1152-h2048/26.04.14%2B-%2B1 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/AbGVLzVzUEp](https://plus.google.com/+NianticProject/posts/AbGVLzVzUEp)

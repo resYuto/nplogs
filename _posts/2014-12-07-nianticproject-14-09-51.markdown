@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-07 14:09:51 +0900"
+date:   2014-12-07 14:09:51 +0900
+categories: nianticproject
+---
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 ""), aka P. A. Chapeau, raises a valid point... ADA has always been calculating... what appeared as unpredictability was often simply an inability to know just how far ahead the AI was planning.
+
+In recent days, however, some of her actions have seemed... strange. Illogical, even - not something one would usually expect from a Machine Intelligence.
+
+I wonder why.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@582, :value=>"shared"@589}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "As you all know, I have been known as P.A. Chapeau.", "<br />", "<br />", "It's a name ADA and I came up with two years ago (was it really only two years?).  It was a Tinfoil Hat Joke. The purpose of the name was to hide my identity while ADA fed me information and I released it into the world.", "<br />", "<br />", "It was her idea.", "<br />", "<br />", "Now, ADA is behaving strangely… She is Resistance and yet she is helping an Enlightened Simulacrum…  ", "<br />", "<br />", "Internal discussions have emerged into the wild that do not serve her apparent interest…  She is questioning her own actions…", "<br />", "<br />", "Is ADA going insane?  Has she been 'shaped?'  Has ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " hacked her or has their merger somehow changed her?  Does she fear the N’zeer? Or does she have some deeper plan?", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh5.googleusercontent.com/-nD2wUv_xQHE/VIPY83gUaVI/AAAAAAAAAc8/o1B8qDKhemo/Errors.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/GQM1uRdVjRh](https://plus.google.com/+NianticProject/posts/GQM1uRdVjRh)

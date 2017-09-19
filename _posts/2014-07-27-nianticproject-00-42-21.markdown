@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-27 00:42:21 +0900"
+date:   2014-07-27 00:42:21 +0900
+categories: nianticproject
+---
+[#Helios](https://plus.google.com/s/%23Helios "")  01
+
+The Volatiles for C4 in Dublin, Palermo, and Tallinn have been released.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@180, :value=>"shared"@187}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 01 - DUBLIN, PALERMO, TALLINN - C4 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/M70kim\" class=\"ot-anchor\">http://goo.gl/M70kim</a>", "<br />", "<br />", "SHA256: 304718cd1ffd7c390605b0bd5437e6d3af2c67859c68858557e74f22af7cbc39", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/109815434753665543499\" oid=\"109815434753665543499\">Davide La Neve</a>"], " in Palermo", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #HELIOS 01 - DUBLIN, PALERMO, TALLINN - C4 VOLs
+Volatiles: http://goo.gl/M70kim
+SHA256: 304718cd1ffd7c390605b0bd5437e6d3af2c67859c68858557e74f22af7cbc39
+Photo by Agent +Davide La Neve in Palermo](https://lh5.googleusercontent.com/-EchPw1xU2Sw/U9PLtNkN5HI/AAAAAAAA8cU/HGpDY1DCuDE/w2048-h1152/palermo.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/5YFQBEyWa6q](https://plus.google.com/+NianticProject/posts/5YFQBEyWa6q)

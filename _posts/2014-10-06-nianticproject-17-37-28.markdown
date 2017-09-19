@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Niantic Project: 2014-10-06 17:37:28 +0900"
+date:   2014-10-06 17:37:28 +0900
+categories: nianticproject
+---
+I extracted the surveillance video showing the activation of the  [#Helios](https://plus.google.com/s/%23Helios "")  Artifacts earlier today, and in the process, noticed something about the computing instances present in the room.
+
+***vore**. My guess: Omnivore. The asterisk is probably shorthand, harkening back to the wildcard use of * in many modern operating systems, signifying any string of characters.
+
+Then, the version number drew my attention. There are two other pieces of intel that shed light on Omnivore's development pattern.
+
+In TS-METIS, we learned that Omnivore 2.0 was born sometime in 1999. In TSC-NLRUSTY, just over a year ago, Omnivore was using a pattern matcher versioned 2.14. Assuming that pattern matcher is the core Omnivore software, it stands to reason that the NIA advanced Omnivore from 2.0 to 2.14 over the course of neary 14 years. Slow and steady progression.
+
+Then, just a few months ago, the NIA conducted a raid on a facility near Los Alamos where ADA had taken nest. According to TS-SITALA, TS-GRAMR and a section of TS-METIS, NIA Digital Network Intelligence (DNINT) Operatives had captured an array of Hard Drives containing raw sections of ADA's 'mind.'
+
+In the video shared by ADA at the  [#Helios](https://plus.google.com/s/%23Helios "")  Finale Anomalies, Omnivore's version number is 2.76. Compare that with 2.14 just over a year ago.
+
+My hypothesis is that, following the capture of the ADA Hard Drives, a significant amount of new learnings were extracted, and massive leaps were made in Omnivore's pattern recognition engine in just the course of a few months, perhaps even less.
+
+If my hypothesis is true, then perhaps the NIA's massively resourced computing platform is about to become a much more powerful force for ADA, and perhaps all of us, to reckon with.
+
+x
+
+P.S. The extracted version of the Surveillance Video feed can be found here: [Helios: - The Beacons (Surveillance Video)](https://www.youtube.com/watch?v=pgJOVMAoVCA&amp;list=PLDEUWItbkQ5_mkMO56STfp_JDzDiPrPUM&amp;index=24 "")
+[#### photo: I extracted the surveillance video showing the activation of the #Helios Artifacts earlier today, and in the process, noticed something about the computing instances present in the room.
+*vore. My guess: Omnivore. The asterisk is probably shorthand, harkening back to the wildcard use of * in many modern operating systems, signifying any string of characters.
+Then, the version number drew my attention. There are two other pieces of intel that shed light on Omnivore's development pattern.
+In TS-METIS, we learned that Omnivore 2.0 was born sometime in 1999. In TSC-NLRUSTY, just over a year ago, Omnivore was using a pattern matcher versioned 2.14. Assuming that pattern matcher is the core Omnivore software, it stands to reason that the NIA advanced Omnivore from 2.0 to 2.14 over the course of neary 14 years. Slow and steady progression.
+Then, just a few months ago, the NIA conducted a raid on a facility near Los Alamos where ADA had taken nest. According to TS-SITALA, TS-GRAMR and a section of TS-METIS, NIA Digital Network Intelligence (DNINT) Operatives had captured an array of Hard Drives containing raw sections of ADA's 'mind.'
+In the video shared by ADA at the #Helios Finale Anomalies, Omnivore's version number is 2.76. Compare that with 2.14 just over a year ago.
+My hypothesis is that, following the capture of the ADA Hard Drives, a significant amount of new learnings were extracted, and massive leaps were made in Omnivore's pattern recognition engine in just the course of a few months, perhaps even less.
+If my hypothesis is true, then perhaps the NIA's massively resourced computing platform is about to become a much more powerful force for ADA, and perhaps all of us, to reckon with.
+x
+P.S. The extracted version of the Surveillance Video feed can be found here: Helios: - The Beacons (Surveillance Video)](https://lh3.googleusercontent.com/-fIV1EtAA6Ok/VDJUOt-y-DI/AAAAAAAAd3A/G47M-fbA878/w2000-h2000/Vore.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/RNA8K7JbCBb](https://plus.google.com/+NianticProject/posts/RNA8K7JbCBb)

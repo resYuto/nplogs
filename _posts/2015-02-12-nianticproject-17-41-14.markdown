@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-02-12 17:41:14 +0900"
+date:   2015-02-12 17:41:14 +0900
+categories: nianticproject
+---
+What does +[Klue S.](https://plus.google.com/110350977702120778591 "") want with +[Susanna Moyer](https://plus.google.com/101560858827970533247 "")? The reporter is headed to a clandestine meeting to find out...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@477, :value=>"shared"@484}], :children=>["<br />", "<h2>Susanna Moyer</h2>", "Got a message from someone interesting today. She said she wants to meet me.... ASAP and somewhere safe.", "<br />", "<br />", "She sounded worried. I'm not sure what's up. ", "<br />", "<br />", "No  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressReport\">#IngressReport</a>", "  today, going to go see what ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " has to say about herself and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], ".", "<br />", "<br />", "Will keep you all posted.", "<br />", "<br />", "Susanna", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 5ycf3=h4f7e](https://lh4.googleusercontent.com/-f4XAJKUiiss/VNxkzBbHIgI/AAAAAAAAAJ4/4bN9Zv9U2z8/w1200-h1600/Klue.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/cZqJLTzQ7Ua](https://plus.google.com/+NianticProject/posts/cZqJLTzQ7Ua)

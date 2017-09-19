@@ -1,0 +1,157 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-18 05:15:44 +0900"
+date:   2014-05-18 05:15:44 +0900
+categories: nianticproject
+---
+Resistance control over  [#Interitus](https://plus.google.com/s/%23Interitus "")  04 - Anomaly 2 grows. At Measurement 2, they have established a position of dominance. The Enlightened have their work cut out for them, and time is running out.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04 - Anomaly 2 - Measurement 2 Report</b><br /><br />At Measurement 2, <b>The Resistance</b> control Anomaly 02, leading by by 562.25.<br /><br />Summary of Anomaly Conditions:<br />Kansas City - <b>R:485</b> - E:44<br />Cheyenne - <b>R:112</b> - E:18.75<br />Sioux Falls - <b>R:77</b> - E:49<br />Total - <b>R:674</b> - E:111.75<br /><br />After being hotly contested in M1, the  Sioux Falls Site is now slowly slipping into Resistance control. The large Enlightened fields over Cheyenne remain unleveraged, with ground control in all three Sites now squarely in Resistance hands. At M2, the Resistance have gained a firm upper hand. The Enlightened will need to double their efforts to take this one back.<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Kansas City - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 254 to 32.<br />The <b>Resistance</b> currently control this Primary Site, leading by 441.<br /><br />Portals Owned - <b>RES:</b> 22 - ENL: 6 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 20 each]<br />Links Created - <b>RES:</b> 26 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 254 - Enlightened - 32<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 485 - Enlightened - 44<br /><br /><b>Measurement Time Details:</b><br />Original: 2:10 (Minutes:Seconds within Measurement Window)<br />Padded String: m 2:10 aTMVPwgXvMtKHzuRrVllRJZeLdEJI<br />MD5 of Padded String: 937528d642bd0bd379649615582d8bd6<br /><br /><b>Portal Ownership Details</b><br />Resistance - Winstead's Tower<br />Resistance - Wild Boar of Florence<br />Resistance - Terra Cotta Warrior<br />Resistance - Sailboat <br />Resistance - Ruth,Country Club Plaza, Kansa<br />Resistance - PF Chang Horse<br />Resistance - Neptune fountain,Country Club <br />Resistance - metal artwork; Kansas City Pub<br />Resistance - Massasoit: Great Sachem of the<br />Resistance - Looking Forward to the City<br />Resistance - Kansas Board of Trade Wheat Bronze<br />Resistance - JC Nichols fountain; life-size<br />Resistance - Jack Stack Barbecue Bovine Statue<br />Resistance - Iron Crosses <br />Resistance - Harry Wiggins Trolley Track Trailhead<br />Resistance - Fogo De Chão<br />Resistance - Faith, Life-Size Bronze<br />Resistance - Brush Creek North Shore Flame Statue<br />Resistance - Boy and Frog<br />Resistance - Board of Trade artwork on gara<br />Resistance - Bacchus<br />Resistance - An Honest Try, life-size bronz<br />Resistance - (VOLATILE) - Westwood Fountain<br />Resistance - (VOLATILE) - Metal Scare Crow<br />Resistance - (VOLATILE) - Leaks Mageeks<br />Resistance - (VOLATILE) - Davis K. Jackson <br />Neutral - The Seville Light<br />Neutral - Spanish Bullfight in tiles, Co<br />Neutral - Sleeping Child,Country Club Pl<br />Neutral - Lion Fountain <br />Neutral - Halls Cat Fountain<br />Neutral - Chandler Court<br />Neutral - Boy with Eel, Life-Size Bronze<br />Neutral - Angel Fountain<br />Enlightened - Shooting Cowboys on Horseback<br />Enlightened - Quiet Talk Country Club Plaza<br />Enlightened - Michelangelo Apprentice,Countr<br />Enlightened - Highland Statue<br />Enlightened - Four Fauns,Country Club Plaza,<br />Enlightened - Allen Memorial<br />Enlightened - (VOLATILE) - Elizabeth Brown Memorial Wall<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Cheyenne - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 52 to 13.75.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 93.25.<br /><br />Portals Owned - <b>RES:</b> 12 - ENL: 1 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 2 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +25%, (2.75)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 52 - Enlightened - 13.75<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 112 - Enlightened - 18.75<br /><br /><b>Measurement Time Details:</b><br />Original: 2:10 (Minutes:Seconds within Measurement Window)<br />Padded String: m 2:10 aTMVPwgXvMtKHzuRrVllRJZeLdEJI<br />MD5 of Padded String: 937528d642bd0bd379649615582d8bd6<br /><br /><b>Portal Ownership Details</b><br />Resistance - St. Mary's Boot Statue<br />Resistance - Mt. Sinai Congregation<br />Resistance - Manitou Fine Art Gallery<br />Resistance - Literacy Equals Freedom<br />Resistance - Laramie County Library<br />Resistance - Dedicated to Peter L. Inniss<br />Resistance - Civic Center Bell<br />Resistance - Cheyenne Wyoming Masonic Templ<br />Resistance - Cheyenne Walking Tour #19<br />Resistance - Cheyenne City Fire Department<br />Resistance - Cheyenne City and County Building<br />Resistance - (VOLATILE) - Wyoming Territorial bank<br />Resistance - (VOLATILE) - Second Baptist Church<br />Resistance - (VOLATILE) - MLK Memorial<br />Resistance - (VOLATILE) - Allen Chapel African Methodist Episcopal Church<br />Resistance -  St Mark's Episcopal Church<br />Neutral - The Bill of Rights<br />Neutral - Puppy Dog Tales<br />Neutral - Out of the best books<br />Neutral - Nelson Museum of the West<br />Neutral - Cheyenne's Early Fire Company 1872-1909<br />Enlightened - The Library Boot<br />Enlightened - (VOLATILE) - New Kingdom Church of God in Christ<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Sioux Falls - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 48 to 19.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 28.<br /><br />Portals Owned - <b>RES:</b> 8 - ENL: 5 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - <b>ENL:</b> 2 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 48 - Enlightened - 19<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 77 - Enlightened - 49<br /><br /><b>Measurement Time Details:</b><br />Original: 2:10 (Minutes:Seconds within Measurement Window)<br />Padded String: m 2:10 aTMVPwgXvMtKHzuRrVllRJZeLdEJI<br />MD5 of Padded String: 937528d642bd0bd379649615582d8bd6<br /><br /><b>Portal Ownership Details</b><br />Resistance - Security Building<br />Resistance - Reel Thing<br />Resistance - Our World<br />Resistance - Man In Motion, Denis Kleine, C<br />Resistance - Main Street Man<br />Resistance - Downtown Eagle<br />Resistance - Cradle of Statehood Sign<br />Resistance - Carnegie Library A.D. 1902<br />Resistance - (VOLATILE) - Statue of David<br />Resistance - (VOLATILE) - Soul of the Musician<br />Resistance - (VOLATILE) - Grass at Washington Pavilion<br />Resistance - (VOLATILE) - Generation Slaps <br />Neutral - The Cataract<br />Neutral - September<br />Neutral - Pilgrim of Peace, by Felix Velez<br />Neutral - King Bird <br />Neutral - Girls Can Do Anything by Julie Jones <br />Neutral - Catching the Wind Statue<br />Neutral - Bacchus<br />Neutral - "Cabinetree" by Lee Badger <br />Enlightened - Slapshot<br />Enlightened - Siouxland Libraries<br />Enlightened - Sioux Falls Main Library<br />Enlightened - Lioness and Cub<br />Enlightened - Jack's Storytime<br />Enlightened - (VOLATILE) - "Michelle" by Joe Castle <br /><br /></div>
+[#### photo: #Interitus 04 - Anomaly 2 - Measurement 2 Report
+At Measurement 2, The Resistance control Anomaly 02, leading by by 562.25.
+Summary of Anomaly Conditions:
+Kansas City - R:485 - E:44
+Cheyenne - R:112 - E:18.75
+Sioux Falls - R:77 - E:49
+Total - R:674 - E:111.75
+After being hotly contested in M1, the  Sioux Falls Site is now slowly slipping into Resistance control. The large Enlightened fields over Cheyenne remain unleveraged, with ground control in all three Sites now squarely in Resistance hands. At M2, the Resistance have gained a firm upper hand. The Enlightened will need to double their efforts to take this one back.
+#Interitus 04: Kansas City - Measurement 2 Report
+The Resistance captured this Measurement, 254 to 32.
+The Resistance currently control this Primary Site, leading by 441.
+Portals Owned - RES: 22 - ENL: 6 - [Value: 2 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 20 each]
+Links Created - RES: 26 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 254 - Enlightened - 32
+Total for this Primary Site:
+Resistance - 485 - Enlightened - 44
+Measurement Time Details:
+Original: 2:10 (Minutes:Seconds within Measurement Window)
+Padded String: m 2:10 aTMVPwgXvMtKHzuRrVllRJZeLdEJI
+MD5 of Padded String: 937528d642bd0bd379649615582d8bd6
+Portal Ownership Details
+Resistance - Winstead's Tower
+Resistance - Wild Boar of Florence
+Resistance - Terra Cotta Warrior
+Resistance - Sailboat
+Resistance - Ruth,Country Club Plaza, Kansa
+Resistance - PF Chang Horse
+Resistance - Neptune fountain,Country Club
+Resistance - metal artwork; Kansas City Pub
+Resistance - Massasoit: Great Sachem of the
+Resistance - Looking Forward to the City
+Resistance - Kansas Board of Trade Wheat Bronze
+Resistance - JC Nichols fountain; life-size
+Resistance - Jack Stack Barbecue Bovine Statue
+Resistance - Iron Crosses
+Resistance - Harry Wiggins Trolley Track Trailhead
+Resistance - Fogo De Chão
+Resistance - Faith, Life-Size Bronze
+Resistance - Brush Creek North Shore Flame Statue
+Resistance - Boy and Frog
+Resistance - Board of Trade artwork on gara
+Resistance - Bacchus
+Resistance - An Honest Try, life-size bronz
+Resistance - (VOLATILE) - Westwood Fountain
+Resistance - (VOLATILE) - Metal Scare Crow
+Resistance - (VOLATILE) - Leaks Mageeks
+Resistance - (VOLATILE) - Davis K. Jackson
+Neutral - The Seville Light
+Neutral - Spanish Bullfight in tiles, Co
+Neutral - Sleeping Child,Country Club Pl
+Neutral - Lion Fountain
+Neutral - Halls Cat Fountain
+Neutral - Chandler Court
+Neutral - Boy with Eel, Life-Size Bronze
+Neutral - Angel Fountain
+Enlightened - Shooting Cowboys on Horseback
+Enlightened - Quiet Talk Country Club Plaza
+Enlightened - Michelangelo Apprentice,Countr
+Enlightened - Highland Statue
+Enlightened - Four Fauns,Country Club Plaza,
+Enlightened - Allen Memorial
+Enlightened - (VOLATILE) - Elizabeth Brown Memorial Wall
+#Interitus 04: Cheyenne - Measurement 2 Report
+The Resistance captured this Measurement, 52 to 13.75.
+The Resistance currently control this Secondary Site, leading by 93.25.
+Portals Owned - RES: 12 - ENL: 1 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 2 each]
+Single Field Over Entire Cluster - ENL - [Value: +25%, (2.75)]
+Total for this Measurement:
+Resistance - 52 - Enlightened - 13.75
+Total for this Secondary Site:
+Resistance - 112 - Enlightened - 18.75
+Measurement Time Details:
+Original: 2:10 (Minutes:Seconds within Measurement Window)
+Padded String: m 2:10 aTMVPwgXvMtKHzuRrVllRJZeLdEJI
+MD5 of Padded String: 937528d642bd0bd379649615582d8bd6
+Portal Ownership Details
+Resistance - St. Mary's Boot Statue
+Resistance - Mt. Sinai Congregation
+Resistance - Manitou Fine Art Gallery
+Resistance - Literacy Equals Freedom
+Resistance - Laramie County Library
+Resistance - Dedicated to Peter L. Inniss
+Resistance - Civic Center Bell
+Resistance - Cheyenne Wyoming Masonic Templ
+Resistance - Cheyenne Walking Tour #19
+Resistance - Cheyenne City Fire Department
+Resistance - Cheyenne City and County Building
+Resistance - (VOLATILE) - Wyoming Territorial bank
+Resistance - (VOLATILE) - Second Baptist Church
+Resistance - (VOLATILE) - MLK Memorial
+Resistance - (VOLATILE) - Allen Chapel African Methodist Episcopal Church
+Resistance -  St Mark's Episcopal Church
+Neutral - The Bill of Rights
+Neutral - Puppy Dog Tales
+Neutral - Out of the best books
+Neutral - Nelson Museum of the West
+Neutral - Cheyenne's Early Fire Company 1872-1909
+Enlightened - The Library Boot
+Enlightened - (VOLATILE) - New Kingdom Church of God in Christ
+#Interitus 04: Sioux Falls - Measurement 2 Report
+The Resistance captured this Measurement, 48 to 19.
+The Resistance currently control this Secondary Site, leading by 28.
+Portals Owned - RES: 8 - ENL: 5 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 2 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 48 - Enlightened - 19
+Total for this Secondary Site:
+Resistance - 77 - Enlightened - 49
+Measurement Time Details:
+Original: 2:10 (Minutes:Seconds within Measurement Window)
+Padded String: m 2:10 aTMVPwgXvMtKHzuRrVllRJZeLdEJI
+MD5 of Padded String: 937528d642bd0bd379649615582d8bd6
+Portal Ownership Details
+Resistance - Security Building
+Resistance - Reel Thing
+Resistance - Our World
+Resistance - Man In Motion, Denis Kleine, C
+Resistance - Main Street Man
+Resistance - Downtown Eagle
+Resistance - Cradle of Statehood Sign
+Resistance - Carnegie Library A.D. 1902
+Resistance - (VOLATILE) - Statue of David
+Resistance - (VOLATILE) - Soul of the Musician
+Resistance - (VOLATILE) - Grass at Washington Pavilion
+Resistance - (VOLATILE) - Generation Slaps
+Neutral - The Cataract
+Neutral - September
+Neutral - Pilgrim of Peace, by Felix Velez
+Neutral - King Bird
+Neutral - Girls Can Do Anything by Julie Jones
+Neutral - Catching the Wind Statue
+Neutral - Bacchus
+Neutral - "Cabinetree" by Lee Badger
+Enlightened - Slapshot
+Enlightened - Siouxland Libraries
+Enlightened - Sioux Falls Main Library
+Enlightened - Lioness and Cub
+Enlightened - Jack's Storytime
+Enlightened - (VOLATILE) - "Michelle" by Joe Castle ](https://lh4.googleusercontent.com/-0i77vxe9JBE/U3fC-6s5qhI/AAAAAAAAxmo/Q_3FpjmJ0gc/joe_group.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/7GCUj6VRaY6](https://plus.google.com/+NianticProject/posts/7GCUj6VRaY6)

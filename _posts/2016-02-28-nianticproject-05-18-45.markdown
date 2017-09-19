@@ -1,0 +1,115 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-28 05:18:45 +0900"
+date:   2016-02-28 05:18:45 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Rio claimed by RES. Enl:12 - Res:24. Milwaukee @ M2: RES lead. E:264 - R:732
+
+In Rio de Janeiro, every Flash Shard was captured and accounted for, and the Resistance prevailed resoundingly as the Anomaly came to a close. The Resistance captured twice as many Shards as the Enlightened, and reduced the Enlightened lead in [#Obsidian](https://plus.google.com/s/%23Obsidian "") to 2287.
+
+In Milwaukee, where Measurement 2 has just struck, the Resistance have extended their lead to 468 and continue to emerge as a dominant force. 2 Measurement remains in this Anomaly.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")**** Series Score** (does not include Milwaukee… Anomaly in Progress)
+Enlightened: 9528
+Resistance: 7241
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Rio de Janeiro**
+**Flash Shard Anomaly - Final Report**
+
+Enlightened: 12 Shards
+Resistance: 24 Shards
+
+Final Anomaly Score:
+(Each Shard has a value of 100 in the [#Obsidian](https://plus.google.com/s/%23Obsidian "") Anomaly Series.)
+Enlightened: 1200
+Resistance: 2400
+
+This Flash Shard Anomaly was controlled by the Resistance, who claimed 24 Shards.
+
+The Enlightened trailed with 12 Shards.
+
+Congratulations, Agents.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Milwaukee - Measurement 2 Report**
+The **Resistance** captured this Measurement, 312 to 108.
+The **Resistance** currently control this Satellite Site, leading by 468.
+Portals Owned - **RES:** 21 - ENL: 8 - [Value: 6 each]
+Volatile Portals Owned - **RES:** 8 - ENL: 5 - [Value: 12 each]
+Links Created - **RES:** 20 - ENL: 0 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]
+Anchored Fields Created - RES: 1 - ENL: 0
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]
+Strategic Field - NONE
+[Value: 50% of opponent's Values this Measurement, rounded]
+Values acquired this Measurement:
+Portals - **RES:** 126 - ENL: 48
+Volatile Portals - **RES:** 96 - ENL: 60
+Links - **RES:** 90 - ENL: 0
+Anchored Fields - RES: 0 - ENL: 0
+Strategic Field - RES: 0 - ENL: 0
+**Total for this Measurement:**
+**Resistance** - 312 - Enlightened - 108
+
+**Total for this Satellite Site:**
+**Resistance** - 732 - Enlightened - 264
+
+**Measurement Time Details:**
+Original: 0:56 (Minutes:Seconds within Measurement Window)
+Padded String: &lt;`CmbE#$]Ol[b###0:56###ac
+SHA256 of Padded String: 0304d3b26a750346bc414063361d79c8f2102ad60b163449587d79d699974a1a
+
+**Portal Ownership Details**
+
+E - 1000 North Water Street
+E - Blatz Brewing Co.
+E - Concrete Mural
+E - Kidz Stage
+E - Laureate
+E - Master Forger
+E - Red Arrow Memorial
+E - You Rise Above the World
+E VOL - Engine Ladder 1
+E VOL - Gallagher's Irish Pub
+E VOL - John Hinkel's Central Hall
+E VOL - Peck Pavilion
+E VOL - Red Arrow Park
+N - Glass Blower
+N - Marcus Center
+N - Marcus Fountain
+N VOL - Father Marquette's Camp - 1674
+N VOL - Temple XXIV
+R - 32nd Division Memorial Plaque
+R - AJ Bombers
+R - Allen Bradley Hall of Science
+R - Brass Trees
+R - City of Milwaukee Plaque
+R - German-English Building
+R - Grace Lutheran Evangelical Church
+R - Greek Orthodox Church
+R - Margaret Loock Hall
+R - MSOE Kern Center
+R - MSOE Rader School of Business
+R - Rogues Gallery
+R - Statue
+R - Tanner
+R - Trigon
+R - Village Church ELCA
+R - Walter Schroeder Library
+R - War Memorial PAC
+R - Water Street Brewery
+R - Werwath Mall
+R - Work
+R VOL - Crescimus Sculpture
+R VOL - Grohmann Museum
+R VOL - MSOE Spirit Rock
+R VOL - North End Tower 
+R VOL - Pillar Of The Community
+R VOL - Stephen J. Bollinger Memorial Plaque 
+R VOL - Tangled
+R VOL - Valentin Blatz Brewing Company
+[#### photo: #IngressObsidian Rio claimed by RES. Enl:12 - Res:24. Milwaukee @ M2: RES lead. E:264 - R:732
+In Rio de Janeiro, every Flash Shard was captured and accounted for, and the Resistance prevailed resoundingly as the Anomaly came to a close. The Resistance captured twice as many Shards as the Enlightened, and reduced the Enlightened lead in #Obsidian to 2287.
+In Milwaukee, where Measurement 2 has just struck, the Resistance have extended their lead](https://lh3.googleusercontent.com/-0flU0JZIFPA/VtIEoaUxVrI/AAAAAAAAi00/P50QNJh-bPY/w800-h600/mke_2.JPG "")
+- - -
+[https://plus.google.com/+NianticProject/posts/KFLBbj6g3y2](https://plus.google.com/+NianticProject/posts/KFLBbj6g3y2)

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-17 11:25:13 +0900"
+date:   2014-07-17 11:25:13 +0900
+categories: nianticproject
+---
+Former Niantic Project Researcher, +[Martin Schubert](https://plus.google.com/100425314717666507497 ""), reveals that work has begun to develop a solution to the accelerated Portal Decay caused by Dr. +[Devra Bogdanovich](https://plus.google.com/102598577258553073047 "")'s Portal Virus.
+
+In the meantime, he believes that raising the combined Global MU level above 700 Million at the end of the first [#Helios](https://plus.google.com/s/%23Helios "") Anomaly may prevent further acceleration, and could in fact reverse some of the Portal Decay changes that have been caused thus far.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@898, :value=>"shared"@905}], :children=>["<br />", "<h2>Martin Schubert</h2>", "Work has just begun to develop a long term solution to the accelerated Portal Decay caused by ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], "'s so-called 'Portal Virus,' but we believe we have determined a method to stall further deployments of this dangerous technology and perhaps reverse some of its effects as well.", "<br />", "<br />", "<b>Our research shows that if the </b>", "<b><i>combined</i></b>", "<b> Global MU Level is above 700 Million at the end of the first  </b>", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a></b>", "<b>   Anomaly(^), </b>", {:element=>{:name=>"b"@1668, :attributes=>[], :children=>[[["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"]], :ignore=>true}}, "<b>'s next planned deployment is likely to fail, and in fact, Portal Decay may begin to decelerate towards its former state.</b>", "<br />", "<br />", "(^) By the final Checkpoint prior to Measurement 4 -  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", "   - San Diego.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Work has just begun to develop a long term solution to the accelerated Portal Decay caused by +Devra Bogdanovich's so-called 'Portal Virus,' but we believe we have determined a method to stall further deployments of this dangerous technology and, perhaps reverse some of its effects as well.
+Our research shows that by if the combined Global MU Level is above 700 Million at the end of the first #Helios  Anomaly(^), +Devra Bogdanovich's next planned deployment is likely to fail, and in fact, Portal Decay may begin to decelerate towards its former state.
+(^) By the final Checkpoint prior to Measurement 4 - #Helios  - San Diego.](https://lh5.googleusercontent.com/-wAFfe53BVAM/U8cjekKjesI/AAAAAAAAAyM/wKhzjOD5U84/w1074-h1401/700Million.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/QT5UaGmxy1y](https://plus.google.com/+NianticProject/posts/QT5UaGmxy1y)

@@ -1,0 +1,163 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-23 07:24:45 +0900"
+date:   2014-03-23 07:24:45 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  06
+
+Measurement 3 Report
+
+The Resistance have managed tip the scales heavily in their favor.  They take control in Boulder, Boise, and Provo.
+
+The Enlightenment have got a good deal of work ahead of them.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@335, :value=>"shared"@342}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - BOULDER - Measurement 3 Report</b>", "<br />", "<br />", "The Resistance neutralize and establish a Megafield over Boulder, and the again neutralize an Enlightened Field over all Provo Cluster Portals seconds before Measurement 3. Meanwhile, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " looks on.", "<br />", "<br />", "<b>The Resistance owned 2 Volatile Portals and 18 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 3 Volatile Portals and 0 Non-Volatile Portals", "<br />", "<br />", "<b>A Resistance Field covered all the Portals in this Cluster (100)</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 176</b>", "<br />", "Total for Enlightened this Measurement = 60", "<br />", "<br />", "Total for Resistance this Anomaly = 330", "<br />", "<b>Total for Enlightened this Anomaly = 360</b>", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Bear Cub Sculpture (VOLATILE) - Enlightened", "<br />", "Stone 540 (VOLATILE) - Enlightened", "<br />", "Bull Elk Statue (VOLATILE) - Enlightened", "<br />", "Boulder Theatre (VOLATILE) - Resistance", "<br />", "St. John's Episcopal Church (VOLATILE) - Resistance", "<br />", "Mountain Lion Sculpture - Neutral", "<br />", "Alley Cats - Neutral", "<br />", "Pearl Street Mall Coyotes - Resistance", "<br />", "Dragonfly Jam Mural - Resistance", "<br />", "Snow Lion - Resistance", "<br />", "Bunny Buddy - Resistance", "<br />", "Vectra Bank Mountain Lion - Resistance", "<br />", "Barker Park - Resistance", "<br />", "Woodward-Baird House - Resistance", "<br />", "US Post Office - Resistance", "<br />", "International Order of Odd Fellows - Resistance", "<br />", "Walnut Place - Resistance", "<br />", "Frickin' Lasers by Dalek - Resistance", "<br />", "Boulder Co Epicenter - Resistance", "<br />", "Dragonfly Giraffe - Resistance", "<br />", "Little Buddha - Resistance", "<br />", "Shambhala Center - Resistance", "<br />", "Boulder First United Methodist  - Resistance", "<br />", "Standing Proud Sculpture - Resistance", "<br />", "First Presbyterian Church - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - BOISE - Measurement 3 Report</b>", "<br />", "<br />", "The Resistance owned 1 Volatile Portals and 23 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 3 Volatile Portals and 9 Non-Volatile Portals</b>", "<br />", "<br />", "<b>The Resistance had 19 Links standing at Measurement Time</b>", "<br />", "The Enlightened had 3 Links standing at Measurement Time", "<br />", "<br />", "<b>Total for Resistance this Measurement = 71</b>", "<br />", "Total for Enlightened this Measurement = 45", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 191</b>", "<br />", "Total for Enlightened this Anomaly = 131", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Oregon Trail Monument (VOLATILE) - Enlightened", "<br />", "C. W. Moore Park (VOLATILE) - Enlightened", "<br />", "Idaho Commission for Libraries (VOLATILE) - Enlightened", "<br />", "Mnemosye And Morpheus Street Art (VOLATILE) - Neutral", "<br />", "Fort Boise (VOLATILE) - Resistance", "<br />", "Boise Stereoscopic Photography - Enlightened", "<br />", "Central Fire Station - Enlightened", "<br />", "Art Center - Enlightened", "<br />", "\"What a Great Day It Is, to Be a Veteran\" - Enlightened", "<br />", "U.S.B.R. Regional Soil and Water Laboratory - Enlightened", "<br />", "Boise - Let Freedom Ring - Enlightened", "<br />", "U.S. Department of the Interior - Enlightened", "<br />", "Street Art: \"Haiku for Capitol Park\" - Enlightened", "<br />", "Fort Boise - Enlightened", "<br />", "Hands of Life Mural - Neutral", "<br />", "Water Wheel - Neutral", "<br />", "State Office Tower Building - Neutral", "<br />", "Sandstone in the City - Neutral", "<br />", "Flying M Coffee House - Neutral", "<br />", "Blue Sky Bagel Bakery  - Neutral", "<br />", "Boise State Fiesta Bowl Champions Long Time - Neutral", "<br />", "Davies Reid Mural - Neutral", "<br />", "Idaho Central Credit Union Sculpture - Neutral", "<br />", "Ruth Moon Rosegarden Memorial - Neutral", "<br />", "The Star Rooming House - Neutral", "<br />", "Veltex Sign - Neutral", "<br />", "Dragonfly - Neutral", "<br />", "Boise Little Theater - Neutral", "<br />", "Bow and Arrow Building - Neutral", "<br />", "Street Art: \"Quack Snax\" - Neutral", "<br />", "Bandanna - Resistance", "<br />", "Jefferson Mural - Resistance", "<br />", "Michelle's River Sculpture - Resistance", "<br />", "Old Ada County Courthouse - Resistance", "<br />", "Alexander House - Resistance", "<br />", "Bishop Foote Guest House - Resistance", "<br />", "Antique Cast Iron Horse Hitching Post - Resistance", "<br />", "Idaho Division of Public Works - Resistance", "<br />", "Idaho Supreme Court Law Library - Resistance", "<br />", "Robert Noble Park - Resistance", "<br />", "St Luke's Healing Labrynth - Resistance", "<br />", "The Church of the Good Shepherd - Resistance", "<br />", "The Exalted Ruler\" - Resistance", "<br />", "Rolland H. Smith - Resistance", "<br />", "Original St. Luke's Hospital Sign - Resistance", "<br />", "St Luke's Nurse Statue - Resistance", "<br />", "St. Luke's West Wing Entrance - Resistance", "<br />", "Gurgling Rock Memorial  - Resistance", "<br />", "Uriquides Village Historical Marker - Resistance", "<br />", "“Koi Pond 1” - Resistance", "<br />", "Idaho Supreme Court - Resistance", "<br />", "Fallen Soldier Memorial - Resistance", "<br />", "Idaho State Historic Preservation Office - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - PROVO - Measurement 3 Report</b>", "<br />", "<br />", "<b>The Resistance owned 5 Volatile Portals and 19 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 0 Volatile Portals and 7 Non-Volatile Portals", "<br />", "<br />", "<b>The Resistance had 8 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 85</b>", "<br />", "Total for Enlightened this Measurement = 7", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 188</b>", "<br />", "Total for Enlightened this Anomaly = 42", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 2:24 (Minutes:Seconds past the hour)", "<br />", "Padded: yinsyRktqmIpnwcLxn 2:24 facTgvtWkhgb", "<br />", "MD5 of Padded String: 476c2865266de08e4176e5fe6aacc7d7", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Provo Statue (VOLATILE) - Resistance", "<br />", "Historic Weeping American Elm (VOLATILE) - Resistance", "<br />", "Caring Hands Statue (VOLATILE) - Resistance", "<br />", "Crandall Historical Printing Museum (VOLATILE) - Resistance", "<br />", "Children of Peace statue (VOLATILE) - Resistance", "<br />", "Clock Tower  - Enlightened", "<br />", "Provo City Centre Temple - Enlightened", "<br />", "Church of Christ - Enlightened", "<br />", "Escalante Trail - Enlightened", "<br />", "Provo Courthouse - Enlightened", "<br />", "Old Downtown Mural - Enlightened", "<br />", "Veterans Memorial  - Enlightened", "<br />", "Guru's Graffiti - Neutral", "<br />", "Martha Hughes Cannon - Neutral", "<br />", "Horse Statue - Neutral", "<br />", "The Bannerman - Neutral", "<br />", "Provo Bakery - Resistance", "<br />", "Episcopal Church - Resistance", "<br />", "Provo Post Office - Resistance", "<br />", "Nuskin Convention Center - Resistance", "<br />", "Moustache Man - Resistance", "<br />", "The New Nuskin - Resistance", "<br />", "Dolphins Mural - Resistance", "<br />", "Four Rock Fountain  - Resistance", "<br />", "Antique Cart - Resistance", "<br />", "Mural History of Provo - Resistance", "<br />", "Utah Valley Convention Center - Resistance", "<br />", "The Rock Church  - Resistance", "<br />", "Nick Ryan Art Monument - Resistance", "<br />", "Kafata II - Resistance", "<br />", "Abode - Resistance", "<br />", "The Knight Block - Resistance", "<br />", "Historic 4th Ward Chapel - Resistance", "<br />", "'Nu Skin's Force for Good' Statue - Resistance", "<br />", "Provo Historic 1st Ward Chapel - Resistance", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Recursion - BOULDER - Measurement 3 Report
+The Resistance neutralize and establish a Megafield over Boulder, and the again neutralize an Enlightened Field over all Provo Cluster Portals seconds before Measurement 3. Meanwhile, +Hank Johnson looks on.
+The Resistance owned 2 Volatile Portals and 18 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 0 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (100)
+Total for Resistance this Measurement = 176
+Total for Enlightened this Measurement = 60
+Total for Resistance this Anomaly = 330
+Total for Enlightened this Anomaly = 360
+Portal Ownership Details:
+Bear Cub Sculpture (VOLATILE) - Enlightened
+Stone 540 (VOLATILE) - Enlightened
+Bull Elk Statue (VOLATILE) - Enlightened
+Boulder Theatre (VOLATILE) - Resistance
+St. John's Episcopal Church (VOLATILE) - Resistance
+Mountain Lion Sculpture - Neutral
+Alley Cats - Neutral
+Pearl Street Mall Coyotes - Resistance
+Dragonfly Jam Mural - Resistance
+Snow Lion - Resistance
+Bunny Buddy - Resistance
+Vectra Bank Mountain Lion - Resistance
+Barker Park - Resistance
+Woodward-Baird House - Resistance
+US Post Office - Resistance
+International Order of Odd Fellows - Resistance
+Walnut Place - Resistance
+Frickin' Lasers by Dalek - Resistance
+Boulder Co Epicenter - Resistance
+Dragonfly Giraffe - Resistance
+Little Buddha - Resistance
+Shambhala Center - Resistance
+Boulder First United Methodist  - Resistance
+Standing Proud Sculpture - Resistance
+First Presbyterian Church - Resistance
+#Recursion - BOISE - Measurement 3 Report
+The Resistance owned 1 Volatile Portals and 23 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 9 Non-Volatile Portals
+The Resistance had 19 Links standing at Measurement Time
+The Enlightened had 3 Links standing at Measurement Time
+Total for Resistance this Measurement = 71
+Total for Enlightened this Measurement = 45
+Total for Resistance this Anomaly = 191
+Total for Enlightened this Anomaly = 131
+Portal Ownership Details:
+Oregon Trail Monument (VOLATILE) - Enlightened
+C. W. Moore Park (VOLATILE) - Enlightened
+Idaho Commission for Libraries (VOLATILE) - Enlightened
+Mnemosye And Morpheus Street Art (VOLATILE) - Neutral
+Fort Boise (VOLATILE) - Resistance
+Boise Stereoscopic Photography - Enlightened
+Central Fire Station - Enlightened
+Art Center - Enlightened
+"What a Great Day It Is, to Be a Veteran" - Enlightened
+U.S.B.R. Regional Soil and Water Laboratory - Enlightened
+Boise - Let Freedom Ring - Enlightened
+U.S. Department of the Interior - Enlightened
+Street Art: "Haiku for Capitol Park" - Enlightened
+Fort Boise - Enlightened
+Hands of Life Mural - Neutral
+Water Wheel - Neutral
+State Office Tower Building - Neutral
+Sandstone in the City - Neutral
+Flying M Coffee House - Neutral
+Blue Sky Bagel Bakery  - Neutral
+Boise State Fiesta Bowl Champions Long Time - Neutral
+Davies Reid Mural - Neutral
+Idaho Central Credit Union Sculpture - Neutral
+Ruth Moon Rosegarden Memorial - Neutral
+The Star Rooming House - Neutral
+Veltex Sign - Neutral
+Dragonfly - Neutral
+Boise Little Theater - Neutral
+Bow and Arrow Building - Neutral
+Street Art: "Quack Snax" - Neutral
+Bandanna - Resistance
+Jefferson Mural - Resistance
+Michelle's River Sculpture - Resistance
+Old Ada County Courthouse - Resistance
+Alexander House - Resistance
+Bishop Foote Guest House - Resistance
+Antique Cast Iron Horse Hitching Post - Resistance
+Idaho Division of Public Works - Resistance
+Idaho Supreme Court Law Library - Resistance
+Robert Noble Park - Resistance
+St Luke's Healing Labrynth - Resistance
+The Church of the Good Shepherd - Resistance
+The Exalted Ruler" - Resistance
+Rolland H. Smith - Resistance
+Original St. Luke's Hospital Sign - Resistance
+St Luke's Nurse Statue - Resistance
+St. Luke's West Wing Entrance - Resistance
+Gurgling Rock Memorial  - Resistance
+Uriquides Village Historical Marker - Resistance
+“Koi Pond 1” - Resistance
+Idaho Supreme Court - Resistance
+Fallen Soldier Memorial - Resistance
+Idaho State Historic Preservation Office - Resistance
+#Recursion - PROVO - Measurement 3 Report
+The Resistance owned 5 Volatile Portals and 19 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 7 Non-Volatile Portals
+The Resistance had 8 Links standing at Measurement Time
+Total for Resistance this Measurement = 85
+Total for Enlightened this Measurement = 7
+Total for Resistance this Anomaly = 188
+Total for Enlightened this Anomaly = 42
+Measurement Time Details:
+Original: 2:24 (Minutes:Seconds past the hour)
+Padded: yinsyRktqmIpnwcLxn 2:24 facTgvtWkhgb
+MD5 of Padded String: 476c2865266de08e4176e5fe6aacc7d7
+Portal Ownership Details:
+Provo Statue (VOLATILE) - Resistance
+Historic Weeping American Elm (VOLATILE) - Resistance
+Caring Hands Statue (VOLATILE) - Resistance
+Crandall Historical Printing Museum (VOLATILE) - Resistance
+Children of Peace statue (VOLATILE) - Resistance
+Clock Tower  - Enlightened
+Provo City Centre Temple - Enlightened
+Church of Christ - Enlightened
+Escalante Trail - Enlightened
+Provo Courthouse - Enlightened
+Old Downtown Mural - Enlightened
+Veterans Memorial  - Enlightened
+Guru's Graffiti - Neutral
+Martha Hughes Cannon - Neutral
+Horse Statue - Neutral
+The Bannerman - Neutral
+Provo Bakery - Resistance
+Episcopal Church - Resistance
+Provo Post Office - Resistance
+Nuskin Convention Center - Resistance
+Moustache Man - Resistance
+The New Nuskin - Resistance
+Dolphins Mural - Resistance
+Four Rock Fountain  - Resistance
+Antique Cart - Resistance
+Mural History of Provo - Resistance
+Utah Valley Convention Center - Resistance
+The Rock Church  - Resistance
+Nick Ryan Art Monument - Resistance
+Kafata II - Resistance
+Abode - Resistance
+The Knight Block - Resistance
+Historic 4th Ward Chapel - Resistance
+'Nu Skin's Force for Good' Statue - Resistance
+Provo Historic 1st Ward Chapel - Resistance](https://lh5.googleusercontent.com/-IqCnYCsjpCs/Uy4KN6V3NRI/AAAAAAAAoZ8/hSJq9lOLkTM/w2048-h1153/IMG_20140322_152730666_HDR.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ZhxV4M4EwoB](https://plus.google.com/+NianticProject/posts/ZhxV4M4EwoB)

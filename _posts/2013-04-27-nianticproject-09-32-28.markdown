@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-04-27 09:32:28 +0900"
+date:   2013-04-27 09:32:28 +0900
+categories: nianticproject
+---
+Felicia Hajra-Lee claims that wheels are in motion to publish the entirely of 'An Exotic Matter' on May 7th, 2013.
+
+She's initiating a contest to find the right cover for the book, see her post for the details. 
+
+[#anexoticmatter](https://plus.google.com/s/%23anexoticmatter ""){:element=>{:name=>"div", :attributes=>[{:name=>"class"@337, :value=>"shared"@344}], :children=>["<br />", "<h2>Felicia Hajra-Lee</h2>", "The publishers of Alignment - Ingress by ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102489350322422853902\" oid=\"102489350322422853902\">Thomas Greanias</a>"], " have finally come to their senses and offered me a book deal that I am satisfied with, for now.", "<br />", "<br />", "<b>An Exotic Matter</b>", " will contain 9 previously unreleased chapters, as well as a special addendum featuring exclusive, never before seen comic-art by the ghost artist, Tycho.", "<br />", "<br />", "I welcome the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], " community's contributions as I finalize the cover for this book.", "<br />", "<br />", "<b>Submit your idea for the cover of the book as an image using  </b>", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23anexoticmatter\">#anexoticmatter</a></b>", "<b>  .</b>", " I will pick the submissions that were most outstanding on Wednesday, May 1st, and hold a contest to determine which cover should be chosen.", "<br />", "<br />", "If you have read the first few chapters, submit a one sentence review ( also using  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23anexoticmatter\">#anexoticmatter</a>", "  ). I'm looking at you, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108824342371548161778\" oid=\"108824342371548161778\">JoJo Stratton</a>"], ". The best review or a section of it, (chosen by me), will grace the cover.", "<br />", "<br />", "I will re-share my favorite submissions, and will reward these featured submissions with one-time-passcodes or invite codes.", "<br />", "<br />"], :ignore=>true}}
+[#### album: ](https://plus.google.com/photos/118344555717370644832/albums/5871306145145320257 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/CkQmdxYfkhP](https://plus.google.com/+NianticProject/posts/CkQmdxYfkhP)

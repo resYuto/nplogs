@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-08-20 17:42:08 +0900"
+date:   2015-08-20 17:42:08 +0900
+categories: nianticproject
+---
+What will ADA's legacy be? P. A. Chapeau wants to hear your thoughts.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@83, :value=>"shared"@90}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "It's been nearly 2 weeks since we last heard from ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], ".", "<br />", "<br />", "I haven't been sitting idly by and waiting for her to contact me, either. I've been scouring for evidence of her presence. Looking in computing clusters where I know she had previously stored pieces of herself. Nothing, anywhere.", "<br />", "<br />", "I sat down tonight to write something to say about her. A eulogy? Maybe. Just a memorial, if nothing else, but I hit a blank.", "<br />", "<br />", "I want to hear from you. What will ADA's legacy be? What was her impact on the world, what did we learn from her, what did we fear about her? What did she represent and how will she be remembered?", "<br />", "<br />", "Tell me your thoughts.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: okm4naa7fh3y5nnet](https://lh3.googleusercontent.com/-YN8qxSy4Gtg/VdWRStgMZJI/AAAAAAAABX0/kPMfmC0Fo_w/farewell.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/5mZeDCWEZsR](https://plus.google.com/+NianticProject/posts/5mZeDCWEZsR)

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2015-03-31 15:12:05 +0900"
+date:   2015-03-31 15:12:05 +0900
+categories: nianticproject
+---
+P. A. Chapeau, aka +[H. Richard Loeb](https://plus.google.com/117506125229608138804 ""), comments on messages that seem to have come directly from Dr. +[Devra Bogdanovich](https://plus.google.com/102598577258553073047 "") in the wake of the Resistance victory in [#Shonin](https://plus.google.com/s/%23Shonin "").
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@621, :value=>"shared"@628}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Some of you may have seen messages emerge after Pasadena. I think they are directly from ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], ", strange as that may seem, and if I’m reading them right, it looks like she's become one with the Resistance cause.", "<br />", "<br />", "Here’s the real problem though. Bogdanovich wasn’t the only one to go missing when Jahan’s N’zeer summoning ritual went bad. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115238965157544465033\" oid=\"115238965157544465033\">Stein Lightman</a>"], ", Calvin, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108200572857719809031\" oid=\"108200572857719809031\">Oliver Lynton-Wolfe</a>"], "... lots of people are missing. And nobody knows where they are. If I had to take a wild guess, I’d suspect that this is just the beginning of something much bigger.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Some of you may have seen messages emerge after Pasadena. I think they are directly from +Devra Bogdanovich, strange as that may seem, and if I’m reading them right, it looks like she's become one with the Resistance cause.
+Here’s the real problem though. Bogdanovich wasn’t the only one to go missing when Jahan’s N’zeer summoning ritual went bad. +Stein Lightman, Calvin, +Oliver Lynton-Wolfe... lots of people are missing. And nobody knows where](https://lh3.googleusercontent.com/-w8CvROCdg-M/VRo5gAWGEFI/AAAAAAAABAs/xP-lD4dV7Ms/w1280-h720/Message.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/9WredVgKNod](https://plus.google.com/+NianticProject/posts/9WredVgKNod)

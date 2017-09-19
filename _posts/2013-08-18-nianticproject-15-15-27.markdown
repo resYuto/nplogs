@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-18 15:15:27 +0900"
+date:   2013-08-18 15:15:27 +0900
+categories: nianticproject
+---
+The Massive Megafield enables the Enlightened to take the second Measurement at Operation  [#Cassandra](https://plus.google.com/s/%23Cassandra "")  Manila, but the Resistance's early dominance allows them to retain their grip on the Anomaly.
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Manila<br /><br />The Enlightened field the Philippines and take Measurement 2, but they still lag behind the Resistance in the Manila Anomaly. With 1 Measurement remaining, the Enlightened work to fortify their megafields and target key Volatile Portals.<br /><br /><b>Measurement 2 Details</b><br /><br /><b>The Resistance owned 2 Volatile Portals and 25 Non-Volatile Portals.</b><br />The Enlightened owned 3 Volatile Portals and 1 Non-Volatile Portal.<br /><br /><b>An Enlightened Field covered all the Portals in this Cluster (50).</b><br /><br />Total for the Resistance this Measurement = 45<br /><b>Total for the Enlightened this Measurement = 81</b><br /><br /><b>Total for the Resistance this Anomaly = 200</b><br />Total for the Enlightened this Anomaly = 93<br /><br /><b>Measurement Time Details</b><br /><br />Original:    TWO   MINUTES    FIFTY  EIGHT   SECONDS PAST   TWO PM   <br />Padded: XXXTWOXXXMINUTESXXXXFIFTYXXEIGHTXXXSECONDSXPASTXXXTWOXPMXXX<br />OTP Key: QNRQKWVBBOSZBVIZPIXGIYUCYLLEVGGPAUEHRQIVNUOBIRIZHKKPLCGZPCA<br />Encrypted String: NKOJGKSYYAAMVOMRMFUDNGZVWIIIDMNIXRBZVSWIQMLQIJBWEHDLZZVLMZX<br />MD5 of OTP Key: cc92a96e96ce58fb9f313557cc2344a2<br /><br /></div>
+[#### photo: undefined](https://lh6.googleusercontent.com/-PVX9X_I2Lwg/UhBkwyZvK5I/AAAAAAAAOwA/66LhjxrfiTQ/cassandra-manila-2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/QrADdFH56pg](https://plus.google.com/+NianticProject/posts/QrADdFH56pg)

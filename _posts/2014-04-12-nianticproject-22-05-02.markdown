@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-12 22:05:02 +0900"
+date:   2014-04-12 22:05:02 +0900
+categories: nianticproject
+---
+[#Interitus](https://plus.google.com/s/%23Interitus "") 01
+
+Here are the Volatiles for Cluster 3 in Satellite cities Malaga and Glasgow.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@198, :value=>"shared"@205}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 01 - AMSTERDAM, MALAGA, GLASGOW - C3 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/P2N90Q\" class=\"ot-anchor\">http://goo.gl/P2N90Q</a>", " ", "<br />", "<br />", "MD5: b82a51322cb41199858a4b09e0cb5b5c", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102278263622517075774\" oid=\"102278263622517075774\">Marcin Michaś</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-3JjD8wpkVgM/U0k4MlWQ_EI/AAAAAAAAq4c/wcfARyJbXUs/glasgowfriends.JPG "")
+- - -
+[https://plus.google.com/+NianticProject/posts/emmECK2WMhH](https://plus.google.com/+NianticProject/posts/emmECK2WMhH)

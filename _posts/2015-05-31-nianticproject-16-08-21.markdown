@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-05-31 16:08:21 +0900"
+date:   2015-05-31 16:08:21 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") ponders the challenges ahead in the wake of the first [#Persepolis](https://plus.google.com/s/%23Persepolis "") Anomalies.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@370, :value=>"shared"@377}], :children=>["<br />", "<h2>Hank Johnson</h2>", "A good day. We started behind, but remained committed to our cause. That's what counts. Now, we push again. We persevere.", "<br />", "<br />", "This was never going to be solved in a day, or a week, or a year.", "<br />", "<br />", "Anti-Magnus has been pulling strings and spinning wheels for a long time. Decades? Maybe... Maybe centuries. Maybe millennia.", "<br />", "<br />", "Jahan believes in her cause. She has nothing but blind hope for a glorious future. Something she believes is promised to her in destiny. She thinks the N'zeer's rationality and order will become one with us, curing us of war, disease, hunger and who knows what else.", "<br />", "<br />", "It's a noble intent. And she believes it in the purest possible sense, but I strongly suspect that she is being used. Just like I was. It's time to stop this.", "<br />", "<br />", "And I will.", "<br />", "<br />", "I want to thank the many of you who helped recover and deliver Nigel's message to ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101560858827970533247\" oid=\"101560858827970533247\">Susanna Moyer</a>"], ". I knew I was right to trust you. ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 3stkt5x3la2gabol](https://lh3.googleusercontent.com/-CnbR7UjfqV0/VWqyEapAqQI/AAAAAAAAC3E/k54CGkIo4yo/w800-h800/Enlightened.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Mq5eggXNnK9](https://plus.google.com/+NianticProject/posts/Mq5eggXNnK9)

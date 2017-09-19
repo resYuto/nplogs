@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-11 14:16:19 +0900"
+date:   2014-08-11 14:16:19 +0900
+categories: nianticproject
+---
++[Stein Lightman](https://plus.google.com/115238965157544465033 "") has transcribed the message recovered in Chicago yesterday.
+
+It's possible the message was left by +[Carrie Campbell](https://plus.google.com/101180225942784917383 "") prior to her death and survived to this day. Of course, there are other possibilities to consider.
+
+Either way, the contents of the message are fascinating, and worthy of our Investigative efforts and speculation.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@727, :value=>"shared"@734}], :children=>["<br />", "<h2>Stein Lightman</h2>", "From what I can tell, this is an accurate transcription of the message recovered in Chicago yesterday.", "<br />", "<br />", "According to ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], ", it may have been left there by Carrie over a year ago. I think that's possible, and if it's true, then the contents of this message deserve great study.", "<br />", "<br />", "What is your interpretation of this message and its meaning?", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh5.googleusercontent.com/-i-YrKNduuaw/U-hQ0jrOfSI/AAAAAAAABXE/0LjYMH_qUC8/Message.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Qvopxcz5Lie](https://plus.google.com/+NianticProject/posts/Qvopxcz5Lie)

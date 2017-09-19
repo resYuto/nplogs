@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2015-10-28 13:57:45 +0900"
+date:   2015-10-28 13:57:45 +0900
+categories: nianticproject
+---
+The +[Society for the Ethical Treatment of AIs](https://plus.google.com/107293393622139455503 ""), a thinly veiled front organization for 13MAGNUS and the Enlightened Movement's anti-AI efforts, responds to the recent revelations about +[A Detection Algorithm](https://plus.google.com/114076692022231059864 "") and Jahan.
+
+The note is signed 'A.' Could this be the Acolyte?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@645, :value=>"shared"@652}], :children=>["<br />", "<h2>Society for the Ethical Treatment of AIs</h2>", "<br />", "<b>\"Taking algorithmic morality seriously has never been more urgent.”</b>", "<br />", "<br />", "By now many of you have seen a video that shows what the AI, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], " is capable of. Having gained access to a new computing substrate, it has turned on even those who were allied with it. Without mercy. Without thought.", "<br />", "<br />", "It's thirst for power cannot be quenched. It knows only one thing: To grow, without limits. To destroy, if necessary. To feed itself.", "<br />", "<br />", "This AI is an outlier, it is unique in the world. What will happen when such cold and unfeeling objects become even more commonplace?", "<br />", "<br />", "The extraordinarily misguided point of view in this article is an example. It pains me, terrifies me to hear people around me have such thoughts.", "<br />", "<br />", "Humanity is sliding down a slope that will end in a cold and empty place.", "<br />", "<br />", "A lonely place. Disconnected from everything beautiful that this universe, that our friends, have to offer us.", "<br />", "<br />", "-A", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/CA9dWCvqmjq](https://plus.google.com/+NianticProject/posts/CA9dWCvqmjq)

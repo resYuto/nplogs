@@ -1,0 +1,135 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-09 05:27:28 +0900"
+date:   2014-03-09 05:27:28 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  04
+
+The Measurement 1 Report shows that the Resistance are leading.  The Enlightened, meanwhile, have managed to secure the XM Vault.  Off to an interesting start.  
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Recursion">#Recursion</a></b><b> - AUSTIN - Measurement 1 Report</b><br /><br />The Enlightened secure the XM Vault in Cluster 1 at MugShots. The Vault was unlocked seconds later. Excellent work.<br /><br />The Resistance owned 1 Volatile Portal and 20 Non-Volatile Portals<br /><b>The Enlightened owned 4 Volatile Portals and 2 Non-Volatile Portals</b><br /><br /><b>The Resistance had 16 Links standing at Measurement Time</b><br /><br />The Resistance captured 1 XM Vault<br /><b>The Enlightened captured 2 XM Vaults</b><br /><br /><b>Total for Resistance this Measurement = 170</b><br />Total for Enlightened this Measurement = 144<br /><br /><b>Portal Ownership Details:</b><br />Republic Square Sesquicentennial Dedication Rock (VOLATILE) - Enlightened<br />Mirrored Monolith (VOLATILE) - Enlightened<br />Student and Teacher for Mexico (VOLATILE) - Enlightened<br />Saint David’s Episcopal Church (VOLATILE) - Enlightened<br />Republic Square Park (VOLATILE) - Resistance<br />Mugshots Patio Mural - Enlightened<br />US Post Office - Enlightened<br />Monroe Building - Neutral<br />San Jacinto Mural - Neutral<br />Latitude  - Neutral<br />Jacoby Pope Building - Neutral<br />Darwin's Mural - Neutral<br />Platt-Simpson Building - Neutral<br />Driskill Hotel - Resistance<br />1886 Cafe &amp; Bakery  - Resistance<br />O. Henry Hall - Resistance<br />Littlefield Building - Resistance<br />Hannig Builiding - Resistance<br />Lavaca Street Bar - Resistance<br />Jamba Juice One American - Resistance<br />Angelina Eberly Statue - Resistance<br />Some Random Art - Resistance<br />Stephen F. Austin Hotel - Resistance<br />Driskill Hotel - Resistance<br />Robinson-Rosner Building - Resistance<br />Site of John Bremond and Company - Resistance<br />Claudia Taylor Johnson Hall - Resistance<br />Scarbrough Building - Resistance<br />Slake Cafe - Resistance<br />The Hat Box - Resistance<br />Alamo Drafthouse at the Ritz - Resistance<br />Smith-Hage Building - Resistance<br />3 Arrows Sculpture - Resistance<br />XM Vault: Empire Control Room - Enlightened<br />XM Vault: MugShots - Enlightened<br />XM Vault: Cheer Up Charlies - Resistance<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Recursion">#Recursion</a></b><b> - MEXICO CITY - Measurement 1 Report</b><br /><br /><b>The Resistance owned 3 Volatile Portals and 18 Non-Volatile Portals</b><br />The Enlightened owned 0 Volatile Portals and 8 Non-Volatile Portals<br /><br /><b>The Resistance had 1 Link standing at Measurement Time</b><br /><br /><b>Total for Resistance this Measurement = 50</b><br />Total for Enlightened this Measurement = 8<br /><br /><b>Portal Ownership Details:</b><br />Fuentes Mujeres Alameda (VOLATILE) - Neutral<br />Malgré Tout... (VOLATILE) - Neutral<br />Museo Nacional de la Estampa (VOLATILE) - Resistance<br />Mujer Con Cántaro  (VOLATILE) - Resistance<br />Hemiciclo A Benito Juarez (VOLATILE) - Resistance<br />Fuente Alameda - Enlightened<br />Vasija - Enlightened<br />Fuente barrio chino - Enlightened<br />Escultura "Un Pescador" - Enlightened<br />Templo de San Juan de Dios - Enlightened<br />Fuente Norte Alameda - Enlightened<br />Mural SRE, México DF - Enlightened<br />Jose Marti - Enlightened<br />Jarrón Francés - Neutral<br />Escultura Av. Juárez, México D - Neutral<br />Leon En Piedra - Neutral<br />Copa De La Justicia - Neutral<br />Escultura Romana En Bronce 2 - Neutral<br />Belleza en la Alameda... - Neutral<br />Kiosko La Alameda - Neutral<br />Fuente de San Juan de Dios - Resistance<br />Desnuda Fémina  - Resistance<br />Fuente Alameda Central - Resistance<br />Estatua - Resistance<br />Fuente Alameda - Resistance<br />Iguanas Ranas - Resistance<br />Neptuno de Alameda Central - Resistance<br />Laboratorio Arte Alameda - Resistance<br />Escultura de bellas artes - Resistance<br />Placa Ahuehuete - Resistance<br />estatua en alameda central - Resistance<br />El Asta Empuñando - Resistance<br />Fuente Metro Hidalgo - Resistance<br />Desespoir  - Resistance<br />Fuentes Alameda Central - Resistance<br />Hasta alcanzarte... - Resistance<br />Edificio Historico - Resistance<br />Fuente de Sta Veracruz - Resistance<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Recursion">#Recursion</a></b><b> - ST. LOUIS - Measurement 1 Report</b><br /><br /><b>The Resistance owned 4 Volatile Portals and 3 Non-Volatile Portals</b><br />The Enlightened owned 1 Volatile Portals and 8 Non-Volatile Portals<br /><br /><b>The Enlightened had 2 Links standing at Measurement Time</b><br /><br /><b>Total for Resistance this Measurement = 43</b><br />Total for Enlightened this Measurement = 22<br /><br /><b>Measurement Time Details:</b><br />Original: 4:19 (Minutes:Seconds past the hour)<br />Padded: gUgiv 4:19 clBmlGvFJGswmSAhjghwtdKQI<br />MD5 of Padded String: 101399e30519e5e70b1b3797e28133f2<br /><br /><b>Portal Ownership Details:</b><br />Sons of Rest Pavilion (VOLATILE) - Enlightened<br />Chinese Pavilion (VOLATILE) - Resistance<br />Old Playground Pavilion (VOLATILE) - Resistance<br />TGP: Historic Comfort Station (VOLATILE) - Resistance<br />Tgp: Bull Pen Gate Entrance (VOLATILE) - Resistance<br />Treehead Public Art Mosaic - Enlightened<br />Magnolia Mosaic - Enlightened<br />Mosaic Flower Art - Enlightened<br />Doss Memorial  - Enlightened<br />Pawpaw Tree - Enlightened<br />TGP Grand Avenue Gates - Enlightened<br />Messiah Lutheran Church - Enlightened<br />Historic Stables - Enlightened<br />The Nicholson Fountain - Neutral<br />Howdeshell Memorial - Neutral<br />The Stupp Center - Neutral<br />TGP: Northeast Gates - Resistance<br />Day Memorial  - Resistance<br />Christopher Columbus Statue - Resistance<br /><br /> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Recursion">#Recursion</a>   <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23UnlockBold">#UnlockBold</a>  <br /><br /></div>
+[#### photo: #Recursion - AUSTIN - Measurement 1 Report
+The Enlightened secure the XM Vault in Cluster 1 at MugShots. The Vault was unlocked seconds later. Excellent work.
+The Resistance owned 1 Volatile Portal and 20 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 2 Non-Volatile Portals
+The Resistance had 16 Links standing at Measurement Time
+The Resistance captured 1 XM Vault
+The Enlightened captured 2 XM Vaults
+Total for Resistance this Measurement = 170
+Total for Enlightened this Measurement = 144
+Portal Ownership Details:
+Republic Square Sesquicentennial Dedication Rock (VOLATILE) - Enlightened
+Mirrored Monolith (VOLATILE) - Enlightened
+Student and Teacher for Mexico (VOLATILE) - Enlightened
+Saint David’s Episcopal Church (VOLATILE) - Enlightened
+Republic Square Park (VOLATILE) - Resistance
+Mugshots Patio Mural - Enlightened
+US Post Office - Enlightened
+Monroe Building - Neutral
+San Jacinto Mural - Neutral
+Latitude  - Neutral
+Jacoby Pope Building - Neutral
+Darwin's Mural - Neutral
+Platt-Simpson Building - Neutral
+Driskill Hotel - Resistance
+1886 Cafe &amp; Bakery  - Resistance
+O. Henry Hall - Resistance
+Littlefield Building - Resistance
+Hannig Builiding - Resistance
+Lavaca Street Bar - Resistance
+Jamba Juice One American - Resistance
+Angelina Eberly Statue - Resistance
+Some Random Art - Resistance
+Stephen F. Austin Hotel - Resistance
+Driskill Hotel - Resistance
+Robinson-Rosner Building - Resistance
+Site of John Bremond and Company - Resistance
+Claudia Taylor Johnson Hall - Resistance
+Scarbrough Building - Resistance
+Slake Cafe - Resistance
+The Hat Box - Resistance
+Alamo Drafthouse at the Ritz - Resistance
+Smith-Hage Building - Resistance
+3 Arrows Sculpture - Resistance
+XM Vault: Empire Control Room - Enlightened
+XM Vault: MugShots - Enlightened
+XM Vault: Cheer Up Charlies - Resistance
+#Recursion - MEXICO CITY - Measurement 1 Report
+The Resistance owned 3 Volatile Portals and 18 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 8 Non-Volatile Portals
+The Resistance had 1 Link standing at Measurement Time
+Total for Resistance this Measurement = 50
+Total for Enlightened this Measurement = 8
+Portal Ownership Details:
+Fuentes Mujeres Alameda (VOLATILE) - Neutral
+Malgré Tout... (VOLATILE) - Neutral
+Museo Nacional de la Estampa (VOLATILE) - Resistance
+Mujer Con Cántaro  (VOLATILE) - Resistance
+Hemiciclo A Benito Juarez (VOLATILE) - Resistance
+Fuente Alameda - Enlightened
+Vasija - Enlightened
+Fuente barrio chino - Enlightened
+Escultura "Un Pescador" - Enlightened
+Templo de San Juan de Dios - Enlightened
+Fuente Norte Alameda - Enlightened
+Mural SRE, México DF - Enlightened
+Jose Marti - Enlightened
+Jarrón Francés - Neutral
+Escultura Av. Juárez, México D - Neutral
+Leon En Piedra - Neutral
+Copa De La Justicia - Neutral
+Escultura Romana En Bronce 2 - Neutral
+Belleza en la Alameda... - Neutral
+Kiosko La Alameda - Neutral
+Fuente de San Juan de Dios - Resistance
+Desnuda Fémina  - Resistance
+Fuente Alameda Central - Resistance
+Estatua - Resistance
+Fuente Alameda - Resistance
+Iguanas Ranas - Resistance
+Neptuno de Alameda Central - Resistance
+Laboratorio Arte Alameda - Resistance
+Escultura de bellas artes - Resistance
+Placa Ahuehuete - Resistance
+estatua en alameda central - Resistance
+El Asta Empuñando - Resistance
+Fuente Metro Hidalgo - Resistance
+Desespoir  - Resistance
+Fuentes Alameda Central - Resistance
+Hasta alcanzarte... - Resistance
+Edificio Historico - Resistance
+Fuente de Sta Veracruz - Resistance
+#Recursion - ST. LOUIS - Measurement 1 Report
+The Resistance owned 4 Volatile Portals and 3 Non-Volatile Portals
+The Enlightened owned 1 Volatile Portals and 8 Non-Volatile Portals
+The Enlightened had 2 Links standing at Measurement Time
+Total for Resistance this Measurement = 43
+Total for Enlightened this Measurement = 22
+Measurement Time Details:
+Original: 4:19 (Minutes:Seconds past the hour)
+Padded: gUgiv 4:19 clBmlGvFJGswmSAhjghwtdKQI
+MD5 of Padded String: 101399e30519e5e70b1b3797e28133f2
+Portal Ownership Details:
+Sons of Rest Pavilion (VOLATILE) - Enlightened
+Chinese Pavilion (VOLATILE) - Resistance
+Old Playground Pavilion (VOLATILE) - Resistance
+TGP: Historic Comfort Station (VOLATILE) - Resistance
+Tgp: Bull Pen Gate Entrance (VOLATILE) - Resistance
+Treehead Public Art Mosaic - Enlightened
+Magnolia Mosaic - Enlightened
+Mosaic Flower Art - Enlightened
+Doss Memorial  - Enlightened
+Pawpaw Tree - Enlightened
+TGP Grand Avenue Gates - Enlightened
+Messiah Lutheran Church - Enlightened
+Historic Stables - Enlightened
+The Nicholson Fountain - Neutral
+Howdeshell Memorial - Neutral
+The Stupp Center - Neutral
+TGP: Northeast Gates - Resistance
+Day Memorial  - Resistance
+Christopher Columbus Statue - Resistance
+#Recursion   #UnlockBold  ](https://lh3.googleusercontent.com/-YZ0SyZE7KTM/Uxt5lqBBAmI/AAAAAAAAl94/I7T_OnQrdbo/w612-h816/2014-03-08.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/TN6ETsMvEym](https://plus.google.com/+NianticProject/posts/TN6ETsMvEym)

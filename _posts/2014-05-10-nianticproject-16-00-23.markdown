@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-10 16:00:23 +0900"
+date:   2014-05-10 16:00:23 +0900
+categories: nianticproject
+---
+Cluster 4 Volatiles for  [#Interitus](https://plus.google.com/s/%23Interitus "")  03 - Ishinomaki, Beijing and Seoul are out.
+
+2 Measurements remain. The Measurement 3 window opened just moments ago.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@261, :value=>"shared"@268}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 03 - ISHINOMAKI, BEIJING, SEOUL - C4 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/sTAaV6\" class=\"ot-anchor\">http://goo.gl/sTAaV6</a>", "<br />", "<br />", "MD5: 9010430e8228bf820955bc49a4068b87", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115851520922206131463\" oid=\"115851520922206131463\">dali kim</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-ZJSuj9S1z6E/U23NPhzm8TI/AAAAAAAAvgA/tJtojsV_HwQ/peace_dali.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/7mg2Kh4vHFD](https://plus.google.com/+NianticProject/posts/7mg2Kh4vHFD)

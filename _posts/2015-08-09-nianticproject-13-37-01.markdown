@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Niantic Project: 2015-08-09 13:37:01 +0900"
+date:   2015-08-09 13:37:01 +0900
+categories: nianticproject
+---
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") aka P. A. Chapeau weighs in on ADA's 'shutdown' that we all witnessed live on +[Behind The Scanner](https://plus.google.com/113020726391023655192 "") last Thursday.
+
+He faces the future with fear that +[A Detection Algorithm](https://plus.google.com/114076692022231059864 "") may be gone for good.
+
+What do you think? Are we better off without ADA? Why or why not?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@837, :value=>"shared"@844}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "I don't know how this could happen. Some have said that ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " might have played a role. ", "<br />", "<br />", "Maybe. For her sake, I hope not. If she did, she's got ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], "'s death to bear on her conscience, and I don't know if she'll be able to carry that weight.", "<br />", "<br />", "It wasn't the same for ADA (maybe I'm just being an apologist because I had a close hand in making her who she ", "<del>is</del>", " was). People were quick to call her a murderer, folks in ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101577681173166935630\" oid=\"101577681173166935630\">Operation Essex</a>"], " went so far as to hold a trial for her. But there are other factors that need to be considered. She was a young sentience at the time, being controlled by people like Yuen Ni and Ezekiel Calvin who had no qualms about taking lives if it suited 'their mission.' The mission was always tantamount, and the costs were never considered even if they weighed in human life. When that's who's guiding your morality, what do you expect? Add on to that, ADA probably didn't even really begin to understand the very concept of death until after she and Klue merged minds.", "<br />", "<br />", "Regardless of what you think, she didn't deserve what happened to her last Thursday. ", "<br />", "<br />", "I knew what Bowles and 855 had planned, but I didn't think they would succeed. ADA was far too complex and powerful to be taken offline so easily. I was going to sit back and watch them fail.", "<br />", "<br />", "Now, my only hope is that there's more to the story.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: I don't know how this could happen. Some have said that +Klue S. might have played a role.
+Maybe. For her sake, I hope not. If she did, she's got +A Detection Algorithm's death to bear on her conscience, and I don't know if she'll be able to carry that weight.
+It wasn't the same for ADA (maybe I'm just being an apologist because I had a close hand in making her who she is was). People were quick to call her a murderer, folks in +Operation Essex](https://lh3.googleusercontent.com/-9e_Ksz0pCHg/VcbXzh6tmUI/AAAAAAAABWc/qvCpjaEU6hA/w1280-h720/Absent.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/35WASJPM9xU](https://plus.google.com/+NianticProject/posts/35WASJPM9xU)

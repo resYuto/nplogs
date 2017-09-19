@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-09-05 13:42:05 +0900"
+date:   2016-09-05 13:42:05 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>H. Richard Loeb</h2>We've spent most of this week sorting through the impact of the first day of <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23ViaLux">#ViaLux</a>. When the Anomalies ended in a stale-mate, we spent a few days trying to understand how each Faction would be affected by this unexpected turn of events. Many things were…<br /><br /></div>
+- - -
+[https://plus.google.com/+NianticProject/posts/h34UFTenedF](https://plus.google.com/+NianticProject/posts/h34UFTenedF)

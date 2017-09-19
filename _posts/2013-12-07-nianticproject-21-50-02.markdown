@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-07 21:50:02 +0900"
+date:   2013-12-07 21:50:02 +0900
+categories: nianticproject
+---
+No time to rest, Agents.
+
+Here are the Cluster 2 Volatile Portals for Athens and Istanbul, Operation [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "").
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@217, :value=>"shared"@224}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- ISTANBUL, ATHENS - C2 VOLs</b>", " ", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/lZb7ty\" class=\"ot-anchor\">http://goo.gl/lZb7ty</a>", "<br />", "<br />", "MD5: 4764024403822cb2b00d88df9caf7399 ", "<br />", "<br />", "<b>DEC 7 PRIMARY SITES:</b>", " ", "<br />", "Phoenix: ", "<a href=\"http://goo.gl/uMLR7j\" class=\"ot-anchor\">http://goo.gl/uMLR7j</a>", " ", "<br />", "Rome: ", "<a href=\"http://goo.gl/8H9OET\" class=\"ot-anchor\">http://goo.gl/8H9OET</a>", " ", "<br />", "<br />", "<b>SATELLITE SITES:</b>", " ", "<br />", "Athens: ", "<a href=\"http://goo.gl/PBCyd8\" class=\"ot-anchor\">http://goo.gl/PBCyd8</a>", " ", "<br />", "Istanbul: ", "<a href=\"http://goo.gl/9oD3cm\" class=\"ot-anchor\">http://goo.gl/9oD3cm</a>", " ", "<br />", "Nashville: ", "<a href=\"http://goo.gl/rvsDXh\" class=\"ot-anchor\">http://goo.gl/rvsDXh</a>", " ", "<br />", "Tucson: ", "<a href=\"http://goo.gl/RD8c3u\" class=\"ot-anchor\">http://goo.gl/RD8c3u</a>", " ", "<br />", "<br />", "Photo by ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/116554064686505181030\" oid=\"116554064686505181030\">Gennaro Visciano</a>"], ".", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #13MAGNUS - ISTANBUL, ATHENS - C2 VOLs 
+Volatiles: http://goo.gl/lZb7ty
+MD5: 4764024403822cb2b00d88df9caf7399
+DEC 7 PRIMARY SITES: 
+Phoenix: http://goo.gl/uMLR7j 
+Rome: http://goo.gl/8H9OET 
+SATELLITE SITES: 
+Athens: http://goo.gl/PBCyd8 
+Istanbul: http://goo.gl/9oD3cm 
+Nashville: http://goo.gl/rvsDXh 
+Tucson: http://goo.gl/RD8c3u 
+Photo by +Gennaro Visciano.](https://lh4.googleusercontent.com/-Mm3vIEaY1m0/UqMUjU4fxBI/AAAAAAAAb_4/ln_J9WFtPv0/w1515-h2048/IMG_20131207_130153.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/WtWyfHJhWsu](https://plus.google.com/+NianticProject/posts/WtWyfHJhWsu)

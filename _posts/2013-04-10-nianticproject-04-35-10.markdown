@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2013-04-10 04:35:10 +0900"
+date:   2013-04-10 04:35:10 +0900
+categories: nianticproject
+---
+An update to the Ingress Scanner Technology has brought the Powercubes out into the open. 
+
+I've had this document for quite some time, but I was never quite sure of its veracity. As things have unfolded it seems it was a real piece of intel.
+
+Both factions are beginning to absorb the news revealed yesterday ( [http://goo.gl/4eYC9](http://goo.gl/4eYC9 "") ), of a data exfil operation on April 21 covering a sizeable section of Europe. The powercubes, with their tactical value in high-XM use situations, will undoubtedly be a powerful tool during this mission. 
+
+See today's doc on the Board at: [http://www.nianticproject.com/?id=sc509a](http://www.nianticproject.com/?id=sc509a "")
+[#### album: ](https://plus.google.com/photos/105211554081025512763/albums/5864932661375168561?authkey=CL7C787pouq7PA "")
+- - -
+[https://plus.google.com/+NianticProject/posts/XrE4Ed3YBuy](https://plus.google.com/+NianticProject/posts/XrE4Ed3YBuy)

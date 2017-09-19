@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-03-20 17:09:36 +0900"
+date:   2015-03-20 17:09:36 +0900
+categories: nianticproject
+---
++[Susanna Moyer](https://plus.google.com/101560858827970533247 "") uncovers one of the strangest documents I've seen in this Investigation, and asks the only question that really can be asked after reading it:
+
+What the hell did +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") do at an NSA computing center in 1997?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@608, :value=>"shared"@615}], :children=>["<br />", "<h2>Susanna Moyer</h2>", "<br />", "<b>What the hell did P. A. Chapeau do at an NSA computing center in 1997? This document is spooky...</b>", "<br />", "<br />", "Don't ask me how I got it. From what I've learned, it took place in a 'secure bubble' at an NSA facility. No wireless monitoring. No documentation. How did the conversation leak, then? I don't know. But it looks like my digging around about Truthseeker (Loeb AKA Chapeau's program that predated ADA and may have become a part of her) has caused some waves.", "<br />", "<br />", "Reading through the doc, it sounds kind of crazy. And yet... stranger things have happened. If we want any real answers,  we know who has them. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], ", your move.", "<br />", "<br />"], :ignore=>true}}
+[#### album: 2015-03-20](https://plus.google.com/photos/101560858827970533247/albums/6128223657467464817 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/41VBpSRbVvJ](https://plus.google.com/+NianticProject/posts/41VBpSRbVvJ)

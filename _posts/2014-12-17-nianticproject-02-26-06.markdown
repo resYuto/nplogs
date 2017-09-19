@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-17 02:26:06 +0900"
+date:   2014-12-17 02:26:06 +0900
+categories: nianticproject
+---
++[Visur Technology](https://plus.google.com/115880454950193571355 "") and **AXA,** the global leading insurance group, announce a new type of Portal Shield: **The AXA Shield.**
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@322, :value=>"shared"@329}], :children=>["<br />", "<h2>Visur Technology</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115880454950193571355\" oid=\"115880454950193571355\">Visur Technology</a>"], ", Europe’s leading XM Research and Development company, in conjunction with ", "<b>AXA,</b>", " the global leading insurance group, is pleased to announce a new, powerful and very-rare Ingress XM Portal Shield: ", "<b>The AXA Shield.</b>", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-rchDKh_A62E/VJBnyn5rfOI/AAAAAAAABc0/Vq57dZ7SwoA/AXA.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/HqooXb5FVTg](https://plus.google.com/+NianticProject/posts/HqooXb5FVTg)

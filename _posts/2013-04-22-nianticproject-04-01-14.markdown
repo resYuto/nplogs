@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-04-22 04:01:14 +0900"
+date:   2013-04-22 04:01:14 +0900
+categories: nianticproject
+---
+The Resistance were able to move all 7 discrete packets out of Niantic, what we now know is that a complete set of the initial Shaper Data pattern has successfully escaped Niantic, and just in time before HAZDATA could shut the entire place down...
+
+It remains to be seen what this will mean for the Resistance, for the Enlightened, and for the world.
+
+A document leaked to me moments ago suggests that there were two separate encoded streams in the packets. IQTech analysts seems to be directing all resources to decoding them, perhaps they will have more success than Victor Kureze and his crew did...
+[#### photo: undefined](https://lh3.googleusercontent.com/-OurQkNHP2HU/UXQ3YNUqaiI/AAAAAAAAFSU/VVQ3cnS0uH8/w288-h288/unknown.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/U97vSE2Z8bi](https://plus.google.com/+NianticProject/posts/U97vSE2Z8bi)

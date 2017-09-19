@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-26 22:58:24 +0900"
+date:   2014-04-26 22:58:24 +0900
+categories: nianticproject
+---
+Cluster 3 Volatiles -  [#Interitus](https://plus.google.com/s/%23Interitus "")  02 London, Frankfurt and Stockholm.
+
+Measurement 2 approaches at breakneck pace.
+
+It's time to move, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@256, :value=>"shared"@263}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 02 - LONDON, FRANKFURT, STOCKHOLM - C3 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/Vn81Jj\" class=\"ot-anchor\">http://goo.gl/Vn81Jj</a>", "<br />", "<br />", "MD5: 7254af5f8d17a10adc150f5b919dcebf", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117592367244328354144\" oid=\"117592367244328354144\">Michael Arlt</a>"], " in Frankfurt.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh5.googleusercontent.com/-vqo-f-9TeRc/U1u7InJfdDI/AAAAAAAAs3A/mhFgAEW9TYY/frankfurt_scene.JPG "")
+- - -
+[https://plus.google.com/+NianticProject/posts/8q7PEnswGXw](https://plus.google.com/+NianticProject/posts/8q7PEnswGXw)

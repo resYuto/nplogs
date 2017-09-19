@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2015-10-02 13:36:20 +0900"
+date:   2015-10-02 13:36:20 +0900
+categories: nianticproject
+---
+It seems one of the first Flash Shard Anomalies will affect the future of +[Misty Hannah](https://plus.google.com/104253779462149704457 "").
+
+So, just who is she?
+
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") creates a thread to cover some of her history.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@557, :value=>"shared"@564}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "So, according to those ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108020987035258478791\" oid=\"108020987035258478791\">IQTech Research</a>"], " docs about the Flash Shard Anomalies, one of the XM disturbances contains the energy pattern of ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/104253779462149704457\" oid=\"104253779462149704457\">Misty Hannah</a>"], ".", "<br />", "<br />", "I figured that was a good excuse to try and summarize some of the key things we know about her. I'll start, feel free to pile on.", "<br />", "<br />", "We know she grew up around Marfa, TX. From what I've heard, her mom had moved to a hippy compound near there when Misty was pretty young.", "<br />", "<br />", "She had her first XM encounter around then, too. She saw a green flash (look it up, it's a pretty rare optical phenomenon) that was accompanied by an interaction with some kind of mystical figure.", "<br />", "<br />", "Flash forward, and she's working as a magician in the Vegas and LA magic scenes. Some think she's using the stage persona to hide very real powers, stuff like ESP, but that's obviously very hard to prove. ", "<br />", "<br />", "What we do know is that Calvin was deeply interested in her talents. She was one of the few Niantic Project members to have also been a part of the project that preceded it... Project Whydah.", "<br />", "<br />", "What else?", "<br />", "<br />"], :ignore=>true}}
+[#### photo: qr9ffryxcyluxrxuyc10qro1](https://lh3.googleusercontent.com/-IXFoJboUadQ/Vg4GDHah09I/AAAAAAAABfQ/GuQZBwFl3t8/w800-h800/Misty.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/JesMAPv4JtW](https://plus.google.com/+NianticProject/posts/JesMAPv4JtW)

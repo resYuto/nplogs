@@ -1,0 +1,233 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-17 12:28:52 +0900"
+date:   2014-05-17 12:28:52 +0900
+categories: nianticproject
+---
+At Measurement 1, the Enlightened control  [#Interitus](https://plus.google.com/s/%23Interitus "")  04... The Mega-Fields are helping the Faction in Brisbane and Melbourne, but in Auckland, Resistance Agents control the ground.
+
+The Enlightened lead could easily be nullified, and this Anomaly could still, very much, be taken back by the Resistance.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 04 - Measurement 1 Report<br /><br />At Measurement 1, <b>The Enlightened</b> control <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 04, leading by 57.75.<br /><br />Summary of Anomaly Conditions:<br />Melbourne - R:98 - <b>E:130</b><br />Auckland - <b>R:64</b> - E:30<br />Brisbane - R:19 - <b>E:78.75</b><br />Total - R:181 - <b>E:238.75</b><br /><br />Massive, multi-layered Enlightened Fields currently exist over all 3 Anomaly Sites. In Auckland, the Resistance smartly wrested control of the majority of active Portals, effectively undermining the Field’s impact there. In Brisbane and Melbourne, a strong Enlightened presence on the ground is leading to an early surge for the Faction. With the massive Fields overhead, Portal Links cannot be created, increasing pressure on the Agents attempting to maintain control of the Portals, both within the Cluster and the Volatiles that lie outside.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Melbourne - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 130 to 98.<br />The <b>Enlightened</b> currently control this Primary Site, leading by 32.<br /><br />Portals Owned - RES: 19 - <b>ENL:</b> 32 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +25%, (26)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 98 - <b>Enlightened</b> - 130<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 98 - <b>Enlightened</b> - 130<br /><br /><b>Measurement Time Details:</b><br />Original: 4:04 (Minutes:Seconds within Measurement Window)<br />Padded String: cFMLilmKnkLB 4:04 UymKOGgPZtTsCrDHbF<br />MD5 of Padded String: 8e70e3ab44394b3537d408aaed128bf1<br /><br /><b>Portal Ownership Details</b><br />Resistance - Water Shrine<br />Resistance - Victoria Tower Parliament Stone<br />Resistance - Totem<br />Resistance - Thirst for Change Mural<br />Resistance - The Golden Dolphin<br />Resistance - Surgeons' Sun Dial<br />Resistance - Salvation Army Shield 614<br />Resistance - Princess Theatre<br />Resistance - Post Master General's Car<br />Resistance - Magical Fountain<br />Resistance - Higinbotham statue, Melbourne<br />Resistance - Harley House<br />Resistance - Former Church of England Mission<br />Resistance - FAD Graffiti<br />Resistance - Croft Alley Art<br />Resistance - CafelLe Petite Bourke Mural<br />Resistance - Burns Statue<br />Resistance - Bull Run <br />Resistance - Australia Post Office on Bourke Street<br />Resistance - (VOLATILE) - Tom Bass Sculpture<br />Resistance - (VOLATILE) - Giant Chess Board<br />Resistance - (VOLATILE) - Angel by Deborah Halpern<br />Neutral - Windsor Hotel Sculpture<br />Neutral - Tianjin Gardens<br />Neutral - Sir William John Clarke Statue<br />Neutral - Scotch Cottage 1852-1853<br />Neutral - Pastor Douglas Statue<br />Neutral - Milton House<br />Neutral - John Wesley<br />Neutral - Her Majesty's Theatre<br />Neutral - Dr. Sun Yat Sen<br />Neutral - Chinese Mission Church<br />Neutral - China Town Gates East Entrance<br />Neutral - China Town Dragon<br />Enlightened - Wesley Uniting Church<br />Enlightened - Top Hat Tower<br />Enlightened - The Melbourne Club<br />Enlightened - The Lion Gate<br />Enlightened - The Horsemen are Coming<br />Enlightened - The Australian National University <br />Enlightened - Squiggle Wall<br />Enlightened - Spring Fan<br />Enlightened - Royal Australian College of Surgeons<br />Enlightened - Parliament Train Station<br />Enlightened - Parliament Train Station<br />Enlightened - Parliament of Victoria<br />Enlightened - Open Wall for Doves Mural<br />Enlightened - Old Treasury Building<br />Enlightened - Mohon Doa Restu Mural<br />Enlightened - Jesus Before Pilate<br />Enlightened - Iron Man<br />Enlightened - Holy Hands<br />Enlightened - Hofbrauhaus<br />Enlightened - Herald Sun<br />Enlightened - Gordon of Khartoum statue, Mel<br />Enlightened - Giant Beer Mugs @ Coopers Inn<br />Enlightened - Fountain of Inspiration<br />Enlightened - Elms Family Hotel Heritage<br />Enlightened - Comedy Theatre<br />Enlightened - College of Surgeons Gardens<br />Enlightened - Chinese Museum <br />Enlightened - Bourke Street C1900<br />Enlightened - Australia Mural<br />Enlightened - Ancient Dragon Statue<br />Enlightened - Adam Lindsay Gordon<br />Enlightened - 17 Casselden Place<br />Enlightened - (VOLATILE) - Stone Etchings<br />Enlightened - (VOLATILE) - Helix Tree<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Auckland - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 64 to 30.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 34.<br /><br />Portals Owned - <b>RES:</b> 24 - ENL: 14 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 2 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +25%, (6)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 64 - Enlightened - 30<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 64 - Enlightened - 30<br /><br /><b>Measurement Time Details:</b><br />Original: 4:04 (Minutes:Seconds within Measurement Window)<br />Padded String: cFMLilmKnkLB 4:04 UymKOGgPZtTsCrDHbF<br />MD5 of Padded String: 8e70e3ab44394b3537d408aaed128bf1<br /><br /><b>Portal Ownership Details</b><br />Resistance - WWI Battle of Palestine War Memorial Fountain <br />Resistance - War Memorial<br />Resistance - Valkyrie Statue<br />Resistance - Tree of Friendship<br />Resistance - Transformer by Joe Edgar<br />Resistance - The Fern for Memories of Our F<br />Resistance - Sun Dial<br />Resistance - Spine - Peter Nicholls 1986<br />Resistance - Sensory Garden<br />Resistance - Robert Burns Statue, Auckland<br />Resistance - Robert Burns by E.J. Parlanti<br />Resistance - Resistance Statue<br />Resistance - Regeneration<br />Resistance - Pukekawa Shrine<br />Resistance - Papal Visit Memorial<br />Resistance - Numbers Are The Language of Nature - Chiara Corbelletto<br />Resistance - Gallipoli 1915 War Memorial<br />Resistance - Domain Swan<br />Resistance - Domain Lodge Daffodil <br />Resistance - Domain Gateway<br />Resistance - Disruptive Mural<br />Resistance - Auckland War Memorial Museum<br />Resistance - Auckland Regiment 1898-1998<br />Resistance - Auckland Museum, Battle of Britain <br />Resistance - (VOLATILE) - Jubilee Building<br />Resistance - (VOLATILE) - Historic Train Yard<br />Resistance - (VOLATILE) - Birdwood Crescent Statue <br />Resistance - (VOLATILE) - Art College Building<br />Neutral - Phoenix Foundry Flue circa 1890<br />Neutral - Grafton Welcome<br />Neutral - Domain Band Rotunda<br />Neutral - Auckland Bowling Club<br />Neutral - Auckland Acclimatization Society Seat<br />Enlightened - Tree Fountain<br />Enlightened - The Fallen<br />Enlightened - Sky Rake<br />Enlightened - Promise Boat<br />Enlightened - Papal Stone<br />Enlightened - Missing Link<br />Enlightened - Millennium Tree<br />Enlightened - Kaitiaki<br />Enlightened - Humming Sculpture<br />Enlightened - History of the City of Auckland<br />Enlightened - GIFU Cherry Blossom Groove<br />Enlightened - Christine Hellyar, Spring<br />Enlightened - Balls of Truth<br />Enlightened - Auckland War Memorial Museum<br />Enlightened - (VOLATILE) - Parnell Village<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Brisbane - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 78.75 to 19.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 59.75.<br /><br />Portals Owned - <b>RES:</b> 19 - ENL: 13 - [Value: 1 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 5 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 2 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +25%, (15.75)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 19 - <b>Enlightened</b> - 78.75<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 19 - <b>Enlightened</b> - 78.75<br /><br /><b>Measurement Time Details:</b><br />Original: 4:04 (Minutes:Seconds within Measurement Window)<br />Padded String: cFMLilmKnkLB 4:04 UymKOGgPZtTsCrDHbF<br />MD5 of Padded String: 8e70e3ab44394b3537d408aaed128bf1<br /><br /><b>Portal Ownership Details</b><br />Resistance - Women's Naval Plaque<br />Resistance - Water Fountain<br />Resistance - The Domain Sign<br />Resistance - Speakers Corner - Qld Parliament<br />Resistance - Sitooter<br />Resistance - SEQEB Plaque <br />Resistance - Red Polka Dot Mural<br />Resistance - QUT Library<br />Resistance - QUT Dedication Plaque<br />Resistance - Queensland University of Technology<br />Resistance - Queensland 150th Anniversary Stone<br />Resistance - Plant Form Sculpture<br />Resistance - Parliament House Foundation<br />Resistance - Parliament House<br />Resistance - Outdoor Chess Board<br />Resistance - Morning Star II<br />Resistance - Building Blocks of Life<br />Resistance - Bird Chaser at Public Vegetable Patch<br />Resistance - Battle for Australia War Memorial<br />Neutral - QUT Old Government House<br />Neutral - QUT Library Court<br />Neutral - QUT Fountain<br />Neutral - QUT Art Museum<br />Neutral - Q150 GPS Mark<br />Neutral - Old Government House<br />Neutral - Metal Chair Sculpture<br />Neutral - Marker 1974 Flood Level and 2011<br />Neutral - Lady Bowen Statue<br />Neutral - Ghost Within <br />Neutral - Bike Sculpture<br />Enlightened - Warning Wall<br />Enlightened - Walter Hill Fountain<br />Enlightened - The Main Rotunda<br />Enlightened - The Cube <br />Enlightened - Jemmy Morrill and the Brolgas<br />Enlightened - Japanese Lantern<br />Enlightened - Hibiscus Garden Sun Dial<br />Enlightened - Duck Fountain<br />Enlightened - City Botanic Gardens<br />Enlightened - Bronze Kangaroo<br />Enlightened - Brisbane Botanical Gardens - E<br />Enlightened - Botanical Gazebo<br />Enlightened - Botanical Gardens Chair Sculpture<br />Enlightened - (VOLATILE) - Rolling Shapes<br />Enlightened - (VOLATILE) - Mater Signal Box<br />Enlightened - (VOLATILE) - Heavy Metal Pelicans<br />Enlightened - (VOLATILE) - Butterfly Tile Mosaic<br />Enlightened - (VOLATILE) - Big Red Box<br /><br /></div>
+[#### photo: #Interitus 04 - Measurement 1 Report
+At Measurement 1, The Enlightened control #Interitus 04, leading by 57.75.
+Summary of Anomaly Conditions:
+Melbourne - R:98 - E:130
+Auckland - R:64 - E:30
+Brisbane - R:19 - E:78.75
+Total - R:181 - E:238.75
+Massive, multi-layered Enlightened Fields currently exist over all 3 Anomaly Sites. In Auckland, the Resistance smartly wrested control of the majority of active Portals, effectively undermining the Field’s impact there. In Brisbane and Melbourne, a strong Enlightened presence on the ground is leading to an early surge for the Faction. With the massive Fields overhead, Portal Links cannot be created, increasing pressure on the Agents attempting to maintain control of the Portals, both within the Cluster and the Volatiles that lie outside.
+#Interitus 04: Melbourne - Measurement 1 Report
+The Enlightened captured this Measurement, 130 to 98.
+The Enlightened currently control this Primary Site, leading by 32.
+Portals Owned - RES: 19 - ENL: 32 - [Value: 2 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - ENL - [Value: +25%, (26)]
+Total for this Measurement:
+Resistance - 98 - Enlightened - 130
+Total for this Primary Site:
+Resistance - 98 - Enlightened - 130
+Measurement Time Details:
+Original: 4:04 (Minutes:Seconds within Measurement Window)
+Padded String: cFMLilmKnkLB 4:04 UymKOGgPZtTsCrDHbF
+MD5 of Padded String: 8e70e3ab44394b3537d408aaed128bf1
+Portal Ownership Details
+Resistance - Water Shrine
+Resistance - Victoria Tower Parliament Stone
+Resistance - Totem
+Resistance - Thirst for Change Mural
+Resistance - The Golden Dolphin
+Resistance - Surgeons' Sun Dial
+Resistance - Salvation Army Shield 614
+Resistance - Princess Theatre
+Resistance - Post Master General's Car
+Resistance - Magical Fountain
+Resistance - Higinbotham statue, Melbourne
+Resistance - Harley House
+Resistance - Former Church of England Mission
+Resistance - FAD Graffiti
+Resistance - Croft Alley Art
+Resistance - CafelLe Petite Bourke Mural
+Resistance - Burns Statue
+Resistance - Bull Run
+Resistance - Australia Post Office on Bourke Street
+Resistance - (VOLATILE) - Tom Bass Sculpture
+Resistance - (VOLATILE) - Giant Chess Board
+Resistance - (VOLATILE) - Angel by Deborah Halpern
+Neutral - Windsor Hotel Sculpture
+Neutral - Tianjin Gardens
+Neutral - Sir William John Clarke Statue
+Neutral - Scotch Cottage 1852-1853
+Neutral - Pastor Douglas Statue
+Neutral - Milton House
+Neutral - John Wesley
+Neutral - Her Majesty's Theatre
+Neutral - Dr. Sun Yat Sen
+Neutral - Chinese Mission Church
+Neutral - China Town Gates East Entrance
+Neutral - China Town Dragon
+Enlightened - Wesley Uniting Church
+Enlightened - Top Hat Tower
+Enlightened - The Melbourne Club
+Enlightened - The Lion Gate
+Enlightened - The Horsemen are Coming
+Enlightened - The Australian National University
+Enlightened - Squiggle Wall
+Enlightened - Spring Fan
+Enlightened - Royal Australian College of Surgeons
+Enlightened - Parliament Train Station
+Enlightened - Parliament Train Station
+Enlightened - Parliament of Victoria
+Enlightened - Open Wall for Doves Mural
+Enlightened - Old Treasury Building
+Enlightened - Mohon Doa Restu Mural
+Enlightened - Jesus Before Pilate
+Enlightened - Iron Man
+Enlightened - Holy Hands
+Enlightened - Hofbrauhaus
+Enlightened - Herald Sun
+Enlightened - Gordon of Khartoum statue, Mel
+Enlightened - Giant Beer Mugs @ Coopers Inn
+Enlightened - Fountain of Inspiration
+Enlightened - Elms Family Hotel Heritage
+Enlightened - Comedy Theatre
+Enlightened - College of Surgeons Gardens
+Enlightened - Chinese Museum
+Enlightened - Bourke Street C1900
+Enlightened - Australia Mural
+Enlightened - Ancient Dragon Statue
+Enlightened - Adam Lindsay Gordon
+Enlightened - 17 Casselden Place
+Enlightened - (VOLATILE) - Stone Etchings
+Enlightened - (VOLATILE) - Helix Tree
+#Interitus 04: Auckland - Measurement 1 Report
+The Resistance captured this Measurement, 64 to 30.
+The Resistance currently control this Secondary Site, leading by 34.
+Portals Owned - RES: 24 - ENL: 14 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 2 each]
+Single Field Over Entire Cluster - ENL - [Value: +25%, (6)]
+Total for this Measurement:
+Resistance - 64 - Enlightened - 30
+Total for this Secondary Site:
+Resistance - 64 - Enlightened - 30
+Measurement Time Details:
+Original: 4:04 (Minutes:Seconds within Measurement Window)
+Padded String: cFMLilmKnkLB 4:04 UymKOGgPZtTsCrDHbF
+MD5 of Padded String: 8e70e3ab44394b3537d408aaed128bf1
+Portal Ownership Details
+Resistance - WWI Battle of Palestine War Memorial Fountain
+Resistance - War Memorial
+Resistance - Valkyrie Statue
+Resistance - Tree of Friendship
+Resistance - Transformer by Joe Edgar
+Resistance - The Fern for Memories of Our F
+Resistance - Sun Dial
+Resistance - Spine - Peter Nicholls 1986
+Resistance - Sensory Garden
+Resistance - Robert Burns Statue, Auckland
+Resistance - Robert Burns by E.J. Parlanti
+Resistance - Resistance Statue
+Resistance - Regeneration
+Resistance - Pukekawa Shrine
+Resistance - Papal Visit Memorial
+Resistance - Numbers Are The Language of Nature - Chiara Corbelletto
+Resistance - Gallipoli 1915 War Memorial
+Resistance - Domain Swan
+Resistance - Domain Lodge Daffodil
+Resistance - Domain Gateway
+Resistance - Disruptive Mural
+Resistance - Auckland War Memorial Museum
+Resistance - Auckland Regiment 1898-1998
+Resistance - Auckland Museum, Battle of Britain
+Resistance - (VOLATILE) - Jubilee Building
+Resistance - (VOLATILE) - Historic Train Yard
+Resistance - (VOLATILE) - Birdwood Crescent Statue
+Resistance - (VOLATILE) - Art College Building
+Neutral - Phoenix Foundry Flue circa 1890
+Neutral - Grafton Welcome
+Neutral - Domain Band Rotunda
+Neutral - Auckland Bowling Club
+Neutral - Auckland Acclimatization Society Seat
+Enlightened - Tree Fountain
+Enlightened - The Fallen
+Enlightened - Sky Rake
+Enlightened - Promise Boat
+Enlightened - Papal Stone
+Enlightened - Missing Link
+Enlightened - Millennium Tree
+Enlightened - Kaitiaki
+Enlightened - Humming Sculpture
+Enlightened - History of the City of Auckland
+Enlightened - GIFU Cherry Blossom Groove
+Enlightened - Christine Hellyar, Spring
+Enlightened - Balls of Truth
+Enlightened - Auckland War Memorial Museum
+Enlightened - (VOLATILE) - Parnell Village
+#Interitus 04: Brisbane - Measurement 1 Report
+The Enlightened captured this Measurement, 78.75 to 19.
+The Enlightened currently control this Secondary Site, leading by 59.75.
+Portals Owned - RES: 19 - ENL: 13 - [Value: 1 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 2 each]
+Single Field Over Entire Cluster - ENL - [Value: +25%, (15.75)]
+Total for this Measurement:
+Resistance - 19 - Enlightened - 78.75
+Total for this Secondary Site:
+Resistance - 19 - Enlightened - 78.75
+Measurement Time Details:
+Original: 4:04 (Minutes:Seconds within Measurement Window)
+Padded String: cFMLilmKnkLB 4:04 UymKOGgPZtTsCrDHbF
+MD5 of Padded String: 8e70e3ab44394b3537d408aaed128bf1
+Portal Ownership Details
+Resistance - Women's Naval Plaque
+Resistance - Water Fountain
+Resistance - The Domain Sign
+Resistance - Speakers Corner - Qld Parliament
+Resistance - Sitooter
+Resistance - SEQEB Plaque
+Resistance - Red Polka Dot Mural
+Resistance - QUT Library
+Resistance - QUT Dedication Plaque
+Resistance - Queensland University of Technology
+Resistance - Queensland 150th Anniversary Stone
+Resistance - Plant Form Sculpture
+Resistance - Parliament House Foundation
+Resistance - Parliament House
+Resistance - Outdoor Chess Board
+Resistance - Morning Star II
+Resistance - Building Blocks of Life
+Resistance - Bird Chaser at Public Vegetable Patch
+Resistance - Battle for Australia War Memorial
+Neutral - QUT Old Government House
+Neutral - QUT Library Court
+Neutral - QUT Fountain
+Neutral - QUT Art Museum
+Neutral - Q150 GPS Mark
+Neutral - Old Government House
+Neutral - Metal Chair Sculpture
+Neutral - Marker 1974 Flood Level and 2011
+Neutral - Lady Bowen Statue
+Neutral - Ghost Within
+Neutral - Bike Sculpture
+Enlightened - Warning Wall
+Enlightened - Walter Hill Fountain
+Enlightened - The Main Rotunda
+Enlightened - The Cube
+Enlightened - Jemmy Morrill and the Brolgas
+Enlightened - Japanese Lantern
+Enlightened - Hibiscus Garden Sun Dial
+Enlightened - Duck Fountain
+Enlightened - City Botanic Gardens
+Enlightened - Bronze Kangaroo
+Enlightened - Brisbane Botanical Gardens - E
+Enlightened - Botanical Gazebo
+Enlightened - Botanical Gardens Chair Sculpture
+Enlightened - (VOLATILE) - Rolling Shapes
+Enlightened - (VOLATILE) - Mater Signal Box
+Enlightened - (VOLATILE) - Heavy Metal Pelicans
+Enlightened - (VOLATILE) - Butterfly Tile Mosaic
+Enlightened - (VOLATILE) - Big Red Box](https://lh3.googleusercontent.com/-tmmqujWxk_E/U3bWtaL6HUI/AAAAAAAAw_0/V7vNTnSHyP4/enl_bikes.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/LnmvrRGbfqf](https://plus.google.com/+NianticProject/posts/LnmvrRGbfqf)

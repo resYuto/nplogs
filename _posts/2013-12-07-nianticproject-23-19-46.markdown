@@ -1,0 +1,198 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-07 23:19:46 +0900"
+date:   2013-12-07 23:19:46 +0900
+categories: nianticproject
+---
+Istanbul and Athens begin to slide into uncontested Faction control, with the Enlightened holding Istanbul and the Resistance, Athens.
+
+Rome remains hotly contested, raising the pressure for Global Agents struggling to control the Jarvis Shards and Global MU Gain.
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- ROME - Measurement 2 Report</b> <br /><br />The Resistance owned 0 Volatile Portals and 34 Non-Volatile Portals<br /><b>The Enlightened owned 5 Volatile Portals and 17 Non-Volatile Portals</b><br /><br /><b>The Resistance had 6 Links standing at Measurement Time</b><br />The Enlightened had 1 Link standing at Measurement Time<br /><br />The Resistance Controlled 6 Jarvis Shards<br />The Enlightened Controlled 6 Jarvis Shards<br /><br />Total for Resistance this Measurement = 158<br /><b>Total for Enlightened this Measurement = 199</b><br /><br />Total for Resistance this Anomaly = 320<br /><b>Total for Enlightened this Anomaly = 382</b><br /><br />Shard 01 - Awareness: Enlightened<br />Shard 02 - Creativity: Resistance<br />Shard 03 - Strength: Enlightened<br />Shard 04 - Insight: Enlightened<br />Shard 05 - Understanding: Enlightened<br />Shard 06 - Memory: Resistance<br />Shard 07 - Belief: Resistance<br />Shard 08 - Charisma: Resistance<br />Shard 09 - Empathy: Resistance<br />Shard 10 - Identity: Enlightened<br />Shard 11 - Aesthetic: Resistance<br />Shard 12 - Intuition: Enlightened<br />Shard 13 - Immortality - In Flux<br /><br /><b>Portal Ownership Details:</b><br />Piumino celestiale (VOLATILE) - Enlightened<br />Il leone (VOLATILE) - Enlightened<br />villa borghese (una fontana) (VOLATILE) - Enlightened<br />Quas4r (VOLATILE) - Enlightened<br />Statue in Villa Borghese  (VOLATILE) - Enlightened<br />Statue of Prominent Figure ins - Enlightened<br />Galleria Nazionale Di Arte Moderna GNAM - Enlightened<br />Zodiac - Enlightened<br />Pino Pascali - Opere - Enlightened<br />Victor Hugo - Enlightened<br />In Italia piangono, ormai, anc - Enlightened<br />Via Di Villa Albani - Enlightened<br />Artistic Stone Sculpture - Enlightened<br />Academia Belgica - Enlightened<br />Statua - Villa Borghese - Enlightened<br />Il Mascherine di Roma - Enlightened<br />Jose' Ortigas - Enlightened<br />Corso d'Italia - Enlightened<br />Accademia Inglese - Enlightened<br />Cerchio  - Enlightened<br />Accademia Di Romania - Enlightened<br />Porta Pia - Enlightened<br />Villa Borghese - Roma - Neutral<br />Fontana nel Parco di Villa Bor - Neutral<br />Kmubu 9 - Neutral<br />Il Partigiano - Neutral<br />Villa Borghese - Roma - Neutral<br />Giardino G.N.A.M. - Neutral<br />Jose De San Martin - Neutral<br />Henryk Sienkiewicz - Neutral<br />Nikolai Gogol - Neutral<br />mausoleo di Lucilio peto - Neutral<br />Lion - Resistance<br />Torretta Sociologia - Resistance<br />Family - Resistance<br />Byron Statue - Resistance<br />Museo Borghese 01 - Resistance<br />Tempio d'Esculapio en meertje  - Resistance<br />Fontana di Cavalli Marini - Resistance<br />Villa Borghese - Resistance<br />Ingang Villa Borghese Piazzale - Resistance<br />la barca nel muro - Resistance<br />Pesciolone - Resistance<br />Museo Borghese 02 - Resistance<br />ROMA. Villa Borghese - Resistance<br />Consip - Resistance<br />Standbeeld Goethe - Resistance<br />DECEBALUS REX - Resistance<br />Scultura di Thorwaldsen - Resistance<br />Monumento Umberto I - Resistance<br />A Villa Borghese - Resistance<br />Wolfgang Goethe - Resistance<br />Casa delle Battaglie - Resistance<br />The war continue...Un'apparizi - Resistance<br />Statua Nerone - Resistance<br />Monument for the Besaglio  - Resistance<br />Rovine (false) del Tempio di F - Resistance<br />La Lupa - Resistance<br />Dragon - Resistance<br />Non insistere ... non mi girer - Resistance<br />Arte moderna - Resistance<br />Villa Borghese - Resistance<br />Italie, Rome, le parc de la Vi - Resistance<br />Villa Borghese parc - Resistance<br />Villa Albani, Rome by Night - Resistance<br />Giacomo Manzù - Il Grande Card - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- ISTANBUL - Measurement 3 Report</b> <br /><br />The Resistance owned 1 Volatile Portal and 1 Non-Volatile Portal<br /><b>The Enlightened owned 4 Volatile Portals and 12 Non-Volatile Portals</b><br /><br /><b>The Enlightened had 4 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 11<br /><b>Total for Enlightened this Measurement = 60</b><br /><br />Total for Resistance this Anomaly = 91<br /><b>Total for Enlightened this Anomaly = 241</b><br /><br /><b>Portal Ownership Details:</b><br />World Peace Monument (VOLATILE) - Enlightened<br />Toprak Holding Fountain (VOLATILE) - Enlightened<br />Yildiz Parki'nda Bir Heykel (VOLATILE) - Enlightened<br />Abbasaga Gunes Saati (VOLATILE) - Enlightened<br />Hamidiye Mosque Clock Tower (VOLATILE) - Resistance<br />Aliyev Atatürk Friendship Statue - Enlightened<br />Guvercin - Enlightened<br />Selenium Havuz - Enlightened<br />Marble Statue - Enlightened<br />Atatürk Heykeli - Enlightened<br />Dikilitas - Enlightened<br />Solar Panel - Enlightened<br />Islami History and Art Cultural Center - Enlightened<br />Kartal - Enlightened<br />Hakki Yeten Statue - Enlightened<br />Dikilitas Park - Enlightened<br />Dikili Tas - Enlightened<br />Fatih Sultan Mehmet Heykeli - Neutral<br />Leyla Gencer Heykeli - Neutral<br />Park Tas - Neutral<br />Yıldız Mosque - Neutral<br />Dunya Baris Park Fountain - Neutral<br />World Peace Park Besiktas - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- ATHENS - Measurement 3 Report</b> <br /><br /><b>The Resistance owned 3 Volatile Portals and 16 Non-Volatile Portals</b><br />The Enlightened owned 1 Volatile Portal and 8 Non-Volatile Portals<br /><br /><b>The Resistance had 33 Links standing at Measurement Time</b><br />The Enlightened had 4 Links standing at Measurement Time<br /><br /><b>Total for Resistance this Measurement = 112</b><br />Total for Enlightened this Measurement = 26<br /><br /><b>Total for Resistance this Anomaly = 549</b><br />Total for Enlightened this Anomaly = 72<br /><br /><b>Measurement Time Details:</b><br />Original: 1:40 (Minutes:Seconds past the hour)<br />Padded: VtiqVpWZSKzCem 1:40 MALuwgmUVQdHkFdh<br />MD5 of Padded String: 9923ba44cd26bae474c487600b0d19c0<br /><br /><b>Portal Ownership Details:</b><br />Papadiamantis - Dexameni (VOLATILE) - Enlightened<br />Πλατεία Φιλικής Εταιρείας (VOLATILE) - Neutral<br />Academy of Athens (VOLATILE) - Resistance<br />Iera Moni Petraki (VOLATILE) - Resistance<br />Alsos Eleutherias (VOLATILE) - Resistance<br />Σκουφάς - Enlightened<br />Odysseas Elytis - Dexameni - Enlightened<br />Nikolaos Mantzaros 1795 - 1873 - Enlightened<br />Kostantinos Georgakopoulos - Enlightened<br />Ακαδημία Αθηνών (Academy of At - Enlightened<br />Aghios Spyridon - Enlightened<br />Apollo - Απόλλων - Enlightened<br />l'Académie de la ville  - Enlightened<br />Ρήγας Φεραίος -- Rigas Fereos - Neutral<br />library, monument, greece, ath - Neutral<br />Εθνική βιβλιοθήκη  - Neutral<br />Προπύλαια (Propylaea), Εθνικόν - Neutral<br />Night view of the Acropolis fr - Neutral<br />Grafiti with Paint and Paper - Neutral<br />Τσακάλωφ - Neutral<br />Η Ακαδημία των Αθηνών -- The A - Neutral<br />Hospital Church - Neutral<br />[Untitled] - Resistance<br />Aggelos Terzakis - Resistance<br />The poet Costis Palamas - Resistance<br />Kanellopoulos - Xenokratous - Resistance<br />Athens Spiritual Center - Resistance<br />Zoodoxou Pigis Church - Resistance<br />Cross - Resistance<br />Queen Olga - Resistance<br />Giorgos Kandylis - Resistance<br />Tribute to Americans - Resistance<br />Aghios Nikolaos Chappel - Resistance<br />Aghios Nikolaos  - Resistance<br />ΓΟΡΓΟΝΑ - Resistance<br />Moustaklis - Parko Eleftherias - Resistance<br />Costis Mpastias - Resistance<br />Anagnostopoulos - Kolonaki - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>DEC 7 PRIMARY SITES:</b> <br />Phoenix: <a href="http://goo.gl/uMLR7j" class="ot-anchor">http://goo.gl/uMLR7j</a> <br />Rome: <a href="http://goo.gl/8H9OET" class="ot-anchor">http://goo.gl/8H9OET</a> <br /><br /><b>SATELLITE SITES:</b> <br />Athens: <a href="http://goo.gl/PBCyd8" class="ot-anchor">http://goo.gl/PBCyd8</a> <br />Istanbul: <a href="http://goo.gl/9oD3cm" class="ot-anchor">http://goo.gl/9oD3cm</a> <br />Nashville: <a href="http://goo.gl/rvsDXh" class="ot-anchor">http://goo.gl/rvsDXh</a> <br />Tucson: <a href="http://goo.gl/RD8c3u" class="ot-anchor">http://goo.gl/RD8c3u</a> <br /><br /></div>
+[#### photo: #13MAGNUS - ROME - Measurement 2 Report 
+The Resistance owned 0 Volatile Portals and 34 Non-Volatile Portals
+The Enlightened owned 5 Volatile Portals and 17 Non-Volatile Portals
+The Resistance had 6 Links standing at Measurement Time
+The Enlightened had 1 Link standing at Measurement Time
+The Resistance Controlled 6 Jarvis Shards
+The Enlightened Controlled 6 Jarvis Shards
+Total for Resistance this Measurement = 158
+Total for Enlightened this Measurement = 199
+Total for Resistance this Anomaly = 320
+Total for Enlightened this Anomaly = 382
+Shard 01 - Awareness: Enlightened
+Shard 02 - Creativity: Resistance
+Shard 03 - Strength: Enlightened
+Shard 04 - Insight: Enlightened
+Shard 05 - Understanding: Enlightened
+Shard 06 - Memory: Resistance
+Shard 07 - Belief: Resistance
+Shard 08 - Charisma: Resistance
+Shard 09 - Empathy: Resistance
+Shard 10 - Identity: Enlightened
+Shard 11 - Aesthetic: Resistance
+Shard 12 - Intuition: Enlightened
+Shard 13 - Immortality - In Flux
+Portal Ownership Details:
+Piumino celestiale (VOLATILE) - Enlightened
+Il leone (VOLATILE) - Enlightened
+villa borghese (una fontana) (VOLATILE) - Enlightened
+Quas4r (VOLATILE) - Enlightened
+Statue in Villa Borghese  (VOLATILE) - Enlightened
+Statue of Prominent Figure ins - Enlightened
+Galleria Nazionale Di Arte Moderna GNAM - Enlightened
+Zodiac - Enlightened
+Pino Pascali - Opere - Enlightened
+Victor Hugo - Enlightened
+In Italia piangono, ormai, anc - Enlightened
+Via Di Villa Albani - Enlightened
+Artistic Stone Sculpture - Enlightened
+Academia Belgica - Enlightened
+Statua - Villa Borghese - Enlightened
+Il Mascherine di Roma - Enlightened
+Jose' Ortigas - Enlightened
+Corso d'Italia - Enlightened
+Accademia Inglese - Enlightened
+Cerchio  - Enlightened
+Accademia Di Romania - Enlightened
+Porta Pia - Enlightened
+Villa Borghese - Roma - Neutral
+Fontana nel Parco di Villa Bor - Neutral
+Kmubu 9 - Neutral
+Il Partigiano - Neutral
+Villa Borghese - Roma - Neutral
+Giardino G.N.A.M. - Neutral
+Jose De San Martin - Neutral
+Henryk Sienkiewicz - Neutral
+Nikolai Gogol - Neutral
+mausoleo di Lucilio peto - Neutral
+Lion - Resistance
+Torretta Sociologia - Resistance
+Family - Resistance
+Byron Statue - Resistance
+Museo Borghese 01 - Resistance
+Tempio d'Esculapio en meertje  - Resistance
+Fontana di Cavalli Marini - Resistance
+Villa Borghese - Resistance
+Ingang Villa Borghese Piazzale - Resistance
+la barca nel muro - Resistance
+Pesciolone - Resistance
+Museo Borghese 02 - Resistance
+ROMA. Villa Borghese - Resistance
+Consip - Resistance
+Standbeeld Goethe - Resistance
+DECEBALUS REX - Resistance
+Scultura di Thorwaldsen - Resistance
+Monumento Umberto I - Resistance
+A Villa Borghese - Resistance
+Wolfgang Goethe - Resistance
+Casa delle Battaglie - Resistance
+The war continue...Un'apparizi - Resistance
+Statua Nerone - Resistance
+Monument for the Besaglio  - Resistance
+Rovine (false) del Tempio di F - Resistance
+La Lupa - Resistance
+Dragon - Resistance
+Non insistere ... non mi girer - Resistance
+Arte moderna - Resistance
+Villa Borghese - Resistance
+Italie, Rome, le parc de la Vi - Resistance
+Villa Borghese parc - Resistance
+Villa Albani, Rome by Night - Resistance
+Giacomo Manzù - Il Grande Card - Resistance
+#13MAGNUS - ISTANBUL - Measurement 3 Report 
+The Resistance owned 1 Volatile Portal and 1 Non-Volatile Portal
+The Enlightened owned 4 Volatile Portals and 12 Non-Volatile Portals
+The Enlightened had 4 Links standing at Measurement Time
+Total for Resistance this Measurement = 11
+Total for Enlightened this Measurement = 60
+Total for Resistance this Anomaly = 91
+Total for Enlightened this Anomaly = 241
+Portal Ownership Details:
+World Peace Monument (VOLATILE) - Enlightened
+Toprak Holding Fountain (VOLATILE) - Enlightened
+Yildiz Parki'nda Bir Heykel (VOLATILE) - Enlightened
+Abbasaga Gunes Saati (VOLATILE) - Enlightened
+Hamidiye Mosque Clock Tower (VOLATILE) - Resistance
+Aliyev Atatürk Friendship Statue - Enlightened
+Guvercin - Enlightened
+Selenium Havuz - Enlightened
+Marble Statue - Enlightened
+Atatürk Heykeli - Enlightened
+Dikilitas - Enlightened
+Solar Panel - Enlightened
+Islami History and Art Cultural Center - Enlightened
+Kartal - Enlightened
+Hakki Yeten Statue - Enlightened
+Dikilitas Park - Enlightened
+Dikili Tas - Enlightened
+Fatih Sultan Mehmet Heykeli - Neutral
+Leyla Gencer Heykeli - Neutral
+Park Tas - Neutral
+Yıldız Mosque - Neutral
+Dunya Baris Park Fountain - Neutral
+World Peace Park Besiktas - Resistance
+#13MAGNUS - ATHENS - Measurement 3 Report 
+The Resistance owned 3 Volatile Portals and 16 Non-Volatile Portals
+The Enlightened owned 1 Volatile Portal and 8 Non-Volatile Portals
+The Resistance had 33 Links standing at Measurement Time
+The Enlightened had 4 Links standing at Measurement Time
+Total for Resistance this Measurement = 112
+Total for Enlightened this Measurement = 26
+Total for Resistance this Anomaly = 549
+Total for Enlightened this Anomaly = 72
+Measurement Time Details:
+Original: 1:40 (Minutes:Seconds past the hour)
+Padded: VtiqVpWZSKzCem 1:40 MALuwgmUVQdHkFdh
+MD5 of Padded String: 9923ba44cd26bae474c487600b0d19c0
+Portal Ownership Details:
+Papadiamantis - Dexameni (VOLATILE) - Enlightened
+Πλατεία Φιλικής Εταιρείας (VOLATILE) - Neutral
+Academy of Athens (VOLATILE) - Resistance
+Iera Moni Petraki (VOLATILE) - Resistance
+Alsos Eleutherias (VOLATILE) - Resistance
+Σκουφάς - Enlightened
+Odysseas Elytis - Dexameni - Enlightened
+Nikolaos Mantzaros 1795 - 1873 - Enlightened
+Kostantinos Georgakopoulos - Enlightened
+Ακαδημία Αθηνών (Academy of At - Enlightened
+Aghios Spyridon - Enlightened
+Apollo - Απόλλων - Enlightened
+l'Académie de la ville  - Enlightened
+Ρήγας Φεραίος -- Rigas Fereos - Neutral
+library, monument, greece, ath - Neutral
+Εθνική βιβλιοθήκη  - Neutral
+Προπύλαια (Propylaea), Εθνικόν - Neutral
+Night view of the Acropolis fr - Neutral
+Grafiti with Paint and Paper - Neutral
+Τσακάλωφ - Neutral
+Η Ακαδημία των Αθηνών -- The A - Neutral
+Hospital Church - Neutral
+[Untitled] - Resistance
+Aggelos Terzakis - Resistance
+The poet Costis Palamas - Resistance
+Kanellopoulos - Xenokratous - Resistance
+Athens Spiritual Center - Resistance
+Zoodoxou Pigis Church - Resistance
+Cross - Resistance
+Queen Olga - Resistance
+Giorgos Kandylis - Resistance
+Tribute to Americans - Resistance
+Aghios Nikolaos Chappel - Resistance
+Aghios Nikolaos  - Resistance
+ΓΟΡΓΟΝΑ - Resistance
+Moustaklis - Parko Eleftherias - Resistance
+Costis Mpastias - Resistance
+Anagnostopoulos - Kolonaki - Resistance
+#13MAGNUS DEC 7 PRIMARY SITES: 
+Phoenix: http://goo.gl/uMLR7j 
+Rome: http://goo.gl/8H9OET 
+SATELLITE SITES: 
+Athens: http://goo.gl/PBCyd8 
+Istanbul: http://goo.gl/9oD3cm 
+Nashville: http://goo.gl/rvsDXh 
+Tucson: http://goo.gl/RD8c3u ](https://lh5.googleusercontent.com/-jQU03P72ok0/UqMqkL3hrAI/AAAAAAAAcCs/OZ_nSJ4nZVA/w2048-h1536/IMG_20131207_130531.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/TQRntjb8sYX](https://plus.google.com/+NianticProject/posts/TQRntjb8sYX)

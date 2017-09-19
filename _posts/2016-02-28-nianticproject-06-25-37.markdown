@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-28 06:25:37 +0900"
+date:   2016-02-28 06:25:37 +0900
+categories: nianticproject
+---
+ [#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Milwaukee - Measurement 3 Report: RES lead. E:402 - R:978 and [#ObsidianSeattle](https://plus.google.com/s/%23ObsidianSeattle "") has begun... 
+
+The Resistance have pushed their advantage to 576, and the Enlightened now have a single Measurement to try to reign the situation in. At Measurement 3, the Resistance continue to hold an upper hand within the Cluster and across the Volatiles, but were unable to score via Links and Anchored fields.
+
+In Seattle, the first 18 Shards have made their first Jump… the action there is just beginning to heat up.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Milwaukee - Measurement 3 Report**
+The **Resistance** captured this Measurement, 246 to 138.
+The **Resistance** currently control this Satellite Site, leading by 576.
+Portals Owned - **RES:** 21 - ENL: 11 - [Value: 6 each]
+Volatile Portals Owned - **RES:** 10 - ENL: 6 - [Value: 12 each]
+"Links Created - RES: 2 - ENL: 0 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]"
+"Anchored Fields Created - RES: 0 - ENL: 0
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]"
+"Strategic Field - NONE
+[Value: 50% of opponent's Values this Measurement, rounded]"
+Values acquired this Measurement:
+Portals - **RES:** 126 - ENL: 66
+Volatile Portals - **RES:** 120 - ENL: 72
+Links - RES: 0 - ENL: 0
+Anchored Fields - RES: 0 - ENL: 0
+Strategic Field - RES: 0 - ENL: 0
+
+**Total for this Measurement:**
+**Resistance** - 246 - Enlightened - 138
+
+**Total for this Satellite Site:**
+**Resistance** - 978 - Enlightened - 402
+
+**Measurement Time Details:**
+Original: 6:30 (Minutes:Seconds within Measurement Window)
+Padded String: ]Cyi$$``Q&gt;###6:30###f"PoZx'6Lnv@9fJ&amp;Wt
+SHA256 of Padded String: 4afa6d1a3e7ebe13ab7444a4a49e3db20cf6305484bc7d0c54e8a3446d6335d9
+
+**Portal Ownership Details**
+
+E - 1886 Halle's Safe &amp; Lock Vault
+E - at&amp;t Building
+E - Gertie gets her Ducks in a Row
+E - Hotel Metro Historic Plaque
+E - Iron Work Art
+E - LeClaire's Trading Post
+E - Milwaukee City Hall
+E - Milwaukee City Hall
+E - Milwaukee City Hall
+E - Milwaukee News Bldg. &amp; Milwauk
+E - Old Police Call Box 8
+E VOL - Fish Walk
+E VOL - Galleria Fountain
+E VOL - Historic Iron Block
+E VOL - Oneida Street Station
+E VOL - Random Sheep
+E VOL - Zeidler Municipal Building
+N - Historic Milwaukee
+N - Milwaukee City Hall
+N - The Bronze Fonz
+R - 42 Lounge
+R - Downtown Books
+R - Engine Ladder 1
+R - Flower Bike
+R - Lady Bug Building
+R - Mary of Milwaukee
+R - Millioke
+R - Milwaukee Athletic Club
+R - Milwaukee City Hall
+R - Milwaukee River Walk Fonz Statue
+R - Nearly a Century of Planning
+R - Old Abe 
+R - Old St. Mary's Church
+R - Pabst Theater
+R - Rodizio Herd
+R - Shape Things Take
+R - Solomon Juneau's House 
+R - Supporting The Question
+R - The Loyalty Building Circa 1885
+R - The WELLS bldg. 
+R - Wisconsin's Oldest Newspaper
+R VOL - 1000 North Water Street
+R VOL - Every Building Tells a Story
+R VOL - Germania Building
+R VOL - Hyatt Lobby Sculpture 
+R VOL - Joey Buonas
+R VOL - Kaplan University
+R VOL - Karl Ratzch's
+R VOL - Legislative Reference Bureau
+R VOL - McGeoch Building 
+R VOL - The Masons
+
+[#Ingress](https://plus.google.com/s/%23Ingress "") News
+[#### photo:  #IngressObsidian Milwaukee - Measurement 3 Report: RES lead. E:402 - R:978 and #ObsidianSeattle has begun...
+The Resistance have pushed their advantage to 576, and the Enlightened now have a single Measurement to try to reign the situation in. At Measurement 3, the Resistance continue to hold an upper hand within the Cluster and across the Volatiles, but were unable to score via Links and Anchored fields.
+In Seattle, the first 18 Shards have](https://lh3.googleusercontent.com/-t-OLQmjzzNs/VtIUTtGLMmI/AAAAAAAAi1c/TFXd9KIBB6M/w600-h800/mke_31.JPG "")
+- - -
+[https://plus.google.com/+NianticProject/posts/BF9c8fWSWvV](https://plus.google.com/+NianticProject/posts/BF9c8fWSWvV)

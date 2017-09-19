@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-15 18:20:46 +0900"
+date:   2013-08-15 18:20:46 +0900
+categories: nianticproject
+---
+The Resistance put up a good fight, but the Enlightened were able to disassemble much of the groundwork laid earlier in the day. Onwards.
+
+ [#Cassandra](https://plus.google.com/s/%23Cassandra "")  
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Tokyo<br /><br /><b>Measurement 1 Details</b><br /><br />The Resistance owned 1 Volatile Portals and 15 Non-Volatile Portals.<br /><b>The Enlightened owned 3 Volatile Portals and 3 Non Volatile Portals.</b><br /><br />The Resistance had 4 Links standing at Measurement Time.<br /><b>The Enlightened had 6 Links standing at Measurement Time.</b><br /><br />Total for Resistance this Measurement = 33<br /><b>Total for Enlightened this Measurement = 45</b><br /><br />Original:   SIX  O  CLOCK AND  FOUR MINUTES  AND  THIRTEEN   SECONDS<br />Padded: XXSIXXXOXXCLOCKXANDXXFOURXMINUTESXXANDXXTHIRTEENXXXSECONDSX<br />OTP Key: OVMXOPFJFGLAQZWRLGXDJPPQSMWWDESNMJJHIEVAKGRJXCFTYVCISXBIRJA<br />Encrypted String: LSEFLMCXCDNLEBGOLTAAGUDKJJIEQYLREGGHVHSXDNZAQGJGVSZAWZPVUBX<br />MD5 of OTP Key: 430a199d8124796826030643ed15e8f3<br /><br /></div>
+[#### photo: undefined](https://lh3.googleusercontent.com/-sLipnrJ_4r0/UgycnULw6mI/AAAAAAAANt0/r5djgehWAZ8/cassandra-tokyo-1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ck6YPKLmfvh](https://plus.google.com/+NianticProject/posts/ck6YPKLmfvh)

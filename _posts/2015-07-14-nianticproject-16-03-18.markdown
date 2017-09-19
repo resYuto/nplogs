@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-07-14 16:03:18 +0900"
+date:   2015-07-14 16:03:18 +0900
+categories: nianticproject
+---
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") shares his thoughts on seeing +[Klue S.](https://plus.google.com/110350977702120778591 "") at the [#MissionDay](https://plus.google.com/s/%23MissionDay "") in San Diego some days ago.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@560, :value=>"shared"@567}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "I'm more at ease after having seen ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " in person in San Diego this weekend.", "<br />", "<br />", "The underground location, a cellular dead-zone, may have been part of what helped, but said she felt safe, and she was pleased to see me and the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " Agents who were present.", "<br />", "<br />", "She shared the reasons for her strange behavior over the last few weeks with me. It seems that following the separation, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], " has been tracking her very, very closely, and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " can sense it. ", "<br />", "<br />", "I'm not sure why. Is it research? Is ADA attempting to understanding how their time inhabiting one mind has changed Klue or is this something else?", "<br />", "<br />", "Agents at  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23MissionDay\">#MissionDay</a>", "  helped us recover a message that was left for us there. (It's part of why both Klue and I went down in the first place, a summoning from this unknown source.)", "<br />", "<br />", "I can't share more about that at this time, but I will when I can.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #)!$%)!!&amp;%^)!!(%%@@!%!!!)!#%](https://lh3.googleusercontent.com/-IF0MOzniF48/VaSy25fERQI/AAAAAAAABRE/kcleHHsy5c0/w500-h500/KlueMissionDay.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/PfHKedCq1dM](https://plus.google.com/+NianticProject/posts/PfHKedCq1dM)

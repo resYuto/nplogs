@@ -1,0 +1,275 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-27 15:48:01 +0900"
+date:   2016-02-27 15:48:01 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Hamamatsu Measurement 2 Scores: ENL: 4586 to RES: 1332 (Shards included). Shards E:13 - R:0
+
+The Enlightened seem unstoppable in Hamamatsu right now, leading by a staggering 3254 at the close of Measurement 2. While they are clearly dominating control of the Flash Shards (they have captured 13 of 16), their upper hand in the Clusters seems even more pronounced. At this Measurement, the Resistance controlled an equal number of Volatile Portals, but lagged across all other factors. Two Measurements remain for the Resistance to mitigate their standing, and most of that effort will have to come from within the Clusters. 
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Hamamatsu - Measurement 2 Report**
+
+The **Enlightened** captured this Measurement, 2410 to 702.
+The **Enlightened** currently control this Satellite Site, leading by 3254.
+
+Portals Owned - RES: 37 - **ENL:** 105 - [Value: 6 each]
+Volatile Portals Owned - RES: 40 - ENL: 40 - [Value: 12 each]
+"Links Created - RES: 8 - **ENL:** 108 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]"
+"Anchored Fields Created - RES: 0 - **ENL:** 30
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]"
+Shards - RES:  - ENL: 8 [Value: 100 each]
+
+Values acquired this Measurement:
+Portals - RES: 222 - **ENL:** 630
+Volatile Portals - RES: 480 - ENL: 480
+Links - RES: 0 - **ENL**: 300
+Anchored Fields - RES: 0 - **ENL:** 200
+Strategic Field - RES: 0 - ENL: 0
+Shards - RES: 0 - ENL: 800	
+
+**Total for this Measurement:**
+Resistance - 702 - **Enlightened** - 2410
+
+**Total for this Satellite Site:**
+Resistance - 1332 - **Enlightened** - 4586
+
+**Measurement Time Details:**
+Original: 9:51 (Minutes:Seconds within Measurement Window)
+Padded String: G2zkc!3nA4JVi9=$aK0ef###9:51###
+SHA256 of Padded String: 513432a534d2dc8d9c564e5f3b133614583d04b073f7d5540eea643f9dafdd07
+
+**Portal Ownership Details**
+
+E - Dog Wall
+E - espo
+E - Grafiti Art
+E - Ground Art しらない人にはついていかない
+E - mint HAIR (浜松市中区遠州病院駅西側)
+E - Ten-oh-sama（天王様）
+E - World Wide Web Plaza
+E - いぼ神様(長久寺)
+E - かに道楽　カニ
+E - すっぽん
+E - すべり台
+E - アビー・ラ・トゥール教会
+E - アートフォルム田町 (浜松市中区田町)
+E - サーフィン
+E - セブンスデーアドベンチスト 浜松キリスト教会(浜松市中区茄子町)
+E - パンダカバコアラ
+E - ヤマハ浜松中央センター
+E - ヨット (宝くじのマスミ)
+E - ルネサンス・ペット・アカデミー(浜松市中区北田)
+E - ワフ30149
+E - 三晃田町ビル (浜松市中区田町)
+E - 仙林寺
+E - 伊藤機工(株) (浜松市中区柳通交番西交差点)
+E - 佐藤町 駒形神社 本殿
+E - 元魚町 凧ブロック
+E - 八坂神社
+E - 八幡宮道 標柱（早馬町）
+E - 八柱公園
+E - 八柱神社船越 龍燈
+E - 冨士神社
+E - 凛香(浜松市中区田町)
+E - 凧じるし 上島町
+E - 凧じるし 北田町
+E - 凧じるし 早馬町
+E - 凧じるし 東上池川町
+E - 凧ブロック 松江町
+E - 分器橋公園
+E - 助信町 天白社跡
+E - 助信町公民館
+E - 北田町公会堂
+E - 天使の門
+E - 妙伝寺
+E - 寒山拾得
+E - 将監第2公園 南口
+E - 岩石園
+E - 常盤橋遊園地
+E - 広厳寺
+E - 御造営記念碑
+E - 招き猫
+E - 早馬公園
+E - 早馬町交差点
+E - 春一番
+E - 時計台
+E - 曳馬協働センター
+E - 東ふれあい公園 石碑
+E - 森田町 凧ブロック
+E - 浜松わたしのイメージ
+E - 浜松八幡宮
+E - 浜松八幡宮 噴水1 (浜松市中区八幡)
+E - 浜松八幡宮表参道入口
+E - 浜松助信郵便局
+E - 浜松市市民協動センター
+E - 浜松東郵便局
+E - 浜松郵便局
+E - 海抜5.1m地点
+E - 海辺
+E - 消火栓(浜松市中区野口町)
+E - 燈火の人
+E - 玄忠寺
+E - 玄忠寺
+E - 珈琲館ブルックリン
+E - 知恵の輪だとか色々
+E - 祠（新津町）
+E - 繭市場跡（八幡町）
+E - 船越公園 プール
+E - 船越公園 噴水(浜松市中区船越町)
+E - 船越公園 新幹線
+E - 船越公園 東側入口
+E - 船越公園 石碑
+E - 花と笑顔と歌声と
+E - 芳蘚寺
+E - 蒲神明宮 西宮神社
+E - 蒲神明宮 鳥居
+E - 蒲神明宮本殿
+E - 袖紫ヶ森公園
+E - 西塚橋
+E - 西塚神社
+E - 西塚第１公園
+E - 諏訪神社 本殿 (浜松市中区細島町)
+E - 谿声広長舌
+E - 貝殻すべり台
+E - 道標 アクト通り(浜松市中区総合庁舎東側)
+E - 遠州鉄道 助信駅
+E - 遠州鉄道 第一通り駅
+E - 遠鉄浜松駅跡
+E - 野口公園 遊具
+E - 野口町公会堂
+E - 錦華楼(静岡銀行浜松営業部西側)
+E - 長泉寺 (浜松市東区船越公園前交差点)
+E - 電車通りアートタイル バイク
+E - 静岡文化芸術大学 オブジェ
+E - 馬込町公会堂
+E - 高札場跡 石碑
+E - 鳥源 看板狸
+E - 龍燈_曳馬町本郷公会堂
+E VOL - ASOBAMAIKA
+E VOL - Chainsaw Bear
+E VOL - Hale Lani
+E VOL - Hidden Hieroglyphs In Hamamatsu
+E VOL - Lawson ローソン 浜松田町
+E VOL - お地蔵様 (浜松市中区 早出町南公民館)
+E VOL - ひくま南公園
+E VOL - アクト通り
+E VOL - サーラプラザ浜松（SALA PLAZA Hamamatsu )
+E VOL - ラッコ
+E VOL - リバーサイドパーク
+E VOL - レギナ（月）
+E VOL - 上西第1公園 花壇兼看板
+E VOL - 元浜町公民館 (浜松市中区元浜町)
+E VOL - 八柱神社(浜松市東区丸塚)
+E VOL - 凧じるし 八幡町
+E VOL - 凧じるし 曳馬町金屋
+E VOL - 凧ブロック 和地山町
+E VOL - 千歳町 凧ブロック
+E VOL - 外に出たいワン
+E VOL - 妙傳寺 本堂
+E VOL - 将監第二公園 東口
+E VOL - 幸運の神様 ビリケン BILIKEN
+E VOL - 新津町 神明宮 鳥居
+E VOL - 早出南公園
+E VOL - 早出西公園
+E VOL - 案内板 常盤町交差点(浜松市中区常盤町)
+E VOL - 浜松スポーツセンター
+E VOL - 浜松中沢郵便局
+E VOL - 浜松八幡宮 浜松稲荷神社 (浜松市中区八幡)
+E VOL - 浜松野口郵便局
+E VOL - 浜松馬込郵便局
+E VOL - 消火栓(浜松市中区船越町)
+E VOL - 牛の部位
+E VOL - 瑞雲禅寺
+E VOL - 福厳寺 本殿
+E VOL - 緑のにわ 石碑
+E VOL - 茄子川土地区画整理 記念碑
+E VOL - 袖紫ヶ森東公園
+E VOL - 銀河一月
+N - 佐藤松五郎の像 (マビー7)
+N VOL - ヨシヨシ
+N VOL - 上西第二公園
+N VOL - 高野山真言宗常楽寺 本殿
+R - Black Cow
+R - Compass
+R - Manhole Art of Fireman
+R - アンパンマン
+R - サケハウス
+R - サングラス
+R - セレサ内 地の神様
+R - ダフネの変身
+R - ベンチと少女／ゆりの木通り
+R - モニュメント
+R - 佐藤第1公園 遊具
+R - 佐藤第一公園
+R - 八柱神社
+R - 凧じるし 元浜町
+R - 凧じるし 東田町
+R - 凧ブロック 新町
+R - 凧ブロック 肴町
+R - 凧ブロック 連尺町
+R - 大地（土）より
+R - 天理教今之里分教会
+R - 影
+R - 徳川秀忠公地誕生の井戸
+R - 慎独
+R - 時計塔 (みずほ銀行浜松支店)
+R - 曳馬川原公園
+R - 本郷児童遊園地（曳馬）
+R - 椿姫観音
+R - 油應禅寺
+R - 清徳稲荷大神
+R - 笹田学園デザインテクノロジー専門学校 田町校舎
+R - 絆がつくる風景
+R - 至誠通天 石碑
+R - 遠州鉄道 八幡駅
+R - 遠州鉄道 遠州病院駅
+R - 雲立楠
+R - 馬
+R - 高林キリスト集会所
+R VOL - Fureai Street ふれあい通り
+R VOL - Lawson ローソン 浜松高林二丁目
+R VOL - Manhole Art of Fish(浜松市中区肴町)
+R VOL - Travel Service Tiger
+R VOL - とこは通り
+R VOL - びわばし
+R VOL - みどり公園
+R VOL - アイミティ浜松 ハニワ
+R VOL - アーセンティア迎賓館
+R VOL - ギリシャ神殿風建築
+R VOL - クリエート浜松
+R VOL - ソフトバンク浜松東
+R VOL - 佐藤町 駒形神社 鳥居
+R VOL - 修行大師
+R VOL - 元城町屋台置場
+R VOL - 凧ブロック 助信町
+R VOL - 凧ブロック 松江町
+R VOL - 四季の起り
+R VOL - 天林寺 山門(浜松市中区下池川)
+R VOL - 子安神社
+R VOL - 巨大コーヒーカップ
+R VOL - 市村合併記念之碑（蒲）
+R VOL - 早出道祖神
+R VOL - 曳馬協働センター
+R VOL - 浜松セントラルボウル
+R VOL - 浜松八幡宮　鳥居
+R VOL - 浜松船越郵便局
+R VOL - 由美画廊とんぼ玉館 案内板
+R VOL - 真南寺
+R VOL - 細島町公民館
+R VOL - 肴町
+R VOL - 船越公園 石碑
+R VOL - 船越公園南側入口
+R VOL - 蒲神明宮 平和塔
+R VOL - 街角
+R VOL - 野口公園
+R VOL - 鉄心王
+R VOL - 霊珠寺
+R VOL - 風景 タイル
+R VOL - 食堂のおばちゃん
+
+[#IngressNews](https://plus.google.com/s/%23IngressNews "")
+[#### photo: undefined](https://lh3.googleusercontent.com/-so_Gu29ycnQ/VtFB-bYZgnI/AAAAAAAAiq8/4LcIln5KETQ/hama_m2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/EpAPoDACwA3](https://plus.google.com/+NianticProject/posts/EpAPoDACwA3)

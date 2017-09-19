@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-31 13:00:10 +0900"
+date:   2014-03-31 13:00:10 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") and +[Klue S.](https://plus.google.com/110350977702120778591 "") have shared their thoughts on the outcome of [#Recursion](https://plus.google.com/s/%23Recursion "") and what it means for the future, both for themselves and for humanity. 
+
+Originally spoken to Agents present in Los Angeles, they have now released their official statements via their Google+ Social profiles.
+
+Here is +[Hank Johnson](https://plus.google.com/117792105926525258257 "")'s official statement.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@984, :value=>"shared"@991}], :children=>["<br />", "<h2>Hank Johnson</h2>", "It was not only a crushing defeat for me, but for humanity.", "<br />", "<br />", "Who will protect us from the machines?  ", "<br />", "<br />", "They came for ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], ".  Who will they come for next?", "<br />", "<br />", "If the projections are right, this form will die shortly after Robert E. Howard Days in Cross Plains.", "<br />", "<br />", "I will return, but the Hank you have known will be lost forever.", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/54ieCSSH4CG](https://plus.google.com/+NianticProject/posts/54ieCSSH4CG)

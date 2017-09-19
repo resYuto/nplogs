@@ -1,0 +1,203 @@
+---
+layout: post
+title:  "Niantic Project: 2014-10-19 06:27:57 +0900"
+date:   2014-10-19 06:27:57 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b> 02 Cumulative Summary of Anomaly Conditions at M1:</b><br />Salt Lake City - <b>R:212</b> - E:64<br />Anchorage - <b>R:58</b> - E:44<br />Honolulu - R:25 - <b>E:80</b><br /><br />The Resistance begin the second half of the day with a forceful presence in Salt Lake City,  where they outperform the Enlightened threefold. In Anchorage, the Resistance also lead, but the Enlightened are very close behind them. In Honolulu, the Enlightened take Measurement 1 with a significant margin.<br /><br />Earlier today, the Resistance swept the day and leaked intel revealed that the <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a> Anomalies may in fact be interacting with the Helios Beacons, signalling the force that, according to Hank Johnson, is the “Shapers’ worst nightmare.” Three measurements remain. When today ends, will we be one step closer to the Darsana Point?<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Salt Lake City - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 212 to 64.<br />The <b>Resistance</b> currently control this Primary Site, leading by 148.<br /><br />Portals Owned - <b>RES:</b> 31 - ENL: 22 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 20 each]<br />Links Created - <b>RES:</b> 14 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 212 - Enlightened - 64<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 212 - Enlightened - 64<br /><br /><b>Measurement Time Details:</b><br />Original: 5:09 (Minutes:Seconds within Measurement Window)<br />Padded String: mcB3FSRn2SG 5:09 0*#a%d+lS<br />SHA256 of Padded String: f0e8b936fbeec36255dbc7bb45b1a26a214a8e642f8f198c0dca9704d757153d<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Beehive Collector's Gallery<br />ENL - Bike Riding Sculpture<br />ENL - Bike Sculpture<br />ENL - Book Pile Sculpture<br />ENL - Celebration of Life Monument<br />ENL - Culture Is a Pyramid<br />ENL - Library Square Bike Rack<br />ENL - Light of the World Church<br />ENL - Mother and Child <br />ENL - Museum Courtyard Sculpture<br />ENL - Nesbert Mukomberanwa Statue<br />ENL - Nicholas Mukomberanwa Statue<br />ENL - Oquirrh School Ornamental Gates<br />ENL - Peace Peace Peace<br />ENL - Praying Chief<br />ENL - Resiliency Plaque <br />ENL - Salt Lake City Library Common Sign<br />ENL - Salt Lake City Public Library<br />ENL - Statue with Conch<br />ENL - The Salt Lake City and County Building<br />ENL - Transit Bicycle Art<br />ENL - Zimbabwe Statue<br />ENL [Vol] - Abstract Rods<br />NEU - Amphitheatre at the City Library Agora<br />NEU - Another Ubiquitous Year of the Bicycle Sculpture<br />NEU - Leonardo Museum Antique Fountain<br />NEU - Three Pillar Fountain <br />NEU - Zimbabwe Statues<br />RES - A Forest for Tomorrow at the Metro<br />RES - Artistic Manhole Cover<br />RES - Beehive Bailbonds Mural<br />RES - Boy With Swan Fountain<br />RES - Cannella Mural<br />RES - Central Christian Church <br />RES - Church of Scientology<br />RES - Congregation Montefiore<br />RES - Dragonfly Water Fountain <br />RES - Engineering Department Salt Lake City -  Standard of Measure <br />RES - Hands of Justice<br />RES - Ichiban Sushi Unique Stained Glass<br />RES - Library Square Foundation For<br />RES - Mahatma Gandhi<br />RES - Masonic Fraternity<br />RES - Masonry Stamp of Approval<br />RES - Peoples Way<br />RES - Pioneer Camping Grounds <br />RES - Rust Rare Coin<br />RES - Salt Lake City &amp; County Buildi<br />RES - Salt Lake City and County Building<br />RES - Statue Outside Public Safety Building<br />RES - Street Art <br />RES - Taco Taco Mural<br />RES - Thai Flower Painting<br />RES - The Leonardo<br />RES - Tonderai Mashaya Statue <br />RES - Utah Pride Parking Mural<br />RES - Washington Square Entrance<br />RES - Washington Square Park<br />RES - Weather Vane<br />RES [Vol] - Flower Pot Fountain<br />RES [Vol] - Presence Sculpture<br />RES [Vol] - The Frame at Library Square<br />RES [Vol] - XO Sculpture <br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Anchorage - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 58 to 44.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 14.<br /><br />Portals Owned - RES: 7 - <b>ENL:</b> 12 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - <b>RES:</b> 7 - ENL: 4 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 58 - Enlightened - 44<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 58 - Enlightened - 44<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Alaska State Legislature<br />ENL - Arctic Poppies<br />ENL - Coastal Trail Start<br />ENL - Copper Whale<br />ENL - Elderberry Park<br />ENL - Glacier Brewhouse<br />ENL - Holy Family Cathedral<br />ENL - Mercury<br />ENL - Plaque Commemorating the Visit of Pope John Paul II<br />ENL - Snow City Cafe<br />ENL - The Madonna<br />ENL - The Pioneer Bar<br />ENL [Vol] - Captain James Cook Statue<br />ENL [Vol] - Oscar Anderson House Museum<br />NEU - Alaska Victims Memorial<br />NEU - Anchorage Nesbett Courthouse<br />NEU - Avenue Fountain<br />NEU - Bear Sculpture by Mike Sirl<br />NEU - Bradley Reid and Associates<br />NEU - Earth<br />NEU - Jan Hansen Memorial<br />NEU - Seaforts<br />NEU - The Spawn Of Humpies Mural<br />NEU - Venus<br />NEU - Voyages of Captain Cook<br />RES - Anchorage Trails Map<br />RES - Beached Whale Sculpture<br />RES - Captain Cook Fountain<br />RES - De Evolution<br />RES - Mars<br />RES - Snow Goose<br />RES - Stop to Smell the Roses<br />RES [Vol] - Blue Whale Statue<br />RES [Vol] - Eagle and the Giant Clam<br />RES [Vol] - Voyages of Capt. Cook<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Honolulu - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 80 to 25.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 55.<br /><br />Portals Owned - RES: 5 - <b>ENL:</b> 34 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 2 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - <b>ENL:</b> 12 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 25 - <b>Enlightened</b> - 80<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 25 - <b>Enlightened</b> - 80<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - 300 Ala Moana<br />ENL - 300 Sign Ala Moana<br />ENL - 812 Mural<br />ENL - Agape Christian Community Church<br />ENL - Ah-lang Korean Restaurant<br />ENL - Auto Fender Clinic Life a Parade Mural<br />ENL - Blue Corridor<br />ENL - Cooke Street Diner Mural<br />ENL - E Moe Me Ka Maluhia<br />ENL - Elizabeth Building 1916<br />ENL - Furious Panda Mural<br />ENL - Hawaiian Mission Houses Archives<br />ENL - Hoaka<br />ENL - Hula Mural<br />ENL - In Her Life Time Art Piece<br />ENL - Kamaka Ukulele<br />ENL - Kawaiahao Mini Garden<br />ENL - Ke Alaula Oka Malamalama Church<br />ENL - Lady in Waiting<br />ENL - Mele Murals<br />ENL - Mountain Mural<br />ENL - Mural at Cooke Street Diner<br />ENL - Mural Flower<br />ENL - Octo King<br />ENL - Old Guy Mural<br />ENL - Queen Baby Elephant Fountains<br />ENL - Shark Autopsy Mural<br />ENL - Shark Mural<br />ENL - Stained Glass Ceiling<br />ENL - Star-Advertiser Tower<br />ENL - State Building Statue<br />ENL - Territorial Office Building<br />ENL - Word of Life<br />ENL - Word of Life Honolulu<br />ENL [Vol] - Passage Mamoru Sato<br />NEU - Fallen Metal Sculpture<br />NEU - Federal Building Fountain<br />NEU - Hawaiian Mural<br />NEU - Nohopu Mai 'Aina'e<br />NEU - President Grover Cleveland Court Stone<br />NEU - Waterfront Towers Makai Fountain<br />NEU [Vol] - American Brewery Building<br />NEU [Vol] - Gazebo at Waterfront Plaza<br />RES - Hashtagyourheartout<br />RES - Kukui Nut Tree Dedication<br />RES - Sertified Mural<br />RES - US Court Library<br />RES - Waterfront Towers Mauka Fountain<br />RES [Vol] - Firemen Memorial Statue<br />RES [Vol] - Keelikolani Fountain<br /><br /></div>
+[#### photo: #Darsana 02 Cumulative Summary of Anomaly Conditions at M1:
+Salt Lake City - R:212 - E:64
+Anchorage - R:58 - E:44
+Honolulu - R:25 - E:80
+The Resistance begin the second half of the day with a forceful presence in Salt Lake City,  where they outperform the Enlightened threefold. In Anchorage, the Resistance also lead, but the Enlightened are very close behind them. In Honolulu, the Enlightened take Measurement 1 with a significant margin.
+Earlier today, the Resistance swept the day and leaked intel revealed that the #Darsana Anomalies may in fact be interacting with the Helios Beacons, signalling the force that, according to Hank Johnson, is the “Shapers’ worst nightmare.” Three measurements remain. When today ends, will we be one step closer to the Darsana Point?
+#Darsana: Salt Lake City - Measurement 1 Report
+The Resistance captured this Measurement, 212 to 64.
+The Resistance currently control this Primary Site, leading by 148.
+Portals Owned - RES: 31 - ENL: 22 - [Value: 2 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 20 each]
+Links Created - RES: 14 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 212 - Enlightened - 64
+Total for this Primary Site:
+Resistance - 212 - Enlightened - 64
+Measurement Time Details:
+Original: 5:09 (Minutes:Seconds within Measurement Window)
+Padded String: mcB3FSRn2SG 5:09 0*#a%d+lS
+SHA256 of Padded String: f0e8b936fbeec36255dbc7bb45b1a26a214a8e642f8f198c0dca9704d757153d
+Portal Ownership Details
+ENL - Beehive Collector's Gallery
+ENL - Bike Riding Sculpture
+ENL - Bike Sculpture
+ENL - Book Pile Sculpture
+ENL - Celebration of Life Monument
+ENL - Culture Is a Pyramid
+ENL - Library Square Bike Rack
+ENL - Light of the World Church
+ENL - Mother and Child
+ENL - Museum Courtyard Sculpture
+ENL - Nesbert Mukomberanwa Statue
+ENL - Nicholas Mukomberanwa Statue
+ENL - Oquirrh School Ornamental Gates
+ENL - Peace Peace Peace
+ENL - Praying Chief
+ENL - Resiliency Plaque
+ENL - Salt Lake City Library Common Sign
+ENL - Salt Lake City Public Library
+ENL - Statue with Conch
+ENL - The Salt Lake City and County Building
+ENL - Transit Bicycle Art
+ENL - Zimbabwe Statue
+ENL [Vol] - Abstract Rods
+NEU - Amphitheatre at the City Library Agora
+NEU - Another Ubiquitous Year of the Bicycle Sculpture
+NEU - Leonardo Museum Antique Fountain
+NEU - Three Pillar Fountain
+NEU - Zimbabwe Statues
+RES - A Forest for Tomorrow at the Metro
+RES - Artistic Manhole Cover
+RES - Beehive Bailbonds Mural
+RES - Boy With Swan Fountain
+RES - Cannella Mural
+RES - Central Christian Church
+RES - Church of Scientology
+RES - Congregation Montefiore
+RES - Dragonfly Water Fountain
+RES - Engineering Department Salt Lake City -  Standard of Measure
+RES - Hands of Justice
+RES - Ichiban Sushi Unique Stained Glass
+RES - Library Square Foundation For
+RES - Mahatma Gandhi
+RES - Masonic Fraternity
+RES - Masonry Stamp of Approval
+RES - Peoples Way
+RES - Pioneer Camping Grounds
+RES - Rust Rare Coin
+RES - Salt Lake City &amp; County Buildi
+RES - Salt Lake City and County Building
+RES - Statue Outside Public Safety Building
+RES - Street Art
+RES - Taco Taco Mural
+RES - Thai Flower Painting
+RES - The Leonardo
+RES - Tonderai Mashaya Statue
+RES - Utah Pride Parking Mural
+RES - Washington Square Entrance
+RES - Washington Square Park
+RES - Weather Vane
+RES [Vol] - Flower Pot Fountain
+RES [Vol] - Presence Sculpture
+RES [Vol] - The Frame at Library Square
+RES [Vol] - XO Sculpture
+#Darsana: Anchorage - Measurement 1 Report
+The Resistance captured this Measurement, 58 to 44.
+The Resistance currently control this Secondary Site, leading by 14.
+Portals Owned - RES: 7 - ENL: 12 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 7 - ENL: 4 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 58 - Enlightened - 44
+Total for this Secondary Site:
+Resistance - 58 - Enlightened - 44
+Portal Ownership Details
+ENL - Alaska State Legislature
+ENL - Arctic Poppies
+ENL - Coastal Trail Start
+ENL - Copper Whale
+ENL - Elderberry Park
+ENL - Glacier Brewhouse
+ENL - Holy Family Cathedral
+ENL - Mercury
+ENL - Plaque Commemorating the Visit of Pope John Paul II
+ENL - Snow City Cafe
+ENL - The Madonna
+ENL - The Pioneer Bar
+ENL [Vol] - Captain James Cook Statue
+ENL [Vol] - Oscar Anderson House Museum
+NEU - Alaska Victims Memorial
+NEU - Anchorage Nesbett Courthouse
+NEU - Avenue Fountain
+NEU - Bear Sculpture by Mike Sirl
+NEU - Bradley Reid and Associates
+NEU - Earth
+NEU - Jan Hansen Memorial
+NEU - Seaforts
+NEU - The Spawn Of Humpies Mural
+NEU - Venus
+NEU - Voyages of Captain Cook
+RES - Anchorage Trails Map
+RES - Beached Whale Sculpture
+RES - Captain Cook Fountain
+RES - De Evolution
+RES - Mars
+RES - Snow Goose
+RES - Stop to Smell the Roses
+RES [Vol] - Blue Whale Statue
+RES [Vol] - Eagle and the Giant Clam
+RES [Vol] - Voyages of Capt. Cook
+#Darsana: Honolulu - Measurement 1 Report
+The Enlightened captured this Measurement, 80 to 25.
+The Enlightened currently control this Secondary Site, leading by 55.
+Portals Owned - RES: 5 - ENL: 34 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 12 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 25 - Enlightened - 80
+Total for this Secondary Site:
+Resistance - 25 - Enlightened - 80
+Portal Ownership Details
+ENL - 300 Ala Moana
+ENL - 300 Sign Ala Moana
+ENL - 812 Mural
+ENL - Agape Christian Community Church
+ENL - Ah-lang Korean Restaurant
+ENL - Auto Fender Clinic Life a Parade Mural
+ENL - Blue Corridor
+ENL - Cooke Street Diner Mural
+ENL - E Moe Me Ka Maluhia
+ENL - Elizabeth Building 1916
+ENL - Furious Panda Mural
+ENL - Hawaiian Mission Houses Archives
+ENL - Hoaka
+ENL - Hula Mural
+ENL - In Her Life Time Art Piece
+ENL - Kamaka Ukulele
+ENL - Kawaiahao Mini Garden
+ENL - Ke Alaula Oka Malamalama Church
+ENL - Lady in Waiting
+ENL - Mele Murals
+ENL - Mountain Mural
+ENL - Mural at Cooke Street Diner
+ENL - Mural Flower
+ENL - Octo King
+ENL - Old Guy Mural
+ENL - Queen Baby Elephant Fountains
+ENL - Shark Autopsy Mural
+ENL - Shark Mural
+ENL - Stained Glass Ceiling
+ENL - Star-Advertiser Tower
+ENL - State Building Statue
+ENL - Territorial Office Building
+ENL - Word of Life
+ENL - Word of Life Honolulu
+ENL [Vol] - Passage Mamoru Sato
+NEU - Fallen Metal Sculpture
+NEU - Federal Building Fountain
+NEU - Hawaiian Mural
+NEU - Nohopu Mai 'Aina'e
+NEU - President Grover Cleveland Court Stone
+NEU - Waterfront Towers Makai Fountain
+NEU [Vol] - American Brewery Building
+NEU [Vol] - Gazebo at Waterfront Plaza
+RES - Hashtagyourheartout
+RES - Kukui Nut Tree Dedication
+RES - Sertified Mural
+RES - US Court Library
+RES - Waterfront Towers Mauka Fountain
+RES [Vol] - Firemen Memorial Statue
+RES [Vol] - Keelikolani Fountain](https://lh3.googleusercontent.com/-n7Yb0StXU2A/VELY_l8eF8I/AAAAAAABFpU/jbt413ThViI/w2048-h1152/IMG_20141018_135410910.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/GqDCK68Jncp](https://plus.google.com/+NianticProject/posts/GqDCK68Jncp)

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-17 21:40:25 +0900"
+date:   2013-08-17 21:40:25 +0900
+categories: nianticproject
+---
+A strong comeback by the Enlightened, a Mega-field lay over the Cluster as well, but was destroyed just moments before the clock struck.
+
+It's an even and well matched battle.
+
+-PAC
+
+ [#Cassandra](https://plus.google.com/s/%23Cassandra "")  <div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Dusseldorf<br /><br /><b>Measurement 1 Details</b><br /><br />Approximately 5 minutes prior to Measurement 1, the Enlightened successfully established a field covering all Portals in Cluster 1. However, it was neutralized by the Resistance before the actual Measurement Time. We await Measurement 2 to see if the Enlightened will attempt to establish a second megafield.<br /><br />The Resistance owned 1 Volatile Portal and 13 Non-Volatile Portals.<br /><b>The Enlightened owned 4 Volatile Portals and 14 Non Volatile Portals.</b><br /><br /><b>The Resistance had 10 Links standing at Measurement Time.</b><br />The Enlightened had 4 Links standing at Measurement Time.<br /><br />Total for the Resistance this Measurement = 96<br /><b>Total for the Enlightened this Measurement = 128</b><br /><br /><b>Measurement Time Details</b><br /><br />Original:  TWO O  CLOCK   THREE  MINUTES AND  FIFTY   TWO     SECONDS<br />Padded: XTWOXOXXCLOCKXXXTHREEXXMINUTESXANDXXFIFTYXXXTWOXXXXXSECONDS<br />OTP Key: GGQIOUSUGKXMRVXSQFNZKLAKPDGZMSBIKRARTQNZHLQRPGNOSWHHTFBIPPR<br />Encrypted String: DZMWLIPRIVLOBSUPJMEDOIXWXQASQKYIXUXOYYSSFINOICBLPTEELJDWCSJ<br />MD5 of OTP Key: d811aa7b690d26a4052eef7fb0f292b7<br /><br /></div>
+[#### photo: undefined](https://lh5.googleusercontent.com/-liZkbo50URQ/Ug9qajOlgXI/AAAAAAAAOYQ/HnrNC2m-VKg/cassandra-dussledorf-1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Uq4nTNoXJwE](https://plus.google.com/+NianticProject/posts/Uq4nTNoXJwE)

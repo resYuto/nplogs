@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2015-03-14 18:05:32 +0900"
+date:   2015-03-14 18:05:32 +0900
+categories: nianticproject
+---
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") reveals that he created a program called Truthseeker, and that this may in fact be the source of +[A Detection Algorithm](https://plus.google.com/114076692022231059864 "")'s human-like traits.
+
+The question is, where did his inspiration come from?
+
+x
+- - -
+[https://plus.google.com/+NianticProject/posts/UUbCWY4j9JQ](https://plus.google.com/+NianticProject/posts/UUbCWY4j9JQ)

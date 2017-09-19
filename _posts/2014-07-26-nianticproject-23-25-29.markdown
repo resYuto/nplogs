@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-26 23:25:29 +0900"
+date:   2014-07-26 23:25:29 +0900
+categories: nianticproject
+---
+[#Helios](https://plus.google.com/s/%23Helios "") 01
+
+The Measurement 2 Report for the Dublin Anomaly has been released.
+
+While the Enlightened managed to undo some of the Resistance handiwork in Tallinn and launch their own response in Palermo, the Resistance maintain their lead.  <div class="shared"><br /><h2>Ingress</h2><br /><b>Helios - 01: Summary of Anomaly Conditions</b><br /><br />Dublin - <b>R:218</b> - E:109<br />Palermo - <b>R:89</b> - E:24.2<br />Tallinn - <b>R:98</b> - E:38<br />Total - <b>R:405</b> - E:171.2<br /><br />An Enlightened Field over the Palermo Anomaly zone, and a swift take-down of the massive field over Tallinn assisted the Faction’s performance slightly, but overall, the Resistance remain in firm control of the Anomaly at the half-point. Currently, the Resistance lead overall by 233.8.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Dublin - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 84 to 59.<br />The <b>Resistance</b> currently control this Primary Site, leading by 109.<br /><br />Portals Owned - <b>RES:</b> 12 - ENL: 7 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 20 each]<br />Links Created - RES: 0 - <b>ENL:</b> 1 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 84 - Enlightened - 59<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 218 - Enlightened - 109<br /><br /><b>Measurement Time Details:</b><br />Original: 2:53 (Minutes:Seconds within Measurement Window)<br />Padded String: x# 2:53 cunQB-L4kqEY/x#+/Py|1W#+<br />SHA256 of Padded String: 1c340132256d5f97f57b651ccc03f1c4416acd087abd9e718ef3a8ac46998560<br /><br /><b>Portal Ownership Details</b><br />Resistance - The 51 Dublin<br />Resistance - Schoolhouse Hotel<br />Resistance - Peppercanister Gallery<br />Resistance - National Print Museum<br />Resistance - Memories of Mount Street<br />Resistance - Huband Bridge<br />Resistance - Grand Canal Plaza<br />Resistance - Brian Friel and John B Keane<br />Resistance - Birdy at Crescent Hall<br />Resistance - Beggars Bush Pub<br />Resistance - Battle of Balls Bridge<br />Resistance - Aspiration by Rowan Gillespie<br />Resistance - (VOLATILE) - Leaf Bench<br />Resistance - (VOLATILE) - La Dolce Villa<br />Resistance - (VOLATILE) - Horse Sculpture near the Canal<br />Neutral - Statue of a Robot<br />Neutral - St. Stephen's church<br />Enlightened - The Northumberlands <br />Enlightened - St. Patrick Dun's Hospital<br />Enlightened - Saint Mary's Church<br />Enlightened - National Treasury Building<br />Enlightened - Lock C2<br />Enlightened - Howl Pub<br />Enlightened - Becky Morgan's Pub<br />Enlightened - (VOLATILE) - Pembroke Square Fountain Sculp<br />Enlightened - (VOLATILE) - IT Sculpture<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Palermo - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 45 to 18.2.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 64.8.<br /><br />Portals Owned - <b>RES:</b> 5 - ENL: 3 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (5.2)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 45 - Enlightened - 18.2<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 89 - Enlightened - 24.2<br /><br /><b>Portal Ownership Details</b><br />Resistance - Stemma Nobiliare<br />Resistance - Perevnt Et Impvtantvr<br />Resistance - Palazzo Marchesi<br />Resistance - La Madonna Nella Teca <br />Resistance - Basse Court<br />Resistance - (VOLATILE) - Prospettiva Via Maqueda<br />Resistance - (VOLATILE) - Piazza Bologni<br />Resistance - (VOLATILE) - Fontana della Vergogna - Vecchio Affranto<br />Resistance - (VOLATILE) - Chiesa della Martorana<br />Neutral - Quattro Canti (Piazza Vigliena) Con Addobbi<br />Neutral - Portone Chiesa Della Martorana<br />Neutral - Piazza Della Vergogna<br />Neutral - Palermo - Sicily - Italy - Cas<br />Neutral - Offertorio<br />Neutral - Madonna E Gesù Bambino - Via Maqueda<br />Neutral - Fontana della Vergogna - Paler<br />Neutral - Fontana della Vergogna - Base Con Cavalli<br />Enlightened - Portone In Via Maqueda<br />Enlightened - Palazzo Vecchio Vicino I Candelai<br />Enlightened - Chiesa San Giuseppe Dei Teatini - Particolare Scultura<br />Enlightened - (VOLATILE) - Chiesa <br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Tallinn - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 35 to 22.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 60.<br /><br />Portals Owned - <b>RES:</b> 5 - ENL: 2 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 35 - Enlightened - 22<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 98 - Enlightened - 38<br /><br /><b>Portal Ownership Details</b><br />Resistance - Rootsi-Mihkli Church<br />Resistance - Petrified Scribe<br />Resistance - Neitsitorni Museum Cafe<br />Resistance - Kiek in de Kök<br />Resistance - Harjumägi<br />Resistance - (VOLATILE) - St. Nicholas' Church<br />Resistance - (VOLATILE) - Rataskaev<br />Resistance - (VOLATILE) - Eduard Vilde Memorial<br />Neutral - Outdoor Museum with Old TV <br />Neutral - Musi<br />Neutral - Memorial Tablet for Paul and Kristjan Raud<br />Neutral - Here Is My Hand<br />Neutral - Ele<br />Enlightened - House of Michel Sittowi<br />Enlightened - Danish King Garden<br />Enlightened - (VOLATILE) - Shoe Sculpture<br />Enlightened - (VOLATILE) - Bombing in March 1944 History Board<br /><br /></div>
+[#### photo: Helios - 01: Summary of Anomaly Conditions
+Dublin - R:218 - E:109
+Palermo - R:89 - E:24.2
+Tallinn - R:98 - E:38
+Total - R:405 - E:171.2
+An Enlightened Field over the Palermo Anomaly zone, and a swift take-down of the massive field over Tallinn assisted the Faction’s performance slightly, but overall, the Resistance remain in firm control of the Anomaly at the half-point. Currently, the Resistance lead overall by 233.8.
+#Helios: Dublin - Measurement 2 Report
+The Resistance captured this Measurement, 84 to 59.
+The Resistance currently control this Primary Site, leading by 109.
+Portals Owned - RES: 12 - ENL: 7 - [Value: 2 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 1 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 84 - Enlightened - 59
+Total for this Primary Site:
+Resistance - 218 - Enlightened - 109
+Measurement Time Details:
+Original: 2:53 (Minutes:Seconds within Measurement Window)
+Padded String: x# 2:53 cunQB-L4kqEY/x#+/Py|1W#+
+SHA256 of Padded String: 1c340132256d5f97f57b651ccc03f1c4416acd087abd9e718ef3a8ac46998560
+Portal Ownership Details
+Resistance - The 51 Dublin
+Resistance - Schoolhouse Hotel
+Resistance - Peppercanister Gallery
+Resistance - National Print Museum
+Resistance - Memories of Mount Street
+Resistance - Huband Bridge
+Resistance - Grand Canal Plaza
+Resistance - Brian Friel and John B Keane
+Resistance - Birdy at Crescent Hall
+Resistance - Beggars Bush Pub
+Resistance - Battle of Balls Bridge
+Resistance - Aspiration by Rowan Gillespie
+Resistance - (VOLATILE) - Leaf Bench
+Resistance - (VOLATILE) - La Dolce Villa
+Resistance - (VOLATILE) - Horse Sculpture near the Canal
+Neutral - Statue of a Robot
+Neutral - St. Stephen's church
+Enlightened - The Northumberlands
+Enlightened - St. Patrick Dun's Hospital
+Enlightened - Saint Mary's Church
+Enlightened - National Treasury Building
+Enlightened - Lock C2
+Enlightened - Howl Pub
+Enlightened - Becky Morgan's Pub
+Enlightened - (VOLATILE) - Pembroke Square Fountain Sculp
+Enlightened - (VOLATILE) - IT Sculpture
+#Helios: Palermo - Measurement 2 Report
+The Resistance captured this Measurement, 45 to 18.2.
+The Resistance currently control this Secondary Site, leading by 64.8.
+Portals Owned - RES: 5 - ENL: 3 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (5.2)]
+Total for this Measurement:
+Resistance - 45 - Enlightened - 18.2
+Total for this Secondary Site:
+Resistance - 89 - Enlightened - 24.2
+Portal Ownership Details
+Resistance - Stemma Nobiliare
+Resistance - Perevnt Et Impvtantvr
+Resistance - Palazzo Marchesi
+Resistance - La Madonna Nella Teca
+Resistance - Basse Court
+Resistance - (VOLATILE) - Prospettiva Via Maqueda
+Resistance - (VOLATILE) - Piazza Bologni
+Resistance - (VOLATILE) - Fontana della Vergogna - Vecchio Affranto
+Resistance - (VOLATILE) - Chiesa della Martorana
+Neutral - Quattro Canti (Piazza Vigliena) Con Addobbi
+Neutral - Portone Chiesa Della Martorana
+Neutral - Piazza Della Vergogna
+Neutral - Palermo - Sicily - Italy - Cas
+Neutral - Offertorio
+Neutral - Madonna E Gesù Bambino - Via Maqueda
+Neutral - Fontana della Vergogna - Paler
+Neutral - Fontana della Vergogna - Base Con Cavalli
+Enlightened - Portone In Via Maqueda
+Enlightened - Palazzo Vecchio Vicino I Candelai
+Enlightened - Chiesa San Giuseppe Dei Teatini - Particolare Scultura
+Enlightened - (VOLATILE) - Chiesa
+#Helios: Tallinn - Measurement 2 Report
+The Resistance captured this Measurement, 35 to 22.
+The Resistance currently control this Secondary Site, leading by 60.
+Portals Owned - RES: 5 - ENL: 2 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 35 - Enlightened - 22
+Total for this Secondary Site:
+Resistance - 98 - Enlightened - 38
+Portal Ownership Details
+Resistance - Rootsi-Mihkli Church
+Resistance - Petrified Scribe
+Resistance - Neitsitorni Museum Cafe
+Resistance - Kiek in de Kök
+Resistance - Harjumägi
+Resistance - (VOLATILE) - St. Nicholas' Church
+Resistance - (VOLATILE) - Rataskaev
+Resistance - (VOLATILE) - Eduard Vilde Memorial
+Neutral - Outdoor Museum with Old TV
+Neutral - Musi
+Neutral - Memorial Tablet for Paul and Kristjan Raud
+Neutral - Here Is My Hand
+Neutral - Ele
+Enlightened - House of Michel Sittowi
+Enlightened - Danish King Garden
+Enlightened - (VOLATILE) - Shoe Sculpture
+Enlightened - (VOLATILE) - Bombing in March 1944 History Board](https://lh6.googleusercontent.com/-XXEVAglle3A/U9O5POcauyI/AAAAAAAA8Uc/x4MYxbDxnsQ/w2048-h1536/resgroup.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/WmSweFJ8p9n](https://plus.google.com/+NianticProject/posts/WmSweFJ8p9n)

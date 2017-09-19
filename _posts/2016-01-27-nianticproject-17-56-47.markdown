@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2016-01-27 17:56:47 +0900"
+date:   2016-01-27 17:56:47 +0900
+categories: nianticproject
+---
+Chapeau responds to the concerns that arose yesterday for his safety...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@85, :value=>"shared"@92}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Rumors of my death have been greatly exaggerated (how many times have I had to say that sentence...).", "<br />", "<br />", "Yeah, I'm going to be on ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/113020726391023655192\" oid=\"113020726391023655192\">Behind The Scanner</a>"], " this week. Got some things to talk about.", "<br />", "<br />", "As for my place being torn up. Pretty sure that was my old friends at the NIA. And here's the truth of that:", "<br />", "<br />", "They know what I'm up to. They know they can't bump me off (can't make me a martyr, after all). They can't really stop me (see my last point) and they know there's nothing hidden in my apartment.", "<br />", "<br />", "Tearing my place up and sending me underground for a few weeks is just a kind of reminder: Hey Chapeau. We're still here, and we don't like you. We can't stop you, but we can make your life a little bit more unpleasant. Sincerely, your friends at the Agency.", "<br />", "<br />", "Well here's my reminder to them: Life goes on. The Investigation goes on. The truth seeks daylight, and I am not alone.", "<br />", "<br />", "Tune in to BTS this week... I'll see you all there.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: qslge7lpreroutsvu6slgeblprerou9s1u6slg0blprerou9s1u](https://lh3.googleusercontent.com/-0w83utk5Ecg/VqiFnwd8jNI/AAAAAAAACGQ/WQA_F72IGs4/w565-h608/Reminder.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/9rqyj5PSHgF](https://plus.google.com/+NianticProject/posts/9rqyj5PSHgF)

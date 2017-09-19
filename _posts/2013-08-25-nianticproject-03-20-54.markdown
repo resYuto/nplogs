@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-25 03:20:54 +0900"
+date:   2013-08-25 03:20:54 +0900
+categories: nianticproject
+---
+The Enlightened control the ground at Chicago, and the skies at New York. A large series of Resistance fields over Manhattan are engulfed by a massive Enlightened field spanning from Rhode Island to New Jersey.
+
+Operation [#Cassandra](https://plus.google.com/s/%23Cassandra "") is entering its thundering finale.
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Final Anomaly Sites, NY + CHI<br /><br />The New York Enlightened, recognizing potential vulnerabilities on the ground, go for the megafield over all Portals in the Clusters and hold it through Measurement 1. The Chicago Enlightened use their superior numbers to capture more Volatiles, and create an extremely dense Link network.<br /><br /><b>Measurement 1 Details</b><br /><br />The Resistance owned 2 Volatile Portals and 40 Non-Volatile Portals in New York. In Chicago, they controlled 2 Volatile Portals and 13 Non-Volatile Portals.<br /><b>The Enlightened owned 3 Volatile Portals and 11 Non-Volatile Portals in New York. In Chicago, they controlled 3 Volatile Portals and 38 Non-Volatile Portals.</b><br /><br /><b>An Enlightened Field covered all the Portals in this Cluster in New York (100).</b><br /><br />The Resistance had 25 Links standing at measurement time. 25 in New York and 0 in Chicago.<br /><b>The Enlightened had 37 Links standing at measurement time. 0 in New York and 37 in Chicago.</b><br /><br />Total for Resistance this Measurement = 311. (New York: 245; Chicago: 66.)<br /><b>Total for Enlightened this Measurement = 503. (New York: 182; Chicago: 321.)</b><br /><br /><b>Measurement Time Details</b><br /><br />Original:     FIFTY      ONE   SECONDS   PAST   THE   HOUR   SHARP   <br />Padded: XXXXFIFTYXXXXXXONEXXXSECONDSXXXPASTXXXTHEXXXHOURXXXSHARPXXX<br />OTP Key: EMWFHLQXNPCIAFREQONQIEDWXVVIMJYEPELXGPBDFFNJZIPTDSYUWCODOSP<br />Encrypted String: BJTCMTVQLMZFXCOSDSKNFWHYLIYAJGVTPWEUDMUKJCKGGWJKAPVMDCFSLPM<br />MD5 of OTP Key: 1F2B28678707897FC6E6B869AAC0C0DD<br /><br /></div>
+[#### photo: undefined](https://lh4.googleusercontent.com/-D1jEDrPsfI0/Uhj2ogKzM3I/AAAAAAAAQX8/_NdFMfiDuTg/cassandra-nycchi-1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/41qChjVaeS1](https://plus.google.com/+NianticProject/posts/41qChjVaeS1)

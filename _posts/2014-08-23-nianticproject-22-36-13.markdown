@@ -1,0 +1,299 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-23 22:36:13 +0900"
+date:   2014-08-23 22:36:13 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a></b>", "<b> 05: Summary of Anomaly Conditions at Measurement 2</b>", "<br />", "<br />", "Prague - ", "<b>R:406</b>", " - E:402", "<br />", "Manchester  - R:68.2 - ", "<b>E:113</b>", "<br />", "Rotterdam - R:225 - ", "<b>E:270</b>", "<br />", "<br />", "Total - R:699.2 - ", "<b>E:785</b>", "<br />", "<br />", "At Measurement 2, the Enlightened extend their narrow margin. In Prague, they return to a near equal position: The Resistance control that city by a mere 4. In Manchester, a well-placed Resistance Field supplement their efforts, but without extensive ground control, its potential is largely mitigated. In Rotterdam, the Enlightened retain a narrow but firm upper hand. As Measurement 3 approaches, they lead by 85.8.", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a></b>", "<b>: Prague - Measurement 2 Report</b>", "<br />", "<br />", "The ", "<b>Enlightened</b>", " captured this Measurement, 217 to 168.", "<br />", "The ", "<b>Resistance</b>", " currently control this Primary Site, leading by 4.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 49 - ENL: 41 - [Value: 2 each]", "<br />", "Volatile Portals Owned - RES: 0 - ", "<b>ENL:</b>", " 5 - [Value: 20 each]", "<br />", "Links Created - ", "<b>RES:</b>", " 14 - ENL: 7 - [Value: 5 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]", "<br />", "<br />", "High-Risk Portal Array M2 - ", "<b>E:42</b>", " - R:16", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "Resistance - 168 - ", "<b>Enlightened</b>", " - 217", "<br />", "<br />", "<b>Total for this Primary Site:</b>", "<br />", "<b>Resistance</b>", " - 406 - Enlightened - 402", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 9:43 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: ]mn9{.v,a:BJ*E4j` 9:43 CprvHg", "<br />", "SHA256 of Padded String: 64360310cbab9243db99ebaf01fc59c1ba47381f6106eef043bbe0d4600bf5e2", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "<br />", "ENL - Angel", "<br />", "ENL - Araukarity", "<br />", "ENL - Baby Portrait", "<br />", "ENL - Barevná Kavárna", "<br />", "ENL - Belle Vue", "<br />", "ENL - Black Clock Villa", "<br />", "ENL - Carved Balcony", "<br />", "ENL - Černá Pumpa", "<br />", "ENL - Column Under Balcony", "<br />", "ENL - Czech Lion", "<br />", "ENL - Czech Radio (New Building)", "<br />", "ENL - Devil's Head", "<br />", "ENL - Dům Zemědělské Osvěty", "<br />", "ENL - Erb", "<br />", "ENL - F.L.Rieger statue", "<br />", "ENL - Facade with Well Being Wish", "<br />", "ENL - Fighter of God", "<br />", "ENL - Green Facade", "<br />", "ENL - Hasičský dům", "<br />", "ENL - Heroldova pametni deska", "<br />", "ENL - Hrncir", "<br />", "ENL - Integral", "<br />", "ENL - Jaroslav Průcha", "<br />", "ENL - Kaple svaté Rodiny", "<br />", "ENL - Karel Holler pamětní deska", "<br />", "ENL - Karel Horak", "<br />", "ENL - Karel Vaclav Rais", "<br />", "ENL - King Head Sculpture", "<br />", "ENL - Kopernikova Statue", "<br />", "ENL - Květinový Ráj", "<br />", "ENL - Man and Dog", "<br />", "ENL - Naked Woman Statue", "<br />", "ENL - Nove Hodiny", "<br />", "ENL - Obchodní akademie Praha 2", "<br />", "ENL - Obchodní soud", "<br />", "ENL - ORBIS Statue", "<br />", "ENL - Pošta Moravská", "<br />", "ENL - The Kid Sculpture Art", "<br />", "ENL - Two Children Sculptures", "<br />", "ENL - U Assyrských Králů", "<br />", "ENL - Woman Head", "<br />", "ENL [Vol] - Fountain Am Plaza", "<br />", "ENL [Vol] - Kostel sv. Ludmily", "<br />", "ENL [Vol] - Old Heraldry", "<br />", "ENL [Vol] - Restaurace Jiny Stav", "<br />", "ENL [Vol] - Subway Ventilation", "<br />", "NEU - Fügner sochy", "<br />", "NEU - Havlicek Over Eagle", "<br />", "NEU - Michal Poljansky Memorial", "<br />", "NEU - Muscular Men", "<br />", "NEU - Sup", "<br />", "RES - Angel", "<br />", "RES - Angles and Human Statues on Building", "<br />", "RES - Blue Face", "<br />", "RES - Busta Jana Masaryka", "<br />", "RES - Český Rozhlas", "<br />", "RES - Comics Point", "<br />", "RES - Decorated Window", "<br />", "RES - Erb", "<br />", "RES - Flower Power Balkony", "<br />", "RES - Fontána na Tylově Náměstí", "<br />", "RES - Frcek &amp; Tichota Memorial", "<br />", "RES - Fresky na zdi", "<br />", "RES - Hotel Beranek", "<br />", "RES - Josef and Karel Capek Memorial", "<br />", "RES - Komercni Banka", "<br />", "RES - Lion Head", "<br />", "RES - Man with Woman", "<br />", "RES - Městský úřad pro Prahu 2", "<br />", "RES - Metro Vents Náměstí Míru", "<br />", "RES - Mikoláš Aleš", "<br />", "RES - Mír (1979) akademický sochař", "<br />", "RES - Nad Museem", "<br />", "RES - Národní dům na Vinohradech", "<br />", "RES - North Fountain", "<br />", "RES - Obchodni Soud Plastika", "<br />", "RES - Old pump", "<br />", "RES - Oslava Komunismu", "<br />", "RES - Pamatce Sochare Folkmana", "<br />", "RES - Pamětní deska Aloise Eliáše", "<br />", "RES - Pizza Palermo", "<br />", "RES - Pomnik Spisovatele M Kukucina", "<br />", "RES - Posta Vinohrady", "<br />", "RES - Prague WC", "<br />", "RES - Satyr 573", "<br />", "RES - South Fountain", "<br />", "RES - Stare Hodiny", "<br />", "RES - Statue of Svatopluk Čech", "<br />", "RES - Svata Zena", "<br />", "RES - The Perfect Face", "<br />", "RES - Tri Strazci", "<br />", "RES - Two Eagles", "<br />", "RES - Tylova Pasaz", "<br />", "RES - Tylovo náměstí", "<br />", "RES - Vaclav Rais", "<br />", "RES - Vinohradská tržnice", "<br />", "RES - Woman on Guard", "<br />", "RES - Woman Statue", "<br />", "RES - Zena S Obilim", "<br />", "RES - Žlutá Pumpa", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a></b>", "<b>: Manchester  - Measurement 2 Report</b>", "<br />", "<br />", "The ", "<b>Enlightened</b>", " captured this Measurement, 50 to 46.2.", "<br />", "The ", "<b>Enlightened</b>", " currently control this Secondary Site, leading by 44.8.", "<br />", "<br />", "Portals Owned - RES: 13 - ", "<b>ENL:</b>", " 20 - [Value: 1 each]", "<br />", "Volatile Portals Owned - RES: 2 - ", "<b>ENL:</b>", " 3 - [Value: 10 each]", "<br />", "Links Created - RES: 0 - ENL: 0 - [Value: 3 each]", "<br />", "Single Field Over Entire Cluster - ", "<b>RES</b>", " - [Value: +40%, (13.2)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "Resistance - 46.2 - ", "<b>Enlightened</b>", " - 50", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "Resistance - 68.2 - ", "<b>Enlightened</b>", " - 113", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "<br />", "ENL - #4 Picadilly Water Sculpture", "<br />", "ENL - A.V. Roe &amp; Co.", "<br />", "ENL - casa d arte", "<br />", "ENL - Central Retail Park", "<br />", "ENL - Coopers Clock", "<br />", "ENL - Crown and Anchor", "<br />", "ENL - Former Union Bank of Manchester", "<br />", "ENL - Georgian Town Houses 1787", "<br />", "ENL - Hatters Hostel", "<br />", "ENL - James Watt Statue", "<br />", "ENL - Koffee Pot Dogs Graffiti", "<br />", "ENL - Manchester Central Buildings 1904", "<br />", "ENL - Millington House (Former Textile Warehouse)", "<br />", "ENL - NoHo Bar Mural", "<br />", "ENL - Number 40 Oldham Street", "<br />", "ENL - Still Life Sculpture", "<br />", "ENL - The Space", "<br />", "ENL - The Waldorf", "<br />", "ENL - This is Your Passage Through Time Plaque", "<br />", "ENL - Water Winch and Crane", "<br />", "ENL [Vol] - Frog and Bucket", "<br />", "ENL [Vol] - Piccadilly Basin Liftgear", "<br />", "ENL [Vol] - Queen Victoria", "<br />", "NEU - Clampdown Records", "<br />", "NEU - Houldsworth Men", "<br />", "NEU - Old Post Office", "<br />", "RES - 1887 Hotel", "<br />", "RES - Elephant Mural in Stevenson Square", "<br />", "RES - H.A. Howard &amp; Sons Ltd.", "<br />", "RES - Hey I Am Playing Ingress", "<br />", "RES - Hilton Street Building", "<br />", "RES - Hilton Street Face", "<br />", "RES - Mural", "<br />", "RES - Old Police Station", "<br />", "RES - Piccadilly Basin", "<br />", "RES - Piccadilly Rusty Carpark", "<br />", "RES - Raymond Montague Burton", "<br />", "RES - Royal Mill", "<br />", "RES - The Courthouse , Manchester", "<br />", "RES [Vol] - Lord Wellington", "<br />", "RES [Vol] - Woman and Eagle Mural", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a></b>", "<b>: Rotterdam - Measurement 2 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " captured this Measurement, 95 to 89.", "<br />", "The ", "<b>Enlightened</b>", " currently control this Secondary Site, leading by 45.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 61 - ENL: 23 - [Value: 1 each]", "<br />", "Volatile Portals Owned - RES: 1 - ", "<b>ENL:</b>", " 3 - [Value: 10 each]", "<br />", "Links Created - RES: 8 - ", "<b>ENL:</b>", " 12 - [Value: 3 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "<b>Resistance</b>", " - 95 - Enlightened - 89", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "Resistance - 225 - ", "<b>Enlightened</b>", " - 270", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "<br />", "ENL - Centrum Voor Cultuur En Natuur", "<br />", "ENL - Cube Art Rotterda", "<br />", "ENL - Eerste Hollandsche Levensverzekerings-Bank", "<br />", "ENL - Flying Ant", "<br />", "ENL - Fontijn", "<br />", "ENL - Gamers of The West", "<br />", "ENL - Geel Kunstwerk", "<br />", "ENL - Hoog en Droog", "<br />", "ENL - Hugo de Groot", "<br />", "ENL - Jamin Crooswijk", "<br />", "ENL - Joodse Begraafplaats", "<br />", "ENL - Monster City", "<br />", "ENL - Mosaic Art At Illuminated Passage", "<br />", "ENL - Native Glyph", "<br />", "ENL - Noordsingel Portrait", "<br />", "ENL - Opperclass Street Science Mural", "<br />", "ENL - Pannenkoeken Huis", "<br />", "ENL - Red Crane", "<br />", "ENL - Seahorse Relief", "<br />", "ENL - Stenen Boom", "<br />", "ENL - Stichting Tot Steun", "<br />", "ENL - Wall Artifacts", "<br />", "ENL - Waterstand", "<br />", "ENL [Vol] - Kunstwerk Stadhuis", "<br />", "ENL [Vol] - MS Rottebocht", "<br />", "ENL [Vol] - WW II Memorial", "<br />", "NEU - Entree Stadhuis Centrale Secretaire", "<br />", "NEU - Herdenkingsmonument Voor Hen Die Vielen", "<br />", "NEU - Kubus Woningen", "<br />", "NEU - Lawton", "<br />", "NEU - Mosaics Bench Noordsingel", "<br />", "NEU - Mozaïek Muurtegel", "<br />", "NEU - Nieuwmarkt", "<br />", "NEU - Oude Gemeentebibliotheek", "<br />", "NEU - Pjk Wing Embleem", "<br />", "NEU - Poort", "<br />", "NEU - rotterdam blaak library", "<br />", "NEU - Taxat", "<br />", "NEU [Vol] - Kerk Goudse Rijweg", "<br />", "RES - Allegory river Nieuwe Maas", "<br />", "RES - Angels and Trumpets", "<br />", "RES - Art at Streetlight 3", "<br />", "RES - Attention", "<br />", "RES - Bierdrinker", "<br />", "RES - Blue Steel", "<br />", "RES - Children Mural", "<br />", "RES - Church Gate Entrance", "<br />", "RES - Church Tower", "<br />", "RES - City Hall Fountain", "<br />", "RES - City Hall Rotterdam", "<br />", "RES - City Podium", "<br />", "RES - Colorful Wall Art", "<br />", "RES - Erasmus", "<br />", "RES - Erasmusplein", "<br />", "RES - Fountain Weena", "<br />", "RES - Freedom", "<br />", "RES - Gebroken Glas", "<br />", "RES - Greek God of Velocity", "<br />", "RES - Grote Kerk Plein Rotterdam", "<br />", "RES - Guardian Lion of Moshi Moshi", "<br />", "RES - Hands in the Pocket", "<br />", "RES - Henkens Brouwerij Mural", "<br />", "RES - Het Potlood", "<br />", "RES - Johan Van Oldenbarnevelt", "<br />", "RES - Kerk Doopsgezinde Gemeente", "<br />", "RES - Kijk Maar", "<br />", "RES - Kubuswoningen", "<br />", "RES - Ladder Art", "<br />", "RES - Laurenskerk, Rotterdam", "<br />", "RES - Library Rotterdam", "<br />", "RES - Luzac Rotterdam Lyceum", "<br />", "RES - Man and Tree on the Wall", "<br />", "RES - Markthal Rotterdam", "<br />", "RES - Meteorite", "<br />", "RES - Mime Street Art", "<br />", "RES - Monument Voor Alle Gevallenen 1940-1945", "<br />", "RES - Mozaik", "<br />", "RES - NIEUWE DELFTSE POORT", "<br />", "RES - Oppert", "<br />", "RES - Opzomer Ster", "<br />", "RES - Pierre Bayle Bench", "<br />", "RES - Piet Blom", "<br />", "RES - Powerman Sculpture", "<br />", "RES - Rapportboekje Van Bob Den Uyl", "<br />", "RES - Roterodamum", "<br />", "RES - Rotterdam Centrum 1", "<br />", "RES - Rotterdam Vines", "<br />", "RES - Seven Dwarfs", "<br />", "RES - Sexy Lexy Graffiti", "<br />", "RES - Snake Bench", "<br />", "RES - Speaker Coolsingel", "<br />", "RES - Steel Tubes", "<br />", "RES - The Cross", "<br />", "RES - The Mermaid", "<br />", "RES - Tor und Stele. Gunther Forg. 1994", "<br />", "RES - Totems and Crocodiles and other Wooden Sculptures", "<br />", "RES - Van Duiken Weilands", "<br />", "RES - Vredesnaald", "<br />", "RES - Wilhelmina Hof", "<br />", "RES - Wit Staal KunstWerk", "<br />", "RES [Vol] - *De Maagd van Holland, Vrijhei", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117925290066569180821\" oid=\"117925290066569180821\">Bartosz Francman</a>"], " in Prague", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Helios 05: Summary of Anomaly Conditions at Measurement 2
+Prague - R:406 - E:402
+Manchester  - R:68.2 - E:113
+Rotterdam - R:225 - E:270
+Total - R:699.2 - E:785
+At Measurement 2, the Enlightened extend their narrow margin. In Prague, they return to a near equal position: The Resistance control that city by a mere 4. In Manchester, a well-placed Resistance Field supplement their efforts, but without extensive ground control, its potential is largely mitigated. In Rotterdam, the Enlightened retain a narrow but firm upper hand. As Measurement 3 approaches, they lead by 85.8.
+#Helios: Prague - Measurement 2 Report
+The Enlightened captured this Measurement, 217 to 168.
+The Resistance currently control this Primary Site, leading by 4.
+Portals Owned - RES: 49 - ENL: 41 - [Value: 2 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 20 each]
+Links Created - RES: 14 - ENL: 7 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+High-Risk Portal Array M2 - E:42 - R:16
+Total for this Measurement:
+Resistance - 168 - Enlightened - 217
+Total for this Primary Site:
+Resistance - 406 - Enlightened - 402
+Measurement Time Details:
+Original: 9:43 (Minutes:Seconds within Measurement Window)
+Padded String: ]mn9{.v,a:BJ*E4j` 9:43 CprvHg
+SHA256 of Padded String: 64360310cbab9243db99ebaf01fc59c1ba47381f6106eef043bbe0d4600bf5e2
+Portal Ownership Details
+ENL - Angel
+ENL - Araukarity
+ENL - Baby Portrait
+ENL - Barevná Kavárna
+ENL - Belle Vue
+ENL - Black Clock Villa
+ENL - Carved Balcony
+ENL - Černá Pumpa
+ENL - Column Under Balcony
+ENL - Czech Lion
+ENL - Czech Radio (New Building)
+ENL - Devil's Head
+ENL - Dům Zemědělské Osvěty
+ENL - Erb
+ENL - F.L.Rieger statue
+ENL - Facade with Well Being Wish
+ENL - Fighter of God
+ENL - Green Facade
+ENL - Hasičský dům
+ENL - Heroldova pametni deska
+ENL - Hrncir
+ENL - Integral
+ENL - Jaroslav Průcha
+ENL - Kaple svaté Rodiny
+ENL - Karel Holler pamětní deska
+ENL - Karel Horak
+ENL - Karel Vaclav Rais
+ENL - King Head Sculpture
+ENL - Kopernikova Statue
+ENL - Květinový Ráj
+ENL - Man and Dog
+ENL - Naked Woman Statue
+ENL - Nove Hodiny
+ENL - Obchodní akademie Praha 2
+ENL - Obchodní soud
+ENL - ORBIS Statue
+ENL - Pošta Moravská
+ENL - The Kid Sculpture Art
+ENL - Two Children Sculptures
+ENL - U Assyrských Králů
+ENL - Woman Head
+ENL [Vol] - Fountain Am Plaza
+ENL [Vol] - Kostel sv. Ludmily
+ENL [Vol] - Old Heraldry
+ENL [Vol] - Restaurace Jiny Stav
+ENL [Vol] - Subway Ventilation
+NEU - Fügner sochy
+NEU - Havlicek Over Eagle
+NEU - Michal Poljansky Memorial
+NEU - Muscular Men
+NEU - Sup
+RES - Angel
+RES - Angles and Human Statues on Building
+RES - Blue Face
+RES - Busta Jana Masaryka
+RES - Český Rozhlas
+RES - Comics Point
+RES - Decorated Window
+RES - Erb
+RES - Flower Power Balkony
+RES - Fontána na Tylově Náměstí
+RES - Frcek &amp; Tichota Memorial
+RES - Fresky na zdi
+RES - Hotel Beranek
+RES - Josef and Karel Capek Memorial
+RES - Komercni Banka
+RES - Lion Head
+RES - Man with Woman
+RES - Městský úřad pro Prahu 2
+RES - Metro Vents Náměstí Míru
+RES - Mikoláš Aleš
+RES - Mír (1979) akademický sochař
+RES - Nad Museem
+RES - Národní dům na Vinohradech
+RES - North Fountain
+RES - Obchodni Soud Plastika
+RES - Old pump
+RES - Oslava Komunismu
+RES - Pamatce Sochare Folkmana
+RES - Pamětní deska Aloise Eliáše
+RES - Pizza Palermo
+RES - Pomnik Spisovatele M Kukucina
+RES - Posta Vinohrady
+RES - Prague WC
+RES - Satyr 573
+RES - South Fountain
+RES - Stare Hodiny
+RES - Statue of Svatopluk Čech
+RES - Svata Zena
+RES - The Perfect Face
+RES - Tri Strazci
+RES - Two Eagles
+RES - Tylova Pasaz
+RES - Tylovo náměstí
+RES - Vaclav Rais
+RES - Vinohradská tržnice
+RES - Woman on Guard
+RES - Woman Statue
+RES - Zena S Obilim
+RES - Žlutá Pumpa
+#Helios: Manchester  - Measurement 2 Report
+The Enlightened captured this Measurement, 50 to 46.2.
+The Enlightened currently control this Secondary Site, leading by 44.8.
+Portals Owned - RES: 13 - ENL: 20 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (13.2)]
+Total for this Measurement:
+Resistance - 46.2 - Enlightened - 50
+Total for this Secondary Site:
+Resistance - 68.2 - Enlightened - 113
+Portal Ownership Details
+ENL - #4 Picadilly Water Sculpture
+ENL - A.V. Roe &amp; Co.
+ENL - casa d arte
+ENL - Central Retail Park
+ENL - Coopers Clock
+ENL - Crown and Anchor
+ENL - Former Union Bank of Manchester
+ENL - Georgian Town Houses 1787
+ENL - Hatters Hostel
+ENL - James Watt Statue
+ENL - Koffee Pot Dogs Graffiti
+ENL - Manchester Central Buildings 1904
+ENL - Millington House (Former Textile Warehouse)
+ENL - NoHo Bar Mural
+ENL - Number 40 Oldham Street
+ENL - Still Life Sculpture
+ENL - The Space
+ENL - The Waldorf
+ENL - This is Your Passage Through Time Plaque
+ENL - Water Winch and Crane
+ENL [Vol] - Frog and Bucket
+ENL [Vol] - Piccadilly Basin Liftgear
+ENL [Vol] - Queen Victoria
+NEU - Clampdown Records
+NEU - Houldsworth Men
+NEU - Old Post Office
+RES - 1887 Hotel
+RES - Elephant Mural in Stevenson Square
+RES - H.A. Howard &amp; Sons Ltd.
+RES - Hey I Am Playing Ingress
+RES - Hilton Street Building
+RES - Hilton Street Face
+RES - Mural
+RES - Old Police Station
+RES - Piccadilly Basin
+RES - Piccadilly Rusty Carpark
+RES - Raymond Montague Burton
+RES - Royal Mill
+RES - The Courthouse , Manchester
+RES [Vol] - Lord Wellington
+RES [Vol] - Woman and Eagle Mural
+#Helios: Rotterdam - Measurement 2 Report
+The Resistance captured this Measurement, 95 to 89.
+The Enlightened currently control this Secondary Site, leading by 45.
+Portals Owned - RES: 61 - ENL: 23 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 8 - ENL: 12 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 95 - Enlightened - 89
+Total for this Secondary Site:
+Resistance - 225 - Enlightened - 270
+Portal Ownership Details
+ENL - Centrum Voor Cultuur En Natuur
+ENL - Cube Art Rotterda
+ENL - Eerste Hollandsche Levensverzekerings-Bank
+ENL - Flying Ant
+ENL - Fontijn
+ENL - Gamers of The West
+ENL - Geel Kunstwerk
+ENL - Hoog en Droog
+ENL - Hugo de Groot
+ENL - Jamin Crooswijk
+ENL - Joodse Begraafplaats
+ENL - Monster City
+ENL - Mosaic Art At Illuminated Passage
+ENL - Native Glyph
+ENL - Noordsingel Portrait
+ENL - Opperclass Street Science Mural
+ENL - Pannenkoeken Huis
+ENL - Red Crane
+ENL - Seahorse Relief
+ENL - Stenen Boom
+ENL - Stichting Tot Steun
+ENL - Wall Artifacts
+ENL - Waterstand
+ENL [Vol] - Kunstwerk Stadhuis
+ENL [Vol] - MS Rottebocht
+ENL [Vol] - WW II Memorial
+NEU - Entree Stadhuis Centrale Secretaire
+NEU - Herdenkingsmonument Voor Hen Die Vielen
+NEU - Kubus Woningen
+NEU - Lawton
+NEU - Mosaics Bench Noordsingel
+NEU - Mozaïek Muurtegel
+NEU - Nieuwmarkt
+NEU - Oude Gemeentebibliotheek
+NEU - Pjk Wing Embleem
+NEU - Poort
+NEU - rotterdam blaak library
+NEU - Taxat
+NEU [Vol] - Kerk Goudse Rijweg
+RES - Allegory river Nieuwe Maas
+RES - Angels and Trumpets
+RES - Art at Streetlight 3
+RES - Attention
+RES - Bierdrinker
+RES - Blue Steel
+RES - Children Mural
+RES - Church Gate Entrance
+RES - Church Tower
+RES - City Hall Fountain
+RES - City Hall Rotterdam
+RES - City Podium
+RES - Colorful Wall Art
+RES - Erasmus
+RES - Erasmusplein
+RES - Fountain Weena
+RES - Freedom
+RES - Gebroken Glas
+RES - Greek God of Velocity
+RES - Grote Kerk Plein Rotterdam
+RES - Guardian Lion of Moshi Moshi
+RES - Hands in the Pocket
+RES - Henkens Brouwerij Mural
+RES - Het Potlood
+RES - Johan Van Oldenbarnevelt
+RES - Kerk Doopsgezinde Gemeente
+RES - Kijk Maar
+RES - Kubuswoningen
+RES - Ladder Art
+RES - Laurenskerk, Rotterdam
+RES - Library Rotterdam
+RES - Luzac Rotterdam Lyceum
+RES - Man and Tree on the Wall
+RES - Markthal Rotterdam
+RES - Meteorite
+RES - Mime Street Art
+RES - Monument Voor Alle Gevallenen 1940-1945
+RES - Mozaik
+RES - NIEUWE DELFTSE POORT
+RES - Oppert
+RES - Opzomer Ster
+RES - Pierre Bayle Bench
+RES - Piet Blom
+RES - Powerman Sculpture
+RES - Rapportboekje Van Bob Den Uyl
+RES - Roterodamum
+RES - Rotterdam Centrum 1
+RES - Rotterdam Vines
+RES - Seven Dwarfs
+RES - Sexy Lexy Graffiti
+RES - Snake Bench
+RES - Speaker Coolsingel
+RES - Steel Tubes
+RES - The Cross
+RES - The Mermaid
+RES - Tor und Stele. Gunther Forg. 1994
+RES - Totems and Crocodiles and other Wooden Sculptures
+RES - Van Duiken Weilands
+RES - Vredesnaald
+RES - Wilhelmina Hof
+RES - Wit Staal KunstWerk
+RES [Vol] - *De Maagd van Holland, Vrijhei
+Photo by Agent +Bartosz Francman in Prague](https://lh5.googleusercontent.com/-lTZLTPnC12c/U_iXiFL0WUI/AAAAAAAA_SI/PeojMmDpqzc/w1720-h1290/ENLgroup.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/BTEsafnj8FS](https://plus.google.com/+NianticProject/posts/BTEsafnj8FS)

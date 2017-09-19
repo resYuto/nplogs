@@ -1,0 +1,278 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-27 14:35:10 +0900"
+date:   2016-02-27 14:35:10 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Hamamatsu has begun: M1 Scores: ENL: 2176 to RES: 630 (Shards included). Shards E:5 - R:0
+
+The [#Obsidian](https://plus.google.com/s/%23Obsidian "") Anomalies have begun, and Agents around the world have launched into the struggle to create the [#Obsidian](https://plus.google.com/s/%23Obsidian "") Shield - a powerful ancient technological device being pursued by Jahan, the prominent Resistance leader who intends to use it to block the Shapers, and the Acolyte, an Enlightened leader who seeks to turn its power against the N’zeer.
+
+In Hamamatsu, the Enlightened have launched themselves aggressively to the fore across all fronts. They currently lead this Anomaly site by 1546. 3 Measurements remain, and the Resistance have an uphill battle ahead of them. It would be unwise for the Enlightened to rest on their laurels this early in the Anomaly, though… much lies ahead, and their opponents are fierce.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Hamamatsu - Measurement 1 Report**
+
+The **Enlightened** captured this Measurement, 2176 to 630.
+The **Enlightened** currently control this Satellite Site, leading by 1546.
+
+Portals Owned - RES: 38 - **ENL:** 92 - [Value: 6 each]
+Volatile Portals Owned - RES: 26 - **ENL:** 52 - [Value: 12 each]
+Links Created - **RES:** 21 - **ENL:** 95 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]
+Anchored Fields Created - RES: 4 - **ENL:** 27
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]
+Shards - RES:  - ENL: 5 [Value: 100 each]
+
+Values acquired this Measurement:
+Portals - RES: 228 - **ENL:** 552
+Volatile Portals - RES: 312 - **ENL:** 624
+Links - RES: 90 - **ENL**: 300
+Anchored Fields - RES: 0 - **ENL:** 200
+Strategic Field - RES: 0 - ENL: 0
+Shards - RES: 0 - ENL: 500
+
+**Shard Ownership Details**
+Enlightened: 5 Shards
+Resistance: 0 Shards
+At Measurement 1, the Enlightened led by 5 Shards.
+11 Shards were currently live in the Anomaly Zone and remain uncaptured.
+All Shards, Enlightened Targets and Resistance Targets have manifested. 
+11 Jump Windows remained in this Anomaly.
+
+**Portal Ownership Details**
+E - Castle Park-North （浜松城公園北）
+E - Lawson ローソン 浜松住吉二丁目
+E - Lawson ローソン 浜松元目町
+E - Manhole Art of Fire Track(浜松市中区市役所東側)
+E - Sonix
+E - Wajiyama  Park  Walking  Tour 
+E - Wajiyama Pavilion 
+E - きりんさん
+E - しあわせ坂通り
+E - つばきひめ
+E - みどりの日制定記念碑
+E - カバさん
+E - デリカフェ ビオ⚫ビオ(浜松市役所南側)
+E - ニコニコ製菓　コイの置物
+E - マンモスすべり台
+E - 下池川町公民館
+E - 中村修二先生碑
+E - 亀山神社 (浜松市中区鹿谷町)
+E - 二宮金次郎
+E - 住吉公園
+E - 住吉墓苑　南古墳
+E - 住吉集会所
+E - 元亀霊神社
+E - 元城町 東照宮 本殿
+E - 元城町屋台置場
+E - 元城町東照宮 鳥居
+E - 出雲大社教 浜松分院
+E - 和地山公園
+E - 和地山公園 兎と亀 (浜松市中区和地山)
+E - 和地山公園集会所
+E - 和地山神社 
+E - 善正寺
+E - 地蔵威神力
+E - 夏目次郎左衛門吉信の碑
+E - 天林寺 友示園 石碑(浜松市中区下池川
+E - 天林寺 岩田立山先生像(浜松市中区下池川)
+E - 天理教引浜分教会
+E - 天理教濱都分教会
+E - 少林寺 山門石碑 (浜松市中区高林町)
+E - 尾張町公会堂
+E - 平和祈念の碑
+E - 日本キリスト教団 浜松元城教会
+E - 日枝神社
+E - 日枝神社本殿
+E - 本田技研工業発祥の地　蛇屋敷跡
+E - 村社八幡宮
+E - 東往還（旧道） 標柱
+E - 東海道石塔 高町
+E - 案内板 市役所南(浜松市中区市役所前交差点)
+E - 案内板市役所東(浜松市中区市役所前交差点)
+E - 浜松中沢教会
+E - 浜松元目郵便局 (浜松市中区元目)
+E - 浜松和地山郵便局
+E - 浜松城公園 壁絵 北側(浜松市中区)
+E - 浜松城公園 時計塔
+E - 浜松城公園 点字案内板
+E - 浜松城公園　世界連邦平和宣言
+E - 浜松城公園　友和
+E - 浜松城公園　市民の木
+E - 浜松城公園　徳川家康像
+E - 浜松城公園　日本庭園滑滝 浜松市中区
+E - 浜松城公園　石舞台
+E - 浜松城公園日本庭園北門(浜松市中区)
+E - 浜松城公園／日本庭園東門
+E - 浜松城展望撮影ポイント(北)
+E - 浜松家康の散歩道
+E - 浜松市立中央図書館
+E - 浜松市立中央図書館
+E - 浜松市立城北図書館
+E - 浜松市美術館
+E - 浜松布橋郵便局(浜松市中区布橋町)
+E - 浜松文芸館 看板(浜松城公園北側)
+E - 浜松福音自由教会
+E - 浜松鹿谷郵便局
+E - 滑滝
+E - 照曜山 齢松寺
+E - 牛山公園
+E - 犀ケ崖公園 看板 (浜松市中区鹿谷町)
+E - 玄黙口跡
+E - 玄黙寺跡
+E - 白山神社 改築記念碑(興誠高校南側)
+E - 白山神社 本殿興誠高校南側
+E - 石碑 静岡銀行 名残出張所前
+E - 社 住吉町
+E - 羽化
+E - 聖隷病院の壁画
+E - 讃太陽 桑原巨守
+E - 車輪の車止め
+E - 道しるべ
+E - 遠州栄光教会 住吉地域センター
+E - 高野山真言宗常楽寺
+E - 鹿谷緑地
+E VOL - Wajiyama Park  Pavilion 
+E VOL - すっぽん
+E VOL - ひくまこども公園
+E VOL - やすらぎの里 木彫工房
+E VOL - イケヤ文楽館高林店
+E VOL - サンタウン幸公園
+E VOL - タイヤ君
+E VOL - テレビジョン発祥の地
+E VOL - テレビジョン発祥地記念碑
+E VOL - テンカドーのうさぎ
+E VOL - パリーミキ城
+E VOL - ホテルコンコルド浜松 十七才 (浜松市中区)
+E VOL - 中沢墓園 教興寺山門 浜松市中区中沢町
+E VOL - 亀山トンネル (奥山線の遺構)
+E VOL - 住吉緑地
+E VOL - 元目町屋台置場
+E VOL - 和合町の大きなスリコギの片割れ
+E VOL - 和地山公園 遊具 (浜松市中区和地山)
+E VOL - 和地山公園時計台
+E VOL - 地蔵 
+E VOL - 城北公園 ヤドカリ
+E VOL - 大きなスリコギ
+E VOL - 大柴原公園
+E VOL - 大正坂 (浜松市中区大正坂バス停)
+E VOL - 家康の散歩道
+E VOL - 幸運の石像
+E VOL - 心造寺 本殿(浜松市中区利町)
+E VOL - 文丘町自治会館
+E VOL - 新・浜松の自然100選 奥山線跡の遊歩道
+E VOL - 木陰の埴輪
+E VOL - 松韻亭
+E VOL - 池川稲荷大明神跡
+E VOL - 浜松城二之丸跡
+E VOL - 浜松城公園　天守曲輪の石垣
+E VOL - 浜松城公園　浜松市戦災被爆慰霊碑
+E VOL - 浜松城公園案内板
+E VOL - 浜松市役所 本館
+E VOL - 浜松市立中央図書館の石碑
+E VOL - 浜松教会(浜松市中区高町)
+E VOL - 浜松陸軍墓地道
+E VOL - 海仁ギャラリー
+E VOL - 牛山公園の牛
+E VOL - 犬塚坂 石碑
+E VOL - 白山神社 鳥居(興誠高校南側)
+E VOL - 白山神社　坂道石段造営寄付芳名の碑
+E VOL - 石碑 浜松報徳館(浜松市中区元城小学校東側)
+E VOL - 神明神社 (浜松市中区三組町)
+E VOL - 足裏マッサージ歩道
+E VOL - 軽便鉄道(奥山線)案内板
+E VOL - 長坂桜堤 (浜松市中区富塚)
+E VOL - 阿弥陀橋の跡 石碑
+E VOL - 馬冷 道標(浜松開誠館中・高校北側)
+N - 修行大師
+N - 家康公鎧掛松
+N - 寂しい公園
+N - 案内板 浜松城公園南(浜松市中区)
+N - 浜松城公園　 浜松市環境資源百選
+N - 浜松城公園　案内石碑
+N - 浜松市営バス跡、石碑
+N - 浜松市美術館　レリーフ
+N - 浜松市美術館　２つが１つになったステンレスオブジェ2000(浜松市立美術館内)
+N - 遠州信貴山別院
+N VOL - 浜松城公園　壁絵西側(浜松市中区)
+N VOL - 浜松城公園鹿谷駐車場(浜松城公園北側)
+N VOL - 高野山真言宗常楽寺 本殿
+R - Asakuma guardian angel
+R - Lawson ローソン 和地山
+R - Lawson ローソン 浜松中沢
+R - Manhole Art of Swallow
+R - イズモホール浜松 モニュメント
+R - ブランコ
+R - 中沢墓園 玄忠寺墓苑 (浜松市中区中沢町)
+R - 中沢町公民館
+R - 住吉墓苑　陸軍用地
+R - 天林寺 山門(浜松市中区下池川)
+R - 日本福音 ルーテル浜松教会(静岡大学浜松キャンパス東側)
+R - 日限地蔵尊
+R - 時計塔 (浜松市中区中沢町
+R - 東西のぞき石 （浜松市中区中沢町）
+R - 案内板 東照宮南(浜松市中区元城小学校東側)
+R - 案内板 浜松城公園(浜松市中区元城小学校西側
+R - 案内板 浜松城公園東(浜松市中区元城町)
+R - 永禅寺
+R - 池川神社
+R - 池川邸
+R - 浜松キリスト教会
+R - 浜松城公園 日本庭園ライオンズクラブ石碑
+R - 浜松城公園 石碑
+R - 浜松城公園　浜松天守門鳥居
+R - 浜松城公園　音楽文化友好交流10周年記念の柳
+R - 浜松城天守
+R - 浜松学院大学図書館分館
+R - 浜松市役所
+R - 浜松市役所 母子像
+R - 牛山公園 北側入口 (浜松市中区下池川町)
+R - 牛山公園 南側入口 (浜松市中区下池川町)
+R - 真徳山天林寺-本堂
+R - 神明宮
+R - 蜻蛉園 石碑
+R - 車輪のアート
+R - 道路拡張記念碑
+R - 鉄道路線跡
+R - 静岡大学 Shizuoka university
+R VOL - Manhole Art of Fire Engine(浜松市中区市役所前交差点南側)
+R VOL - マンホール
+R VOL - ヨハン浜松キリスト教会
+R VOL - ルネサンス・ペット・アカデミー(浜松市中区北田)
+R VOL - 三方原古戦場犀ヶ崖
+R VOL - 三社神社
+R VOL - 中沢墓園 石碑 (浜松市中区中沢町)
+R VOL - 住吉公園螺旋すべり台
+R VOL - 住吉駅跡
+R VOL - 天林寺 石碑(浜松市中区下池川)
+R VOL - 富塚町北自治会集会所
+R VOL - 希望の森
+R VOL - 常盤橋遊園地
+R VOL - 時計塔(浜松城公園 冒険広場)
+R VOL - 普済寺 山門 (浜松市中区広沢町)
+R VOL - 浜松中沢郵便局
+R VOL - 浜松城公園 石碑
+R VOL - 浜松市勤労会館Uホール
+R VOL - 浜松市立城北図書館
+R VOL - 浜松藩の馬場跡
+R VOL - 牛山公園にある神社
+R VOL - 狸
+R VOL - 石碑 浜松市消防団浜松第1分団(浜松市中区元城連尺交差点北側)
+R VOL - 神明神社 布橋
+R VOL - 高林キリスト集会所
+R VOL - ＩＴＯ ＥＮ 東海防災（株） 社会貢献自販機
+
+**Total for this Measurement:**
+Resistance - 630 - **Enlightened** - 1676
+
+**Total for this Satellite Site:**
+Resistance - 630 - **Enlightened** - 1676
+
+**Measurement Time Details:**
+Original: 6:09 (Minutes:Seconds within Measurement Window)
+Padded String: jN0nI${/%?XH@![###6:09###xXuj
+SHA256 of Padded String: 4e6b5adb1919dec0871eeeca79fb27c94886f1ecb6372a78e5c5c96c3793bf0f
+[#### photo: #IngressObsidian Hamamatsu has begun: M1 Scores: ENL: 2176 to RES: 630 (Shards included). Shards E:5 - R:0
+The #Obsidian Anomalies have begun, and Agents around the world have launched into the struggle to create the #Obsidian Shield - a powerful ancient technological device being pursued by Jahan, the prominent Resistance leader who intends to use it to block the Shapers, and the Acolyte, an Enlightened leader who seeks to turn its power](https://lh3.googleusercontent.com/-uPt51eToWbs/VtE1idrsJkI/AAAAAAAAiqk/RbASHl1yg3A/w1002-h664/hama_m1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/8DbKsa98Bw1](https://plus.google.com/+NianticProject/posts/8DbKsa98Bw1)

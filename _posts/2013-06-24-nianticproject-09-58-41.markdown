@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-06-24 09:58:41 +0900"
+date:   2013-06-24 09:58:41 +0900
+categories: nianticproject
+---
++[Richard Walden](https://plus.google.com/112217333135124700456 "") +[Dom Armstrong](https://plus.google.com/117385895683071127035 "") and +[Gonçalo Margalho](https://plus.google.com/115597598654519340037 "") have just revealed that the contents of the  [#timezero](https://plus.google.com/s/%23timezero "")  package were not destroyed.
+
+As I had guessed earlier, the video of them setting fire to the package was a bluff, and the silence from +[Visur Technology](https://plus.google.com/115880454950193571355 ""), +[IQTech Research](https://plus.google.com/108020987035258478791 "") and +[Hulong Transglobal](https://plus.google.com/107849663787965375687 "") may indicate that they also believed as such.
+
+It seems the London Enlightened have finally begun to make their demands...{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1597, :value=>"shared"@1604}], :children=>["<br />", "<h2>Gonçalo Margalho</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], "  I just intercepted this encrypted video transmission from ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117385895683071127035\" oid=\"117385895683071127035\">Dom Armstrong</a>"], "  and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/112217333135124700456\" oid=\"112217333135124700456\">Richard Walden</a>"], " . I've decided to post it publicly for all to see", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108020987035258478791\" oid=\"108020987035258478791\">IQTech Research</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107849663787965375687\" oid=\"107849663787965375687\">Hulong Transglobal</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115880454950193571355\" oid=\"115880454950193571355\">Visur Technology</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " ", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23timezero\">#timezero</a>", "<br />", "<br />"], :ignore=>true}}
+[#### video: http://www.youtube.com/v/CnS0P-9JXk8?version=3&amp;autohide=1](http://www.youtube.com/v/CnS0P-9JXk8?version=3&amp;autohide=1 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/5DfMDUeQPLf](https://plus.google.com/+NianticProject/posts/5DfMDUeQPLf)

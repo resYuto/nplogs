@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2016-01-07 17:33:41 +0900"
+date:   2016-01-07 17:33:41 +0900
+categories: nianticproject
+---
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") spots a familiar name in +[Felicia Hajra-Lee](https://plus.google.com/118344555717370644832 "")'s latest story... but he can't quite figure out why it's triggering a memory...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@510, :value=>"shared"@517}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "There was mention of something called 'The Reason Foundation' in yesterday's ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/118344555717370644832\" oid=\"118344555717370644832\">Felicia Hajra-Lee</a>"], " post.", "<br />", "<br />", "It's driving me nuts. I know I've seen that name before... Many times, in fact, in intelligence circles... but I can't remember where... It's a mental block unlike anything I've felt before.", "<br />", "<br />", "Is there anything we know about the Reason Foundation? Anything we can deduce? I've got to figure out why the name sounds so familiar...", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 6mjk6xitovjr9f5,](https://lh3.googleusercontent.com/-Mpp-rSUxlFw/Vo4hYyYmL4I/AAAAAAAACBA/aPIxiESJ6wM/w800-h1210/Reason.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/6URWZX36tuJ](https://plus.google.com/+NianticProject/posts/6URWZX36tuJ)

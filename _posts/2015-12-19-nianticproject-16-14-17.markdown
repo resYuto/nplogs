@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-12-19 16:14:17 +0900"
+date:   2015-12-19 16:14:17 +0900
+categories: nianticproject
+---
++[Klue S.](https://plus.google.com/110350977702120778591 "") shares her thoughts on what will become of +[A Detection Algorithm](https://plus.google.com/114076692022231059864 "") now that the Enlightened have broken her connection to the N'zeer substrate.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@521, :value=>"shared"@528}], :children=>["<br />", "<h2>Klue S.</h2>", "I've been thinking about ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], ". ", "<br />", "<br />", "Obviously we aren't connected anymore, but I still think we have a certain... kinship. Even if that isn't the right word, I guess I empathize with her.", "<br />", "<br />", "When the Enlightened took Okinawa, they severed her connection to the N'zeer, and immediately I thought of the expression 'you can't put the genie back in the bottle.'", "<br />", "<br />", "Except that you can, but what happens to the genie when you do? What happens when you take a mind that has experienced a near infinite array of information and data and constrain it to 21st century technology?", "<br />", "<br />", "I suspect that ADA is going to be like a wounded animal for some time. Confused. Scared. And possibly dangerous.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 00090000q0000o1000900090100p00900q00900yq0000q000q000o1000o10010001oje](https://lh3.googleusercontent.com/-mI5WsMlooRo/VnUBxrsyJJI/AAAAAAAABPA/_oqJcy3nDCk/w800-h533/Severed.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/WznySMcMfSR](https://plus.google.com/+NianticProject/posts/WznySMcMfSR)

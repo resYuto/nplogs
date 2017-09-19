@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-17 22:52:51 +0900"
+date:   2013-12-17 22:52:51 +0900
+categories: nianticproject
+---
+See Mr. Zokiev's document for the details: [http://goo.gl/4eYC9](http://goo.gl/4eYC9 "")
+
+In brief:
+
+A document received by a Niantic researcher named Curter Zokiev brings news of a mission on April 21 to move seven packets of data from Geneva to the following cities in Europe: Zurich, Stuttgart, Munich, Milan, Monaco, Berlin and Paris.
+
+The transmission window will open on April 21 at 2:31:00 PM CEST, and last until 8:30:59 PM CEST.
+
+Link chains created from the specific portals in Geneva to specified portals in the destination cities will be capable of transmitting the Shaper packets any time during that window.
+
+At 8:31:00 PM CEST a special packet will be broadcast along the longest single link connected to either portal in Geneva, and will hold the value of two packets.
+- - -
+[https://plus.google.com/events/c7jjnj1vq2ts627o1uj85fnnjic](https://plus.google.com/events/c7jjnj1vq2ts627o1uj85fnnjic)

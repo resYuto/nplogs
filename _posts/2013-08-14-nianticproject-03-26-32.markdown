@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-14 03:26:32 +0900"
+date:   2013-08-14 03:26:32 +0900
+categories: nianticproject
+---
+Deeper and deeper still.
+
+The Resistance have one Measurement left to take back the day. Remember, the results of each Anomaly in [#Cassandra](https://plus.google.com/s/%23Cassandra "") carry forward. The work you do today matters to your comrades at the next  [#Cassandra](https://plus.google.com/s/%23Cassandra "")  city.
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Milan, Measurement 2<br /><br /><b>The Resistance owned 3 Volatile Portals and 6 Non-Volatile Portals.</b><br />The Enlightened owned 2 Volatile Portals and 10 Non Volatile Portals<br /><br /><b>The Enlightened had 8 Links standing at Measurement Time.</b><br /><br />Total for the Resistance this Measurement = 36<br /><b>Total for the Enlightened this Measurement = 46</b><br /><br />Total for the Resistance this Anomaly = 53<br /><b>Total for the Enlightened this Anomaly = 108</b><br /><br /><b>Measurement Time Details</b><br /><br />Original:   EIGHT O CLOCK   TWO  MINUTES AND   FIFTY   FOUR   SECONDS<br />Padded: XXEIGHTXOXCLOCKXXXTWOXXMINUTESXANDXXXFIFTYXXXFOURXXXSECONDS<br />OTP Key: PCLYGZFEHWUMGWYUFXYVUZBQVNWLLOYRFEQNQAZDKEKUHURHNIHTNINSQZD<br />Encrypted String: MZPGMGYBVTWXUYIRCURRIWYCDAQEPGVRSHNKNFHIDCHREZFBEFEQFMPGDCV<br />MD5 of OTP Key: 3BA87D382EE137FC9D6737437F57B550<br /><br /></div>
+[#### photo: undefined](https://lh6.googleusercontent.com/-L2WYA6CglgE/Ugp5IU4yN-I/AAAAAAAANfE/GZbjDfI1RuI/cassandra-milan-2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/QfMqDfzP3fs](https://plus.google.com/+NianticProject/posts/QfMqDfzP3fs)

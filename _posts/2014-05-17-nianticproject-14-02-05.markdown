@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-17 14:02:05 +0900"
+date:   2014-05-17 14:02:05 +0900
+categories: nianticproject
+---
+Here are the final Volatiles for [#Interitus](https://plus.google.com/s/%23Interitus "") 04 - Melbourne, Auckland and Brisbane.
+
+Two Measurements remain for the Resistance to bounce back.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@249, :value=>"shared"@256}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 04 - MELBOURNE, AUCKLAND, BRISBANE - C4 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/jjSHSN\" class=\"ot-anchor\">http://goo.gl/jjSHSN</a>", "<br />", "<br />", "MD5: 57a5f9b2c560f4764cfcc3f2252edb5b", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/109739507105057769746\" oid=\"109739507105057769746\">Kate Solomon</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #INTERITUS 04 - MELBOURNE, AUCKLAND, BRISBANE - C4 VOLs
+Volatiles: http://goo.gl/jjSHSN
+MD5: 57a5f9b2c560f4764cfcc3f2252edb5b
+Photo by Agent +Kate Solomon ](https://lh4.googleusercontent.com/-2GaKMRZJz7w/U3brH5TEDVI/AAAAAAAAxGc/TWkHC5ivyig/brisbane_vols4.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ix9TFumxNU5](https://plus.google.com/+NianticProject/posts/ix9TFumxNU5)

@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Niantic Project: 2013-10-13 05:20:37 +0900"
+date:   2013-10-13 05:20:37 +0900
+categories: nianticproject
+---
+Measurement details for Montreal and Santa Fe.
+
+Enlightened take the advantage in both Montreal Measurement #3 and Santa Fe Measurement #1.
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> - MONTREAL - Measurement 3 Report<br /><br />Montreal Enlightened quickly nip the heels of the Resistance. It now comes down to Cluster 4.<br /><br />The Resistance owned 0 Volatile Portals and 10 Non-Volatile Portals.<br /><b>The Enlightened owned 5 Volatile Portals and 8 Non Volatile Portals.</b><br /><br />The Resistance had 2 Links standing at Measurement Time.<br /><b>The Enlightened had 4 Links standing at Measurement Time.</b><br /><br />Total for Resistance this Measurement = 14<br /><b>Total for Enlightened this Measurement = 66</b><br /><br /><b>Total for Resistance this Anomaly = 124</b><br />Total for Enlightened this Anomaly = 123<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> - SANTA FE - Measurement 1 Report<br /><br />The Resistance owned 0 Volatile Portals and 1 Non-Volatile Portals.<br /><b>The Enlightened owned 5 Volatile Portals and 1 Non Volatile Portals.</b><br /><br /><b>The Enlightened had 14 Links standing at Measurement Time.</b><br /><br />Total for Resistance this Measurement = 1<br /><b>Total for Enlightened this Measurement = 79</b><br /><br /><b>Measurement Time Details:</b><br />Original: 3:43 (Minutes:Seconds past the hour)<br />Padded: WcXrZvKQfTLRpBK 3:43 MIGjowtbTetNSAfkx<br />MD5 of Padded String: A08EB84AB4E9BEE5BD0BED820FE4F6D4<br /><br /></div>
+[#### photo: #13MAGNUS - MONTREAL - Measurement 3 Report
+Montreal Enlightened quickly nip the heels of the Resistance. It now comes down to Cluster 4.
+The Resistance owned 0 Volatile Portals and 10 Non-Volatile Portals.
+The Enlightened owned 5 Volatile Portals and 8 Non Volatile Portals.
+The Resistance had 2 Links standing at Measurement Time.
+The Enlightened had 4 Links standing at Measurement Time.
+Total for Resistance this Measurement = 14
+Total for Enlightened this Measurement = 66
+Total for Resistance this Anomaly = 124
+Total for Enlightened this Anomaly = 123
+#13MAGNUS - SANTA FE - Measurement 1 Report
+The Resistance owned 0 Volatile Portals and 1 Non-Volatile Portals.
+The Enlightened owned 5 Volatile Portals and 1 Non Volatile Portals.
+The Enlightened had 14 Links standing at Measurement Time.
+Total for Resistance this Measurement = 1
+Total for Enlightened this Measurement = 79
+Measurement Time Details:
+Original: 3:43 (Minutes:Seconds past the hour)
+Padded: WcXrZvKQfTLRpBK 3:43 MIGjowtbTetNSAfkx
+MD5 of Padded String: A08EB84AB4E9BEE5BD0BED820FE4F6D4](https://lh6.googleusercontent.com/-Nt0GrHdkp3I/UlmtSRITdeI/AAAAAAAAULM/9iaSo8IHjhY/w1000-h594/13magnus-montreal-c3.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/hKbDMc8d7be](https://plus.google.com/+NianticProject/posts/hKbDMc8d7be)

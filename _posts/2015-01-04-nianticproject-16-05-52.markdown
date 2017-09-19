@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2015-01-04 16:05:52 +0900"
+date:   2015-01-04 16:05:52 +0900
+categories: nianticproject
+---
+A thought provoking question from +[Martin Schubert](https://plus.google.com/100425314717666507497 ""):
+
+Can +[A Detection Algorithm](https://plus.google.com/114076692022231059864 "") not see +[Klue S.](https://plus.google.com/110350977702120778591 "")'s actions as she works to end the bond between them, or is this in fact something that ADA desires as well?
+
+I wonder if it's a little bit of both...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@806, :value=>"shared"@813}], :children=>["<br />", "<h2>Martin Schubert</h2>", "Yes, I saw the news about ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], ". I don't want to dwell on it. For today, my thoughts are on a different subject.", "<br />", "<br />", "I've been watching (from a distance) as this new dynamic between ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], ", ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], " and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], " has emerged. It's most curious.", "<br />", "<br />", "From what I can tell, Klue is asking Agents to help her extricate her mind from ADA's using a series of Glyphs. That much makes sense... If Glyphs enabled them to connect in the first place, it seems logical that Glyphs could end the connection as well.", "<br />", "<br />", "Here's where I am stumped. Perhaps some of you might know how to answer this. Why has ADA made no effort to stop this from happening?", "<br />", "<br />", "There are two hypotheses I can construct:", "<br />", "<br />", "1) ADA cannot see this. Klue's actions are in some kind of blind-spot within the AI. After all, if a human can have a blind spot, why can't a machine?", "<br />", "<br />", "2) ADA is aware of what Klue is doing, but is allowing it to happen. In essence, ADA wants Klue gone, just as much as Klue herself wants out of the 'relationship.' If that's the case... why?", "<br />", "<br />", "What do you think?", "<br />", "<br />"], :ignore=>true}}
+[#### photo: tankffmiltotzqrgpowdspu](https://lh4.googleusercontent.com/-w3sNUzl0XW8/VKjiRaDb0UI/AAAAAAAACVQ/75LbITmXWv4/Disconnect.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Re1UkN6FdHh](https://plus.google.com/+NianticProject/posts/Re1UkN6FdHh)

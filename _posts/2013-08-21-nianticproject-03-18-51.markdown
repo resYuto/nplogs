@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-21 03:18:51 +0900"
+date:   2013-08-21 03:18:51 +0900
+categories: nianticproject
+---
+Measurement 2 at Operation  [#Cassandra](https://plus.google.com/s/%23Cassandra "")  in Paris brings a brutal walloping to the Resistance.
+
+An unfortunate turn of events. One Measurement remains, and the hole the Resistance is in grows deeper by the second.
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Paris<br /><br />The Paris Enlightened iterate on their strategy utilized in Measurement 1, but refine and perfect it to capture every Volatile Portal.<br /><br />Total for the Resistance this Anomaly = 27<br /><b>Total for the Enlightened this Anomaly = 242</b><br /><br /><b>Measurement 2 Details</b><br /><br />The Resistance owned 0 Volatile Portals and 2 Non-Volatile Portals.<br /><b>The Enlightened owned 5 Volatile Portals and 29 Non Volatile Portals.</b><br /><br /><b>The Enlightened had 33 Links standing at Measurement Time.</b><br /><br />Total for the Resistance this Measurement = 2<br /><b>Total for the Enlightened this Measurement = 145</b><br /><br /><b>Measurement Time Details</b><br /><br />Original:       EIGHT O THREE AND         THIRTY    FIVE SECONDS     <br />Padded: XXXXXXEIGHTXOXTHREEXANDXXXXXXXXXTHIRTYXXXXFIVEXSECONDSXXXXX<br />OTP Key: QQIQDFLQCKEMBRPHOTDPNTKJDFEZEEXKJLQWENVGZNUODWBDGCXDRESHQUX<br />Encrypted String: NNFNACPYIRXJPOIOFXHMNGNGACBWBBUHCSYNXLSDWKZWYAYVKELQUWPENRU<br />MD5 of OTP Key: 920520F21B6A4A5B019E2C4CC8E960DB<br /><br /></div>
+[#### photo: undefined](https://lh5.googleusercontent.com/-M09Ony-s7F4/UhOxCx2ls3I/AAAAAAAAPCg/2nMcyjaMEjU/cassandra-paris-2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/fJWPSY8gyHe](https://plus.google.com/+NianticProject/posts/fJWPSY8gyHe)

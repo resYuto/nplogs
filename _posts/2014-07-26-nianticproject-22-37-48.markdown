@@ -1,0 +1,113 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-26 22:37:48 +0900"
+date:   2014-07-26 22:37:48 +0900
+categories: nianticproject
+---
+[#Helios](https://plus.google.com/s/%23Helios "") 01
+
+Measurement 1 Report
+
+The Resistance jump out to an early lead in all three cities, but it's too soon to tell if they can maintain it.  The Enlightened continue to work to make their mark on Helios.<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Dublin - Measurement 1 Report</b><br /><br />The Resistance establish a Field over the Gulf of Finland to defend Tallinn’s Mind (and Mackerel) Units. They secure Dublin, Palermo, and Tallinn in the first Measurement, and currently lead the Anomaly by a value of 169. It’s still very early in the first <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a> Anomaly, and the Enlightened are working to regain control.<br /><br />The <b>Resistance</b> captured this Measurement, 134 to 50.<br />The <b>Resistance</b> currently control this Primary Site, leading by 84.<br /><br />Portals Owned - <b>RES:</b> 17 - ENL: 5 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 20 each]<br />Links Created - <b>RES:</b> 8 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 134 - Enlightened - 50<br /><br /><b>Measurement Time Details:</b><br />Original: 6:24 (Minutes:Seconds within Measurement Window)<br />Padded String: ml?&gt;c3WirvWkTJ 6:24 !<br />SHA256 of Padded String: ca46830e837a8f2a0428fd75f183ae1777813336482cf1c51d77a3baaa6823ec<br /><br /><b>Portal Ownership Details</b><br />Resistance - Trinity Biomedical Science Institute<br />Resistance - Toro Sculpture<br />Resistance - The Ferryman <br />Resistance - Statue of Christ<br />Resistance - Shattered Fountain<br />Resistance - Post Office <br />Resistance - Pig Trap<br />Resistance - Pearse Street Clock<br />Resistance - Orange Diving Bell<br />Resistance - Longboat Quay North Gate<br />Resistance - Hoodie Mural<br />Resistance - Henry J Lyons Statue <br />Resistance - Grand Canal Theatre<br />Resistance - Chimney in Chimney Park <br />Resistance - Checkmate<br />Resistance - Bicycle Art<br />Resistance - Apostolic Church <br />Resistance - (VOLATILE) - Windmill Lane Graffiti<br />Resistance - (VOLATILE) - Pearse Street Library<br />Resistance - (VOLATILE) - Erne Street Clock <br />Enlightened - Samuel Beckett Bridge North<br />Enlightened - Martin Doherty Memorial Plaque<br />Enlightened - KBC Bank Clock<br />Enlightened - Face on the Wall<br />Enlightened - Admiral William Brown Statue<br />Enlightened - (VOLATILE) - St. Andrew's<br />Enlightened - (VOLATILE) - Pearse Square Harmony<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Palermo - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 44 to 6.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 38.<br /><br />Portals Owned - RES: 4 - <b>ENL:</b> 6 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 0 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 44 - Enlightened - 6<br /><br /><b>Portal Ownership Details</b><br />Resistance - Porta Nuova<br />Resistance - Orologio Facoltà Di Teologia<br />Resistance - Oratorio Dei Santi Elena E Costantino<br />Resistance - Casotto Ingresso ARS<br />Resistance - (VOLATILE) - Shield Di Rocco<br />Resistance - (VOLATILE) - Fregio Della Spada Conchigliata<br />Resistance - (VOLATILE) - Antico Chiosco Piazza Della Vittoria<br />Resistance - (VOLATILE) - Ai Normanni<br />Neutral - Scavi Archeologici Villa Bonanno<br />Neutral - Busto Villa Bonanno<br />Neutral - Busto a Pietro Bonanno<br />Neutral - Al Tenente Giuseppe Mancino<br />Neutral - (VOLATILE) - Capilla De La Soledad<br />Enlightened - Tempietto Villa Bonanno<br />Enlightened - Portico Scavi<br />Enlightened - Monumento Filippo V<br />Enlightened - Ingresso Parlamento Siciliano<br />Enlightened - Fontana Centrale Villa Bonanno<br />Enlightened - Busto a Salvatore Lo Forte<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Tallinn - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 63 to 16.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 47.<br /><br />Portals Owned - RES: 5 - <b>ENL:</b> 6 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (18)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 63 - Enlightened - 16<br /><br /><b>Portal Ownership Details</b><br />Resistance - Stone Sculpture<br />Resistance - Kiek in de Kök<br />Resistance - Harjumägi<br />Resistance - Eesti Vabariigi Taasiseseisvumispäeva Mälestussammas<br />Resistance - 20. VIII 1991 mälestusmärk<br />Resistance - (VOLATILE) - Pikk Herman<br />Resistance - (VOLATILE) - Okupatsioonide Muuseum<br />Resistance - (VOLATILE) - Monument Johan Pitka<br />Resistance - (VOLATILE) - Karu<br />Neutral - Lindamägi<br />Neutral - Hugging Statue<br />Neutral - Eagle<br />Enlightened - Toompea Loss<br />Enlightened - Nelipyhi Kirik<br />Enlightened - Kuberneri Aed<br />Enlightened - Kolhoosineiu<br />Enlightened - Johannes Orasmaa<br />Enlightened - Harjumäe Purskkaev<br />Enlightened - (VOLATILE) - Lindamägi Statue<br /><br /></div>
+[#### photo: #Helios: Dublin - Measurement 1 Report
+The Resistance establish a Field over the Gulf of Finland to defend Tallinn’s Mind (and Mackerel) Units. They secure Dublin, Palermo, and Tallinn in the first Measurement, and currently lead the Anomaly by a value of 169. It’s still very early in the first #Helios Anomaly, and the Enlightened are working to regain control.
+The Resistance captured this Measurement, 134 to 50.
+The Resistance currently control this Primary Site, leading by 84.
+Portals Owned - RES: 17 - ENL: 5 - [Value: 2 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 20 each]
+Links Created - RES: 8 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 134 - Enlightened - 50
+Measurement Time Details:
+Original: 6:24 (Minutes:Seconds within Measurement Window)
+Padded String: ml?&gt;c3WirvWkTJ 6:24 !
+SHA256 of Padded String: ca46830e837a8f2a0428fd75f183ae1777813336482cf1c51d77a3baaa6823ec
+Portal Ownership Details
+Resistance - Trinity Biomedical Science Institute
+Resistance - Toro Sculpture
+Resistance - The Ferryman
+Resistance - Statue of Christ
+Resistance - Shattered Fountain
+Resistance - Post Office
+Resistance - Pig Trap
+Resistance - Pearse Street Clock
+Resistance - Orange Diving Bell
+Resistance - Longboat Quay North Gate
+Resistance - Hoodie Mural
+Resistance - Henry J Lyons Statue
+Resistance - Grand Canal Theatre
+Resistance - Chimney in Chimney Park
+Resistance - Checkmate
+Resistance - Bicycle Art
+Resistance - Apostolic Church
+Resistance - (VOLATILE) - Windmill Lane Graffiti
+Resistance - (VOLATILE) - Pearse Street Library
+Resistance - (VOLATILE) - Erne Street Clock
+Enlightened - Samuel Beckett Bridge North
+Enlightened - Martin Doherty Memorial Plaque
+Enlightened - KBC Bank Clock
+Enlightened - Face on the Wall
+Enlightened - Admiral William Brown Statue
+Enlightened - (VOLATILE) - St. Andrew's
+Enlightened - (VOLATILE) - Pearse Square Harmony
+#Helios: Palermo - Measurement 1 Report
+The Resistance captured this Measurement, 44 to 6.
+The Resistance currently control this Secondary Site, leading by 38.
+Portals Owned - RES: 4 - ENL: 6 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 0 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 44 - Enlightened - 6
+Portal Ownership Details
+Resistance - Porta Nuova
+Resistance - Orologio Facoltà Di Teologia
+Resistance - Oratorio Dei Santi Elena E Costantino
+Resistance - Casotto Ingresso ARS
+Resistance - (VOLATILE) - Shield Di Rocco
+Resistance - (VOLATILE) - Fregio Della Spada Conchigliata
+Resistance - (VOLATILE) - Antico Chiosco Piazza Della Vittoria
+Resistance - (VOLATILE) - Ai Normanni
+Neutral - Scavi Archeologici Villa Bonanno
+Neutral - Busto Villa Bonanno
+Neutral - Busto a Pietro Bonanno
+Neutral - Al Tenente Giuseppe Mancino
+Neutral - (VOLATILE) - Capilla De La Soledad
+Enlightened - Tempietto Villa Bonanno
+Enlightened - Portico Scavi
+Enlightened - Monumento Filippo V
+Enlightened - Ingresso Parlamento Siciliano
+Enlightened - Fontana Centrale Villa Bonanno
+Enlightened - Busto a Salvatore Lo Forte
+#Helios: Tallinn - Measurement 1 Report
+The Resistance captured this Measurement, 63 to 16.
+The Resistance currently control this Secondary Site, leading by 47.
+Portals Owned - RES: 5 - ENL: 6 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (18)]
+Total for this Measurement:
+Resistance - 63 - Enlightened - 16
+Portal Ownership Details
+Resistance - Stone Sculpture
+Resistance - Kiek in de Kök
+Resistance - Harjumägi
+Resistance - Eesti Vabariigi Taasiseseisvumispäeva Mälestussammas
+Resistance - 20. VIII 1991 mälestusmärk
+Resistance - (VOLATILE) - Pikk Herman
+Resistance - (VOLATILE) - Okupatsioonide Muuseum
+Resistance - (VOLATILE) - Monument Johan Pitka
+Resistance - (VOLATILE) - Karu
+Neutral - Lindamägi
+Neutral - Hugging Statue
+Neutral - Eagle
+Enlightened - Toompea Loss
+Enlightened - Nelipyhi Kirik
+Enlightened - Kuberneri Aed
+Enlightened - Kolhoosineiu
+Enlightened - Johannes Orasmaa
+Enlightened - Harjumäe Purskkaev
+Enlightened - (VOLATILE) - Lindamägi Statue](https://lh3.googleusercontent.com/--3xEmgDMRC0/U9Otqp2h7HI/AAAAAAAA8QY/QC5bqq-Zc4w/w2048-h1536/dubstart.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/jLUa4bEvoWs](https://plus.google.com/+NianticProject/posts/jLUa4bEvoWs)

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Niantic Project: 2015-03-12 16:23:06 +0900"
+date:   2015-03-12 16:23:06 +0900
+categories: nianticproject
+---
++[Susanna Moyer](https://plus.google.com/101560858827970533247 "") recovers an old NIA document, from the era before the launch of the +[Niantic Project](https://plus.google.com/105211554081025512763 ""), that discusses a program called Truthseeker. 
+
+It seems +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") (also known as P. A. Chapeau) may have built something called Truthseeker before he joined the Niantic Project to help tune +[A Detection Algorithm](https://plus.google.com/114076692022231059864 ""). 
+
+If you read between the lines, the real question emerges: Was Truthseeker a component that went into creating ADA? If so, what are the implications of that? What is Truthseeker?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1239, :value=>"shared"@1246}], :children=>["<br />", "<h2>Susanna Moyer</h2>", "<br />", "<b>An old NIA memo reveals 'Truthseeker,' a program made by PAC that may have been built into ADA.</b>", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " asked for my help in finding some offline files that may help shed light on ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], "'s origins, and so I did. I'm not sure what I expected to find.", "<br />", "<br />", "I've only been able to gain access to one of the offline archives so far. This one was a small collection of dusty boxes filled with old NIA documents (many of which are utterly mundane). I did, however, find a few that seemed to be worth a second glance.", "<br />", "<br />", "This one, in particular, seemed promising.", "<br />", "<br />", "What is Truthseeker?", "<br />", "<br />"], :ignore=>true}}
+[#### photo: An old NIA memo reveals 'Truthseeker,' a program made by PAC that may have been built into ADA.
++Klue S. asked for my help in finding offline files that may help shed light on +A Detection Algorithm's origins, and so I did. I'm not sure what I expected to find.
+I've only been able to gain access to one of the offline archives so far. This one was a small collection of dusty boxes filled with old NIA documents (many of which are utterly](https://lh6.googleusercontent.com/-KZqV1xzOBsE/VQE5YruGU7I/AAAAAAAAAL4/EqGLcWTOYyQ/w1400-h1851/Truthseeker.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/iq63E11EfU8](https://plus.google.com/+NianticProject/posts/iq63E11EfU8)

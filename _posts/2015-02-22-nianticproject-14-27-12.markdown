@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Niantic Project: 2015-02-22 14:27:12 +0900"
+date:   2015-02-22 14:27:12 +0900
+categories: nianticproject
+---
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") is looking for more information about new intel that allegedly emerged at the  [#Shonin](https://plus.google.com/s/%23Shonin "")   Anomalies today.
+
+So am I.
+
+From what I've heard, there was some kind of XM event. Jahan's N'zeer summoning? Did it go wrong?
+
+If you saw or heard something, please share what you discovered. Hopefully we can work together to fill in the gaps...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@645, :value=>"shared"@652}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "<br />", "<b>Seeking intel from </b>", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Sh%C5%8Dnin\">#Shōnin</a></b>", "<b> Anomalies Today</b>", "<br />", "<br />", "I heard some fresh intel emerged at the  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Shonin\">#Shonin</a>", "  Anomalies today... Does anything know anything?", "<br />", "<br />", "I'm hearing some disturbing rumors... new faces.... something about ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], "...massive XM spikes... and some kind of 'event' at the 13MAGNUS nest... but I don't know anything for certain.", "<br />", "<br />", "Did anyone hear or see anything?", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101560858827970533247\" oid=\"101560858827970533247\">Susanna Moyer</a>"], " any comment?", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/V52ia9C7KWE](https://plus.google.com/+NianticProject/posts/V52ia9C7KWE)

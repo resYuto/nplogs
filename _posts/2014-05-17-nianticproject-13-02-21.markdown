@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-17 13:02:21 +0900"
+date:   2014-05-17 13:02:21 +0900
+categories: nianticproject
+---
+Cluster 3 Volatiles,  [#Interitus](https://plus.google.com/s/%23Interitus "")  04 - Melbourne, Auckland and Brisbane.
+
+The Measurement 2 window is currently open. Good luck, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@243, :value=>"shared"@250}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 04 - MELBOURNE, AUCKLAND, BRISBANE - C3 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/xql4Jb\" class=\"ot-anchor\">http://goo.gl/xql4Jb</a>", "<br />", "<br />", "MD5: 50d0ff62631f52d712b56b68deaafbf1", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115052133494331776653\" oid=\"115052133494331776653\">Jasenko Blazevic</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #INTERITUS 04 - MELBOURNE, AUCKLAND, BRISBANE - C3 VOLs
+Volatiles: http://goo.gl/xql4Jb
+MD5: 50d0ff62631f52d712b56b68deaafbf1
+Photo by Agent +Jasenko Blazevic ](https://lh4.googleusercontent.com/-wccG_Jc0SS8/U3bdz2KwclI/AAAAAAAAxCE/kZWT1-1Wj9I/brisbane_vols3.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/C3Y6udsLoDD](https://plus.google.com/+NianticProject/posts/C3Y6udsLoDD)

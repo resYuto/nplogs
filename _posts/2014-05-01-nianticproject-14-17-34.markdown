@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-01 14:17:34 +0900"
+date:   2014-05-01 14:17:34 +0900
+categories: nianticproject
+---
+For reasons undisclosed, the Viator heads to Santa Fe.
+
+According to him, the Shaper Self Destruct sequence we learned of during Cassandra has a diametric opposite. 
+
+Many had hinted that there was more to [#Interitus](https://plus.google.com/s/%23Interitus "") than we first believed. It seems +[Hank Johnson](https://plus.google.com/117792105926525258257 "") agrees.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@562, :value=>"shared"@569}], :children=>["<br />", "<h2>Hank Johnson</h2>", "My journey seems to keep taking me to rugged mountainous areas, this time I’m heading back to the Southwest.  Santa Fe, for reasons I best not publicly disclose. Suffice to say that it is the best hope for preservation of my memories.  ", "<br />", "<br />", "One thing I am absolutely convinced of is that ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " (and thus by extension Anti-Magnus) is behind a Recursive cycle leading to the rise and fall of civilizations, not unlike my own personal cycle. The Civilization Self-Destruct code sequence during ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Cassandra\">#Cassandra</a>", " was one such instance.  These are the natural antipode of what we observe as the civilization “flourish” sequence or sequences associated with civilizations positively impacted by the Shapers.  It would not be surprising to me if ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " is attempting to make use of such sequences in Ishinomaki, a city brought to ruin but now slowly beginning to flourish again. ", "<br />", "<br />", "I returned to Cahokia and Arecibo and either saw or felt things that I was utterly unaware of.  I don’t know whether it is extreme exposure to XM, Dark XM or the nearness of oblivion, but much is becoming clear to me.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-J5bAZkHVIWQ/U2HXo-2rGaI/AAAAAAAAA1I/saIXNoFlHy4/SantaFe.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/bipmAX2offB](https://plus.google.com/+NianticProject/posts/bipmAX2offB)

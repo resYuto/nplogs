@@ -1,0 +1,220 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-09 16:45:18 +0900"
+date:   2014-08-09 16:45:18 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2>Summary of Anomaly Conditions:<br /><br />Taipei - R:182 - <b>E:280.8</b><br />Hong Kong - <b>R:183.6</b> - E:69<br />Kuala Lumpur - R:57 - <b>E:98</b><br /><br />Total - R:422.6 - <b>E:447.8</b><br /><br />At Measurement 2, the Enlightened continue to maintain their precarious advantage, leading by a slim 25.2. A Resistance field in Hong Kong boosted the Faction’s already strong standing there, and countered an Enlightened field over Kuala Lumpur and strong performance by the Enlightened in Taipei. <br /><br />Going into Measurement 3, this remains a tense and evenly matched Anomaly that could go in either direction the hours to come.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Taipei - Measurement 2 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 124 to 74.<br />The <b>Enlightened</b> currently control this Primary Site, leading by 98.8.<br /><br />Portals Owned - RES: 17 - <b>ENL:</b> 42 - [Value: 2 each]<br />Volatile Portals Owned - RES: 2 - ENL: 2 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 74 - <b>Enlightened</b> - 124<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 182 - <b>Enlightened</b> - 280.8<br /><br /><b>Measurement Time Details:</b><br />Original: 9:28 (Minutes:Seconds within Measurement Window)<br />Padded String: =gti:O9@M|,u[_LSec&gt; 9:28 Vf<br />SHA256 of Padded String: c0d1e415b4831a343b4b119b77db00d3b4337cb3c55962d2db86f5692e039f03<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Aurora<br />ENL - BARISTA COFFEE<br />ENL - City Band<br />ENL - Dog Statue<br />ENL - Shih's Bagel<br />ENL - 三根柱<br />ENL - 三興公園<br />ENL - 三興國小彩繪<br />ENL - 三興涼亭<br />ENL - 中興公園<br />ENL - 中興公園涼亭<br />ENL - 中華電信<br />ENL - 信基大樓<br />ENL - 信義路4段基隆路2段路口花花變電箱<br />ENL - 信義路光復南路郵局<br />ENL - 傳說中的任意門<br />ENL - 叫你不要拍變電箱還拍<br />ENL - 基督教信安教會<br />ENL - 天月宮<br />ENL - 小羊石雕<br />ENL - 山水電箱<br />ENL - 應靈廟<br />ENL - 明龍宮<br />ENL - 景新公園<br />ENL - 景聯廣場<br />ENL - 百合電箱<br />ENL - 紫竹堂<br />ENL - 美倫華廈<br />ENL - 美麗的力量<br />ENL - 老鬼馬<br />ENL - 耳朵雕塑<br />ENL - 聖靈宮<br />ENL - 臨江街觀光夜市入口<br />ENL - 花花變電箱<br />ENL - 華嚴聖因精舍石獅<br />ENL - 通化公園<br />ENL - 通化夜市蟾蜍地貼<br />ENL - 通化街28箱彩繪<br />ENL - 造型圍牆<br />ENL - 電箱秋天系列<br />ENL - 電箱箱<br />ENL - 青蛙下蛋<br />ENL [Vol] - 三興國小壁畫<br />ENL [Vol] - 福景宮<br />NEU - 三興公園大象<br />NEU - 三興國小魚圍牆<br />NEU - 三興裝置藝術<br />NEU - 噴水池及造型藝術品<br />NEU - 山水芒海變電箱<br />NEU - 湖景變電箱<br />NEU - 芒花海景變電箱<br />NEU - 道清宮<br />NEU - 電箱<br />NEU [Vol] - 通化福德<br />RES - Painted Beach Scene<br />RES - 三興國小<br />RES - 三興國小綠色壁畫<br />RES - 三興國小馬賽克壁畫<br />RES - 三興壁畫<br />RES - 信義公民會館<br />RES - 变電箱<br />RES - 四四南村<br />RES - 基督教浸信會潮恩堂<br />RES - 希望之歌<br />RES - 新使徒教會<br />RES - 洞<br />RES - 環泥世貿大樓雕塑<br />RES - 眷村文物館<br />RES - 福興宮<br />RES - 花花<br />RES - 陽光沙灘電信箱<br />RES [Vol] - 世貿噴水池<br />RES [Vol] - 萌萌<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Hong Kong - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 89.6 to 38.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 114.6.<br /><br />Portals Owned - <b>RES:</b> 34 - ENL: 18 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (25.6)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 89.6 - Enlightened - 38<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 183.6 - Enlightened - 69<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Ancent Village Sitting Out Area<br />ENL - Eight Floral Walks<br />ENL - Kowloon City Post Office<br />ENL - Kowloon Walled City Park<br />ENL - Nga Tsin Wai Tin Hau Temple<br />ENL - Ox<br />ENL - Painting in Wall<br />ENL - Photo Gallery of Kowloon City<br />ENL - Stone Lintel of Lok Sin Tong<br />ENL - The Frozen Monument and Sculpture of Kowloon Walked City<br />ENL - West City Road Stone<br />ENL - 介紹<br />ENL - 城寨狗神<br />ENL - 新蒲崗休憩處2<br />ENL - 東頭社區中心<br />ENL - 東頭邨<br />ENL - 涼亭<br />ENL - 軒轅聖簋<br />ENL [Vol] - Kowloon Walled City Park<br />ENL [Vol] - 水池<br />NEU - Chinese Traditional Door<br />NEU - Former Yamen Building in Kowloon City<br />NEU - Historical Building<br />NEU - South East Gate<br />NEU - Turtle<br />NEU - Waterfall<br />NEU - 九龍寨城公園-東正門, Kolwoon Walled City Park East Gate<br />NEU - 城寨雕花小窗<br />NEU - 奇石<br />NEU - 寨城公園單車場<br />NEU - 寨城涼亭<br />NEU - 寨城門神<br />NEU - 遊樂園<br />RES - Carpenter Road Park (Tung Tsing Road Entrance)<br />RES - Chess Garden<br />RES - Cool and Evil Cat<br />RES - Jackie Pullinger Rock<br />RES - Kowloon Walled City Park South Gate<br />RES - Lung Nam Pavilion<br />RES - Morse Park Lamp<br />RES - Morse Park Map<br />RES - Morse Park No.4 Skateboard<br />RES - Morse Park No.4 Statue<br />RES - Mountain View Pavilion<br />RES - Nga Tsin Long Cross<br />RES - Old Cannon<br />RES - Park<br />RES - Park Entrance to Cycling Track<br />RES - Remnants of the South Gate<br />RES - Shek Ku Lung Road Playground<br />RES - The Wing Kong Pentecontal Holiness Church<br />RES - Tung Tau Estate Landmark<br />RES - 南門遺跡<br />RES - 喪屍機械獸<br />RES - 寨城公園<br />RES - 怪石雕塑<br />RES - 拉牛上樹<br />RES - 摩士公園(4號公園)入口<br />RES - 東頭二村獅子石像(左)<br />RES - 東頭邨<br />RES - 衙前圍吳氏宗祠<br />RES - 賈炳達道5號閘<br />RES - 賈炳達道公園<br />RES - 須知<br />RES - 飛龍在天<br />RES - 龍津石橋<br />RES - 龍津道<br />RES [Vol] - Stone Arch Gate<br />RES [Vol] - The Dragon<br />RES [Vol] - 南門懷古<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Kuala Lumpur - Measurement 2 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 36.4 to 26.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 41.<br /><br />Portals Owned - RES: 6 - ENL: 6 - [Value: 1 each]<br />Volatile Portals Owned - RES: 2 - ENL: 2 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (10.4)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 26 - <b>Enlightened</b> - 36.4<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 57 - <b>Enlightened</b> - 98<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - 'Progress'<br />ENL - National Monument Emblem<br />ENL - Royal Air Force 97 98 99 SQN Memorial<br />ENL - The Gate<br />ENL - Tugu Negara (National Monument)<br />ENL - Tugu Side Fountain<br />ENL [Vol] - Fountain at Tugu Negara<br />ENL [Vol] - To Our Glorious Dead<br />NEU - National Monument Information<br />NEU - Sarawak Emblem<br />NEU - Sculpture Park, Kuala Lumpur,<br />NEU - Towards Peace Sculpture<br />NEU [Vol] - The Gate of Harmony<br />RES - Growth<br />RES - National Monument Malaysia<br />RES - Plaza Tugu Negara<br />RES - The National Monument<br />RES - Tugu Peringatan Negara Entrance Sign<br />RES - Water Pool<br />RES [Vol] - Barong-Barong Sculpture<br />RES [Vol] - Heart Shaped Park<br /><br /></div>
+[#### photo: Summary of Anomaly Conditions:
+Taipei - R:182 - E:280.8
+Hong Kong - R:183.6 - E:69
+Kuala Lumpur - R:57 - E:98
+Total - R:422.6 - E:447.8
+At Measurement 2, the Enlightened continue to maintain their precarious advantage, leading by a slim 25.2. A Resistance field in Hong Kong boosted the Faction’s already strong standing there, and countered an Enlightened field over Kuala Lumpur and strong performance by the Enlightened in Taipei.
+Going into Measurement 3, this remains a tense and evenly matched Anomaly that could go in either direction the hours to come.
+#Helios: Taipei - Measurement 2 Report
+The Enlightened captured this Measurement, 124 to 74.
+The Enlightened currently control this Primary Site, leading by 98.8.
+Portals Owned - RES: 17 - ENL: 42 - [Value: 2 each]
+Volatile Portals Owned - RES: 2 - ENL: 2 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 74 - Enlightened - 124
+Total for this Primary Site:
+Resistance - 182 - Enlightened - 280.8
+Measurement Time Details:
+Original: 9:28 (Minutes:Seconds within Measurement Window)
+Padded String: =gti:O9@M|,u[_LSec&gt; 9:28 Vf
+SHA256 of Padded String: c0d1e415b4831a343b4b119b77db00d3b4337cb3c55962d2db86f5692e039f03
+Portal Ownership Details
+ENL - Aurora
+ENL - BARISTA COFFEE
+ENL - City Band
+ENL - Dog Statue
+ENL - Shih's Bagel
+ENL - 三根柱
+ENL - 三興公園
+ENL - 三興國小彩繪
+ENL - 三興涼亭
+ENL - 中興公園
+ENL - 中興公園涼亭
+ENL - 中華電信
+ENL - 信基大樓
+ENL - 信義路4段基隆路2段路口花花變電箱
+ENL - 信義路光復南路郵局
+ENL - 傳說中的任意門
+ENL - 叫你不要拍變電箱還拍
+ENL - 基督教信安教會
+ENL - 天月宮
+ENL - 小羊石雕
+ENL - 山水電箱
+ENL - 應靈廟
+ENL - 明龍宮
+ENL - 景新公園
+ENL - 景聯廣場
+ENL - 百合電箱
+ENL - 紫竹堂
+ENL - 美倫華廈
+ENL - 美麗的力量
+ENL - 老鬼馬
+ENL - 耳朵雕塑
+ENL - 聖靈宮
+ENL - 臨江街觀光夜市入口
+ENL - 花花變電箱
+ENL - 華嚴聖因精舍石獅
+ENL - 通化公園
+ENL - 通化夜市蟾蜍地貼
+ENL - 通化街28箱彩繪
+ENL - 造型圍牆
+ENL - 電箱秋天系列
+ENL - 電箱箱
+ENL - 青蛙下蛋
+ENL [Vol] - 三興國小壁畫
+ENL [Vol] - 福景宮
+NEU - 三興公園大象
+NEU - 三興國小魚圍牆
+NEU - 三興裝置藝術
+NEU - 噴水池及造型藝術品
+NEU - 山水芒海變電箱
+NEU - 湖景變電箱
+NEU - 芒花海景變電箱
+NEU - 道清宮
+NEU - 電箱
+NEU [Vol] - 通化福德
+RES - Painted Beach Scene
+RES - 三興國小
+RES - 三興國小綠色壁畫
+RES - 三興國小馬賽克壁畫
+RES - 三興壁畫
+RES - 信義公民會館
+RES - 变電箱
+RES - 四四南村
+RES - 基督教浸信會潮恩堂
+RES - 希望之歌
+RES - 新使徒教會
+RES - 洞
+RES - 環泥世貿大樓雕塑
+RES - 眷村文物館
+RES - 福興宮
+RES - 花花
+RES - 陽光沙灘電信箱
+RES [Vol] - 世貿噴水池
+RES [Vol] - 萌萌
+#Helios: Hong Kong - Measurement 2 Report
+The Resistance captured this Measurement, 89.6 to 38.
+The Resistance currently control this Secondary Site, leading by 114.6.
+Portals Owned - RES: 34 - ENL: 18 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (25.6)]
+Total for this Measurement:
+Resistance - 89.6 - Enlightened - 38
+Total for this Secondary Site:
+Resistance - 183.6 - Enlightened - 69
+Portal Ownership Details
+ENL - Ancent Village Sitting Out Area
+ENL - Eight Floral Walks
+ENL - Kowloon City Post Office
+ENL - Kowloon Walled City Park
+ENL - Nga Tsin Wai Tin Hau Temple
+ENL - Ox
+ENL - Painting in Wall
+ENL - Photo Gallery of Kowloon City
+ENL - Stone Lintel of Lok Sin Tong
+ENL - The Frozen Monument and Sculpture of Kowloon Walked City
+ENL - West City Road Stone
+ENL - 介紹
+ENL - 城寨狗神
+ENL - 新蒲崗休憩處2
+ENL - 東頭社區中心
+ENL - 東頭邨
+ENL - 涼亭
+ENL - 軒轅聖簋
+ENL [Vol] - Kowloon Walled City Park
+ENL [Vol] - 水池
+NEU - Chinese Traditional Door
+NEU - Former Yamen Building in Kowloon City
+NEU - Historical Building
+NEU - South East Gate
+NEU - Turtle
+NEU - Waterfall
+NEU - 九龍寨城公園-東正門, Kolwoon Walled City Park East Gate
+NEU - 城寨雕花小窗
+NEU - 奇石
+NEU - 寨城公園單車場
+NEU - 寨城涼亭
+NEU - 寨城門神
+NEU - 遊樂園
+RES - Carpenter Road Park (Tung Tsing Road Entrance)
+RES - Chess Garden
+RES - Cool and Evil Cat
+RES - Jackie Pullinger Rock
+RES - Kowloon Walled City Park South Gate
+RES - Lung Nam Pavilion
+RES - Morse Park Lamp
+RES - Morse Park Map
+RES - Morse Park No.4 Skateboard
+RES - Morse Park No.4 Statue
+RES - Mountain View Pavilion
+RES - Nga Tsin Long Cross
+RES - Old Cannon
+RES - Park
+RES - Park Entrance to Cycling Track
+RES - Remnants of the South Gate
+RES - Shek Ku Lung Road Playground
+RES - The Wing Kong Pentecontal Holiness Church
+RES - Tung Tau Estate Landmark
+RES - 南門遺跡
+RES - 喪屍機械獸
+RES - 寨城公園
+RES - 怪石雕塑
+RES - 拉牛上樹
+RES - 摩士公園(4號公園)入口
+RES - 東頭二村獅子石像(左)
+RES - 東頭邨
+RES - 衙前圍吳氏宗祠
+RES - 賈炳達道5號閘
+RES - 賈炳達道公園
+RES - 須知
+RES - 飛龍在天
+RES - 龍津石橋
+RES - 龍津道
+RES [Vol] - Stone Arch Gate
+RES [Vol] - The Dragon
+RES [Vol] - 南門懷古
+#Helios: Kuala Lumpur - Measurement 2 Report
+The Enlightened captured this Measurement, 36.4 to 26.
+The Enlightened currently control this Secondary Site, leading by 41.
+Portals Owned - RES: 6 - ENL: 6 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (10.4)]
+Total for this Measurement:
+Resistance - 26 - Enlightened - 36.4
+Total for this Secondary Site:
+Resistance - 57 - Enlightened - 98
+Portal Ownership Details
+ENL - 'Progress'
+ENL - National Monument Emblem
+ENL - Royal Air Force 97 98 99 SQN Memorial
+ENL - The Gate
+ENL - Tugu Negara (National Monument)
+ENL - Tugu Side Fountain
+ENL [Vol] - Fountain at Tugu Negara
+ENL [Vol] - To Our Glorious Dead
+NEU - National Monument Information
+NEU - Sarawak Emblem
+NEU - Sculpture Park, Kuala Lumpur,
+NEU - Towards Peace Sculpture
+NEU [Vol] - The Gate of Harmony
+RES - Growth
+RES - National Monument Malaysia
+RES - Plaza Tugu Negara
+RES - The National Monument
+RES - Tugu Peringatan Negara Entrance Sign
+RES - Water Pool
+RES [Vol] - Barong-Barong Sculpture
+RES [Vol] - Heart Shaped Park](https://lh4.googleusercontent.com/-SJ3k6vS_yNY/U-XQXCsKqgI/AAAAAAAA-To/B-yZqPOh28o/w2048-h1536/IMG_20140809_144539.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/1Uo7enEMUw2](https://plus.google.com/+NianticProject/posts/1Uo7enEMUw2)

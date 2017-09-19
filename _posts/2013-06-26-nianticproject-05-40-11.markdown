@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Niantic Project: 2013-06-26 05:40:11 +0900"
+date:   2013-06-26 05:40:11 +0900
+categories: nianticproject
+---
+Today, +[Hulong Transglobal](https://plus.google.com/107849663787965375687 "") reached out to the entire Enlightened faction, calling on them to urge Agent +[Richard Walden](https://plus.google.com/112217333135124700456 "") to provide them the images from the [#timezero](https://plus.google.com/s/%23timezero "") package.
+
+In exchange, they've offered to 'realign their vision' to match the values of the Enlightened, whatever that means...
+
+Earlier today,  +[Visur Technology](https://plus.google.com/115880454950193571355 "") offered a public bounty to any Enlightened who can provide them with a copy of the images.
+
++[IQTech Research](https://plus.google.com/108020987035258478791 "") has remained silent about their next move... 
+
+Read More:
+Operation TimeZero: [http://goo.gl/fn4eX](http://goo.gl/fn4eX "")
+Visur Company Profile: [http://www.nianticproject.com/?id=sc701d](http://www.nianticproject.com/?id=sc701d "")
+IQTech Company Profile: [http://www.nianticproject.com/?id=sc410a](http://www.nianticproject.com/?id=sc410a "")
+Hulong Company Profile: [http://www.nianticproject.com/?id=sc603a](http://www.nianticproject.com/?id=sc603a "")
+
++[Felicia Hajra-Lee](https://plus.google.com/118344555717370644832 "")'s novel, The Niantic Project: Ingress, is available on Google Play ( [https://play.google.com/store/books/details?id=BKE4MsCPlX8C](https://play.google.com/store/books/details?id=BKE4MsCPlX8C "") ) and in the Amazon e-book store ( [http://www.amazon.com/The-Niantic-Project-Ingress-ebook/dp/B00CTSZQ9Q](http://www.amazon.com/The-Niantic-Project-Ingress-ebook/dp/B00CTSZQ9Q "") ). [#nianticprojectingress](https://plus.google.com/s/%23nianticprojectingress ""){:element=>{:name=>"div", :attributes=>[{:name=>"class"@2596, :value=>"shared"@2603}], :children=>["<br />", "<h2>Hulong Transglobal</h2>", "Enlightened Agents:", "<br />", "<br />", "We have been in communication with ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/112217333135124700456\" oid=\"112217333135124700456\">Richard Walden</a>"], "<br />", "<br />", "Despite having generously offered him passcodes for our powerful ForceAmps and Turrets, he has chosen to continue to withhold the contents of the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23timezero\">#timezero</a>", " package.", "<br />", "<br />", "We now request all Enlightened agents to urge ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/112217333135124700456\" oid=\"112217333135124700456\">Richard Walden</a>"], "  to provide us with the images the package is said to contain.", "<br />", "<br />", "In exchange we are prepare to pledge that ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107849663787965375687\" oid=\"107849663787965375687\">Hulong Transglobal</a>"], " will align its plans for the future with a vision that complements the ideals and desires of the Enlightened, and will task a development team to work on XM technology to benefit the Enlightened faction.", "<br />", "<br />", "We would urge all Enlightened agents who desire a better standing for themselves in the future to act now, before it's too late.", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/9vhmjfPDVEG](https://plus.google.com/+NianticProject/posts/9vhmjfPDVEG)

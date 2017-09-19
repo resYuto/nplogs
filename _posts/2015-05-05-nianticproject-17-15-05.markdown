@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Niantic Project: 2015-05-05 17:15:05 +0900"
+date:   2015-05-05 17:15:05 +0900
+categories: nianticproject
+---
++[Susanna Moyer](https://plus.google.com/101560858827970533247 "") claims that +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "")'s  quest to end the connection between +[Klue S.](https://plus.google.com/110350977702120778591 "") and +[A Detection Algorithm](https://plus.google.com/114076692022231059864 "") has come to a head, but uncharted territory lies ahead...
+
+According to Moyer during her Behind the Scanner interview, to separate these two minds would be like attempting to separate two similar liquids that have been mixed together.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1085, :value=>"shared"@1092}], :children=>["<br />", "<h2>Susanna Moyer</h2>", "P. A. Chapeau aka ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], " is planning to move forward with his attempt to break the connection between ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], ".", "<br />", "<br />", "He asked me for help. That's what some of you saw at the end of the last Ingress Report. I don't know how that piece of B-roll made it into the final cut, but stranger things have happened before.", "<br />", "<br />", "He wanted my help to bring Klue to him. She wasn't in a good state.", "<br />", "<br />", "I don't know what happens next. It's not going to easy, and it's not going to be safe. I wish them good luck, but I really don't know how this is going to end...", "<br />", "<br />"], :ignore=>true}}
+[#### photo: P. A. Chapeau aka +H. Richard Loeb is planning to move forward with his attempt to break the connection between +Klue S. and +A Detection Algorithm.
+He asked me for help. That's what some of you saw at the end of the last Ingress Report. I don't know how that piece of B-roll made it into the final cut, but stranger things have happened before.
+He wanted my help to bring Klue to him. She wasn't in a good state.
+I don't know what happens next.](https://lh3.googleusercontent.com/-tXhH-eEoBp0/VUh4fseaPPI/AAAAAAAAAU4/2bD2y6o704g/w1200-h675/Klue.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ErNQLTCATMa](https://plus.google.com/+NianticProject/posts/ErNQLTCATMa)

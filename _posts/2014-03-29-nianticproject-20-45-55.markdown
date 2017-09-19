@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-29 20:45:55 +0900"
+date:   2014-03-29 20:45:55 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  07
+
+ [#Recursion](https://plus.google.com/s/%23Recursion "")  07 has kicked off.
+
+Here are the Volatiles for C1 in Berlin, Nantes, and Brussels.
+
+Good luck, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@337, :value=>"shared"@344}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> 07 - Berlin, Nantes, Brussels - C1 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/WFHr7s\" class=\"ot-anchor\">http://goo.gl/WFHr7s</a>", " ", "<br />", "<br />", "MD5: 5c7e935edba8b9844b3922ee00d31209", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108315915464233931011\" oid=\"108315915464233931011\">Yves Verstraeten</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-rZO9Bugc1MQ/UzaxdT0S0jI/AAAAAAAApKo/L3l12xC8OG4/IMG_20140329_121056.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/4YZNZMTkSCk](https://plus.google.com/+NianticProject/posts/4YZNZMTkSCk)

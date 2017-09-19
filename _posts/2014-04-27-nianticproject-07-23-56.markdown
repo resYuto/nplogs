@@ -1,0 +1,199 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-27 07:23:56 +0900"
+date:   2014-04-27 07:23:56 +0900
+categories: nianticproject
+---
+As the clock ticks down, the opportunity window for the Enlightened grows ever tighter.
+
+As it stands, the Resistance currently control  [#Interitus](https://plus.google.com/s/%23Interitus "")  02.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02 Measurement 3 Report</b><br /><br />Fields fall and rise again. The <b>Resistance</b> continue to push forward.<br /><br />The Resistance lead the American Vector of <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 02 by 294 (903 to 609), and also continue to improve their standing in the Anomaly overall, leading by 815 (2285 to 1470).<br /><br />The minutes tick away, as the Final Measurement approaches.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Flagstaff - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 186 to 54.<br />The <b>Resistance</b> currently control this Primary Site, leading by 304.<br /><br />Portals Owned - RES: 13 - <b>ENL:</b> 17 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 1 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: 100]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 186 - Enlightened - 54<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 517 - Enlightened - 213<br /><br /><b>Measurement Time Details:</b><br />Original: 3:08 (Minutes:Seconds within Measurement Window)<br />Padded String: UfAdIwlfELxAikcuvdXf 3:08 igaTrkOYJx<br />MD5 of Padded String: 03735e4e1d5fdaabc7ca1cadd1c0b949<br /><br /><b>Portal Ownership Details</b><br />Resistance - Wind Chime<br />Resistance - Transcontinental Railroad Cent<br />Resistance - The Navajo Code Talkers<br />Resistance - Our Lady of Guadalupe National Historic Site<br />Resistance - Our Lady of Guadalupe<br />Resistance - Lumber Jack<br />Resistance - Logging Wheels<br />Resistance - Flagstaff Fellowship<br />Resistance - Flagstaff<br />Resistance - Dukepoo Memorial<br />Resistance - Biffs Bagels<br />Resistance - Arizona State College<br />Resistance - 1899 Restaurant<br />Resistance - (VOLATILE) - The Riordan Building<br />Resistance - (VOLATILE) - Sunflowers<br />Resistance - (VOLATILE) - Lowell Observatory South Pillar<br />Neutral - Revelations<br />Neutral - NAU Blome Building<br />Neutral - Natural Grocers Mural<br />Neutral - College Union Building<br />Neutral - (VOLATILE) - Lowell Observatory<br />Enlightened - US Navy V12 Program<br />Enlightened - Two Spots<br />Enlightened - Through the Roof<br />Enlightened - The Murdoch Center<br />Enlightened - The Lumberyard<br />Enlightened - The Historic Basque Handball C<br />Enlightened - The Gandy Dancer<br />Enlightened - Northern Arizona University<br />Enlightened - NAU Old Main<br />Enlightened - NAU Native American Monument <br />Enlightened - Metal Climber<br />Enlightened - Hanley Hall Memorial<br />Enlightened - Forebearer Tree<br />Enlightened - Flagstaff Presbyterian<br />Enlightened - Flag Bike Revolution<br />Enlightened - Downtowner<br />Enlightened - Clock Tower<br />Enlightened - (VOLATILE) - Lowell Kaleidoscope<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Salt Lake City - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 59 to 36.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 29.<br /><br />Portals Owned - <b>RES:</b> 17 - ENL: 8 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - <b>RES:</b> 6 - ENL: 4 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: 50]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 59 - Enlightened - 36<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 154 - Enlightened - 125<br /><br /><b>Measurement Time Details:</b><br />Original: 3:08 (Minutes:Seconds within Measurement Window)<br />Padded String: UfAdIwlfELxAikcuvdXf 3:08 igaTrkOYJx<br />MD5 of Padded String: 03735e4e1d5fdaabc7ca1cadd1c0b949<br /><br /><b>Portal Ownership Details</b><br />Resistance - Twisted Crosswalk Sculpture<br />Resistance - The Roof Restaurant<br />Resistance - Sway'd<br />Resistance - Stream of Life<br />Resistance - Sky Orchids<br />Resistance - Primitive Art<br />Resistance - Pioneer Telegraph Office<br />Resistance - Main Street Celebrations<br />Resistance - Mad Biker<br />Resistance - Hotel Utah<br />Resistance - Historic ZCMI<br />Resistance - Gardo House<br />Resistance - Flying Objects Syrah Stetling<br />Resistance - First Security Branch of Wells<br />Resistance - David Holz: Flying Objects 3.0 <br />Resistance - City Creek Falls<br />Resistance - Capitol Theatre<br />Resistance - (VOLATILE) - Zing Fountain<br />Resistance - (VOLATILE) - United States Courts Library<br />Resistance - (VOLATILE) - Modern Irrigation<br />Neutral - Zions First National Bank<br />Neutral - Zeus<br />Neutral - Wind Mobile<br />Neutral - Walker Brothers Memorial<br />Neutral - The Old Clock<br />Neutral - The Bee-Hive House<br />Neutral - Templeton Building <br />Neutral - Stars of the Night<br />Neutral - Hope Gallery and Museum of Fine Art<br />Neutral - First National Bank Building<br />Neutral - Federal Reserve Bank Plaque<br />Neutral - Father and Son<br />Neutral - Commercial Street<br />Neutral - City Creek Historic Plaque<br />Neutral - City Creek<br />Neutral - Chief Andrew H Burt Plaque<br />Enlightened - Tim Little: Flying Objects 3.0 <br />Enlightened - The Salt Lake Theatre<br />Enlightened - The Pony Express<br />Enlightened - Sidewalk Art<br />Enlightened - Herald Building<br />Enlightened - City Creek Clock<br />Enlightened - Church Historian Office<br />Enlightened - Beerhive Pub<br />Enlightened - (VOLATILE) - Salt Lake City and County Building<br />Enlightened - (VOLATILE) - Peery Hotel<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Colorado Springs - Measurement 3 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 99 to 56.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 30.<br /><br />Portals Owned - <b>RES:</b> 22 - ENL: 9 - [Value: 1 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 5 - [Value: 10 each]<br />Links Created - RES: 17 - <b>ENL:</b> 20 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: 50]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 56 - <b>Enlightened</b> - 99<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 259 - <b>Enlightened</b> - 289<br /><br /><b>Measurement Time Details:</b><br />Original: 3:08 (Minutes:Seconds within Measurement Window)<br />Padded String: UfAdIwlfELxAikcuvdXf 3:08 igaTrkOYJx<br />MD5 of Padded String: 03735e4e1d5fdaabc7ca1cadd1c0b949<br /><br /><b>Portal Ownership Details</b><br />Resistance - Zebulon Pike Rock Memorial <br />Resistance - Wall Art<br />Resistance - the smokebrush herd<br />Resistance - The Rabbit Hole<br />Resistance - Sunflowers that look more like<br />Resistance - Shake<br />Resistance - Rock Tree<br />Resistance - Reading Bench<br />Resistance - Pikes Peak Range Riders<br />Resistance - Pigicorn<br />Resistance - Palmer center and Antlers Hilt<br />Resistance - Library<br />Resistance - Graffiti Building in downtown <br />Resistance - First Stake<br />Resistance - Dorado XV<br />Resistance - Depot North<br />Resistance - Cat Statue <br />Resistance - Cascade &amp; Kiowa St.<br />Resistance - Bus Station<br />Resistance - Blue Art<br />Resistance - Antlers Garage <br />Resistance - American Bison public sculptur<br />Neutral - Three Red Sculptures<br />Neutral - Solar Bulb<br />Neutral - Penrose Public Library<br />Neutral - Mozart by Kim Polomka<br />Neutral - Mountain Wind Sculpture<br />Neutral - Island Grill Train Mural<br />Neutral - Half of a Bicycle Sculpture <br />Neutral - Gasoline Alley<br />Neutral - El Paso Building Clock<br />Neutral - Double Eagle<br />Neutral - Corner of Tejon and E Pikes Pe<br />Neutral - Carnegie Public Garden<br />Neutral - Carnegie Library<br />Enlightened - Winfield Scott Stratton<br />Enlightened - Valkyrie Sculpture<br />Enlightened - Red Box<br />Enlightened - Reading Humpty Dumpty<br />Enlightened - Old Steam Engine<br />Enlightened - Morning Dove<br />Enlightened - Kimball's Twin Peak<br />Enlightened - Hibbard and Co. Building<br />Enlightened - Fish Totem<br />Enlightened - (VOLATILE) - Wheat Farmers Portal<br />Enlightened - (VOLATILE) - US Post Office, E Pikes Peak Ave, Colorado Springs<br />Enlightened - (VOLATILE) - Natural Mystic Chains<br />Enlightened - (VOLATILE) - City Auditorium<br />Enlightened - (VOLATILE) - Building 318<br /><br /></div>
+[#### photo: #Interitus 02 Measurement 3 Report
+Fields fall and rise again. The Resistance continue to push forward.
+The Resistance lead the American Vector of #Interitus 02 by 294 (903 to 609), and also continue to improve their standing in the Anomaly overall, leading by 815 (2285 to 1470).
+The minutes tick away, as the Final Measurement approaches.
+#Interitus 02: Flagstaff - Measurement 3 Report
+The Resistance captured this Measurement, 186 to 54.
+The Resistance currently control this Primary Site, leading by 304.
+Portals Owned - RES: 13 - ENL: 17 - [Value: 2 each]
+Volatile Portals Owned - RES: 3 - ENL: 1 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - RES - [Value: 100]
+Total for this Measurement:
+Resistance - 186 - Enlightened - 54
+Total for this Primary Site:
+Resistance - 517 - Enlightened - 213
+Measurement Time Details:
+Original: 3:08 (Minutes:Seconds within Measurement Window)
+Padded String: UfAdIwlfELxAikcuvdXf 3:08 igaTrkOYJx
+MD5 of Padded String: 03735e4e1d5fdaabc7ca1cadd1c0b949
+Portal Ownership Details
+Resistance - Wind Chime
+Resistance - Transcontinental Railroad Cent
+Resistance - The Navajo Code Talkers
+Resistance - Our Lady of Guadalupe National Historic Site
+Resistance - Our Lady of Guadalupe
+Resistance - Lumber Jack
+Resistance - Logging Wheels
+Resistance - Flagstaff Fellowship
+Resistance - Flagstaff
+Resistance - Dukepoo Memorial
+Resistance - Biffs Bagels
+Resistance - Arizona State College
+Resistance - 1899 Restaurant
+Resistance - (VOLATILE) - The Riordan Building
+Resistance - (VOLATILE) - Sunflowers
+Resistance - (VOLATILE) - Lowell Observatory South Pillar
+Neutral - Revelations
+Neutral - NAU Blome Building
+Neutral - Natural Grocers Mural
+Neutral - College Union Building
+Neutral - (VOLATILE) - Lowell Observatory
+Enlightened - US Navy V12 Program
+Enlightened - Two Spots
+Enlightened - Through the Roof
+Enlightened - The Murdoch Center
+Enlightened - The Lumberyard
+Enlightened - The Historic Basque Handball C
+Enlightened - The Gandy Dancer
+Enlightened - Northern Arizona University
+Enlightened - NAU Old Main
+Enlightened - NAU Native American Monument
+Enlightened - Metal Climber
+Enlightened - Hanley Hall Memorial
+Enlightened - Forebearer Tree
+Enlightened - Flagstaff Presbyterian
+Enlightened - Flag Bike Revolution
+Enlightened - Downtowner
+Enlightened - Clock Tower
+Enlightened - (VOLATILE) - Lowell Kaleidoscope
+#Interitus 02: Salt Lake City - Measurement 3 Report
+The Resistance captured this Measurement, 59 to 36.
+The Resistance currently control this Secondary Site, leading by 29.
+Portals Owned - RES: 17 - ENL: 8 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 6 - ENL: 4 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: 50]
+Total for this Measurement:
+Resistance - 59 - Enlightened - 36
+Total for this Secondary Site:
+Resistance - 154 - Enlightened - 125
+Measurement Time Details:
+Original: 3:08 (Minutes:Seconds within Measurement Window)
+Padded String: UfAdIwlfELxAikcuvdXf 3:08 igaTrkOYJx
+MD5 of Padded String: 03735e4e1d5fdaabc7ca1cadd1c0b949
+Portal Ownership Details
+Resistance - Twisted Crosswalk Sculpture
+Resistance - The Roof Restaurant
+Resistance - Sway'd
+Resistance - Stream of Life
+Resistance - Sky Orchids
+Resistance - Primitive Art
+Resistance - Pioneer Telegraph Office
+Resistance - Main Street Celebrations
+Resistance - Mad Biker
+Resistance - Hotel Utah
+Resistance - Historic ZCMI
+Resistance - Gardo House
+Resistance - Flying Objects Syrah Stetling
+Resistance - First Security Branch of Wells
+Resistance - David Holz: Flying Objects 3.0
+Resistance - City Creek Falls
+Resistance - Capitol Theatre
+Resistance - (VOLATILE) - Zing Fountain
+Resistance - (VOLATILE) - United States Courts Library
+Resistance - (VOLATILE) - Modern Irrigation
+Neutral - Zions First National Bank
+Neutral - Zeus
+Neutral - Wind Mobile
+Neutral - Walker Brothers Memorial
+Neutral - The Old Clock
+Neutral - The Bee-Hive House
+Neutral - Templeton Building
+Neutral - Stars of the Night
+Neutral - Hope Gallery and Museum of Fine Art
+Neutral - First National Bank Building
+Neutral - Federal Reserve Bank Plaque
+Neutral - Father and Son
+Neutral - Commercial Street
+Neutral - City Creek Historic Plaque
+Neutral - City Creek
+Neutral - Chief Andrew H Burt Plaque
+Enlightened - Tim Little: Flying Objects 3.0
+Enlightened - The Salt Lake Theatre
+Enlightened - The Pony Express
+Enlightened - Sidewalk Art
+Enlightened - Herald Building
+Enlightened - City Creek Clock
+Enlightened - Church Historian Office
+Enlightened - Beerhive Pub
+Enlightened - (VOLATILE) - Salt Lake City and County Building
+Enlightened - (VOLATILE) - Peery Hotel
+#Interitus 02: Colorado Springs - Measurement 3 Report
+The Enlightened captured this Measurement, 99 to 56.
+The Enlightened currently control this Secondary Site, leading by 30.
+Portals Owned - RES: 22 - ENL: 9 - [Value: 1 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 10 each]
+Links Created - RES: 17 - ENL: 20 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: 50]
+Total for this Measurement:
+Resistance - 56 - Enlightened - 99
+Total for this Secondary Site:
+Resistance - 259 - Enlightened - 289
+Measurement Time Details:
+Original: 3:08 (Minutes:Seconds within Measurement Window)
+Padded String: UfAdIwlfELxAikcuvdXf 3:08 igaTrkOYJx
+MD5 of Padded String: 03735e4e1d5fdaabc7ca1cadd1c0b949
+Portal Ownership Details
+Resistance - Zebulon Pike Rock Memorial
+Resistance - Wall Art
+Resistance - the smokebrush herd
+Resistance - The Rabbit Hole
+Resistance - Sunflowers that look more like
+Resistance - Shake
+Resistance - Rock Tree
+Resistance - Reading Bench
+Resistance - Pikes Peak Range Riders
+Resistance - Pigicorn
+Resistance - Palmer center and Antlers Hilt
+Resistance - Library
+Resistance - Graffiti Building in downtown
+Resistance - First Stake
+Resistance - Dorado XV
+Resistance - Depot North
+Resistance - Cat Statue
+Resistance - Cascade &amp; Kiowa St.
+Resistance - Bus Station
+Resistance - Blue Art
+Resistance - Antlers Garage
+Resistance - American Bison public sculptur
+Neutral - Three Red Sculptures
+Neutral - Solar Bulb
+Neutral - Penrose Public Library
+Neutral - Mozart by Kim Polomka
+Neutral - Mountain Wind Sculpture
+Neutral - Island Grill Train Mural
+Neutral - Half of a Bicycle Sculpture
+Neutral - Gasoline Alley
+Neutral - El Paso Building Clock
+Neutral - Double Eagle
+Neutral - Corner of Tejon and E Pikes Pe
+Neutral - Carnegie Public Garden
+Neutral - Carnegie Library
+Enlightened - Winfield Scott Stratton
+Enlightened - Valkyrie Sculpture
+Enlightened - Red Box
+Enlightened - Reading Humpty Dumpty
+Enlightened - Old Steam Engine
+Enlightened - Morning Dove
+Enlightened - Kimball's Twin Peak
+Enlightened - Hibbard and Co. Building
+Enlightened - Fish Totem
+Enlightened - (VOLATILE) - Wheat Farmers Portal
+Enlightened - (VOLATILE) - US Post Office, E Pikes Peak Ave, Colorado Springs
+Enlightened - (VOLATILE) - Natural Mystic Chains
+Enlightened - (VOLATILE) - City Auditorium
+Enlightened - (VOLATILE) - Building 318](https://lh6.googleusercontent.com/-s1JghifjGvQ/U1wxXJFBzYI/AAAAAAAAtlE/ytbEUeH9QaU/w2048-h1153/lone_bike.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/3SYZFuHc6fa](https://plus.google.com/+NianticProject/posts/3SYZFuHc6fa)

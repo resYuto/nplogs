@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-14 16:11:16 +0900"
+date:   2014-07-14 16:11:16 +0900
+categories: nianticproject
+---
+Dr. +[Oliver Lynton-Wolfe](https://plus.google.com/108200572857719809031 "") announces the release of the Ingress Scanner for iOS devices and welcomes the storm of new Agents.
+
+[https://itunes.apple.com/ca/app/ingress/id576505181](https://itunes.apple.com/ca/app/ingress/id576505181 "")
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@458, :value=>"shared"@465}], :children=>["<br />", "<h2>Oliver Lynton-Wolfe</h2>", "My ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " Scanner for iOS devices has been released.", "<br />", "<br />", "<a href=\"https://itunes.apple.com/ca/app/ingress/id576505181\" class=\"ot-anchor\">https://itunes.apple.com/ca/app/ingress/id576505181</a>", "<br />", "<br />", "The future of Exotic Matter and the Portals depends on you... on us. They call us Sensitives. We know the power that XM can bring. ", "<br />", "<br />", "We face threats from many directions, but there is strength in numbers. It’s time to rise as one and, like ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", ", the Greek God of the Sun, bathe this world in the light of XM.", "<br />", "<br />", "New Agents will look to you for leadership. Stand with them. Prepare them. We do not know what comes next, but we know how to face it.", "<br />", "<br />", "Together.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: My +Ingress Scanner for iOS devices has been released.
+https://itunes.apple.com/ca/app/ingress/id576505181
+The future of Exotic Matter and the Portals depends on you... on us. They call us Sensitives. We know the power that XM can bring.
+We face threats from many directions, but there is strength in numbers. It’s time to rise as one and, like #Helios, the Greek God of the Sun, bathe this world in the light of XM.
+New Agents will look to you for leadership. Stand with them. Prepare them. We do not know what comes next, but we know how to face it.
+Together.](https://lh4.googleusercontent.com/-O93j6vtxmqE/U8OBvwc1ycI/AAAAAAAAAJQ/J0pk3CFZOLA/w1280-h720/iOSScanner.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/7Pwub3MZufo](https://plus.google.com/+NianticProject/posts/7Pwub3MZufo)

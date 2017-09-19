@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2013-03-17 06:44:23 +0900"
+date:   2013-03-17 06:44:23 +0900
+categories: nianticproject
+---
+Some images coming in from Austin
+
+[#freemisty](https://plus.google.com/s/%23freemisty ""){:element=>{:name=>"div", :attributes=>[{:name=>"class"@143, :value=>"shared"@150}], :children=>["<br />", "<h2>Archit Bhargava</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Ingress\">#Ingress</a>", " Agents planning strategy for the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23SXSW\">#SXSW</a>", " Anomaly. ", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressSxsw\">#IngressSxsw</a>", " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### album: ](https://plus.google.com/photos/103568397179979120732/albums/5856053821809258033 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/C1Y9aDg1eur](https://plus.google.com/+NianticProject/posts/C1Y9aDg1eur)

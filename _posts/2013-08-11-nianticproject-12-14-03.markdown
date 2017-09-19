@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-11 12:14:03 +0900"
+date:   2013-08-11 12:14:03 +0900
+categories: nianticproject
+---
+**The Enlightened** control Operation [#Cassandra](https://plus.google.com/s/%23Cassandra "") in Sydney at the first Measurement, but not by much....<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Sydney<br /><br />The Resistance owned 2 Volatile Portals and 13 Non-Volatile Portals.<br /><b>The Enlightened owned 3 Volatile Portals and 11 Non Volatile Portals.</b><br /><br /><b>The Enlightened had 2 Links standing at Measurement Time.</b><br /><br />Total for the Resistance this Measurement: 33<br /><b>Total for the Enlightened this Measurement: 45</b><br /><br /><b>Measurement Time Details</b><br />Original: ONE MINUTE THIRTY FOUR SECONDS PAST ONE O CLOCK<br />Padded: ONEXXMINUTEXXXTHIRTYXFOURXXSECONDSXXXPASTXXONEXXOXXCLOCKXXX<br />OTP Key: LWIAXSXZNPDJAKBKSQAVRXDHFDDKVAMECERVZDSOHCEPTLEMNLFPRHNMDQG<br />Encrypted String: ZJMXUEFMHIHGXHURAHTTOCRBWAACZCARFWOSWSSGAZBDGPBJBICRCVPWAND<br />MD5: 64389AE19DEBAB3B7E5D668C751FD545<br /><br /></div>
+[#### photo: undefined](https://lh6.googleusercontent.com/-8p1nGF5oSKA/UgcAiFb9sqI/AAAAAAAANJU/N9xxKhv-x4o/sydney-cluster1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/P1oL4gmfxsi](https://plus.google.com/+NianticProject/posts/P1oL4gmfxsi)

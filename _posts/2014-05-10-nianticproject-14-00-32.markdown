@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-10 14:00:32 +0900"
+date:   2014-05-10 14:00:32 +0900
+categories: nianticproject
+---
+Here are the Volatile Portals for  [#Interitus](https://plus.google.com/s/%23Interitus "")   03 - Ishinomaki, Beijing and Seoul Cluster 2.
+
+With Volatile Portals in the recent  [#Interitus](https://plus.google.com/s/%23Interitus "")   Anomalies being discovered outside the Active Clusters, sometimes up to a kilometer or more away, every minute and every Agent counts.
+
+Leveraging their available resources wisely is a Faction's road to success.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@556, :value=>"shared"@563}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 03 - ISHINOMAKI, BEIJING, SEOUL - C2 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/Zh0NQp\" class=\"ot-anchor\">http://goo.gl/Zh0NQp</a>", "<br />", "<br />", "MD5: 1ef2adcf9fcb22b3d826198b6ded0d9e", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114341837203276801745\" oid=\"114341837203276801745\">Dae Hur</a>"], "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh5.googleusercontent.com/-6urkrMg64mI/U22xPtiql4I/AAAAAAAAvZo/gBps759tkQw/seoul.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/hDbuXQwerMX](https://plus.google.com/+NianticProject/posts/hDbuXQwerMX)

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-11 13:46:07 +0900"
+date:   2013-08-11 13:46:07 +0900
+categories: nianticproject
+---
+**The Enlightened** use the Second Measurement to its fullest advantage, taking a strong lead over the Resistance at Operation [#Cassandra](https://plus.google.com/s/%23Cassandra "") in Sydney.<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Sydney, Measurement 2<br /><br />The Resistance owned 2 Volatile Portals and 9 Non-Volatile Portals.<br /><b>The Enlightened owned 3 Volatile Portals and 18 Non Volatile Portals.</b><br /><br />An Enlightened Field covered all the Portals in this Cluster. Portal Links across Gold Panner Man, Mt. Pleasant Lookout, and Ocean Bath were successfully established prior to Measurement 2 and currently remain standing; however, we are investigating why the Field is not visible. It may have been blocked by cosmic rays.<br /><br /><b>The Enlightened had 8 Links standing at measurement time.</b><br /><br />Total for the Resistance this Measurement = 29<br /><b>Total for the Enlightened this Measurement = 114</b><br /><br />Total for the Resistance this Anomaly = 62<br /><b>Total for the Enlightened this Anomaly = 159</b><br /><br /><b>Measurement Time Details</b><br />Original:   TWO  O  CLOCK AND FOUR  MINUTES  AND FIFTY FIVE SECONDS<br />Padded: XXTWOXXOXXCLOCKXANDXFOURXXMINUTESXXANDXFIFTYXFIVEXSECONDSXX<br />OTP Key: YMBGTLBMLYGNKAFAYTQMJNFMFGBEYFQURUGAHVCDUIXTTOFZSNPVBGQEWWE<br />Encrypted String: VJUCHIYAIVIYYCPXYGTJOBZDCDNMLZJYJRDAUYZICNQRQTNUWKHZDUDHOTB<br />MD5: 544444F7085EC9C2BD6152C25E808E2D<br /><br /></div>
+[#### photo: undefined](https://lh6.googleusercontent.com/-jSJuVmtrncQ/UgcUp0sLq9I/AAAAAAAANLA/_mSXHESbvaY/sydney-cluster2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/jczsyEYMHmQ](https://plus.google.com/+NianticProject/posts/jczsyEYMHmQ)

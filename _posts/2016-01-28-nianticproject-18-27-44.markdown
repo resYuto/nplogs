@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2016-01-28 18:27:44 +0900"
+date:   2016-01-28 18:27:44 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") shares some of his findings about the ancient Roman exploratore, Obsidius.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@280, :value=>"shared"@287}], :children=>["<br />", "<h2>Hank Johnson</h2>", "Continuing to research the exploratore named Obsidius.", "<br />", "<br />", "Have learned some things, much remains buried. From what I've come across, he didn't travel alone... he was working as part of a larger group.", "<br />", "<br />", "He was definitely a sensitive, and an extremely powerful one at that, possibly one of the most powerful ones ever.", "<br />", "<br />", "The records on this last point are confusing. I've seen reference to Obsidius as a collaborator and an enemy in both 13MAGNUS and Anti-Magnus contexts. I'm not sure I understand how that's possible... was he a collaborator to both of these groups? An enemy to both? Or maybe I'm just losing something in the translation.", "<br />", "<br />", "Thanks to all the Agents who are helping to pull this material together. This task would be impossible without you.", "<br />", "<br />", "Also curious about what PAC is going to have to say for himself on ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/113020726391023655192\" oid=\"113020726391023655192\">Behind The Scanner</a>"], " tomorrow... always surprised by what he has up his sleeves.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Continuing to research the exploratore named Obsidius.
+Have learned some things, much remains buried. From what I've come across, he didn't travel alone... he was working as part of a larger group.
+He was definitely a sensitive, and an extremely powerful one at that, possibly one of the most powerful ones ever.
+The records on this last point are confusing. I've seen reference to Obsidius as a collaborator and an enemy in both 13MAGNUS and](https://lh3.googleusercontent.com/-xWqT_u09bE4/VqneW6xJENI/AAAAAAAADlc/gQhiLKLKxCE/w800-h757/Union.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/aNV39a2ig9r](https://plus.google.com/+NianticProject/posts/aNV39a2ig9r)

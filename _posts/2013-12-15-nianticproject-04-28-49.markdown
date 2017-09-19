@@ -1,0 +1,182 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-15 04:28:49 +0900"
+date:   2013-12-15 04:28:49 +0900
+categories: nianticproject
+---
+Beginning the day in full force, the Enlightened capture Rio de Janeiro and São Paulo.
+
+One Measurement remains in Santiago, before the Anomaly strikes the next set of sites.
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@310, :value=>"shared"@317}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- RIO DE JANEIRO - Measurement 4 Report</b>", " ", "<br />", "<br />", "The Enlightened Fields over Rio de Janeiro enabled them to capture more Mind Units, and the Anomaly.", "<br />", "<br />", "The Resistance owned 0 Volatile Portals and 4 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 3 Volatile Portals and 22 Non-Volatile Portals</b>", "<br />", "<br />", "<b>An Enlightened Field covered all the Portals in this Cluster (50)</b>", "<br />", "<br />", "Total for Resistance this Measurement = 4", "<br />", "<b>Total for Enlightened this Measurement = 102</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 97", "<br />", "<b>Total for Enlightened this Anomaly = 378</b>", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Monumento Carioca (VOLATILE) - Enlightened", "<br />", "Brasil em Ferro (VOLATILE) - Enlightened", "<br />", "ABL (VOLATILE) - Enlightened", "<br />", "Respiro do Metrô (VOLATILE) - Neutral", "<br />", "Buraco do Lume (VOLATILE) - Neutral", "<br />", "Edifício Sede Da Petrobras - Enlightened", "<br />", "Kubitscheck Cinelândia - Enlightened", "<br />", "Correios Rua Mexico - Enlightened", "<br />", "Heitor Villa Lobos - Enlightened", "<br />", "Liceu Literário Português - Enlightened", "<br />", "Francisco Serrador - Enlightened", "<br />", "Mal Deodoro Da Fonseca - Enlightened", "<br />", "Lateral Do Teatro Municipal - Enlightened", "<br />", "Coruja Rei - Enlightened", "<br />", "Boneco do Pezao - Enlightened", "<br />", "Jardim Adilson Viana Costa - Enlightened", "<br />", "Justiça Federal - Seção Judiciária do Rio de Janeiro  - Enlightened", "<br />", "Estátua Portuguesa - Enlightened", "<br />", "Arte Urbana 100000 - Enlightened", "<br />", "Touro do Ministério da Fazenda - Enlightened", "<br />", "Ministerio Da Fazenda - Enlightened", "<br />", "BNDES - Enlightened", "<br />", "Mulher De Arpa - Enlightened", "<br />", "Busto Francisco Serrado - Enlightened", "<br />", "Antiga Avenida Central - Enlightened", "<br />", "Edifício Capanema - Enlightened", "<br />", "Museu Nacional De Belas Artes  - Enlightened", "<br />", "Engrenagem Rotary Club - Neutral", "<br />", "Ordem E Progresso - Neutral", "<br />", "Metrô Cinelândia - Neutral", "<br />", "Respiro Metrô Carioca  - Neutral", "<br />", "Mural Arte Urbana LINOX - Neutral", "<br />", "Relógio do Largo da Carioca - Neutral", "<br />", "Igreja Universal Do Reino De Deus - Cinelandia - Neutral", "<br />", "Busto Dr Paulo de Frontein - Neutral", "<br />", "Edifício Garagem - Neutral", "<br />", "arte urbana (Rio de Janeiro) - Neutral", "<br />", "Arte Urbana Romanos - Neutral", "<br />", "Mural de Igreja Da Galeria Goncalves Dias - Neutral", "<br />", "Lago Ornamental da Carioca - Neutral", "<br />", "Estatua Luz Do Ok - 2 - Neutral", "<br />", "Biblioteca Nacional - Neutral", "<br />", "a Poesia (Rio de Janeiro) - Neutral", "<br />", "Lei E Ordem - Neutral", "<br />", "Maestro Carlos - Neutral", "<br />", "Praça Floriano - Neutral", "<br />", "IgrSanLuzia - Neutral", "<br />", "O Peixe Na Banca - Neutral", "<br />", "Theatro Municipal do Rio de Janeiro - Neutral", "<br />", "Igr. Nossa Sra. Do Parto - Neutral", "<br />", "Estátua Casal no Palácio Gustavo Capanema - Neutral", "<br />", "Anjo - Neutral", "<br />", "JoaquimNabuco - Neutral", "<br />", "Banca Do Peixe - Neutral", "<br />", "Painel Da Caixa  - Neutral", "<br />", "Manuel Bandeira - Neutral", "<br />", "Placa Prefeitura - Resistance", "<br />", "Cavalo De Pau - Resistance", "<br />", "Estação De Bondes De Santa Teresa - Resistance", "<br />", "San Francis Third Order Church - Resistance", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- SÃO PAULO - Measurement 4 Report</b>", "<br />", "<br />", "After the Resistance took M3 and narrowed their margin, the Enlightened establish 9 Links and capture more Portals to secure Sao Paulo.", "<br />", "<br />", "The Resistance owned 2 Volatile Portals and 2 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 3 Volatile Portals and 13 Non-Volatile Portals</b>", "<br />", "<br />", "<b>The Enlightened had 9 Links standing at Measurement Time</b>", "<br />", "<br />", "Total for Resistance this Measurement = 22", "<br />", "<b>Total for Enlightened this Measurement = 61</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 139", "<br />", "<b>Total for Enlightened this Anomaly = 186</b>", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Fonte Monumental 03 (VOLATILE) - Enlightened", "<br />", "Realidade Brasil.  Futebol E Novela (VOLATILE) - Enlightened", "<br />", "Ninando a Boneca 02 (VOLATILE) - Enlightened", "<br />", "Progresso (VOLATILE) - Resistance", "<br />", "Amor Materno 02 (VOLATILE) - Resistance", "<br />", "Mercúrio em Repouso 01 - Enlightened", "<br />", "Somos Todos Iguais - Enlightened", "<br />", "Palácio da Educação - Enlightened", "<br />", "carolina ribeiro - Enlightened", "<br />", "Ed. Terraço Itália - Enlightened", "<br />", "Bernardino de Campos - Enlightened", "<br />", "Banca - Enlightened", "<br />", "Homem Macaco - Enlightened", "<br />", "Heróis - Enlightened", "<br />", "Mercúrio em Repouso 02 - Enlightened", "<br />", "Relógio - Enlightened", "<br />", "Cogumelo - Enlightened", "<br />", "Caetano de Campos - Enlightened", "<br />", "Amizade Entre os Povos - Neutral", "<br />", "Depois do Banho - Victor  Bech - Neutral", "<br />", "Cesário Motta - Neutral", "<br />", "Grafite Banca Happy Puppy - Neutral", "<br />", "A Menina e o Bezerro 01 - Neutral", "<br />", "Cortico Sem Teto SP - Neutral", "<br />", "Gato Colorido - Neutral", "<br />", "Vicente de Carvalho - Neutral", "<br />", "Augusto de Prima Porta (César  - Neutral", "<br />", "Robert Stephenson Smith-Baden  - Resistance", "<br />", "Índio Caçador - Resistance", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- SANTIAGO - Measurement 3 Report</b>", "<br />", "<br />", "<b>The Resistance owned 3 Volatile Portals and 2 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 2 Volatile Portals and 11 Non-Volatile Portals", "<br />", "<br />", "<b>Total for Resistance this Measurement = 32</b>", "<br />", "Total for Enlightened this Measurement = 31", "<br />", "<br />", "Total for Resistance this Anomaly = 63", "<br />", "<b>Total for Enlightened this Anomaly = 202</b>", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 4:45 (Minutes:Seconds past the hour)", "<br />", "Padded: NdPY 4:45 FPOIWsiZuzhGtpZmTTSVwbSPLB", "<br />", "MD5 of Padded String: ba8a619c4f893fd1e576e29e76b9214d", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Lá Fuente Eterna (VOLATILE) - Enlightened", "<br />", "Monumento A Los Pueblos Indígenas (VOLATILE) - Enlightened", "<br />", "Santiago 1580 (VOLATILE) - Resistance", "<br />", "Jhendeleyn (VOLATILE) - Resistance", "<br />", "Escenario de Cobre (VOLATILE) - Resistance", "<br />", "Pedro de Valdivia - Enlightened", "<br />", "Fechada El Mercurio - Enlightened", "<br />", "Camara de Diputados - Enlightened", "<br />", "Cielo Catedral  - Enlightened", "<br />", "Big Portal - Enlightened", "<br />", "DAP - Enlightened", "<br />", "El Artista - Enlightened", "<br />", "Tribunales de Justicia - Enlightened", "<br />", "Mural Santiago - Enlightened", "<br />", "Museo De Santiago - Enlightened", "<br />", "Museo de Santiago - Enlightened", "<br />", "Municipalidad de Santiago - Neutral", "<br />", "Correo Central de Santiago - Neutral", "<br />", "Palacio Rebeca Matte - Neutral", "<br />", "Apóstol Santiago - Neutral", "<br />", "Hotel España - Neutral", "<br />", "Cardenal Raúl Silva Henríquez - Neutral", "<br />", "Palacio Larraín Zañartu  - Neutral", "<br />", "(1.645) Catedral de Santiago,  - Neutral", "<br />", "Santiago 1712 - Neutral", "<br />", "Marlen - Neutral", "<br />", "Fernández Concha - Neutral", "<br />", "Casona Morande - Neutral", "<br />", "Monumento a los Heroes del Combate de la Concepcion - Neutral", "<br />", "Santiago 1646 - Neutral", "<br />", "J. Huneus Statue - Neutral", "<br />", "Academia Diplomática De Chile - Neutral", "<br />", "Fuente De Agua Plaza De Armas - Neutral", "<br />", "Los Soldados - Neutral", "<br />", "Maqueta De La Iglesia De Chiloé - Neutral", "<br />", "Casona Cruz Verde - Resistance", "<br />", "Catedral de Santiago - Resistance", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101048528002657491560\" oid=\"101048528002657491560\">Alexandre Luna Barros</a>"], ".", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>DEC 14 PRIMARY SITES:</b>", " ", "<br />", "Buenos Aires: ", "<a href=\"http://goo.gl/BDcLTZ\" class=\"ot-anchor\">http://goo.gl/BDcLTZ</a>", " ", "<br />", "San Francisco: ", "<a href=\"http://goo.gl/plCBZL\" class=\"ot-anchor\">http://goo.gl/plCBZL</a>", "<br />", "<br />", "<b>SATELLITE SITES:</b>", " ", "<br />", "Rio de Janeiro: ", "<a href=\"http://goo.gl/EeuyO4\" class=\"ot-anchor\">http://goo.gl/EeuyO4</a>", " ", "<br />", "San Diego: ", "<a href=\"http://goo.gl/uqmCci\" class=\"ot-anchor\">http://goo.gl/uqmCci</a>", " ", "<br />", "Santiago: ", "<a href=\"http://goo.gl/BE71fV\" class=\"ot-anchor\">http://goo.gl/BE71fV</a>", " ", "<br />", "Sao Paulo: ", "<a href=\"http://goo.gl/AnJNro\" class=\"ot-anchor\">http://goo.gl/AnJNro</a>", " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #13MAGNUS - RIO DE JANEIRO - Measurement 4 Report 
+The Enlightened Fields over Rio de Janeiro enabled them to capture more Mind Units, and the Anomaly.
+The Resistance owned 0 Volatile Portals and 4 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 22 Non-Volatile Portals
+An Enlightened Field covered all the Portals in this Cluster (50)
+Total for Resistance this Measurement = 4
+Total for Enlightened this Measurement = 102
+Total for Resistance this Anomaly = 97
+Total for Enlightened this Anomaly = 378
+Portal Ownership Details:
+Monumento Carioca (VOLATILE) - Enlightened
+Brasil em Ferro (VOLATILE) - Enlightened
+ABL (VOLATILE) - Enlightened
+Respiro do Metrô (VOLATILE) - Neutral
+Buraco do Lume (VOLATILE) - Neutral
+Edifício Sede Da Petrobras - Enlightened
+Kubitscheck Cinelândia - Enlightened
+Correios Rua Mexico - Enlightened
+Heitor Villa Lobos - Enlightened
+Liceu Literário Português - Enlightened
+Francisco Serrador - Enlightened
+Mal Deodoro Da Fonseca - Enlightened
+Lateral Do Teatro Municipal - Enlightened
+Coruja Rei - Enlightened
+Boneco do Pezao - Enlightened
+Jardim Adilson Viana Costa - Enlightened
+Justiça Federal - Seção Judiciária do Rio de Janeiro  - Enlightened
+Estátua Portuguesa - Enlightened
+Arte Urbana 100000 - Enlightened
+Touro do Ministério da Fazenda - Enlightened
+Ministerio Da Fazenda - Enlightened
+BNDES - Enlightened
+Mulher De Arpa - Enlightened
+Busto Francisco Serrado - Enlightened
+Antiga Avenida Central - Enlightened
+Edifício Capanema - Enlightened
+Museu Nacional De Belas Artes  - Enlightened
+Engrenagem Rotary Club - Neutral
+Ordem E Progresso - Neutral
+Metrô Cinelândia - Neutral
+Respiro Metrô Carioca  - Neutral
+Mural Arte Urbana LINOX - Neutral
+Relógio do Largo da Carioca - Neutral
+Igreja Universal Do Reino De Deus - Cinelandia - Neutral
+Busto Dr Paulo de Frontein - Neutral
+Edifício Garagem - Neutral
+arte urbana (Rio de Janeiro) - Neutral
+Arte Urbana Romanos - Neutral
+Mural de Igreja Da Galeria Goncalves Dias - Neutral
+Lago Ornamental da Carioca - Neutral
+Estatua Luz Do Ok - 2 - Neutral
+Biblioteca Nacional - Neutral
+a Poesia (Rio de Janeiro) - Neutral
+Lei E Ordem - Neutral
+Maestro Carlos - Neutral
+Praça Floriano - Neutral
+IgrSanLuzia - Neutral
+O Peixe Na Banca - Neutral
+Theatro Municipal do Rio de Janeiro - Neutral
+Igr. Nossa Sra. Do Parto - Neutral
+Estátua Casal no Palácio Gustavo Capanema - Neutral
+Anjo - Neutral
+JoaquimNabuco - Neutral
+Banca Do Peixe - Neutral
+Painel Da Caixa  - Neutral
+Manuel Bandeira - Neutral
+Placa Prefeitura - Resistance
+Cavalo De Pau - Resistance
+Estação De Bondes De Santa Teresa - Resistance
+San Francis Third Order Church - Resistance
+#13MAGNUS - SÃO PAULO - Measurement 4 Report
+After the Resistance took M3 and narrowed their margin, the Enlightened establish 9 Links and capture more Portals to secure Sao Paulo.
+The Resistance owned 2 Volatile Portals and 2 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 13 Non-Volatile Portals
+The Enlightened had 9 Links standing at Measurement Time
+Total for Resistance this Measurement = 22
+Total for Enlightened this Measurement = 61
+Total for Resistance this Anomaly = 139
+Total for Enlightened this Anomaly = 186
+Portal Ownership Details:
+Fonte Monumental 03 (VOLATILE) - Enlightened
+Realidade Brasil.  Futebol E Novela (VOLATILE) - Enlightened
+Ninando a Boneca 02 (VOLATILE) - Enlightened
+Progresso (VOLATILE) - Resistance
+Amor Materno 02 (VOLATILE) - Resistance
+Mercúrio em Repouso 01 - Enlightened
+Somos Todos Iguais - Enlightened
+Palácio da Educação - Enlightened
+carolina ribeiro - Enlightened
+Ed. Terraço Itália - Enlightened
+Bernardino de Campos - Enlightened
+Banca - Enlightened
+Homem Macaco - Enlightened
+Heróis - Enlightened
+Mercúrio em Repouso 02 - Enlightened
+Relógio - Enlightened
+Cogumelo - Enlightened
+Caetano de Campos - Enlightened
+Amizade Entre os Povos - Neutral
+Depois do Banho - Victor  Bech - Neutral
+Cesário Motta - Neutral
+Grafite Banca Happy Puppy - Neutral
+A Menina e o Bezerro 01 - Neutral
+Cortico Sem Teto SP - Neutral
+Gato Colorido - Neutral
+Vicente de Carvalho - Neutral
+Augusto de Prima Porta (César  - Neutral
+Robert Stephenson Smith-Baden  - Resistance
+Índio Caçador - Resistance
+#13MAGNUS - SANTIAGO - Measurement 3 Report
+The Resistance owned 3 Volatile Portals and 2 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 11 Non-Volatile Portals
+Total for Resistance this Measurement = 32
+Total for Enlightened this Measurement = 31
+Total for Resistance this Anomaly = 63
+Total for Enlightened this Anomaly = 202
+Measurement Time Details:
+Original: 4:45 (Minutes:Seconds past the hour)
+Padded: NdPY 4:45 FPOIWsiZuzhGtpZmTTSVwbSPLB
+MD5 of Padded String: ba8a619c4f893fd1e576e29e76b9214d
+Portal Ownership Details:
+Lá Fuente Eterna (VOLATILE) - Enlightened
+Monumento A Los Pueblos Indígenas (VOLATILE) - Enlightened
+Santiago 1580 (VOLATILE) - Resistance
+Jhendeleyn (VOLATILE) - Resistance
+Escenario de Cobre (VOLATILE) - Resistance
+Pedro de Valdivia - Enlightened
+Fechada El Mercurio - Enlightened
+Camara de Diputados - Enlightened
+Cielo Catedral  - Enlightened
+Big Portal - Enlightened
+DAP - Enlightened
+El Artista - Enlightened
+Tribunales de Justicia - Enlightened
+Mural Santiago - Enlightened
+Museo De Santiago - Enlightened
+Museo de Santiago - Enlightened
+Municipalidad de Santiago - Neutral
+Correo Central de Santiago - Neutral
+Palacio Rebeca Matte - Neutral
+Apóstol Santiago - Neutral
+Hotel España - Neutral
+Cardenal Raúl Silva Henríquez - Neutral
+Palacio Larraín Zañartu  - Neutral
+(1.645) Catedral de Santiago,  - Neutral
+Santiago 1712 - Neutral
+Marlen - Neutral
+Fernández Concha - Neutral
+Casona Morande - Neutral
+Monumento a los Heroes del Combate de la Concepcion - Neutral
+Santiago 1646 - Neutral
+J. Huneus Statue - Neutral
+Academia Diplomática De Chile - Neutral
+Fuente De Agua Plaza De Armas - Neutral
+Los Soldados - Neutral
+Maqueta De La Iglesia De Chiloé - Neutral
+Casona Cruz Verde - Resistance
+Catedral de Santiago - Resistance
+Photo by Agent +Alexandre Luna Barros.
+#13MAGNUS DEC 14 PRIMARY SITES: 
+Buenos Aires: http://goo.gl/BDcLTZ 
+San Francisco: http://goo.gl/plCBZL
+SATELLITE SITES: 
+Rio de Janeiro: http://goo.gl/EeuyO4 
+San Diego: http://goo.gl/uqmCci 
+Santiago: http://goo.gl/BE71fV 
+Sao Paulo: http://goo.gl/AnJNro ](https://lh3.googleusercontent.com/-7xVVejxJxhk/UqytLJwmOJI/AAAAAAAAd-E/796Gr-enJ-A/w2048-h1150/IMG_20131214_164006053.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Fx3N8UeQpCd](https://plus.google.com/+NianticProject/posts/Fx3N8UeQpCd)

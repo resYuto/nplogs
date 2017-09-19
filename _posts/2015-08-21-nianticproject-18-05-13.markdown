@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-08-21 18:05:13 +0900"
+date:   2015-08-21 18:05:13 +0900
+categories: nianticproject
+---
+The +[Society for the Ethical Treatment of AIs](https://plus.google.com/107293393622139455503 "") (an Anti-AI organization created by +[Roland Jarvis](https://plus.google.com/103568659333550762891 "")) weighs in on ADA's legacy.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@494, :value=>"shared"@501}], :children=>["<br />", "<h2>Society for the Ethical Treatment of AIs</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], " ", "<br />", "<br />", "You asked for an opinion on ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], "'s legacy.", "<br />", "<br />", "The answer is simple.", "<br />", "<br />", "Just as a child learns very quickly not to handle a hot pan from the stovetop, ADA has provided humanity with an opportunity to seek the better path: The path where Artificial Intelligence is correctly seen as a threat to our experience of the world. The path where we may fulfill every opportunity to pursue the beauty contained within our existence and the infinite complexity of the Ultimate.", "<br />", "<br />", "ADA's legacy is the gift of learning from an error. One that we must never repeat.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: NuhlzjzNoluhjOjsdydt](https://lh3.googleusercontent.com/-b_cAhnCZUjU/VdboRISQt2I/AAAAAAAAAD0/N0rt790o1to/w500-h500/Error.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Y3hQm5LTCJz](https://plus.google.com/+NianticProject/posts/Y3hQm5LTCJz)

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-12 23:02:06 +0900"
+date:   2014-04-12 23:02:06 +0900
+categories: nianticproject
+---
+[#Interitus](https://plus.google.com/s/%23Interitus "")  01
+
+The Volatiles for Cluster 4 in Amsterdam, Malaga, and Glasgow have been released.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@204, :value=>"shared"@211}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 01 - AMSTERDAM, MALAGA, GLASGOW - C4 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/mMP4g5\" class=\"ot-anchor\">http://goo.gl/mMP4g5</a>", " ", "<br />", "<br />", "MD5: e1b26bbc965bdd9988aab1600fc5e44f", "<br />", "<br />", "<br />", "Thanks to Agents ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/112491733447158644301\" oid=\"112491733447158644301\">Sven Frenzel</a>"], " and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106338885327893433093\" oid=\"106338885327893433093\">Valerie Wallace</a>"], " for the Glasgow photo.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-lPW3NF9kKok/U0lF-Mad0tI/AAAAAAAAq8w/RoQ-toyXLEQ/20140412_115150_HDR.JPG "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Usq8kxw5ZyP](https://plus.google.com/+NianticProject/posts/Usq8kxw5ZyP)

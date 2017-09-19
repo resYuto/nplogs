@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-11 16:02:19 +0900"
+date:   2014-06-11 16:02:19 +0900
+categories: nianticproject
+---
++[Stein Lightman](https://plus.google.com/115238965157544465033 ""), quantum theologian and Glyph expert, explores an unknown Glyph and what it might mean for how the Shapers view humanity.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@329, :value=>"shared"@336}], :children=>["<br />", "<h2>Stein Lightman</h2>", "I've been pondering this Glyph. I don't yet have enough information to definitely state its meaning, but I am able to formulate a hypothesis.", "<br />", "<br />", "The form is a combination of the Glyphs for 'Mind' and 'Soul.' There's a possibility that its meaning ends there: a human's identity abstracted as information and energy alone, or perhaps as a relationship between those two aspects, but there's a deeper potential.", "<br />", "<br />", "Could it be that these are the two elements of a human that cannot be manifested as an Exotic Matter simulacrum? In the case of both ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], " and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], ", the body was recomposed through XM, but the core identity remained. It seems worth considering that our minds and life force are a uniquely human property, something that could be incomprehensible to an outside force. A locked box to be moved or copied securely from location to location, but never opened, never translated or understood. In seeking to preserve his memories, Hank Johnson may be attempting to reprogram the contents of this locked box.", "<br />", "<br />", "A theory, only.", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], ": I wish you good luck on your most difficult journey so far.", "<br />", " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-5YjAykkEzzA/U5f5vO1vbCI/AAAAAAAAA2g/aMpVWKuOJr8/Unknown-MindSoul.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/hQzMM5ZR3sx](https://plus.google.com/+NianticProject/posts/hQzMM5ZR3sx)

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-21 20:03:50 +0900"
+date:   2014-06-21 20:03:50 +0900
+categories: nianticproject
+---
+The Volatiles for C1 in Bergen and St. Petersburg have been released.
+
+Good luck, Agents.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@100, :value=>"shared"@107}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 06 C1 VOLS - BERGEN, ST. PETERSBURG</b>", " ", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/WvRh0H\" class=\"ot-anchor\">http://goo.gl/WvRh0H</a>", " ", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115207212079800005392\" oid=\"115207212079800005392\">Стасян Аксельбрат</a>"], " in St. Petersburg.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #INTERITUS 06 C1 VOLS - BERGEN, ST. PETERSBURG 
+Volatiles: http://goo.gl/WvRh0H 
+Photo by Agent +Стасян Аксельбрат in St. Petersburg.](https://lh5.googleusercontent.com/-Nj42dcCyrKk/U6Vk_8XwhDI/AAAAAAAA1H4/aKNjSPSy_jg/w1354-h1805/IMG_20140621_132145.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/5Z13ncV5byZ](https://plus.google.com/+NianticProject/posts/5Z13ncV5byZ)

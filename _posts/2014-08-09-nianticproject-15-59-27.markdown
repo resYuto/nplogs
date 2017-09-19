@@ -1,0 +1,233 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-09 15:59:27 +0900"
+date:   2014-08-09 15:59:27 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2>Summary of Anomaly Conditions:<br /><br />Taipei - R:108 - <b>E:156.8</b><br />Hong Kong - <b>R:94</b> - E:31<br />Kuala Lumpur - R:31 - <b>E:61.6</b><br /><br />Total - R:233 - <b>E:249.4</b><br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a> 3 begins with the balance between the factions resting on the edge of a razor. The Enlightened lead separated by a mere 16.5.  In Kuala Lumpur and Taipei, the Enlightened leveraged Fields to gain the upper hand, while in Hong Kong, the Resistance dominate the ground.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Taipei - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 156.8 to 108.<br />The <b>Enlightened</b> currently control this Primary Site, leading by 48.8.<br /><br />Portals Owned - RES: 14 - <b>ENL:</b> 46 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (44.8)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 108 - <b>Enlightened</b> - 156.8<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 108 - <b>Enlightened</b> - 156.8<br /><br /><b>Measurement Time Details:</b><br />Original: 5:31 (Minutes:Seconds within Measurement Window)<br />Padded String: ``O=*3TN;p$@oM3 5:31 gEWPan7Y%b0<br />SHA256 of Padded String: 3c0d9a3accdd22cd7d0c488b1f12c7dfcb70d90068d38fadf21db47e8259312c<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Old Timer Historical Plaque<br />ENL - Sports Tile Mural<br />ENL - Taipei City Hall<br />ENL - Transformer Box<br />ENL - 三連大樓<br />ENL - 世界首都論壇紀念地圖<br />ENL - 人家最愛變電箱了<br />ENL - 人間系列-排隊<br />ENL - 信義區體操藝術 彩帶<br />ENL - 八方天線<br />ENL - 台北市議會<br />ENL - 台北旌旗教會<br />ENL - 國父紀念館 國父銅像<br />ENL - 國父紀念館奠基<br />ENL - 國父紀念館早操會成立二週年紀念<br />ENL - 國父遺像<br />ENL - 國膚畫紀<br />ENL - 報紙裝飾牆<br />ENL - 大機器人帶小屁機器人<br />ENL - 夫妻<br />ENL - 孫文先生雕像<br />ENL - 孫逸仙博士圖書館<br />ENL - 尖頂帳蓬<br />ENL - 市府戲沙噴水池<br />ENL - 彩繪電箱<br />ENL - 微笑迎賓<br />ENL - 想像的高塔<br />ENL - 捷運市政府站-1號出口<br />ENL - 撐傘等紅綠燈的台客<br />ENL - 教會<br />ENL - 日新藝廊<br />ENL - 永遠open的朋友<br />ENL - 熊貓抱抱<br />ENL - 立鶴<br />ENL - 翠溪藝廊2<br />ENL - 聯合世紀大樓造景<br />ENL - 能量板水池<br />ENL - 車輪椅<br />ENL - 遠雄人壽<br />ENL - 遠雄國際中心<br />ENL - 遠雄朱銘藝術品<br />ENL - 門門牆<br />ENL - 風光春更好<br />ENL - 風華林逸<br />ENL - 飛馬<br />ENL - 魚雕像<br />ENL [Vol] - 遠雄金融中心雕塑<br />NEU - 國父銅像 Dr. Sun Yat-sen<br />NEU - 獅子頭噴泉<br />NEU - 統一國際大樓<br />NEU - 魚兒水中游<br />RES - C.I.B.<br />RES - Power Box<br />RES - Sleeping Buda<br />RES - 中山公園<br />RES - 人間系列-寶貝<br />RES - 國父紀念館<br />RES - 國父革命史蹟館碑<br />RES - 圓頂<br />RES - 市府金字塔（北出口）<br />RES - 市民廣場魚魚魚<br />RES - 很綠的變電箱<br />RES - 明園藝術燈<br />RES - 翠溪藝廊<br />RES - 靠右邊睡的小孩<br />RES [Vol] - 台北市民廣場<br />RES [Vol] - 國父紀念館國旗台<br />RES [Vol] - 基因鐵證<br />RES [Vol] - 音樂花房階梯<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Hong Kong - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 94 to 31.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 63.<br /><br />Portals Owned - <b>RES:</b> 51 - ENL: 21 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - <b>RES:</b> 1 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 94 - Enlightened - 31<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 94 - Enlightened - 31<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Wall Painting for Better Environment<br />ENL - 天氣男<br />ENL - 龍趣園牌坊<br />ENL - 跑步<br />ENL - Morse Park No.4<br />ENL - 太極<br />ENL - Tung Tau II Estate Fountain<br />ENL - Beijing 2008 Olympic Mosaic Mural<br />ENL - Big Cross Wall Painting<br />ENL - 老虎<br />ENL - 黃大仙下村大涼亭<br />ENL - 菲島福木<br />ENL - Morse Park No.3<br />ENL - 黃大仙文化公園<br />ENL - Bottle Palm<br />ENL - 燕尾山檳榔<br />ENL - Wall Painting<br />ENL [Vol] - Morse Park No.2 Fountain<br />ENL - Wong Tai Sin Cultural Garden<br />ENL - 澳洲蒲葵<br />ENL - 野兔<br />ENL - 馬籃<br />NEU - 奧運火炬<br />NEU - 對聯<br />NEU - 正氣歌<br />NEU - Triangular Palm<br />NEU - Morse Park NO.1<br />NEU - 文化王棕<br />NEU - 摩士三號公園指示牌<br />NEU - Lower Wong Tai Sin II Estate waterfall<br />NEU - The Word Drawing<br />NEU - Morse Park Park No.3<br />RES - 棋盤<br />RES - 兔兔<br />RES - 大熊車<br />RES - 體操<br />RES - Compass Pavilion<br />RES - 東頭亭<br />RES - 摩士壁畫<br />RES - Classic playground<br />RES - Sundial<br />RES [Vol] - Morse Park Amphitheatre<br />RES - 永光大壁畫<br />RES - 黃大仙圖書館<br />RES - 籃球<br />RES - 樂富園<br />RES - Entrance<br />RES - 緩跑徑<br />RES - Morse Park No.3<br />RES - 船隻<br />RES - 拱門<br />RES - 摩士公園體育館<br />RES - 黃大仙文化公園<br />RES - Morse Park No. 4<br />RES - Lower Wong Tai Sin Estate<br />RES - Morse Park No.4<br />RES - Ancient Well<br />RES - Angel<br />RES - 椰子<br />RES - 自然保育園地<br />RES - Morse Park Swimming Pool Light Refreshment Restaurant<br />RES - 黃大仙區康樂體育會<br />RES - 黃大仙社區中心<br />RES - 醉和里<br />RES - 黃大仙郵政局<br />RES - 韓詩<br />RES - 太陽G<br />RES - Lower Wong Tai Sin Estate<br />RES - 樂富遊樂場<br />RES - 大口蛙<br />RES - Morse Park No.4 地標<br />RES - 細葉榕<br />RES [Vol] - 太極<br />RES - 大花紫薇<br />RES - 散尾葵<br />RES [Vol] - 摩士之火<br />RES - Morse Park<br />RES - 龍趣園水池<br />RES [Vol] - 滑浪風帆<br />RES - 海豚<br />RES - Morse Park<br />RES - 獅子亭<br />RES - Morse Park No.2<br />RES - 黃大仙是我家壁畫<br />RES - 開心飛鳥<br />RES - Wing Kong Clock Tower<br />RES - 紅皮糙果茶<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Kuala Lumpur - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 61.6 to 31.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 30.6.<br /><br />Portals Owned - RES: 5 - <b>ENL:</b> 11 - [Value: 1 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 10 each]<br />Links Created - <b>RES:</b> 2 - ENL: 1 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (17.6)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 31 - <b>Enlightened</b> - 61.6<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 31 - <b>Enlightened</b> - 61.6<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Broken Vase<br />ENL - Dinosaur Playground<br />ENL - End Fountain at Ruman Tun Razak<br />ENL - Entrance of The Royal Lake Club<br />ENL - Japanese Garden at Abdul Razak Memorial<br />ENL - Monument Fountain<br />ENL - Oasis Garden Entrance<br />ENL - Plak Taman Rusa dan Kancil<br />ENL - Stone Gate<br />ENL - Sunflower Fountain<br />ENL - 小亭子<br />ENL [Vol] - Big Man Made Waterfall<br />ENL [Vol] - Bushy Steg<br />ENL [Vol] - Obelisk<br />NEU - Petrified Tree<br />RES - Helicona Garden Arch<br />RES - Lake Club Fountain<br />RES - Lion Drinking Fountain<br />RES - Petrified Studious Tortoise<br />RES - Scritta Nella Foresta<br />RES [Vol] - Fountains on the Lake<br />RES [Vol] - Park Fountain<br /><br /></div>
+[#### photo: Summary of Anomaly Conditions:
+Taipei - R:108 - E:156.8
+Hong Kong - R:94 - E:31
+Kuala Lumpur - R:31 - E:61.6
+Total - R:233 - E:249.4
+#Helios 3 begins with the balance between the factions resting on the edge of a razor. The Enlightened lead separated by a mere 16.5.  In Kuala Lumpur and Taipei, the Enlightened leveraged Fields to gain the upper hand, while in Hong Kong, the Resistance dominate the ground.
+#Helios: Taipei - Measurement 1 Report
+The Enlightened captured this Measurement, 156.8 to 108.
+The Enlightened currently control this Primary Site, leading by 48.8.
+Portals Owned - RES: 14 - ENL: 46 - [Value: 2 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (44.8)]
+Total for this Measurement:
+Resistance - 108 - Enlightened - 156.8
+Total for this Primary Site:
+Resistance - 108 - Enlightened - 156.8
+Measurement Time Details:
+Original: 5:31 (Minutes:Seconds within Measurement Window)
+Padded String: ``O=*3TN;p$@oM3 5:31 gEWPan7Y%b0
+SHA256 of Padded String: 3c0d9a3accdd22cd7d0c488b1f12c7dfcb70d90068d38fadf21db47e8259312c
+Portal Ownership Details
+ENL - Old Timer Historical Plaque
+ENL - Sports Tile Mural
+ENL - Taipei City Hall
+ENL - Transformer Box
+ENL - 三連大樓
+ENL - 世界首都論壇紀念地圖
+ENL - 人家最愛變電箱了
+ENL - 人間系列-排隊
+ENL - 信義區體操藝術 彩帶
+ENL - 八方天線
+ENL - 台北市議會
+ENL - 台北旌旗教會
+ENL - 國父紀念館 國父銅像
+ENL - 國父紀念館奠基
+ENL - 國父紀念館早操會成立二週年紀念
+ENL - 國父遺像
+ENL - 國膚畫紀
+ENL - 報紙裝飾牆
+ENL - 大機器人帶小屁機器人
+ENL - 夫妻
+ENL - 孫文先生雕像
+ENL - 孫逸仙博士圖書館
+ENL - 尖頂帳蓬
+ENL - 市府戲沙噴水池
+ENL - 彩繪電箱
+ENL - 微笑迎賓
+ENL - 想像的高塔
+ENL - 捷運市政府站-1號出口
+ENL - 撐傘等紅綠燈的台客
+ENL - 教會
+ENL - 日新藝廊
+ENL - 永遠open的朋友
+ENL - 熊貓抱抱
+ENL - 立鶴
+ENL - 翠溪藝廊2
+ENL - 聯合世紀大樓造景
+ENL - 能量板水池
+ENL - 車輪椅
+ENL - 遠雄人壽
+ENL - 遠雄國際中心
+ENL - 遠雄朱銘藝術品
+ENL - 門門牆
+ENL - 風光春更好
+ENL - 風華林逸
+ENL - 飛馬
+ENL - 魚雕像
+ENL [Vol] - 遠雄金融中心雕塑
+NEU - 國父銅像 Dr. Sun Yat-sen
+NEU - 獅子頭噴泉
+NEU - 統一國際大樓
+NEU - 魚兒水中游
+RES - C.I.B.
+RES - Power Box
+RES - Sleeping Buda
+RES - 中山公園
+RES - 人間系列-寶貝
+RES - 國父紀念館
+RES - 國父革命史蹟館碑
+RES - 圓頂
+RES - 市府金字塔（北出口）
+RES - 市民廣場魚魚魚
+RES - 很綠的變電箱
+RES - 明園藝術燈
+RES - 翠溪藝廊
+RES - 靠右邊睡的小孩
+RES [Vol] - 台北市民廣場
+RES [Vol] - 國父紀念館國旗台
+RES [Vol] - 基因鐵證
+RES [Vol] - 音樂花房階梯
+#Helios: Hong Kong - Measurement 1 Report
+The Resistance captured this Measurement, 94 to 31.
+The Resistance currently control this Secondary Site, leading by 63.
+Portals Owned - RES: 51 - ENL: 21 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 1 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 94 - Enlightened - 31
+Total for this Secondary Site:
+Resistance - 94 - Enlightened - 31
+Portal Ownership Details
+ENL - Wall Painting for Better Environment
+ENL - 天氣男
+ENL - 龍趣園牌坊
+ENL - 跑步
+ENL - Morse Park No.4
+ENL - 太極
+ENL - Tung Tau II Estate Fountain
+ENL - Beijing 2008 Olympic Mosaic Mural
+ENL - Big Cross Wall Painting
+ENL - 老虎
+ENL - 黃大仙下村大涼亭
+ENL - 菲島福木
+ENL - Morse Park No.3
+ENL - 黃大仙文化公園
+ENL - Bottle Palm
+ENL - 燕尾山檳榔
+ENL - Wall Painting
+ENL [Vol] - Morse Park No.2 Fountain
+ENL - Wong Tai Sin Cultural Garden
+ENL - 澳洲蒲葵
+ENL - 野兔
+ENL - 馬籃
+NEU - 奧運火炬
+NEU - 對聯
+NEU - 正氣歌
+NEU - Triangular Palm
+NEU - Morse Park NO.1
+NEU - 文化王棕
+NEU - 摩士三號公園指示牌
+NEU - Lower Wong Tai Sin II Estate waterfall
+NEU - The Word Drawing
+NEU - Morse Park Park No.3
+RES - 棋盤
+RES - 兔兔
+RES - 大熊車
+RES - 體操
+RES - Compass Pavilion
+RES - 東頭亭
+RES - 摩士壁畫
+RES - Classic playground
+RES - Sundial
+RES [Vol] - Morse Park Amphitheatre
+RES - 永光大壁畫
+RES - 黃大仙圖書館
+RES - 籃球
+RES - 樂富園
+RES - Entrance
+RES - 緩跑徑
+RES - Morse Park No.3
+RES - 船隻
+RES - 拱門
+RES - 摩士公園體育館
+RES - 黃大仙文化公園
+RES - Morse Park No. 4
+RES - Lower Wong Tai Sin Estate
+RES - Morse Park No.4
+RES - Ancient Well
+RES - Angel
+RES - 椰子
+RES - 自然保育園地
+RES - Morse Park Swimming Pool Light Refreshment Restaurant
+RES - 黃大仙區康樂體育會
+RES - 黃大仙社區中心
+RES - 醉和里
+RES - 黃大仙郵政局
+RES - 韓詩
+RES - 太陽G
+RES - Lower Wong Tai Sin Estate
+RES - 樂富遊樂場
+RES - 大口蛙
+RES - Morse Park No.4 地標
+RES - 細葉榕
+RES [Vol] - 太極
+RES - 大花紫薇
+RES - 散尾葵
+RES [Vol] - 摩士之火
+RES - Morse Park
+RES - 龍趣園水池
+RES [Vol] - 滑浪風帆
+RES - 海豚
+RES - Morse Park
+RES - 獅子亭
+RES - Morse Park No.2
+RES - 黃大仙是我家壁畫
+RES - 開心飛鳥
+RES - Wing Kong Clock Tower
+RES - 紅皮糙果茶
+#Helios: Kuala Lumpur - Measurement 1 Report
+The Enlightened captured this Measurement, 61.6 to 31.
+The Enlightened currently control this Secondary Site, leading by 30.6.
+Portals Owned - RES: 5 - ENL: 11 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 2 - ENL: 1 - [Value: 3 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (17.6)]
+Total for this Measurement:
+Resistance - 31 - Enlightened - 61.6
+Total for this Secondary Site:
+Resistance - 31 - Enlightened - 61.6
+Portal Ownership Details
+ENL - Broken Vase
+ENL - Dinosaur Playground
+ENL - End Fountain at Ruman Tun Razak
+ENL - Entrance of The Royal Lake Club
+ENL - Japanese Garden at Abdul Razak Memorial
+ENL - Monument Fountain
+ENL - Oasis Garden Entrance
+ENL - Plak Taman Rusa dan Kancil
+ENL - Stone Gate
+ENL - Sunflower Fountain
+ENL - 小亭子
+ENL [Vol] - Big Man Made Waterfall
+ENL [Vol] - Bushy Steg
+ENL [Vol] - Obelisk
+NEU - Petrified Tree
+RES - Helicona Garden Arch
+RES - Lake Club Fountain
+RES - Lion Drinking Fountain
+RES - Petrified Studious Tortoise
+RES - Scritta Nella Foresta
+RES [Vol] - Fountains on the Lake
+RES [Vol] - Park Fountain](https://lh4.googleusercontent.com/-VHxpJksCQQc/U-XGXFriiwI/AAAAAAAA-Qk/GxVE_h8jWmE/w1536-h2048/IMG_20140809_144059.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/6sqyGmWhq8Y](https://plus.google.com/+NianticProject/posts/6sqyGmWhq8Y)

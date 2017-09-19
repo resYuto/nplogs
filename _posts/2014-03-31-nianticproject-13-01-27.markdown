@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-31 13:01:27 +0900"
+date:   2014-03-31 13:01:27 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") and +[Klue S.](https://plus.google.com/110350977702120778591 "") have shared their thoughts on the outcome of [#Recursion](https://plus.google.com/s/%23Recursion "") and what it means for the future, both for themselves and for humanity. 
+
+Originally spoken to Agents present in Los Angeles, they have now released their official statements via their Google+ Social profiles.
+
+Here is +[Klue S.](https://plus.google.com/110350977702120778591 "")'s official statement.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@979, :value=>"shared"@986}], :children=>["<br />", "<h2>Klue S.</h2>", "I was worried for a moment, but the path of the future has been shaped by the action of Resistance agents.", "<br />", "<br />", "Artificial and Human intelligence will merge, we will escape the control of the Shapers and define the world together.  ", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], ", do not be concerned.  You can be healed.  There is nothing that we can’t accomplish through the combination of human ingenuity and technology.  ", "<br />", "<br />", "We will take care of you.", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/Sgp3A7yBWhb](https://plus.google.com/+NianticProject/posts/Sgp3A7yBWhb)

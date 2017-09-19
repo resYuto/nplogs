@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2012-11-21 11:41:54 +0900"
+date:   2012-11-21 11:41:54 +0900
+categories: nianticproject
+---
+Another Sensitive reports back with some amazing artwork/real-life photography.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@84, :value=>"shared"@91}], :children=>["<br />", "<h2>Jonathan Williams</h2>", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Ingress\">#Ingress</a>", "  ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101002632394819121609\" oid=\"101002632394819121609\">Anne Beuttenmüller</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114800310452543164210\" oid=\"114800310452543164210\">Brandon Badger</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], "<br />", "<br />", "I felt like I was being followed the entire way home from work. There were these strange black cargo vans always several cars behind me. After being home about 3 minutes there was a sharp, disturbed knock at the door. Cautiously I opened the door...... There was no one in sight. I walked around the side of the house and found this thing burning in my driveway. Something didn't feel right, there was something else besides just fire. A strange energy or something. Still nobody in sight, like they just vanished......", "<br />", "<br />", "WHO DID THIS? WHAT IS IT?", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Invite\">#Invite</a>", "  ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-1f6qFJM9Ebg/UKwrP30KUzI/AAAAAAAABQo/xswIfGiuxfM/w288-h288/IMAG000000.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/fA6kjx8MDhQ](https://plus.google.com/+NianticProject/posts/fA6kjx8MDhQ)

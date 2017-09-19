@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-07-07 15:08:26 +0900"
+date:   2015-07-07 15:08:26 +0900
+categories: nianticproject
+---
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") reveals a rumor that +[Klue S.](https://plus.google.com/110350977702120778591 "") may be in San Diego this week for [#ComicCon2015](https://plus.google.com/s/%23ComicCon2015 ""), perhaps at the +[Ingress](https://plus.google.com/103320655754019011706 "")  [#MissionDay](https://plus.google.com/s/%23MissionDay "")  on Sunday.
+
+Developing...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@891, :value=>"shared"@898}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "I'm tracking some intel that ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " might be headed to San Diego this week. I expect she's going there for  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23ComicCon2015\">#ComicCon2015</a>", " , perhaps in the hope that new revelations about  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressOrigins\">#IngressOrigins</a>", "  might emerge there. It's a possibility I've considered myself. After all, this all began when ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106965960712090580437\" oid=\"106965960712090580437\">Tycho C.</a>"], " disrupted a panel there almost 3 years ago and revealed his first 5 'Visions.'", "<br />", "<br />", "If I can confirm the rumor, you can expect I'll be headed there too. I need to talk to her. I've heard Agents might be gathering for a  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23MissionDay\">#MissionDay</a>", "  on Sunday (", "<a href=\"https://missionday.splashthat.com/\" class=\"ot-anchor\">https://missionday.splashthat.com/</a>", "), and if she's going to show up, I strongly suspect that's where it'll be.", "<br />", "<br />", "Keep your eyes and ears open, and let me know if you see or hear anything.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: *)Y*P#r*2$^Y^&amp;*RG*)S](https://lh3.googleusercontent.com/-TYK2pvMIKeI/VZtrwT8z_jI/AAAAAAAABOQ/tq41-HX-Rxs/w450-h475/Surfacing.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/7xNZZaovG74](https://plus.google.com/+NianticProject/posts/7xNZZaovG74)

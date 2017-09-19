@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-07-20 15:11:14 +0900"
+date:   2015-07-20 15:11:14 +0900
+categories: nianticproject
+---
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") shares his side, and opinion, of the interaction between +[Klue S.](https://plus.google.com/110350977702120778591 "") and Bowles that took place in San Diego recently.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@502, :value=>"shared"@509}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Bowles looked different when I saw him in SD. His time with that exceptionally violent creature has changed him. Henry was always a quiet and socially awkward guy, but he never came across as cold and calculating. Now he does.", "<br />", "<br />", "Some of 855 must have transferred over in their time together. Unfortunate. I knew he was around... I tried to spot him but I couldn't. Guy's a chameleon. Gives me the creeps.", "<br />", "<br />", "Bowles chose not to share most of the conversation with me. Him and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " leaned in and talked in quiet tones. Then, he disappeared into the crowd of Agents at ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23MissionDay\">#MissionDay</a>", " and Klue went back to smiling and interacting with everyone like it was business as usual.", "<br />", "<br />", "I get why Bowles would leave me out of this. Split loyalties, I suppose, but I don't understand why he would be so committed to the destruction of something that he helped create. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], " exists as much because of him as because of me. Scratch that. Way more because of him.", "<br />", "<br />", "Maybe I'm reading too much into the situation. But maybe I'm not. The whole thing leaves me uncomfortable. ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Bowles looked different when I saw him in SD. His time with that exceptionally violent creature has changed him. Henry was always a quiet and socially awkward guy, but he never came across as cold and calculating. Now he does.
+Some of 855 must have transferred over in their time together. Unfortunate. I knew he was around... I tried to spot him but I couldn't. Guy's a chameleon. Gives me the creeps.
+Bowles chose not to share most of the](https://lh3.googleusercontent.com/-9H75kzg0JDk/VayOi0HuSfI/AAAAAAAABSY/mbev_YgtjPQ/w397-h397/Algorithm.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/RYZJYKV25f7](https://plus.google.com/+NianticProject/posts/RYZJYKV25f7)

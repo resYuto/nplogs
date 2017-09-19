@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-06-25 06:16:36 +0900"
+date:   2015-06-25 06:16:36 +0900
+categories: nianticproject
+---
+News has emerged about a special guest with information about +[Tycho C.](https://plus.google.com/106965960712090580437 "") appearing on +[Behind The Scanner](https://plus.google.com/113020726391023655192 "") tomorrow...
+
+Be sure to tune in...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@515, :value=>"shared"@522}], :children=>["<br />", "<h2>Behind The Scanner</h2>", "We have secured someone for tomorrow night's ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/113020726391023655192\" oid=\"113020726391023655192\">Behind The Scanner</a>"], " that has information about the enigma that is Tycho. ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: We have secured someone for tomorrow night's +Behind The Scanner that has information about the enigma that is Tycho. ](https://lh3.googleusercontent.com/-ykJlSyPOtZo/VYsN1OtXnuI/AAAAAAAABts/xPCllC1ZR2U/w210-h199/4zpd6greaniasp4o2t.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/iACbAeCXPXN](https://plus.google.com/+NianticProject/posts/iACbAeCXPXN)

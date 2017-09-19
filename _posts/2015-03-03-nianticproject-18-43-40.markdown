@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-03-03 18:43:40 +0900"
+date:   2015-03-03 18:43:40 +0900
+categories: nianticproject
+---
+"The general impression I get is that pretty much everybody is at a loss right now. Key people have disappeared, and even the spooks are spooked."
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@160, :value=>"shared"@167}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Okay... Somebody posted a shot of me on ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101577681173166935630\" oid=\"101577681173166935630\">Operation Essex</a>"], ". I’ll come clean. I was in D.C. to confirm that Calvin was not present at ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108020987035258478791\" oid=\"108020987035258478791\">IQTech Research</a>"], " and had not returned after the incident with ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], " and Jahan and the Shōnin Stone ceremony or summoning or whatever you want to call it.  ", "<br />", "<br />", "You don’t trail spooks without having spooks trail you. I was made by what I believe to be a couple of different entities.  If their intentions had been nefarious, I’d be dead right now. The general impression I get is that pretty much everybody is at a loss right now.  Key people have disappeared, and even the spooks are spooked. Intel organizations, whether private or public, good or evil default to their key skill set when they don’t know what else to do and are hunting for things left behind by those who have gone missing.  ", "<br />", "<br />", "Expect to hear about a lot of burglaries in the next few days.  Some of you might be asked to help recover information for them.  The only way we stay ahead of the pros is to share that information.  Transparency is the enemy of covert operations.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-QnoqFw-maAs/VPWA294HnFI/AAAAAAAAA3I/qdUVQt8AQTQ/Missing.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/6qEckdhfWFf](https://plus.google.com/+NianticProject/posts/6qEckdhfWFf)

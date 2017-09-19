@@ -1,0 +1,241 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-17 13:21:20 +0900"
+date:   2014-05-17 13:21:20 +0900
+categories: nianticproject
+---
+The Enlightened continue to hold  [#Interitus](https://plus.google.com/s/%23Interitus "")  04, but if the Resistance can take back Brisbane, they'll be able to bounce back. The Enlightened lead is growing, but remains a surmountable challenge.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04 - Measurement 2 Report</b><br /><br />At Measurement 2, <b>The Enlightened</b> control <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 04, leading by 129.5.<br /><br />Summary of Anomaly Conditions:<br />Melbourne - R:200 - <b>E:267.5</b><br />Auckland - <b>R:123</b> - E:53.75<br />Brisbane - R:35 - <b>E:166.25</b><br />Total - R:358 - <b>E:487.5</b><br /><br />Brisbane is slipping into Enlightened control, effectively negating the Resistance upper hand in Auckland. In Melbourne, the Enlightened MegaField continues to provide a slight upper hand to that Faction, but the Resistance are pushing back hard. For the Resistance, the key is Brisbane. If they hope to take the Anomaly, they must reign that Site in. At Measurement 2, the Enlightened have doubled their lead, but at this early juncture, their position remains vulnerable.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Melbourne - Measurement 2 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 137.5 to 102.<br />The <b>Enlightened</b> currently control this Primary Site, leading by 67.5.<br /><br />Portals Owned - RES: 21 - <b>ENL:</b> 35 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +25%, (27.5)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 102 - <b>Enlightened</b> - 137.5<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 200 - <b>Enlightened</b> - 267.5<br /><br /><b>Measurement Time Details:</b><br />Original: 2:33 (Minutes:Seconds within Measurement Window)<br />Padded String:  2:33 xbDXPWbfXUySlKUHrbbmfwZjwLOfCW<br />MD5 of Padded String: 70650865591f1c038b83f21ae8cf20ca<br /><br /><b>Portal Ownership Details</b><br />Resistance - VECCI<br />Resistance - The Conservatory Clover Fountain<br />Resistance - St. Patrick's Cathedral<br />Resistance - St Peter's Anglican Church <br />Resistance - St Patrick's Cathedral Presbytery<br />Resistance - Pools of Silence Fountain<br />Resistance - Original Scotch College<br />Resistance - Model Tudor Village<br />Resistance - Melbourne Conservatory<br />Resistance - John F. Kennedy Memorial<br />Resistance - Invictis Pax<br />Resistance - Fountain Cascade Pools<br />Resistance - Fitzroy Gazebo<br />Resistance - Fitzroy Gardens Historic Fountain<br />Resistance - Fitzroy Gardens Entrance<br />Resistance - East Melbourne Synagogue<br />Resistance - Dragon Slide<br />Resistance - Dallas Brooks Hall<br />Resistance - Bolte and Dunstan statues in T<br />Resistance - Anglican Church of the Holy Trinity<br />Resistance - 1867 Burlington Terrace<br />Resistance - (VOLATILE) - Peel Street Park<br />Resistance - (VOLATILE) - Blue Lookout <br />Resistance - (VOLATILE) - Adventure Time Mural<br />Neutral - Treasury Place<br />Neutral - The Good Shepherd <br />Neutral - Simon Helps Carry the Cross<br />Neutral - Printers Court Fountain<br />Neutral - Old Fire Tower<br />Neutral - Fitzroy Gardens Fountain<br />Neutral - Centenary of Women's Hospital<br />Enlightened - Victorian Artists' Society<br />Enlightened - Trees in Time Plaque<br />Enlightened - Thomas Carr Center<br />Enlightened - The Metropolitan Fire Brigade Foundation Stone<br />Enlightened - The Fairy Tree<br />Enlightened - The Big Spine<br />Enlightened - Story Place<br />Enlightened - St. Catherine of Siena<br />Enlightened - St Vincent's Plaza <br />Enlightened - Sir Charles Augustus Fitz-Roy<br />Enlightened - Salvation Army Training College<br />Enlightened - Saint Mary<br />Enlightened - Sacred Stump<br />Enlightened - Rotunda<br />Enlightened - Metropolitan Fire Brigade Mosaic Mural<br />Enlightened - Masonic Club of Victoria<br />Enlightened - Mary MacKillop Heritage Centre<br />Enlightened - Jesus Statue James Goold House<br />Enlightened - In Memory of Samuel Mauger<br />Enlightened - Hyatt Water Fountain<br />Enlightened - Historical Saint Patrick's College Plaque<br />Enlightened - Hamer Statue<br />Enlightened - Great Petition Sculpture<br />Enlightened - Gospel of John Fountain.<br />Enlightened - Fire Services Museum<br />Enlightened - Engraved Bricks Artwork<br />Enlightened - Dolphin Fountain<br />Enlightened - Daniel O'Connell Statue<br />Enlightened - Church of Holy Annunciation<br />Enlightened - Cherub Fountain<br />Enlightened - Catholic Theological College<br />Enlightened - Captain Cook's Cottage<br />Enlightened - Cain Statue<br />Enlightened - Bird fossil<br />Enlightened - 1895 St Vincent Hospital Plaque<br />Enlightened - (VOLATILE) - Stones on Jollimont <br />Enlightened - (VOLATILE) - Gertrude Street Footpath Mural<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Auckland - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 59 to 23.75.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 69.25.<br /><br />Portals Owned - <b>RES:</b> 19 - ENL: 9 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 2 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +25%, (4.75)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 59 - Enlightened - 23.75<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 123 - Enlightened - 53.75<br /><br /><b>Measurement Time Details:</b><br />Original: 2:33 (Minutes:Seconds within Measurement Window)<br />Padded String:  2:33 xbDXPWbfXUySlKUHrbbmfwZjwLOfCW<br />MD5 of Padded String: 70650865591f1c038b83f21ae8cf20ca<br /><br /><b>Portal Ownership Details</b><br />Resistance - Waihorotiu Stream Tributary<br />Resistance - Voices Carry / Kawe Reo<br />Resistance - Vaulted Ceiling<br />Resistance - Trooper Statue 1902<br />Resistance - The Watcher<br />Resistance - The Old Mutual Life and Citizens Assurance Company <br />Resistance - The Gardener’s Cottage, 1882<br />Resistance - The Dreamer of Auckland<br />Resistance - Sir Dove Myer Robinson<br />Resistance - Red Dancer by Barrry Lett<br />Resistance - New Zealand Laurie Tree <br />Resistance - New Zealand Kauri<br />Resistance - Lord Auckland<br />Resistance - Khartoum Place Fountain<br />Resistance - John Dory Mural<br />Resistance - G.M. Reed Memorial<br />Resistance - Cornell Tower Fountain<br />Resistance - Choice Plaza<br />Resistance - Auckland Uni, Maze Lines <br />Resistance - (VOLATILE) - Twins Sculpture<br />Resistance - (VOLATILE) - Sky Tower<br />Resistance - (VOLATILE) - J. F. Churton Memorial 1850s<br />Resistance - (VOLATILE) - Cardboard Box Birds<br />Neutral - Throwback Neil Dawson<br />Neutral - The Sir George Grey Statue<br />Neutral - The Frank Sargeson Centre<br />Neutral - Silver Feather<br />Neutral - Queen Victoria, 1897<br />Neutral - Molly Macalister 1970<br />Neutral - Metro Sphere <br />Neutral - Manu Tawiowhio by Brett Graham<br />Neutral - Kereru<br />Neutral - Interlocking Metal Sculpture <br />Neutral - Garden and Clock 1953<br />Neutral - Edmiston Amphitheatre<br />Neutral - Central City Library<br />Neutral - AUT Tower Opening Plaque<br />Neutral - Auckland Art Gallery Entrance <br />Neutral - Aspiration Statue<br />Neutral - Aotea: Long White Cloud<br />Neutral - Albert Park Fountain<br />Neutral - Albert Park Cannon<br />Neutral - Albert Park Arch<br />Neutral - Albert Park<br />Neutral - A Grassy Orchard<br />Enlightened - Wind Sculpture<br />Enlightened - Q Theatre<br />Enlightened - Old Auckland Sunday School Union <br />Enlightened - Maori Arch<br />Enlightened - Helen Boyd Statue<br />Enlightened - Clock Tower, Auckland<br />Enlightened - Auckland Town Hall 1911<br />Enlightened - Art Museum Clock Tower<br />Enlightened - Albert Park Bandstand<br />Enlightened - (VOLATILE) - Pillars of Justice<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 04: Brisbane - Measurement 2 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 87.5 to 16.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 131.25.<br /><br />Portals Owned - RES: 16 - <b>ENL:</b> 20 - [Value: 1 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 5 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 2 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +25%, (17.5)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 16 - <b>Enlightened</b> - 87.5<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 35 - <b>Enlightened</b> - 166.25<br /><br /><b>Measurement Time Details:</b><br />Original: 2:33 (Minutes:Seconds within Measurement Window)<br />Padded String:  2:33 xbDXPWbfXUySlKUHrbbmfwZjwLOfCW<br />MD5 of Padded String: 70650865591f1c038b83f21ae8cf20ca<br /><br /><b>Portal Ownership Details</b><br />Resistance - The Sangria Bar<br />Resistance - The Runningman<br />Resistance - The Heads<br />Resistance - Southbank Clem Jones Memorial Tile Mosaic<br />Resistance - Ribbon Dancer Mosaic <br />Resistance - Railway Leaves<br />Resistance - Queensland Maritime Museum<br />Resistance - Metal Flowers Feature<br />Resistance - Honour and Glory<br />Resistance - Fleur Mural<br />Resistance - Dugong Statue<br />Resistance - Coral Chorale <br />Resistance - Butterfly Tile Mosaic<br />Resistance - Burrito Bar Mural<br />Resistance - Boy Flying Kite<br />Resistance - Beach Ball Players<br />Neutral - Train Man is Heroic! <br />Neutral - Swimming Fountain<br />Neutral - South Bank Bus Station<br />Neutral - Slime Splash<br />Neutral - Plasma<br />Neutral - Memorial park gun<br />Neutral - Light House<br />Neutral - Fire Brigade Plaque<br />Neutral - Confucius Statue<br />Neutral - 1630 Long Day<br />Enlightened - Yellow Propeller<br />Enlightened - Witness Box Sculpture<br />Enlightened - Wall Man<br />Enlightened - Southbank Station<br />Enlightened - South Bank Walkway<br />Enlightened - South Bank Train Station Wall Art<br />Enlightened - South Bank Train Station Wall Art<br />Enlightened - South Bank Boganvillia Walk<br />Enlightened - Rolling Shapes<br />Enlightened - River Quay Public Amphitheatre <br />Enlightened - Red Man V<br />Enlightened - Qca Stage<br />Enlightened - Nobbly Poles<br />Enlightened - Nautical Artwork<br />Enlightened - Carpentaria<br />Enlightened - Box Sphere Pyramid<br />Enlightened - Blue Anchor<br />Enlightened - Big Red Box<br />Enlightened - Anchor<br />Enlightened - A Bronzed Aussie &amp; His Blue Heeler Dog<br />Enlightened - (VOLATILE) - Streamers<br />Enlightened - (VOLATILE) - Stefan Skyneedle<br />Enlightened - (VOLATILE) - Kurilpa Dreamtime<br />Enlightened - (VOLATILE) - Handstand man<br />Enlightened - (VOLATILE) - Frog Lullaby<br /><br /></div>
+[#### photo: #Interitus 04 - Measurement 2 Report
+At Measurement 2, The Enlightened control #Interitus 04, leading by 129.5.
+Summary of Anomaly Conditions:
+Melbourne - R:200 - E:267.5
+Auckland - R:123 - E:53.75
+Brisbane - R:35 - E:166.25
+Total - R:358 - E:487.5
+Brisbane is slipping into Enlightened control, effectively negating the Resistance upper hand in Auckland. In Melbourne, the Enlightened MegaField continues to provide a slight upper hand to that Faction, but the Resistance are pushing back hard. For the Resistance, the key is Brisbane. If they hope to take the Anomaly, they must reign that Site in. At Measurement 2, the Enlightened have doubled their lead, but at this early juncture, their position remains vulnerable.
+#Interitus 04: Melbourne - Measurement 2 Report
+The Enlightened captured this Measurement, 137.5 to 102.
+The Enlightened currently control this Primary Site, leading by 67.5.
+Portals Owned - RES: 21 - ENL: 35 - [Value: 2 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - ENL - [Value: +25%, (27.5)]
+Total for this Measurement:
+Resistance - 102 - Enlightened - 137.5
+Total for this Primary Site:
+Resistance - 200 - Enlightened - 267.5
+Measurement Time Details:
+Original: 2:33 (Minutes:Seconds within Measurement Window)
+Padded String:  2:33 xbDXPWbfXUySlKUHrbbmfwZjwLOfCW
+MD5 of Padded String: 70650865591f1c038b83f21ae8cf20ca
+Portal Ownership Details
+Resistance - VECCI
+Resistance - The Conservatory Clover Fountain
+Resistance - St. Patrick's Cathedral
+Resistance - St Peter's Anglican Church
+Resistance - St Patrick's Cathedral Presbytery
+Resistance - Pools of Silence Fountain
+Resistance - Original Scotch College
+Resistance - Model Tudor Village
+Resistance - Melbourne Conservatory
+Resistance - John F. Kennedy Memorial
+Resistance - Invictis Pax
+Resistance - Fountain Cascade Pools
+Resistance - Fitzroy Gazebo
+Resistance - Fitzroy Gardens Historic Fountain
+Resistance - Fitzroy Gardens Entrance
+Resistance - East Melbourne Synagogue
+Resistance - Dragon Slide
+Resistance - Dallas Brooks Hall
+Resistance - Bolte and Dunstan statues in T
+Resistance - Anglican Church of the Holy Trinity
+Resistance - 1867 Burlington Terrace
+Resistance - (VOLATILE) - Peel Street Park
+Resistance - (VOLATILE) - Blue Lookout
+Resistance - (VOLATILE) - Adventure Time Mural
+Neutral - Treasury Place
+Neutral - The Good Shepherd
+Neutral - Simon Helps Carry the Cross
+Neutral - Printers Court Fountain
+Neutral - Old Fire Tower
+Neutral - Fitzroy Gardens Fountain
+Neutral - Centenary of Women's Hospital
+Enlightened - Victorian Artists' Society
+Enlightened - Trees in Time Plaque
+Enlightened - Thomas Carr Center
+Enlightened - The Metropolitan Fire Brigade Foundation Stone
+Enlightened - The Fairy Tree
+Enlightened - The Big Spine
+Enlightened - Story Place
+Enlightened - St. Catherine of Siena
+Enlightened - St Vincent's Plaza
+Enlightened - Sir Charles Augustus Fitz-Roy
+Enlightened - Salvation Army Training College
+Enlightened - Saint Mary
+Enlightened - Sacred Stump
+Enlightened - Rotunda
+Enlightened - Metropolitan Fire Brigade Mosaic Mural
+Enlightened - Masonic Club of Victoria
+Enlightened - Mary MacKillop Heritage Centre
+Enlightened - Jesus Statue James Goold House
+Enlightened - In Memory of Samuel Mauger
+Enlightened - Hyatt Water Fountain
+Enlightened - Historical Saint Patrick's College Plaque
+Enlightened - Hamer Statue
+Enlightened - Great Petition Sculpture
+Enlightened - Gospel of John Fountain.
+Enlightened - Fire Services Museum
+Enlightened - Engraved Bricks Artwork
+Enlightened - Dolphin Fountain
+Enlightened - Daniel O'Connell Statue
+Enlightened - Church of Holy Annunciation
+Enlightened - Cherub Fountain
+Enlightened - Catholic Theological College
+Enlightened - Captain Cook's Cottage
+Enlightened - Cain Statue
+Enlightened - Bird fossil
+Enlightened - 1895 St Vincent Hospital Plaque
+Enlightened - (VOLATILE) - Stones on Jollimont
+Enlightened - (VOLATILE) - Gertrude Street Footpath Mural
+#Interitus 04: Auckland - Measurement 2 Report
+The Resistance captured this Measurement, 59 to 23.75.
+The Resistance currently control this Secondary Site, leading by 69.25.
+Portals Owned - RES: 19 - ENL: 9 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 2 each]
+Single Field Over Entire Cluster - ENL - [Value: +25%, (4.75)]
+Total for this Measurement:
+Resistance - 59 - Enlightened - 23.75
+Total for this Secondary Site:
+Resistance - 123 - Enlightened - 53.75
+Measurement Time Details:
+Original: 2:33 (Minutes:Seconds within Measurement Window)
+Padded String:  2:33 xbDXPWbfXUySlKUHrbbmfwZjwLOfCW
+MD5 of Padded String: 70650865591f1c038b83f21ae8cf20ca
+Portal Ownership Details
+Resistance - Waihorotiu Stream Tributary
+Resistance - Voices Carry / Kawe Reo
+Resistance - Vaulted Ceiling
+Resistance - Trooper Statue 1902
+Resistance - The Watcher
+Resistance - The Old Mutual Life and Citizens Assurance Company
+Resistance - The Gardener’s Cottage, 1882
+Resistance - The Dreamer of Auckland
+Resistance - Sir Dove Myer Robinson
+Resistance - Red Dancer by Barrry Lett
+Resistance - New Zealand Laurie Tree
+Resistance - New Zealand Kauri
+Resistance - Lord Auckland
+Resistance - Khartoum Place Fountain
+Resistance - John Dory Mural
+Resistance - G.M. Reed Memorial
+Resistance - Cornell Tower Fountain
+Resistance - Choice Plaza
+Resistance - Auckland Uni, Maze Lines
+Resistance - (VOLATILE) - Twins Sculpture
+Resistance - (VOLATILE) - Sky Tower
+Resistance - (VOLATILE) - J. F. Churton Memorial 1850s
+Resistance - (VOLATILE) - Cardboard Box Birds
+Neutral - Throwback Neil Dawson
+Neutral - The Sir George Grey Statue
+Neutral - The Frank Sargeson Centre
+Neutral - Silver Feather
+Neutral - Queen Victoria, 1897
+Neutral - Molly Macalister 1970
+Neutral - Metro Sphere
+Neutral - Manu Tawiowhio by Brett Graham
+Neutral - Kereru
+Neutral - Interlocking Metal Sculpture
+Neutral - Garden and Clock 1953
+Neutral - Edmiston Amphitheatre
+Neutral - Central City Library
+Neutral - AUT Tower Opening Plaque
+Neutral - Auckland Art Gallery Entrance
+Neutral - Aspiration Statue
+Neutral - Aotea: Long White Cloud
+Neutral - Albert Park Fountain
+Neutral - Albert Park Cannon
+Neutral - Albert Park Arch
+Neutral - Albert Park
+Neutral - A Grassy Orchard
+Enlightened - Wind Sculpture
+Enlightened - Q Theatre
+Enlightened - Old Auckland Sunday School Union
+Enlightened - Maori Arch
+Enlightened - Helen Boyd Statue
+Enlightened - Clock Tower, Auckland
+Enlightened - Auckland Town Hall 1911
+Enlightened - Art Museum Clock Tower
+Enlightened - Albert Park Bandstand
+Enlightened - (VOLATILE) - Pillars of Justice
+#Interitus 04: Brisbane - Measurement 2 Report
+The Enlightened captured this Measurement, 87.5 to 16.
+The Enlightened currently control this Secondary Site, leading by 131.25.
+Portals Owned - RES: 16 - ENL: 20 - [Value: 1 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 2 each]
+Single Field Over Entire Cluster - ENL - [Value: +25%, (17.5)]
+Total for this Measurement:
+Resistance - 16 - Enlightened - 87.5
+Total for this Secondary Site:
+Resistance - 35 - Enlightened - 166.25
+Measurement Time Details:
+Original: 2:33 (Minutes:Seconds within Measurement Window)
+Padded String:  2:33 xbDXPWbfXUySlKUHrbbmfwZjwLOfCW
+MD5 of Padded String: 70650865591f1c038b83f21ae8cf20ca
+Portal Ownership Details
+Resistance - The Sangria Bar
+Resistance - The Runningman
+Resistance - The Heads
+Resistance - Southbank Clem Jones Memorial Tile Mosaic
+Resistance - Ribbon Dancer Mosaic
+Resistance - Railway Leaves
+Resistance - Queensland Maritime Museum
+Resistance - Metal Flowers Feature
+Resistance - Honour and Glory
+Resistance - Fleur Mural
+Resistance - Dugong Statue
+Resistance - Coral Chorale
+Resistance - Butterfly Tile Mosaic
+Resistance - Burrito Bar Mural
+Resistance - Boy Flying Kite
+Resistance - Beach Ball Players
+Neutral - Train Man is Heroic!
+Neutral - Swimming Fountain
+Neutral - South Bank Bus Station
+Neutral - Slime Splash
+Neutral - Plasma
+Neutral - Memorial park gun
+Neutral - Light House
+Neutral - Fire Brigade Plaque
+Neutral - Confucius Statue
+Neutral - 1630 Long Day
+Enlightened - Yellow Propeller
+Enlightened - Witness Box Sculpture
+Enlightened - Wall Man
+Enlightened - Southbank Station
+Enlightened - South Bank Walkway
+Enlightened - South Bank Train Station Wall Art
+Enlightened - South Bank Train Station Wall Art
+Enlightened - South Bank Boganvillia Walk
+Enlightened - Rolling Shapes
+Enlightened - River Quay Public Amphitheatre
+Enlightened - Red Man V
+Enlightened - Qca Stage
+Enlightened - Nobbly Poles
+Enlightened - Nautical Artwork
+Enlightened - Carpentaria
+Enlightened - Box Sphere Pyramid
+Enlightened - Blue Anchor
+Enlightened - Big Red Box
+Enlightened - Anchor
+Enlightened - A Bronzed Aussie &amp; His Blue Heeler Dog
+Enlightened - (VOLATILE) - Streamers
+Enlightened - (VOLATILE) - Stefan Skyneedle
+Enlightened - (VOLATILE) - Kurilpa Dreamtime
+Enlightened - (VOLATILE) - Handstand man
+Enlightened - (VOLATILE) - Frog Lullaby](https://lh4.googleusercontent.com/-yEzV-tl6Bxg/U3bjBzoyuAI/AAAAAAAAxDA/HIMp5SBRIFU/enlpeeps.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/JxwABJTdf5c](https://plus.google.com/+NianticProject/posts/JxwABJTdf5c)

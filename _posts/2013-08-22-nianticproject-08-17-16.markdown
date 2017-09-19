@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-22 08:17:16 +0900"
+date:   2013-08-22 08:17:16 +0900
+categories: nianticproject
+---
+The Resistance buckle down and capture Measurement 2 of Operation  [#Cassandra](https://plus.google.com/s/%23Cassandra "")  - São Paulo,
+
+One Measurement remains, the Enlightened have a strong advantage from their dominance over Cluster 1, but the Resistance are rallying.
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Sao Paulo<br /><br />The Resistance secure Measurement 2 through the targeting of Volatiles and establishing Portal Links of their own. With many blocking Links, it would be difficult to create a field over Cluster 3 within the city limits. But coordinating with Agents outside the city to create a megafield may be an interesting proposition.<br /><br />Total for the Resistance this Anomaly = 54<br /><b>Total for the Enlightened this Anomaly = 108</b><br /><br /><b>Measurement 2 Details</b><br /><br />The Resistance owned 2 Volatile Portals and 3 Non-Volatile Portals.<br /><b>The Enlightened owned 2 Volatile Portals and 5 Non-Volatile Portals.</b><br /><br /><b>The Resistance had 4 Links standing at Measurement Time.</b><br /><br /><b>Total for the Resistance this Measurement = 31</b><br />Total for the Enlightened this Measurement = 25<br /><br /><b>Measurement Time Details</b><br /><br />Original:   FORTY      NINE     SECONDS    PAST   THE HOUR SHARP<br />Padded: XXFORTYXXXXXXNINEXXXXXSECONDSXXXXPASTXXXTHEXHOURXSHARPXXXXX<br />OTP Key: XWDRDRZYUIIGFQXZPLYPRVUAWIPRJOXEIWYQPLTEBJNJSEHXXSZZUXNTRZF<br />Encrypted String: UTIFUKXVRFFDCDFMTIVMOSMEYWCUBLUBFLYIIIQBUQRGZSBOUKGZLMKQOWC<br />MD5 of OTP Key: E63E9178C1DE5CDEF33487D05C5E07BD<br /><br /></div>
+[#### photo: undefined](https://lh3.googleusercontent.com/-CyDhz9RSHx4/UhVIlhDLnQI/AAAAAAAAPao/cq4CHVzVVvM/cassandra-saopaulo-2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/d557tsiPDy5](https://plus.google.com/+NianticProject/posts/d557tsiPDy5)

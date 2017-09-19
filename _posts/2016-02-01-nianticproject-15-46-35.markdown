@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-01 15:46:35 +0900"
+date:   2016-02-01 15:46:35 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Niantic Project</h2>PAC's Weekly Wrap-up: January 31, 2016<br /><br />  Now that Investigate: Ingress has been up for a few days, I thought it’d be a good idea to see what we’ve learned since Obsidian began. I’m going to try and make this a weekly thing… a brief look back to help put our future in focus. Since this is the…<br /><br /></div>
+- - -
+[https://plus.google.com/+NianticProject/posts/Aw6anvNNc1L](https://plus.google.com/+NianticProject/posts/Aw6anvNNc1L)

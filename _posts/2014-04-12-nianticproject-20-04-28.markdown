@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-12 20:04:28 +0900"
+date:   2014-04-12 20:04:28 +0900
+categories: nianticproject
+---
+[#INTERITUS](https://plus.google.com/s/%23INTERITUS "") 01
+
+The first  [#Interitus](https://plus.google.com/s/%23Interitus "")  Anomaly has begun.  Here are the Volatiles for Cluster 1 in Malaga and Glasgow.
+
+Good luck, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@337, :value=>"shared"@344}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 01 - MALAGA, GLASGOW - C1 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/LDUR5q\" class=\"ot-anchor\">http://goo.gl/LDUR5q</a>", " ", "<br />", "<br />", "MD5: b7459690a3f2765ceb46c78fb7a743de", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105872072609060023509\" oid=\"105872072609060023509\">Marcos Lázaro</a>"], " in Malaga.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #INTERITUS 01 - MALAGA, GLASGOW - C1 VOLs
+Volatiles: http://goo.gl/LDUR5q 
+MD5: b7459690a3f2765ceb46c78fb7a743de
+Photo by Agent +Marcos Lázaro in Malaga.](https://lh3.googleusercontent.com/-HPdp4Hl9rGY/U0kcAEWdpfI/AAAAAAAAqsw/DdPeprR53VU/w1536-h2048/IMG_20140412_121332.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Jyws7yxvuC2](https://plus.google.com/+NianticProject/posts/Jyws7yxvuC2)

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-05 11:47:41 +0900"
+date:   2014-08-05 11:47:41 +0900
+categories: nianticproject
+---
++[Martin Schubert](https://plus.google.com/100425314717666507497 "") reveals that, as expected, +[Devra Bogdanovich](https://plus.google.com/102598577258553073047 "") has continued to improve her 'Portal Virus' technology and a full scale deployment is imminent.
+
+Although hardened, the Virus remains susceptible to increased XM activity. Schubert's research suggests that by controlling 1 Billion Mind Units, as measured at the end of the upcoming [#Helios](https://plus.google.com/s/%23Helios "") Anomaly in Chicago, Agents may be able to mitigate its effects entirely.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@885, :value=>"shared"@892}], :children=>["<br />", "<h2>Martin Schubert</h2>", "We expected that ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], " would continue to improve her 'Portal Virus' technology.", "<br />", "<br />", "Data emerged today that suggests that she may have begun deployment of a new, more robust iteration of the Virus. At this point, it seems the rollout will not fully impact the global Portal Network until August 7th. When it does, it will partially undo some of the gains made by Agents in recent days.", "<br />", "<br />", "As always, however, where there is a will, there is a way. Initial research suggests the the new version of the Virus, though improved, remains vulnerable to heightened XM activity.", "<br />", "<br />", "The data suggests that bringing one billion Mind Units under control, measured at the final Measurement of the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", " Anomaly in Chicago this weekend, will mitigate the effects of the second deployment of the Portal Virus.", "<br />", "<br />", "Should that attempt fail, it is likely that the heightened decay rate caused by the second deployment will remain in effect unless some other more permanent solution can be found using the Helios Artifacts.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-D44JzvWP9RQ/U-BDDqdkiUI/AAAAAAAABjA/5u6ss9YaXMc/Billion.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/6koHMARXphd](https://plus.google.com/+NianticProject/posts/6koHMARXphd)

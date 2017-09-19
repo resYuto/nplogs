@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-02-16 04:48:59 +0900"
+date:   2014-02-16 04:48:59 +0900
+categories: nianticproject
+---
+Cluster 2 Volatiles
+
+ [#Recursion](https://plus.google.com/s/%23Recursion "")  - Louisville and Columbus
+
+Good luck, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@192, :value=>"shared"@199}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b>VOLATILES - LOUISVILLE, COLUMBUS - C2</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/vRp5hC\" class=\"ot-anchor\">http://goo.gl/vRp5hC</a>", "<br />", "<br />", "MD5: c864b6f4d6e92193c69f52a9c613636b", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106667155955720070691\" oid=\"106667155955720070691\">Nancy Moïse Haws</a>"], ".", "<br />", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a>", "  ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh5.googleusercontent.com/-NGgtL1UZ3Tw/Uv_DwFdtbbI/AAAAAAAAi34/CL1wPmB4aSE/IMG_20140215_132137.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/cpcS661R7dd](https://plus.google.com/+NianticProject/posts/cpcS661R7dd)

@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-27 05:06:34 +0900"
+date:   2014-06-27 05:06:34 +0900
+categories: nianticproject
+---
+[#IngressIO](https://plus.google.com/s/%23IngressIO "")  
+
+The Enlightened at Google IO and IO Extended Sites secure the Measurement, and look to the 4:30 PM PDT Measurement to regain additional ground.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@255, :value=>"shared"@262}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressIO\">#IngressIO</a></b>", "<b> - Measurement 2 Report</b>", " ", "<br />", "<br />", "The Enlightened secure M2 and make forward progress going into the 4:30 and 6:30 PM PDT Measurement Times.", "<br />", "<br />", "Event page: ", "<a href=\"http://goo.gl/RfkG99\" class=\"ot-anchor\">http://goo.gl/RfkG99</a>", " ", "<br />", "<br />", "The ", "<b>Enlightened</b>", " captured this Measurement, 410 to 140.", "<br />", "The ", "<b>Resistance</b>", " currently control this Burst Site, leading by 1105.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 11 - ENL: 5 - [Value: 5 each]", "<br />", "Volatile Portals Owned - ", "<b>RES:</b>", " 3 - ENL: 2 - [Value: 25 each]", "<br />", "Links Created - RES: 1 - ", "<b>ENL:</b>", " 16 - [Value: 10 each]", "<br />", "Anchored Fields Created - RES: 0 - ", "<b>ENL:</b>", " 7 - [Value: 25 each]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "Resistance - 140 - ", "<b>Enlightened</b>", " - 410", "<br />", "<br />", "<b>Total for this Burst Op:</b>", "<br />", "<b>Resistance</b>", " - 1615 - Enlightened - 510", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "Resistance - Union Square", "<br />", "Resistance - San Francisco Post Office", "<br />", "Resistance - Rotunda at Neiman Marcus ", "<br />", "Resistance - Market Street Angel", "<br />", "Resistance - Jamba Juice Macy's San Francisco", "<br />", "Resistance - Hotel St Francis.", "<br />", "Resistance - Historic Union Trust Building", "<br />", "Resistance - Hearst Building", "<br />", "Resistance - Dewey Monument - Union Square", "<br />", "Resistance - Barbary Coast Trail Plaque ", "<br />", "Resistance - Barbary Coast Trail Compass", "<br />", "Resistance - (VOLATILE) - Freeside Hacker Space", "<br />", "Resistance - (VOLATILE) - Expo Guadalajara", "<br />", "Resistance - (VOLATILE) - Blender", "<br />", "Neutral - Water Spitting Baby", "<br />", "Neutral - Shreve &amp; Co.", "<br />", "Neutral - Showing Some Love in Union Square", "<br />", "Neutral - Shield at the San Francisco Welcome Center ", "<br />", "Neutral - Sears Fine Food", "<br />", "Neutral - San Francisco Fountain", "<br />", "Neutral - Number 57 Station San Francisc", "<br />", "Neutral - Monadnock", "<br />", "Neutral - Mayors of San Francisco", "<br />", "Neutral - Maiden Lane", "<br />", "Neutral - Joshua Iron Work ", "<br />", "Neutral - Ian Ross Mural @ Livefyre", "<br />", "Neutral - Barbary Coast Trail Marker", "<br />", "Neutral - Atlas Clock at Tiffany", "<br />", "Neutral - Asian Arts Center", "<br />", "Neutral - 450 Sutter", "<br />", "Enlightened - Without Labor", "<br />", "Enlightened - Reflective Building", "<br />", "Enlightened - Phelan Building", "<br />", "Enlightened - Old Chronicle Building", "<br />", "Enlightened - Lotta's Fountain", "<br />", "Enlightened - (VOLATILE) - The National Guard Memorial", "<br />", "Enlightened - (VOLATILE) - College Hall - Montclair State University", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 2:38 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: tDViSShRHKzrRPcyVqAPhLvqqZ 2:38 dJmR", "<br />", "MD5 of Padded String: 423ccba8bf18806619e339f4f2b09ec8", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/111276292565019024642\" oid=\"111276292565019024642\">Torsten Kirmse</a>"], ".", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #IngressIO - Measurement 2 Report 
+The Enlightened secure M2 and make forward progress going into the 4:30 and 6:30 PM PDT Measurement Times.
+Event page: http://goo.gl/RfkG99 
+The Enlightened captured this Measurement, 410 to 140.
+The Resistance currently control this Burst Site, leading by 1105.
+Portals Owned - RES: 11 - ENL: 5 - [Value: 5 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 25 each]
+Links Created - RES: 1 - ENL: 16 - [Value: 10 each]
+Anchored Fields Created - RES: 0 - ENL: 7 - [Value: 25 each]
+Total for this Measurement:
+Resistance - 140 - Enlightened - 410
+Total for this Burst Op:
+Resistance - 1615 - Enlightened - 510
+Portal Ownership Details
+Resistance - Union Square
+Resistance - San Francisco Post Office
+Resistance - Rotunda at Neiman Marcus
+Resistance - Market Street Angel
+Resistance - Jamba Juice Macy's San Francisco
+Resistance - Hotel St Francis.
+Resistance - Historic Union Trust Building
+Resistance - Hearst Building
+Resistance - Dewey Monument - Union Square
+Resistance - Barbary Coast Trail Plaque
+Resistance - Barbary Coast Trail Compass
+Resistance - (VOLATILE) - Freeside Hacker Space
+Resistance - (VOLATILE) - Expo Guadalajara
+Resistance - (VOLATILE) - Blender
+Neutral - Water Spitting Baby
+Neutral - Shreve &amp; Co.
+Neutral - Showing Some Love in Union Square
+Neutral - Shield at the San Francisco Welcome Center
+Neutral - Sears Fine Food
+Neutral - San Francisco Fountain
+Neutral - Number 57 Station San Francisc
+Neutral - Monadnock
+Neutral - Mayors of San Francisco
+Neutral - Maiden Lane
+Neutral - Joshua Iron Work
+Neutral - Ian Ross Mural @ Livefyre
+Neutral - Barbary Coast Trail Marker
+Neutral - Atlas Clock at Tiffany
+Neutral - Asian Arts Center
+Neutral - 450 Sutter
+Enlightened - Without Labor
+Enlightened - Reflective Building
+Enlightened - Phelan Building
+Enlightened - Old Chronicle Building
+Enlightened - Lotta's Fountain
+Enlightened - (VOLATILE) - The National Guard Memorial
+Enlightened - (VOLATILE) - College Hall - Montclair State University
+Measurement Time Details:
+Original: 2:38 (Minutes:Seconds within Measurement Window)
+Padded String: tDViSShRHKzrRPcyVqAPhLvqqZ 2:38 dJmR
+MD5 of Padded String: 423ccba8bf18806619e339f4f2b09ec8
+Photo by Agent +Torsten Kirmse.](https://lh3.googleusercontent.com/-XTdLrfkuAuI/U6x4TEJuiZI/AAAAAAAA3bk/wYsPK5ehyqE/w1600-h1200/IMG_20140626_175232.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/V3fYYt4bjnp](https://plus.google.com/+NianticProject/posts/V3fYYt4bjnp)

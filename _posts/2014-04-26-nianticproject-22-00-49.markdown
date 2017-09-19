@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-26 22:00:49 +0900"
+date:   2014-04-26 22:00:49 +0900
+categories: nianticproject
+---
+Measurement 1 approaches... time to start planning ahead.
+
+Here are the Volatiles Portals for  [#Interitus](https://plus.google.com/s/%23Interitus "")  02 - London, Frankfurt and Stockholm.
+
+London Volatiles were also discovered by Agents on the ground there.
+
+Good luck.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@345, :value=>"shared"@352}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 02 - LONDON, FRANKFURT, STOCKHOLM - C2 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/pvN1FO\" class=\"ot-anchor\">http://goo.gl/pvN1FO</a>", "<br />", "<br />", "MD5: 116e1f091e8a01697afcb62d9f160352", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115157215396012183106\" oid=\"115157215396012183106\">Peter Schjøtler</a>"], " in Stockholm.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-KaEagBqqLc0/U1ustj3SJkI/AAAAAAAAszM/Z4xONsb3sK0/stockholm_group_ptr.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/WJFzBRjF3BR](https://plus.google.com/+NianticProject/posts/WJFzBRjF3BR)

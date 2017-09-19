@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-10-01 16:01:11 +0900"
+date:   2015-10-01 16:01:11 +0900
+categories: nianticproject
+---
+Did +[enoch dalby](https://plus.google.com/114348053832535597563 "") write the algorithm generating his music himself, or did he have help?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@279, :value=>"shared"@286}], :children=>["<br />", "<h2>Klue S.</h2>", "Hank.", "<br />", "<br />", "Thank you for sharing the story of how you tried to track down ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114348053832535597563\" oid=\"114348053832535597563\">enoch dalby</a>"], " and ended up finding his hologram.", "<br />", "<br />", "I'm disturbed by one aspect of your recollection, the idea that an algorithm was playing the music.", "<br />", "<br />", "My understanding is that enoch was an artist, not a technician...", "<br />", "<br />", "You knew him better than most, I suspect. Maybe PAC knew him a bit as well. So, tell me... Do you think this algorithm could have been something he created himself? Or do you think he had help...", "<br />", "<br />", "I have no insider knowledge about ADA helping enoch build any such algorithm, but if she was able to distill someone's creative spark into a systematic function, I think it would be good to know...", "<br />", "<br />", "(P.S. Thanks ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106965960712090580437\" oid=\"106965960712090580437\">Tycho C.</a>"], " for the enoch image!)", "<br />", "<br />"], :ignore=>true}}
+[#### photo: AcZsCwSvCVxxWHScDuWaBfAwFyUxbGsshFtwAfVtGYzugWuhfEsxAvBxDwVxvCehfBvtWABhDsZbVBZf](https://lh3.googleusercontent.com/-DpmZGAXKH70/VgzZNoL4b0I/AAAAAAAABHY/Vq3Caan8PB0/w800-h800/Help.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/dMREJG1VoCb](https://plus.google.com/+NianticProject/posts/dMREJG1VoCb)

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-24 15:55:54 +0900"
+date:   2014-05-24 15:55:54 +0900
+categories: nianticproject
+---
+Two forms of the Resistance Glyph have been discovered by Agents and Investigators.
+
+According to +[Daniel Beaudoin](https://plus.google.com/116675615740217671707 "")'s [http://www.glyphtionary.com](http://www.glyphtionary.com/ ""), the first (Type A) is listed as Resistance, while the second is listed as 'Unknown.'
+
++[Stein Lightman](https://plus.google.com/115238965157544465033 ""), in his most recent post, proposes that the two Glyphs may represent alternative interpretations of Resistance ideology, an idea that's been floated before in these circles, and asks some interesting questions in the process. 
+
+Head to the post to read more...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@957, :value=>"shared"@964}], :children=>["<br />", "<h2>Stein Lightman</h2>", "In light of the recent developments with my former colleague, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], ", I returned to examine these two Glyphs.", "<br />", "<br />", "It took me some time before deciding to call them 'Type A' and 'Type B.' Initially I had considered naming them 'Traditional' vs 'Alternative' or perhaps 'Initial' and 'Other,' but it occurred to me that we do not yet know the exact nature of each. By naming them Types A and B, I hope to place them on equal grounds for analysis.", "<br />", "<br />", "Here is my hypothesis, and I say 'my' loosely as I know other Investigators have raised this theory on their own as well: These Glyphs represent two entirely different interpretations of Resistance ideology. ", "<br />", "<br />", "One of them represents those who seek to utilize Exotic Matter, the Portals and the Ordered Data Signal to further a human-centric cause. In practice, they choose to utilize the Ingress Scanner to build Resistance Portals, Links and Fields, using this tool for what they believe is the betterment of mankind.", "<br />", "<br />", "The other represents a more fundamental view towards Exotic Matter and its manifestations, i.e. that XM is intrinsically problematic, dangerous, a threat to mankind and must be stopped. This interpretation would of course be in line with Dr. Bogdanovich's thinking.", "<br />", "<br />", "As to which is which, I have my theories, but I would rather hear yours before offering my own opinion.", "<br />", "<br />", "There are other things I am curious about as well: ", "<br />", "<br />", "Which of these two fundamental philosophies do you personally gravitate towards, and why? ", "<br />", "<br />", "Do the Enlightened, too, have a fundamental schism in the interpretation of their ideology? What is it?", "<br />", "<br />", "I look forward to our discussion.", "<br />", "<br />"], :ignore=>true}}
+[#### album: 2014-05-23](https://plus.google.com/photos/115238965157544465033/albums/6016878597410184577 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Y6cJUgohfs4](https://plus.google.com/+NianticProject/posts/Y6cJUgohfs4)

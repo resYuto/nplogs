@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2012-11-21 01:43:36 +0900"
+date:   2012-11-21 01:43:36 +0900
+categories: nianticproject
+---
+Yesterday, I wrote about Sensitives. Now, he seems to be one. {:element=>{:name=>"div", :attributes=>[{:name=>"class"@67, :value=>"shared"@74}], :children=>["<br />", "<h2>Steve Stuart</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114800310452543164210\" oid=\"114800310452543164210\">Brandon Badger</a>"], " When you start looking, they're everywhere. I feel like it's speaking to me, I just can't make out the meaning.", "<br />", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23ingress\">#ingress</a>", "  ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-OlzSWf13qww/UKpRZHHXoVI/AAAAAAAAAuo/5puyi90jYZ0/w288-h288/Nebula%2BIngress.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/h4F2VSc9aQv](https://plus.google.com/+NianticProject/posts/h4F2VSc9aQv)

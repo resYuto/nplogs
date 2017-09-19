@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2015-01-18 17:47:50 +0900"
+date:   2015-01-18 17:47:50 +0900
+categories: nianticproject
+---
++[Martin Schubert](https://plus.google.com/100425314717666507497 "") shares his thoughts on learning to think like +[Hank Johnson](https://plus.google.com/117792105926525258257 ""), discovering truth within legends and myths.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@491, :value=>"shared"@498}], :children=>["<br />", "<h2>Martin Schubert</h2>", "Each time I try to follow in ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], "'s footsteps, I grow to respect him even more.", "<br />", "<br />", "What an amazing skill it is to be able to look at a network of coded memories and think: How did time and generations of retelling slowly morph what was once an epiphany and a truth, into a deeply nested metaphor.", "<br />", "<br />", "I lack Hank's innate talent, but I am slowly coming to realize that the skill is actually an act of creative thinking -- imagination. To look at a metaphor and ask: Where in our reality does this piece fit? It is like solving a puzzle: Testing the edges, looking for the patterns.", "<br />", "<br />", "Soon, one is roaming a universe of possibilities. It is exhilarating. A mythical place can become a place, an asteroid, perhaps even the black hole at the center of the galaxy. ", "<br />", "<br />", "When the next piece fits into the puzzle, it both opens new possibilities and closes others. ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Each time I try to follow in +Hank Johnson's footsteps, I grow to respect him even more.
+What an amazing skill it is to be able to look at a network of coded memories and think: How did time and generations of retelling slowly morph what was once an epiphany and a truth, into a deeply nested metaphor.
+I lack Hank's innate talent, but I am slowly coming to realize that the skill is actually an act of creative thinking -- imagination. To look at a metaphor and ask: Where in our reality does this piece fit? It is like solving a puzzle: Testing the edges, looking for the patterns.
+Soon, one is roaming a universe of possibilities. It is exhilarating. A mythical place can become a place, an asteroid, perhaps even the black hole at the center of the galaxy.
+When the next piece fits into the puzzle, it both opens new possibilities and closes others. ](https://lh3.googleusercontent.com/-timRr2J0XhU/VLtxpmY5l9I/AAAAAAAACW8/gw2ebnJbhTs/w1200-h1163/Excellent.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/dVhh8PhRMph](https://plus.google.com/+NianticProject/posts/dVhh8PhRMph)

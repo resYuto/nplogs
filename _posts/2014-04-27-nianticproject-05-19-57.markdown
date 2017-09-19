@@ -1,0 +1,169 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-27 05:19:57 +0900"
+date:   2014-04-27 05:19:57 +0900
+categories: nianticproject
+---
+Colorado Springs may hold the key to Enlightened success today, as they struggle to fight back an overhead Resistance megafield in Flagstaff and the advantage gained in Europe and across the globe by Resistance Agents earlier today. 
+
+Measurement 1 is in.
+
+The clock is ticking.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02 Measurement 1 Report</b><br /><br />The <b>Enlightened</b> have established a stronghold in Colorado Springs and maintain a slight edge in Salt Lake City. Despite a stronger Resistance performance in Flagstaff, the Enlightened have captured an early advantage at the American vector of today’s <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 02 Anomaly, leading by 25 (235 to 210). <br /><br />They are slowly beginning to chip away at the Resistance lead established earlier today. The Anomaly overall stands at 1592 to 1096, <b>Resistance</b> leading by 496.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Flagstaff - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 162 to 72.<br />The <b>Resistance</b> currently control this Primary Site, leading by 90.<br /><br />Portals Owned - <b>RES:</b> 11 - ENL: 6 - [Value: 2 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: 100]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 162 - Enlightened - 72<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 162 - Enlightened - 72<br /><br /><b>Measurement Time Details:</b><br />Original: 4:32 (Minutes:Seconds within Measurement Window)<br />Padded String: K 4:32 XICUBaRVFpiOcJPcgPcEdwRZAqXbV<br />MD5 of Padded String: 3368405747f26ab953d2af1fc285c2f9<br /><br /><b>Portal Ownership Details</b><br />Resistance - Walkup Dome<br />Resistance - Tuffy<br />Resistance - The Benchmark<br />Resistance - Nau Practice Putting Hole<br />Resistance - NAU FCB<br />Resistance - Image of NAU<br />Resistance - Holy Innocent Garden<br />Resistance - Grampy<br />Resistance - Church of Jesus Christ of Later Day Saints <br />Resistance - Art at NAU - Social &amp; Behavior<br />Resistance - Arizona Boys State<br />Resistance - (VOLATILE) - Northern Arizona's Largest Electronic Train Display <br />Resistance - (VOLATILE) - LDS Church Lake Mary <br />Neutral - SSLUG Garden<br />Neutral - Jesus Statue <br />Enlightened - The Geekery<br />Enlightened - Stone Cross<br />Enlightened - Forestry Science Building<br />Enlightened - Campus Coffee Bean Guitar Mural<br />Enlightened - Buster's Restaurant and Bar<br />Enlightened - Axe Man<br />Enlightened - (VOLATILE) - Ponderosa Trails South <br />Enlightened - (VOLATILE) - Ponderosa Trails Park <br />Enlightened - (VOLATILE) - Bow and Arrow Park<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Salt Lake City - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 58 to 49.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 9.<br /><br />Portals Owned - <b>RES:</b> 19 - ENL: 10 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - RES: 0 - <b>ENL:</b> 14 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: 50]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 49 - <b>Enlightened</b> - 58<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 49 - <b>Enlightened</b> - 58<br /><br /><b>Measurement Time Details:</b><br />Original: 4:32 (Minutes:Seconds within Measurement Window)<br />Padded String: K 4:32 XICUBaRVFpiOcJPcgPcEdwRZAqXbV<br />MD5 of Padded String: 3368405747f26ab953d2af1fc285c2f9<br /><br /><b>Portal Ownership Details</b><br />Resistance - World War I Memorial<br />Resistance - Utah's Medal of Honor Recipien<br />Resistance - Utah State Capitol<br />Resistance - Utah Law Enforcement Memorial<br />Resistance - Twin Lions West<br />Resistance - Statue of Massassoit<br />Resistance - State of Utah Millennial Time Capsule<br />Resistance - Old City Hall<br />Resistance - Martin Luther King Jr. Tree<br />Resistance - Lion Statues, Utah State Capitol<br />Resistance - Lest We Forget<br />Resistance - House of Representatives - State of Utah<br />Resistance - Garden of Perception<br />Resistance - Ensign Peak<br />Resistance - Eliza R. Snow - Leader of Pioneer Women<br />Resistance - Daughters of Utah Pioneers<br />Resistance - daniel cowan jackling statue<br />Resistance - Capitol Hill Ward House<br />Resistance - Capital Hill Fountain, Salt Lake City<br />Resistance - (VOLATILE) - Silver Park Plaque<br />Resistance - (VOLATILE) - Gold Star Hill<br />Resistance - (VOLATILE) - Edward H. Harriman<br />Neutral - Thomas L Kane Statute<br />Neutral - Sleep Soldier Boy Podium<br />Neutral - Rotary Steps<br />Neutral - Panorama of Memory Grove Park<br />Neutral - Memory Grove<br />Neutral - Memorial House <br />Neutral - Memorial Alter<br />Neutral - Martha Hughes Cannon Statute<br />Neutral - Liberty Bell Replica<br />Neutral - Horizon Grove <br />Neutral - Highland High School Plaque<br />Neutral - Entrance to Memory Grove Park<br />Enlightened - The Mormon Battalion<br />Enlightened - State Capitol Vietnam War Memo<br />Enlightened - Monument<br />Enlightened - Missing Statue<br />Enlightened - Meditation Chapel War Memorial<br />Enlightened - Korea War Memorial<br />Enlightened - Gold Star Mother - Martha A. Davies<br />Enlightened - Daughters of Utah Pioneer Museum<br />Enlightened - Capitol Hill Owl <br />Enlightened - Anderson Tower <br />Enlightened - (VOLATILE) - The Colonial House<br />Enlightened - (VOLATILE) - Gibbs-Thomas-Hansen Home<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Colorado Springs - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 123 to 26.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 97.<br /><br />Portals Owned - <b>RES:</b> 18 - ENL: 1 - [Value: 1 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 5 - [Value: 10 each]<br />Links Created - RES: 4 - <b>ENL:</b> 11 - [Value: 2 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: 50]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 26 - <b>Enlightened</b> - 123<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 26 - <b>Enlightened</b> - 123<br /><br /><b>Measurement Time Details:</b><br />Original: 4:32 (Minutes:Seconds within Measurement Window)<br />Padded String: K 4:32 XICUBaRVFpiOcJPcgPcEdwRZAqXbV<br />MD5 of Padded String: 3368405747f26ab953d2af1fc285c2f9<br /><br /><b>Portal Ownership Details</b><br />Resistance - Wooglin's Deli Graffiti<br />Resistance - William Spencer Center<br />Resistance - Unique Art<br />Resistance - Survivor II<br />Resistance - St. Stephen's Church Tower<br />Resistance - Sperry &amp; Ella Graber Packard Hall<br />Resistance - Quan Memorial Bench <br />Resistance - Paninos Restaurant<br />Resistance - Money Museum<br />Resistance - Marble Iron Art<br />Resistance - First Congregational Church<br />Resistance - Edith Kinney Gaylord Cornersto<br />Resistance - Colorado Springs by Donald Bar<br />Resistance - Castle House<br />Resistance - Cascade Park Mansion<br />Resistance - Big Chrome Birds<br />Resistance - Armstrong Hall<br />Resistance - American Numismatic Association<br />Neutral - Tribes sculpture<br />Neutral - The Family<br />Neutral - Taylor Museum<br />Neutral - Spike Ball<br />Neutral - Monument Valley Park<br />Neutral - Inca Mural<br />Neutral - Fine Art Center Parking Mural<br />Neutral - Fine Art Center Mural East<br />Neutral - Bemis School of Art<br />Enlightened - Fiesta Jarabe<br />Enlightened - (VOLATILE) - W.R. Brossman Memorial Bench<br />Enlightened - (VOLATILE) - Van Briggle Building<br />Enlightened - (VOLATILE) - The Caretaker<br />Enlightened - (VOLATILE) - Olin Hall Statue <br />Enlightened - (VOLATILE) - Concrete Man<br /><br /></div>
+[#### photo: #Interitus 02 Measurement 1 Report
+The Enlightened have established a stronghold in Colorado Springs and maintain a slight edge in Salt Lake City. Despite a stronger Resistance performance in Flagstaff, the Enlightened have captured an early advantage at the American vector of today’s #Interitus 02 Anomaly, leading by 25 (235 to 210).
+They are slowly beginning to chip away at the Resistance lead established earlier today. The Anomaly overall stands at 1592 to 1096, Resistance leading by 496.
+#Interitus 02: Flagstaff - Measurement 1 Report
+The Resistance captured this Measurement, 162 to 72.
+The Resistance currently control this Primary Site, leading by 90.
+Portals Owned - RES: 11 - ENL: 6 - [Value: 2 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - RES - [Value: 100]
+Total for this Measurement:
+Resistance - 162 - Enlightened - 72
+Total for this Primary Site:
+Resistance - 162 - Enlightened - 72
+Measurement Time Details:
+Original: 4:32 (Minutes:Seconds within Measurement Window)
+Padded String: K 4:32 XICUBaRVFpiOcJPcgPcEdwRZAqXbV
+MD5 of Padded String: 3368405747f26ab953d2af1fc285c2f9
+Portal Ownership Details
+Resistance - Walkup Dome
+Resistance - Tuffy
+Resistance - The Benchmark
+Resistance - Nau Practice Putting Hole
+Resistance - NAU FCB
+Resistance - Image of NAU
+Resistance - Holy Innocent Garden
+Resistance - Grampy
+Resistance - Church of Jesus Christ of Later Day Saints
+Resistance - Art at NAU - Social &amp; Behavior
+Resistance - Arizona Boys State
+Resistance - (VOLATILE) - Northern Arizona's Largest Electronic Train Display
+Resistance - (VOLATILE) - LDS Church Lake Mary
+Neutral - SSLUG Garden
+Neutral - Jesus Statue
+Enlightened - The Geekery
+Enlightened - Stone Cross
+Enlightened - Forestry Science Building
+Enlightened - Campus Coffee Bean Guitar Mural
+Enlightened - Buster's Restaurant and Bar
+Enlightened - Axe Man
+Enlightened - (VOLATILE) - Ponderosa Trails South
+Enlightened - (VOLATILE) - Ponderosa Trails Park
+Enlightened - (VOLATILE) - Bow and Arrow Park
+#Interitus 02: Salt Lake City - Measurement 1 Report
+The Enlightened captured this Measurement, 58 to 49.
+The Enlightened currently control this Secondary Site, leading by 9.
+Portals Owned - RES: 19 - ENL: 10 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 14 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: 50]
+Total for this Measurement:
+Resistance - 49 - Enlightened - 58
+Total for this Secondary Site:
+Resistance - 49 - Enlightened - 58
+Measurement Time Details:
+Original: 4:32 (Minutes:Seconds within Measurement Window)
+Padded String: K 4:32 XICUBaRVFpiOcJPcgPcEdwRZAqXbV
+MD5 of Padded String: 3368405747f26ab953d2af1fc285c2f9
+Portal Ownership Details
+Resistance - World War I Memorial
+Resistance - Utah's Medal of Honor Recipien
+Resistance - Utah State Capitol
+Resistance - Utah Law Enforcement Memorial
+Resistance - Twin Lions West
+Resistance - Statue of Massassoit
+Resistance - State of Utah Millennial Time Capsule
+Resistance - Old City Hall
+Resistance - Martin Luther King Jr. Tree
+Resistance - Lion Statues, Utah State Capitol
+Resistance - Lest We Forget
+Resistance - House of Representatives - State of Utah
+Resistance - Garden of Perception
+Resistance - Ensign Peak
+Resistance - Eliza R. Snow - Leader of Pioneer Women
+Resistance - Daughters of Utah Pioneers
+Resistance - daniel cowan jackling statue
+Resistance - Capitol Hill Ward House
+Resistance - Capital Hill Fountain, Salt Lake City
+Resistance - (VOLATILE) - Silver Park Plaque
+Resistance - (VOLATILE) - Gold Star Hill
+Resistance - (VOLATILE) - Edward H. Harriman
+Neutral - Thomas L Kane Statute
+Neutral - Sleep Soldier Boy Podium
+Neutral - Rotary Steps
+Neutral - Panorama of Memory Grove Park
+Neutral - Memory Grove
+Neutral - Memorial House
+Neutral - Memorial Alter
+Neutral - Martha Hughes Cannon Statute
+Neutral - Liberty Bell Replica
+Neutral - Horizon Grove
+Neutral - Highland High School Plaque
+Neutral - Entrance to Memory Grove Park
+Enlightened - The Mormon Battalion
+Enlightened - State Capitol Vietnam War Memo
+Enlightened - Monument
+Enlightened - Missing Statue
+Enlightened - Meditation Chapel War Memorial
+Enlightened - Korea War Memorial
+Enlightened - Gold Star Mother - Martha A. Davies
+Enlightened - Daughters of Utah Pioneer Museum
+Enlightened - Capitol Hill Owl
+Enlightened - Anderson Tower
+Enlightened - (VOLATILE) - The Colonial House
+Enlightened - (VOLATILE) - Gibbs-Thomas-Hansen Home
+#Interitus 02: Colorado Springs - Measurement 1 Report
+The Enlightened captured this Measurement, 123 to 26.
+The Enlightened currently control this Secondary Site, leading by 97.
+Portals Owned - RES: 18 - ENL: 1 - [Value: 1 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 10 each]
+Links Created - RES: 4 - ENL: 11 - [Value: 2 each]
+Single Field Over Entire Cluster - ENL - [Value: 50]
+Total for this Measurement:
+Resistance - 26 - Enlightened - 123
+Total for this Secondary Site:
+Resistance - 26 - Enlightened - 123
+Measurement Time Details:
+Original: 4:32 (Minutes:Seconds within Measurement Window)
+Padded String: K 4:32 XICUBaRVFpiOcJPcgPcEdwRZAqXbV
+MD5 of Padded String: 3368405747f26ab953d2af1fc285c2f9
+Portal Ownership Details
+Resistance - Wooglin's Deli Graffiti
+Resistance - William Spencer Center
+Resistance - Unique Art
+Resistance - Survivor II
+Resistance - St. Stephen's Church Tower
+Resistance - Sperry &amp; Ella Graber Packard Hall
+Resistance - Quan Memorial Bench
+Resistance - Paninos Restaurant
+Resistance - Money Museum
+Resistance - Marble Iron Art
+Resistance - First Congregational Church
+Resistance - Edith Kinney Gaylord Cornersto
+Resistance - Colorado Springs by Donald Bar
+Resistance - Castle House
+Resistance - Cascade Park Mansion
+Resistance - Big Chrome Birds
+Resistance - Armstrong Hall
+Resistance - American Numismatic Association
+Neutral - Tribes sculpture
+Neutral - The Family
+Neutral - Taylor Museum
+Neutral - Spike Ball
+Neutral - Monument Valley Park
+Neutral - Inca Mural
+Neutral - Fine Art Center Parking Mural
+Neutral - Fine Art Center Mural East
+Neutral - Bemis School of Art
+Enlightened - Fiesta Jarabe
+Enlightened - (VOLATILE) - W.R. Brossman Memorial Bench
+Enlightened - (VOLATILE) - Van Briggle Building
+Enlightened - (VOLATILE) - The Caretaker
+Enlightened - (VOLATILE) - Olin Hall Statue
+Enlightened - (VOLATILE) - Concrete Man](https://lh3.googleusercontent.com/-hQH9Dtz1ajQ/U1wUAvLgyKI/AAAAAAAAtUw/cXyLyztr6Ss/w2048-h1153/flagstaff_group.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/E7UnWVXCyKM](https://plus.google.com/+NianticProject/posts/E7UnWVXCyKM)

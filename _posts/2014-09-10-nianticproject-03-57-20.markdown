@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-09-10 03:57:20 +0900"
+date:   2014-09-10 03:57:20 +0900
+categories: nianticproject
+---
++[Rebecca B](https://plus.google.com/101737741353281311056 ""), +[Mitch Pohlkamp](https://plus.google.com/106720957595173805616 "") and +[Jon Pohlkamp](https://plus.google.com/104025981990653207754 "") work together to bring  Operation River City Blues  to its exciting conclusion.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@673, :value=>"shared"@680}], :children=>["<br />", "<h2>Ingress</h2>", "The conclusion of Operation River City Blues. Watch as Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101737741353281311056\" oid=\"101737741353281311056\">Rebecca B</a>"], " (", "<b>@RBFLY</b>", "), ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106720957595173805616\" oid=\"106720957595173805616\">Mitch Pohlkamp</a>"], ", and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/104025981990653207754\" oid=\"104025981990653207754\">Jon Pohlkamp</a>"], "  overcome the impossible in order to complete their Operation.", "<br />", "<br />", "Watch ", "<a href=\"https://www.youtube.com/watch?v=yJ4IggGHFWU\" class=\"ot-anchor\">Ingress Obsessed 6 - Operation River City Blues (Part 1)</a>", " here.", "<br />", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressObsessed\">#IngressObsessed</a>", "  ", "<br />", "<br />"], :ignore=>true}}
+[#### video: https://www.youtube.com/embed/m6AfJP8LbQY?list=PLDEUWItbkQ59Zk283D-3cFEjlrcdpApea](https://www.youtube.com/embed/m6AfJP8LbQY?list=PLDEUWItbkQ59Zk283D-3cFEjlrcdpApea "")
+- - -
+[https://plus.google.com/+NianticProject/posts/QqpL1aYJqeL](https://plus.google.com/+NianticProject/posts/QqpL1aYJqeL)

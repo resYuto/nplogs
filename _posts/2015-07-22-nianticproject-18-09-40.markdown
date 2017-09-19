@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-07-22 18:09:40 +0900"
+date:   2015-07-22 18:09:40 +0900
+categories: nianticproject
+---
+Latest intel from +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") reveals information about Lorazon's travel to Europe.
+
+Exactly what the acting CEO of +[IQTech Research](https://plus.google.com/108020987035258478791 "") has up his sleeve remains to be seen.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@551, :value=>"shared"@558}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "This didn't come from any of my usual sources, so take it with as many grains of salt as you see fit.", "<br />", "<br />", "If you saw the leak yesterday you know that Lorazon, acting CEO of ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108020987035258478791\" oid=\"108020987035258478791\">IQTech Research</a>"], ", said he needed to head to Switzerland to handle some kind of 'real-estate deal.' Well, I guess that plan changed. Apparently, Lorazon requested a flightplan change shortly after his jet entered European airspace. Rather than proceeding south towards Switzerland, the jet descended and landed at a small airstrip near Berlin in the dead of night.", "<br />", "<br />", "Make of that what you will.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: enicsejarodisenafogoqfi](https://lh3.googleusercontent.com/-qDencaSNY50/Va9aiH1FnyI/AAAAAAAABTo/ZU6SnWakCo4/w500-h500/FlightPlan.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/KBh2xvJqXNr](https://plus.google.com/+NianticProject/posts/KBh2xvJqXNr)

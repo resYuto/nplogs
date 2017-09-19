@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-27 06:01:17 +0900"
+date:   2014-04-27 06:01:17 +0900
+categories: nianticproject
+---
+Cluster 3 Volatiles for Flagstaff, Salt Lake City and Colorado Springs are live, as Measurement 2 approaches.
+
+x
+
+ [#Interitus](https://plus.google.com/s/%23Interitus "")  02{:element=>{:name=>"div", :attributes=>[{:name=>"class"@233, :value=>"shared"@240}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 02 - FLAGSTAFF, SALT LAKE CITY, COLORADO SPRINGS - C3 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/NvKHac\" class=\"ot-anchor\">http://goo.gl/NvKHac</a>", "<br />", "<br />", "MD5: 03735e4e1d5fdaabc7ca1cadd1c0b949", "<br />", "<br />", "<br />", "Photo by ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101484224076565595779\" oid=\"101484224076565595779\">Travis Laing</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-h_bqpIg15MA/U1weMDwj0eI/AAAAAAAAtak/nzAPu5tx5sk/coloradotrails.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/QGH5bVpmDwA](https://plus.google.com/+NianticProject/posts/QGH5bVpmDwA)

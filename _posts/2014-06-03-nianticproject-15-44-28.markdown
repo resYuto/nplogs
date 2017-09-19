@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-03 15:44:28 +0900"
+date:   2014-06-03 15:44:28 +0900
+categories: nianticproject
+---
++[Devra Bogdanovich](https://plus.google.com/102598577258553073047 "") responds to pointed questions asked among the community about her ability to assist +[Hank Johnson](https://plus.google.com/117792105926525258257 "").
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@487, :value=>"shared"@494}], :children=>["<br />", "<h2>Devra Bogdanovich</h2>", "Many of you have asked why I haven't stepped forward to aid ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], ".", "<br />", "<br />", "The simple fact is, I can't. My vaccine will prevent others from the unknown effects of XM. For Hank, it's too late. ", "<br />", "<br />", "Whatever he is, whether he is truly some shadow mirrored in XM or whether he has merely been driven insane from XM exposure, it is beyond my ability to offer a cure. ", "<br />", "<br />", "Hank's plight should stand as a warning to others who would tempt fate and violate the natural order.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-ajgztsBvMSw/U41tp-sWtZI/AAAAAAAAAJ4/sCMq9eRn6uw/Friend.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/FZbvwWQFAk9](https://plus.google.com/+NianticProject/posts/FZbvwWQFAk9)

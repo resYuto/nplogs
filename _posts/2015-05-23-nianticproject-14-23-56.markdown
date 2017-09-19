@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-05-23 14:23:56 +0900"
+date:   2015-05-23 14:23:56 +0900
+categories: nianticproject
+---
+Nigel Moyer had given a packet of information to +[Hank Johnson](https://plus.google.com/117792105926525258257 "") when he visited him recently. P. A. Chapeau has a feeling it might just be something to keep an eye on. I wonder what it might contain...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@392, :value=>"shared"@399}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "I’ve been catching up. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110289508116377658380\" oid=\"110289508116377658380\">Edgar Allan Wright</a>"], " said some interesting things last night. Much to process. ", "<br />", "<br />", "One thing that passed without comment, or with little comment, is the package Nigel Moyer handed to Hank Johnson. What do we think was in it?  Is Hank planning to give it to Susanna Moyer? Worth considering...", "<br />", "<br />", "And before you ask: Am I discussing a possible appearance on ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/113020726391023655192\" oid=\"113020726391023655192\">Behind The Scanner</a>"], " to tell my side of things? Maybe.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: ulfiddbvrtsgxlmxliwrzmulfidgsivvt](https://lh3.googleusercontent.com/-O7OZ3RDKcRc/VWANeJBrYwI/AAAAAAAABFA/U4jrB5sDihM/w600-h333/Nigel.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/gmLMN61TNmf](https://plus.google.com/+NianticProject/posts/gmLMN61TNmf)

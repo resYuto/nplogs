@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-08 05:05:57 +0900"
+date:   2014-06-08 05:05:57 +0900
+categories: nianticproject
+---
+Volatiles for Cluster 4, [#Interitus](https://plus.google.com/s/%23Interitus "") 05 - Asheville, Birmingham, San Jose and San Juan.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@187, :value=>"shared"@194}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b> 05 C4 VOLS - ASHEVILLE, BIRMINGHAM, SAN JOSE, SAN JUAN</b>", " ", "<br />", "<br />", "Cluster 4 Volatiles: ", "<a href=\"http://goo.gl/KqAR2p\" class=\"ot-anchor\">http://goo.gl/KqAR2p</a>", " ", "<br />", "<br />", "Measurement 4 MD5: 8409e125d30cce87f3c49b70fa0c01ad", "<br />", "<br />", "Photo by Asheville Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115614811909878134022\" oid=\"115614811909878134022\">Amy Mohl</a>"], ".", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Interitus 05 C4 VOLS - ASHEVILLE, BIRMINGHAM, SAN JOSE, SAN JUAN 
+Cluster 4 Volatiles: http://goo.gl/KqAR2p 
+Measurement 4 MD5: 8409e125d30cce87f3c49b70fa0c01ad
+Photo by Asheville Agent +Amy Mohl.](https://lh5.googleusercontent.com/-YH2yaJ6i3eE/U5NuvxFwvII/AAAAAAAAzEA/Oivx_bpNwiY/20140607_130631.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/8VH5WAFgLxo](https://plus.google.com/+NianticProject/posts/8VH5WAFgLxo)

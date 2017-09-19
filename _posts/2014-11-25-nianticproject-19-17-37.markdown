@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-11-25 19:17:37 +0900"
+date:   2014-11-25 19:17:37 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") sends up a smoke signal from a new place of sanctuary, pondering the blurry whirl of the past few days.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@309, :value=>"shared"@316}], :children=>["<br />", "<h2>Hank Johnson</h2>", "Feel safe for the first time in weeks. Grateful for this temporary sanctuary, but I can’t shake the feeling of foreboding -- encroaching forces of unknown origin. N’zeer. I don’t know. I am in a place that reminds me of the 13MAGNUS nest. Special place. Womb-like.", "<br />", "<br />", "It is probably more clear to any of you than to me what happened on my journey to this place. My read is that there were multiple forces pursuing me. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107849663787965375687\" oid=\"107849663787965375687\">Hulong Transglobal</a>"], " for sure, led by Smith. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108020987035258478791\" oid=\"108020987035258478791\">IQTech Research</a>"], " or some joint op. I considered contacting them. Saw one I believed to be Lorazon... I don’t trust him. Not when he’s off Calvin’s direct leash. He is unclear to me. Sniper, I believe was Claudia Glas, but that is from Operative tip-offs and compromised communications. I never saw her. Nor do I want to. Very dangerous. Learned that at CERN.", "<br />", "<br />", "Must rest.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: bbbxdbbxnnnnuxwmmmxbbddxbxbdxwmmmxmwmwxmmxdddbxwwwwxmwwxbbdxwmwwxuunnnxbbddxbddbxmmmxunnnnxbbddxbddxdddbxnnnnnx](https://lh4.googleusercontent.com/-_fA2nzSHBHA/VHRTMTm0aBI/AAAAAAAABwY/XDO9Drfic5Q/Rava.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/SE8cT27KsRS](https://plus.google.com/+NianticProject/posts/SE8cT27KsRS)

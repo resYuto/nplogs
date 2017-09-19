@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Niantic Project: 2013-10-26 22:01:05 +0900"
+date:   2013-10-26 22:01:05 +0900
+categories: nianticproject
+---
+The Resistance remain strong in Kiev, while the Enlightened establish dominance in Bucharest, Budapest, Warsaw and Prague.
+
+In Warsaw, an Enlightened field covered the Cluster. In Budapest, an Enlightened field rose just moments too late.<div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- KIEV - Measurement 2 Report</b><br /><br />The Resistance owned 3 Volatile Portals and 10 Non-Volatile Portals<br /><b>The Enlightened owned 2 Volatile Portals and 21 Non-Volatile Portals</b><br /><br /><b>The Resistance had 8 Links standing at Measurement Time</b><br />The Enlightened had 2 Links standing at Measurement Time<br /><br /><b>Total for Resistance this Measurement = 120</b><br />Total for Enlightened this Measurement = 92<br /><br /><b>Total for Resistance this Anomaly = 252</b><br />Total for Enlightened this Anomaly = 179<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- BUCHAREST - Measurement 2 Report</b><br /><br />The Resistance owned 2 Volatile Portals and 8 Non-Volatile Portals<br /><b>The Enlightened owned 3 Volatile Portals and 12 Non-Volatile Portals</b><br /><br />The Resistance had 1 Link standing at Measurement Time<br /><b>The Enlightened had 6 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 30<br /><b>Total for Enlightened this Measurement = 54</b><br /><br />Total for Resistance this Anomaly = 42<br /><b>Total for Enlightened this Anomaly = 140</b><br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- BUDAPEST - Measurement 1 Report</b><br /><br />The Resistance owned 1 Volatile Portals and 9 Non-Volatile Portals<br /><b>The Enlightened owned 4 Volatile Portals and 1 Non-Volatile Portals</b><br /><br /><b>The Resistance had 1 Link standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 21<br /><b>Total for Enlightened this Measurement = 41</b><br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- PRAGUE - Measurement 1 Report</b><br /><br />The Resistance owned 2 Volatile Portals and 3 Non-Volatile Portals<br /><b>The Enlightened owned 3 Volatile Portals and 14 Non-Volatile Portals</b><br /><br /><b>The Enlightened had 23 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 23<br /><b>Total for Enlightened this Measurement = 90</b><br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- WARSAW - Measurement 1 Report</b><br /><br />The Resistance owned 1 Volatile Portals and 25 Non-Volatile Portals<br /><b>The Enlightened owned 4 Volatile Portals and 6 Non-Volatile Portals</b><br /><br /><b>An Enlightened Field covered all Portals in this Cluster (50)</b><br /><br /><b>The Resistance had 12 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 59<br /><b>Total for Enlightened this Measurement = 96</b><br /><br /><b>Measurement Time Details:</b><br />Original: 3:44 (Minutes:Seconds past the hour)<br />Padded: okreFhZLflnAPhDWCm 3:44 KeYYUoUYAchjO<br />MD5 of Padded String: 78F11754D1E84B2A76849F68ED0EAF3F<br /><br /></div>
+[#### photo: #13MAGNUS - KIEV - Measurement 2 Report
+The Resistance owned 3 Volatile Portals and 10 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 21 Non-Volatile Portals
+The Resistance had 8 Links standing at Measurement Time
+The Enlightened had 2 Links standing at Measurement Time
+Total for Resistance this Measurement = 120
+Total for Enlightened this Measurement = 92
+Total for Resistance this Anomaly = 252
+Total for Enlightened this Anomaly = 179
+#13MAGNUS - BUCHAREST - Measurement 2 Report
+The Resistance owned 2 Volatile Portals and 8 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 12 Non-Volatile Portals
+The Resistance had 1 Link standing at Measurement Time
+The Enlightened had 6 Links standing at Measurement Time
+Total for Resistance this Measurement = 30
+Total for Enlightened this Measurement = 54
+Total for Resistance this Anomaly = 42
+Total for Enlightened this Anomaly = 140
+#13MAGNUS - BUDAPEST - Measurement 1 Report
+The Resistance owned 1 Volatile Portals and 9 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 1 Non-Volatile Portals
+The Resistance had 1 Link standing at Measurement Time
+Total for Resistance this Measurement = 21
+Total for Enlightened this Measurement = 41
+#13MAGNUS - PRAGUE - Measurement 1 Report
+The Resistance owned 2 Volatile Portals and 3 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 14 Non-Volatile Portals
+The Enlightened had 23 Links standing at Measurement Time
+Total for Resistance this Measurement = 23
+Total for Enlightened this Measurement = 90
+#13MAGNUS - WARSAW - Measurement 1 Report
+The Resistance owned 1 Volatile Portals and 25 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 6 Non-Volatile Portals
+An Enlightened Field covered all Portals in this Cluster (50)
+The Resistance had 12 Links standing at Measurement Time
+Total for Resistance this Measurement = 59
+Total for Enlightened this Measurement = 96
+Measurement Time Details:
+Original: 3:44 (Minutes:Seconds past the hour)
+Padded: okreFhZLflnAPhDWCm 3:44 KeYYUoUYAchjO
+MD5 of Padded String: 78F11754D1E84B2A76849F68ED0EAF3F](https://lh4.googleusercontent.com/-biTFXSn0fEE/Umu0Z8MpwaI/AAAAAAAAVoc/d3LCOC98sQQ/w1000-h594/13magnus-kiev-m2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/YCqTp3B8ZxQ](https://plus.google.com/+NianticProject/posts/YCqTp3B8ZxQ)

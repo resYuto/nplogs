@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2012-11-15 03:22:21 +0900"
+date:   2012-11-15 03:22:21 +0900
+categories: nianticproject
+---
+"I have come up with a name for this program, A Detection 
+Algorithm. Shorthand will be ADA." 
+- - -
+[https://plus.google.com/+NianticProject/posts/cTZLo3JQc8A](https://plus.google.com/+NianticProject/posts/cTZLo3JQc8A)

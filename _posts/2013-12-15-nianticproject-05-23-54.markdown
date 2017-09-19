@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-15 05:23:54 +0900"
+date:   2013-12-15 05:23:54 +0900
+categories: nianticproject
+---
+No room for Resistance this morning.
+
+Perhaps the Anomalies quickly approaching will provide an opportunity for the Faction to redeem these losses.
+
+In a massive show of force, The Enlightened obtain a trifecta, capturing Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  - Santiago.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@367, :value=>"shared"@374}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- SANTIAGO - Measurement 4 Report</b>", "<br />", "<br />", "The Enlightened successfully capture the Santiago Anomaly. 1 hour earlier, the Enlightened also secured Rio de Janeiro and Sao Paulo. The RECKONING DAY clock now counts down to San Francisco and Buenos Aires. Agents: It's time to move.", "<br />", "<br />", "The Resistance owned 2 Volatile Portals and 1 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 2 Volatile Portals and 11 Non-Volatile Portals</b>", "<br />", "<br />", "<b>The Enlightened had 10 Links standing at Measurement Time</b>", "<br />", "<br />", "Total for Resistance this Measurement = 21", "<br />", "<b>Total for Enlightened this Measurement = 51</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 84", "<br />", "<b>Total for Enlightened this Anomaly = 253</b>", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 3:19 (Minutes:Seconds past the hour)", "<br />", "Padded: kQQa 3:19 VtHrPkojyDyfzSEpgDrkFVGQoY", "<br />", "MD5 of Padded String: 09c3a1ac6dde40dec1a8b42f90e0b366", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Juan Sebastián Bach (VOLATILE) - Enlightened", "<br />", "Monolito Gral. Bartolome Mitre (VOLATILE) - Enlightened", "<br />", "Copas Statue (VOLATILE) - Neutral", "<br />", "Fuente Niño del Bellas Artes (VOLATILE) - Resistance", "<br />", "United Chaos (VOLATILE) - Resistance", "<br />", "Castillo del Forestal - Enlightened", "<br />", "Casa De Velasco - Enlightened", "<br />", "Corregidor Fountain - Enlightened", "<br />", "Museo Nacional de Bellas Artes - Enlightened", "<br />", "Mural Klop - Enlightened", "<br />", "Historia en Hilo - Enlightened", "<br />", "Pilote Cal y Canto - Enlightened", "<br />", "Mural Sobre Metro Bellas Artes - Enlightened", "<br />", "Escultura Del Cosmos - Enlightened", "<br />", "Radical's Building  - Enlightened", "<br />", "Cuerpo de Bomberos de Santiago - Enlightened", "<br />", "el angel parque forestal - Neutral", "<br />", "escultura del angel y la muert - Neutral", "<br />", "Leonardo Da Vinci - Neutral", "<br />", "Cristóbal Colon - Neutral", "<br />", "Iglesia Presbiteriana  - Neutral", "<br />", "El Caballo Parque Forestal - Neutral", "<br />", "Academia de Bellas Artes - Neutral", "<br />", "Giotto - Neutral", "<br />", "Santa Beatriz - Neutral", "<br />", "El Caballo, Parque Forestal - Resistance ", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103594887760379956213\" oid=\"103594887760379956213\">Luciano França</a>"], ".", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>DEC 14 PRIMARY SITES:</b>", " ", "<br />", "Buenos Aires: ", "<a href=\"http://goo.gl/BDcLTZ\" class=\"ot-anchor\">http://goo.gl/BDcLTZ</a>", " ", "<br />", "San Francisco: ", "<a href=\"http://goo.gl/plCBZL\" class=\"ot-anchor\">http://goo.gl/plCBZL</a>", "<br />", "<br />", "<b>SATELLITE SITES:</b>", " ", "<br />", "Rio de Janeiro: ", "<a href=\"http://goo.gl/EeuyO4\" class=\"ot-anchor\">http://goo.gl/EeuyO4</a>", " ", "<br />", "San Diego: ", "<a href=\"http://goo.gl/uqmCci\" class=\"ot-anchor\">http://goo.gl/uqmCci</a>", " ", "<br />", "Santiago: ", "<a href=\"http://goo.gl/BE71fV\" class=\"ot-anchor\">http://goo.gl/BE71fV</a>", " ", "<br />", "Sao Paulo: ", "<a href=\"http://goo.gl/AnJNro\" class=\"ot-anchor\">http://goo.gl/AnJNro</a>", " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #13MAGNUS - SANTIAGO - Measurement 4 Report
+The Enlightened successfully capture the Santiago Anomaly. 1 hour earlier, the Enlightened also secured Rio de Janeiro and Sao Paulo. The RECKONING DAY clock now counts down to San Francisco and Buenos Aires. Agents: It's time to move.
+The Resistance owned 2 Volatile Portals and 1 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 11 Non-Volatile Portals
+The Enlightened had 10 Links standing at Measurement Time
+Total for Resistance this Measurement = 21
+Total for Enlightened this Measurement = 51
+Total for Resistance this Anomaly = 84
+Total for Enlightened this Anomaly = 253
+Measurement Time Details:
+Original: 3:19 (Minutes:Seconds past the hour)
+Padded: kQQa 3:19 VtHrPkojyDyfzSEpgDrkFVGQoY
+MD5 of Padded String: 09c3a1ac6dde40dec1a8b42f90e0b366
+Portal Ownership Details:
+Juan Sebastián Bach (VOLATILE) - Enlightened
+Monolito Gral. Bartolome Mitre (VOLATILE) - Enlightened
+Copas Statue (VOLATILE) - Neutral
+Fuente Niño del Bellas Artes (VOLATILE) - Resistance
+United Chaos (VOLATILE) - Resistance
+Castillo del Forestal - Enlightened
+Casa De Velasco - Enlightened
+Corregidor Fountain - Enlightened
+Museo Nacional de Bellas Artes - Enlightened
+Mural Klop - Enlightened
+Historia en Hilo - Enlightened
+Pilote Cal y Canto - Enlightened
+Mural Sobre Metro Bellas Artes - Enlightened
+Escultura Del Cosmos - Enlightened
+Radical's Building  - Enlightened
+Cuerpo de Bomberos de Santiago - Enlightened
+el angel parque forestal - Neutral
+escultura del angel y la muert - Neutral
+Leonardo Da Vinci - Neutral
+Cristóbal Colon - Neutral
+Iglesia Presbiteriana  - Neutral
+El Caballo Parque Forestal - Neutral
+Academia de Bellas Artes - Neutral
+Giotto - Neutral
+Santa Beatriz - Neutral
+El Caballo, Parque Forestal - Resistance
+Photo by Agent +Luciano França.
+#13MAGNUS DEC 14 PRIMARY SITES: 
+Buenos Aires: http://goo.gl/BDcLTZ 
+San Francisco: http://goo.gl/plCBZL
+SATELLITE SITES: 
+Rio de Janeiro: http://goo.gl/EeuyO4 
+San Diego: http://goo.gl/uqmCci 
+Santiago: http://goo.gl/BE71fV 
+Sao Paulo: http://goo.gl/AnJNro ](https://lh3.googleusercontent.com/-o4yYlFTfY5c/Uqy7CMHGhFI/AAAAAAAAeCI/T9kPprD75a4/w2048-h1536/20131214_172820.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/2zdXhQPgipc](https://plus.google.com/+NianticProject/posts/2zdXhQPgipc)

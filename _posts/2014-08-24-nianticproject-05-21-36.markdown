@@ -1,0 +1,225 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-24 05:21:36 +0900"
+date:   2014-08-24 05:21:36 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b> 06: Summary of Anomaly Conditions at Measurement 3</b><br /><br />Detroit - R:252 - <b>E:535.2</b><br />Baltimore - <b>R:148.8</b> - E:101<br />Indianapolis - <b>R:283</b> - E:101<br /><br />Total - R:683.8 - <b>E:737.2</b><br /><br />The Resistance rally, casting a field over the Baltimore Anomaly Zone, and narrowing the Enlightened lead to just 53.4. The Enlightened are in control in Detroit, while Indianapolis is firmly in Resistance hands. Baltimore and the Regional Cells will play a critical role in determining the outcome. Measurement 4 approaches.<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Detroit - Measurement 3 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 184 to 157.<br />The <b>Enlightened</b> currently control this Primary Site, leading by 283.2.<br /><br />Portals Owned - <b>RES:</b> 41 - ENL: 22 - [Value: 2 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 4 - [Value: 20 each]<br />Links Created - <b>RES:</b> 15 - ENL: 12 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 157 - <b>Enlightened</b> - 184<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 252 - <b>Enlightened</b> - 535.2<br /><br /><b>Measurement Time Details:</b><br />Original: 6:05 (Minutes:Seconds within Measurement Window)<br />Padded String: X|KoV=oe 6:05 '%fLI*/neAh%F&gt;s&lt;]i<br />SHA256 of Padded String: d08958949e495deab31e9388cd4929f728b486a0d5da35477dfc585a11076021<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Acropolis Bakery<br />ENL - Campus Martius Park Monument West<br />ENL - Centaur Sculpture<br />ENL - Cliff Bells<br />ENL - Comerica Park (Detroit Tigers)<br />ENL - Detroit Beer Co Brewery<br />ENL - Detroit Clothing Mural<br />ENL - Detroit Fire Department Mural<br />ENL - Detroit Plaque<br />ENL - Ernie Harwell Statue<br />ENL - Grand Circus Park<br />ENL - Historic Gaslight Tavern<br />ENL - Historic Gem Century Theatre<br />ENL - Hockeytown Cafe<br />ENL - Kaline's Corner<br />ENL - Schwankovsky Temple of Music<br />ENL - Sermans Fine Clothes Mural<br />ENL - St Aloysius Catholic<br />ENL - St. John's Episcopal Church<br />ENL - The Fillmore<br />ENL - The Iron Brigade<br />ENL - Wurlitzer Building<br />ENL [Vol] - Fox Theatre Detroit<br />ENL [Vol] - Hazen Pingree<br />ENL [Vol] - Macomb Statue<br />ENL [Vol] - Statue of Abraham Lincoln<br />NEU - Abstract<br />NEU - Book-Cadillac Hotel<br />NEU - Broderick Tower Whale Mural<br />NEU - Catching Up<br />NEU - Central United Methodist Church<br />NEU - Cheli's Chili Bar<br />NEU - Comerica Park<br />NEU - Comerica Park Scoreboard<br />NEU - Comerica Park South Corner<br />NEU - Edwin Denby Enlistment<br />NEU - GM Fountain<br />NEU - Henry the Hatter<br />NEU - Heroes of Tiger History<br />NEU - Historic Dime Building<br />NEU - Kern's Clock Tower<br />NEU - Paradise Valley Gallery<br />NEU - Statues of Tiger Greats<br />NEU - The Fillmore Guard<br />NEU - Thirty Sixth District Court Library<br />NEU - Thomas Alva Edison Fountain<br />NEU - Town Square Fountain<br />NEU - Wala Mural<br />NEU - War of 1812 Dead<br />NEU [Vol] - Russell Alger Monument<br />RES - 101-DET-32<br />RES - Baseball Tiger Cub mural<br />RES - Birthplace of Ford Automobile<br />RES - Bucharest<br />RES - Buzzsaw Blade Statue<br />RES - Care Mural What do You Care About<br />RES - Chicago Road<br />RES - Comerica Park Scoreboard<br />RES - Comerica Park Tigers<br />RES - Crosses Sculpture<br />RES - D-Hive<br />RES - Detroit Athletic Club<br />RES - Detroit Music Hall<br />RES - Detroit Opera House<br />RES - Detroit Puppet Theater and Museum<br />RES - Detroit Tigers Ferris Wheel<br />RES - Detroit Tigers Statues<br />RES - Dolphins play<br />RES - Downtown Synagogue<br />RES - Finney Barn<br />RES - Graffiti Covered Building<br />RES - Grand Army of the Republic Building<br />RES - Grand Valley State University Detroit Center<br />RES - Lafayette &amp; American Coney island<br />RES - Lafayette Greens<br />RES - Library St LLC<br />RES - Michigan Opera Theatre History Wall<br />RES - Millennium Bell Sculpture<br />RES - Motor City Steel Sculpture<br />RES - National Theatre<br />RES - Old Hudson's Spot<br />RES - Opening Day 2007<br />RES - Opera House Parking Car<br />RES - Rosa Parks Transit Center<br />RES - Simmons and Clark Sign<br />RES - Skillman Library<br />RES - Statue at Downtown Louie's Lounge<br />RES - The Harmonie Club<br />RES - Window Arts<br />RES - Women's City Club of Detroit<br />RES - YMCA<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Baltimore - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 51.8 to 41.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 47.8.<br /><br />Portals Owned - <b>RES:</b> 17 - ENL: 11 - [Value: 1 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (14.8)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 51.8 - Enlightened - 41<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 148.8 - Enlightened - 101<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Baltimore 08 Shot Tower<br />ENL - Baltimore Civil War Museum<br />ENL - Baltimore Public Works Museum<br />ENL - Columbus<br />ENL - Havoline Mural<br />ENL - Historic Bagby Furniture Company Building<br />ENL - La Tavola wall Art<br />ENL - Pacific Coast Tiles<br />ENL - Red Pillar Next To Building<br />ENL - Star Spangled Banner Museum<br />ENL - Szlak Dziedzictwa<br />ENL [Vol] - Copper Sculpture On East Lombard<br />ENL [Vol] - Stratford Fountain<br />ENL [Vol] - Toynbee Idea Movie Stone Marker<br />NEU - Flag Waving at Fawn Street<br />RES - B'nai Israel Synagogue<br />RES - Baltimore Post Office<br />RES - Baltimore Slave Trade<br />RES - Baron &amp; Company Cigars<br />RES - Car Mural<br />RES - Hey Doggy Doggy Mural<br />RES - Little Italy Open Air Film Festival Mural<br />RES - Lloyd Street Synagogue<br />RES - North Exeter Avenue<br />RES - Rosa and Pasquale Mural<br />RES - Saint Leo Roman Catholic Church<br />RES - Shark Mural<br />RES - State map of native stones<br />RES - Streetscape Sculpture<br />RES - Thomas J. D'Alesandro<br />RES - Urban Agriculture<br />RES - World is your Oyster Mural<br />RES [Vol] - McKim Free School<br />RES [Vol] - The Flag House and Star-Spangl<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Indianapolis - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 108 to 26.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 182.<br /><br />Portals Owned - <b>RES:</b> 24 - ENL: 6 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - <b>RES:</b> 18 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 108 - Enlightened - 26<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 283 - Enlightened - 101<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Crown Building<br />ENL - Indiana War Memorial Plaza<br />ENL - Justice by John Massey Rhind (<br />ENL - Mayor Al Feeney in Memory<br />ENL - Seated Lincoln by Henry Hering<br />ENL - World War Two Memorial<br />ENL [Vol] - Benjamin Harrison by Charles H<br />ENL [Vol] - The Korean War Memorial Way<br />NEU - Archway<br />NEU - Blacherne<br />NEU - Indiana War Memorial Plaque<br />NEU - Kurt Vonnegut<br />NEU - Mercury and Two Allegorical Fi<br />NEU - Post Office<br />NEU - Rolled Scrolls<br />NEU - Saffron Cafe<br />NEU - Stouts Shoes<br />NEU - University Park Fountain<br />RES - [Untitled]<br />RES - 1st Salvation Army Meeting<br />RES - Acapulco Joe<br />RES - Bison<br />RES - Christ Church Episcopal Cathedral<br />RES - Colfax Memorial by Lorado Zado<br />RES - Downtown Indy<br />RES - Flag Day<br />RES - Indiana Limestone Eagle on Globe<br />RES - Indiana World War Memorial<br />RES - Indianapolis Post Office<br />RES - Korea War memorial<br />RES - Liberty and Memory<br />RES - Obelisk at World War Memorial<br />RES - Pan by Roger White (2005)<br />RES - Roberts Park Methodist Church<br />RES - Ruschman Fine Art<br />RES - Symphony Statue at One America<br />RES - The 11th Day of November, 1987<br />RES - The Elbow Room<br />RES - The War Memorial<br />RES - Viewfinders<br />RES - William H. Harrison Monument<br />RES - World War Memorial<br />RES [Vol] - Agriculture by John Massey Rhind<br />RES [Vol] - Flying by Zenos Frudakis (1987<br />RES [Vol] - Reaching by Zenos Frudakis (19<br /><br /></div>
+[#### photo: #Helios 06: Summary of Anomaly Conditions at Measurement 3
+Detroit - R:252 - E:535.2
+Baltimore - R:148.8 - E:101
+Indianapolis - R:283 - E:101
+Total - R:683.8 - E:737.2
+The Resistance rally, casting a field over the Baltimore Anomaly Zone, and narrowing the Enlightened lead to just 53.4. The Enlightened are in control in Detroit, while Indianapolis is firmly in Resistance hands. Baltimore and the Regional Cells will play a critical role in determining the outcome. Measurement 4 approaches.
+#Helios: Detroit - Measurement 3 Report
+The Enlightened captured this Measurement, 184 to 157.
+The Enlightened currently control this Primary Site, leading by 283.2.
+Portals Owned - RES: 41 - ENL: 22 - [Value: 2 each]
+Volatile Portals Owned - RES: 0 - ENL: 4 - [Value: 20 each]
+Links Created - RES: 15 - ENL: 12 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 157 - Enlightened - 184
+Total for this Primary Site:
+Resistance - 252 - Enlightened - 535.2
+Measurement Time Details:
+Original: 6:05 (Minutes:Seconds within Measurement Window)
+Padded String: X|KoV=oe 6:05 '%fLI*/neAh%F&gt;s&lt;]i
+SHA256 of Padded String: d08958949e495deab31e9388cd4929f728b486a0d5da35477dfc585a11076021
+Portal Ownership Details
+ENL - Acropolis Bakery
+ENL - Campus Martius Park Monument West
+ENL - Centaur Sculpture
+ENL - Cliff Bells
+ENL - Comerica Park (Detroit Tigers)
+ENL - Detroit Beer Co Brewery
+ENL - Detroit Clothing Mural
+ENL - Detroit Fire Department Mural
+ENL - Detroit Plaque
+ENL - Ernie Harwell Statue
+ENL - Grand Circus Park
+ENL - Historic Gaslight Tavern
+ENL - Historic Gem Century Theatre
+ENL - Hockeytown Cafe
+ENL - Kaline's Corner
+ENL - Schwankovsky Temple of Music
+ENL - Sermans Fine Clothes Mural
+ENL - St Aloysius Catholic
+ENL - St. John's Episcopal Church
+ENL - The Fillmore
+ENL - The Iron Brigade
+ENL - Wurlitzer Building
+ENL [Vol] - Fox Theatre Detroit
+ENL [Vol] - Hazen Pingree
+ENL [Vol] - Macomb Statue
+ENL [Vol] - Statue of Abraham Lincoln
+NEU - Abstract
+NEU - Book-Cadillac Hotel
+NEU - Broderick Tower Whale Mural
+NEU - Catching Up
+NEU - Central United Methodist Church
+NEU - Cheli's Chili Bar
+NEU - Comerica Park
+NEU - Comerica Park Scoreboard
+NEU - Comerica Park South Corner
+NEU - Edwin Denby Enlistment
+NEU - GM Fountain
+NEU - Henry the Hatter
+NEU - Heroes of Tiger History
+NEU - Historic Dime Building
+NEU - Kern's Clock Tower
+NEU - Paradise Valley Gallery
+NEU - Statues of Tiger Greats
+NEU - The Fillmore Guard
+NEU - Thirty Sixth District Court Library
+NEU - Thomas Alva Edison Fountain
+NEU - Town Square Fountain
+NEU - Wala Mural
+NEU - War of 1812 Dead
+NEU [Vol] - Russell Alger Monument
+RES - 101-DET-32
+RES - Baseball Tiger Cub mural
+RES - Birthplace of Ford Automobile
+RES - Bucharest
+RES - Buzzsaw Blade Statue
+RES - Care Mural What do You Care About
+RES - Chicago Road
+RES - Comerica Park Scoreboard
+RES - Comerica Park Tigers
+RES - Crosses Sculpture
+RES - D-Hive
+RES - Detroit Athletic Club
+RES - Detroit Music Hall
+RES - Detroit Opera House
+RES - Detroit Puppet Theater and Museum
+RES - Detroit Tigers Ferris Wheel
+RES - Detroit Tigers Statues
+RES - Dolphins play
+RES - Downtown Synagogue
+RES - Finney Barn
+RES - Graffiti Covered Building
+RES - Grand Army of the Republic Building
+RES - Grand Valley State University Detroit Center
+RES - Lafayette &amp; American Coney island
+RES - Lafayette Greens
+RES - Library St LLC
+RES - Michigan Opera Theatre History Wall
+RES - Millennium Bell Sculpture
+RES - Motor City Steel Sculpture
+RES - National Theatre
+RES - Old Hudson's Spot
+RES - Opening Day 2007
+RES - Opera House Parking Car
+RES - Rosa Parks Transit Center
+RES - Simmons and Clark Sign
+RES - Skillman Library
+RES - Statue at Downtown Louie's Lounge
+RES - The Harmonie Club
+RES - Window Arts
+RES - Women's City Club of Detroit
+RES - YMCA
+#Helios: Baltimore - Measurement 3 Report
+The Resistance captured this Measurement, 51.8 to 41.
+The Resistance currently control this Secondary Site, leading by 47.8.
+Portals Owned - RES: 17 - ENL: 11 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (14.8)]
+Total for this Measurement:
+Resistance - 51.8 - Enlightened - 41
+Total for this Secondary Site:
+Resistance - 148.8 - Enlightened - 101
+Portal Ownership Details
+ENL - Baltimore 08 Shot Tower
+ENL - Baltimore Civil War Museum
+ENL - Baltimore Public Works Museum
+ENL - Columbus
+ENL - Havoline Mural
+ENL - Historic Bagby Furniture Company Building
+ENL - La Tavola wall Art
+ENL - Pacific Coast Tiles
+ENL - Red Pillar Next To Building
+ENL - Star Spangled Banner Museum
+ENL - Szlak Dziedzictwa
+ENL [Vol] - Copper Sculpture On East Lombard
+ENL [Vol] - Stratford Fountain
+ENL [Vol] - Toynbee Idea Movie Stone Marker
+NEU - Flag Waving at Fawn Street
+RES - B'nai Israel Synagogue
+RES - Baltimore Post Office
+RES - Baltimore Slave Trade
+RES - Baron &amp; Company Cigars
+RES - Car Mural
+RES - Hey Doggy Doggy Mural
+RES - Little Italy Open Air Film Festival Mural
+RES - Lloyd Street Synagogue
+RES - North Exeter Avenue
+RES - Rosa and Pasquale Mural
+RES - Saint Leo Roman Catholic Church
+RES - Shark Mural
+RES - State map of native stones
+RES - Streetscape Sculpture
+RES - Thomas J. D'Alesandro
+RES - Urban Agriculture
+RES - World is your Oyster Mural
+RES [Vol] - McKim Free School
+RES [Vol] - The Flag House and Star-Spangl
+#Helios: Indianapolis - Measurement 3 Report
+The Resistance captured this Measurement, 108 to 26.
+The Resistance currently control this Secondary Site, leading by 182.
+Portals Owned - RES: 24 - ENL: 6 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 18 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 108 - Enlightened - 26
+Total for this Secondary Site:
+Resistance - 283 - Enlightened - 101
+Portal Ownership Details
+ENL - Crown Building
+ENL - Indiana War Memorial Plaza
+ENL - Justice by John Massey Rhind (
+ENL - Mayor Al Feeney in Memory
+ENL - Seated Lincoln by Henry Hering
+ENL - World War Two Memorial
+ENL [Vol] - Benjamin Harrison by Charles H
+ENL [Vol] - The Korean War Memorial Way
+NEU - Archway
+NEU - Blacherne
+NEU - Indiana War Memorial Plaque
+NEU - Kurt Vonnegut
+NEU - Mercury and Two Allegorical Fi
+NEU - Post Office
+NEU - Rolled Scrolls
+NEU - Saffron Cafe
+NEU - Stouts Shoes
+NEU - University Park Fountain
+RES - [Untitled]
+RES - 1st Salvation Army Meeting
+RES - Acapulco Joe
+RES - Bison
+RES - Christ Church Episcopal Cathedral
+RES - Colfax Memorial by Lorado Zado
+RES - Downtown Indy
+RES - Flag Day
+RES - Indiana Limestone Eagle on Globe
+RES - Indiana World War Memorial
+RES - Indianapolis Post Office
+RES - Korea War memorial
+RES - Liberty and Memory
+RES - Obelisk at World War Memorial
+RES - Pan by Roger White (2005)
+RES - Roberts Park Methodist Church
+RES - Ruschman Fine Art
+RES - Symphony Statue at One America
+RES - The 11th Day of November, 1987
+RES - The Elbow Room
+RES - The War Memorial
+RES - Viewfinders
+RES - William H. Harrison Monument
+RES - World War Memorial
+RES [Vol] - Agriculture by John Massey Rhind
+RES [Vol] - Flying by Zenos Frudakis (1987
+RES [Vol] - Reaching by Zenos Frudakis (19](https://lh5.googleusercontent.com/-snZk6AaiQvw/U_j2zMZsuII/AAAAAAAA_wc/ZyryqxUsgZM/w1774-h1152/IMG_20140823_130644811.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/h9JTgwrv2oQ](https://plus.google.com/+NianticProject/posts/h9JTgwrv2oQ)

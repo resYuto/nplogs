@@ -1,0 +1,213 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-24 07:46:11 +0900"
+date:   2014-08-24 07:46:11 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", " 06: Summary of Anomaly Conditions at Measurement 4", "<br />", "<br />", "Detroit - R:327 - ", "<b>E:648.6</b>", "<br />", "Baltimore - ", "<b>R:230</b>", " - E:124", "<br />", "Indianapolis - ", "<b>R:391</b>", " - E:128", "<br />", "Regional Cells - ", "<b>R:237</b>", " - E:72.048", "<br />", "<br />", "Total - ", "<b>R:1185</b>", " - ", "<b>E:972.648</b>", "<br />", "<br />", "This was fierce. The Resistance removed all stops, taking Baltimore and Indianapolis by storm, both by leveraging boots on the ground and efficient tactical Fields in Baltimore. Their fellow Agents around the world stepped up to the challenge as well, bringing 5 out of 6 Additional Cells to the table. The Enlightened had a tremendous advantage in Detroit, where they outperformed their opponents by a factor of nearly two.   During the final Measurement, they cast a large Field overhead for good measure, but it was not enough. The Resistance control ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", " 06 with an advantage of 212.352.", "<br />", "<br />", "The Resistance currently control 4 of the 40 ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", " Artifacts. The Enlightened control 3.", "<br />", "<br />", "The ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", " series stands 19 to 12, with the Enlightened leading.", "<br />", "<br />", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a></b>", "<b>: Detroit - Measurement 4 Report</b>", "<br />", "<br />", "The ", "<b>Enlightened</b>", " captured this Measurement, 113.4 to 75.", "<br />", "The ", "<b>Enlightened</b>", " captured this Primary Site, outperforming the Resistance by 321.6.", "<br />", "<br />", "Portals Owned - RES: 20 - ", "<b>ENL:</b>", " 28 - [Value: 2 each]", "<br />", "Volatile Portals Owned - RES: 1 - ENL: 1 - [Value: 20 each]", "<br />", "Links Created - ", "<b>RES:</b>", " 3 - ENL: 1 - [Value: 5 each]", "<br />", "Single Field Over Entire Cluster - ", "<b>ENL</b>", " - [Value: +40%, (32.4)]", "<br />", "<br />", "<br />", "The Enlightened controlled PA01-SIERRA-08 (Volatile) [Value: +8%]", "<br />", "The Resistance controlled AM02-DELTA-04 (Additional) [Value: +5%]", "<br />", "The Resistance controlled NR15-CHARLIE-05 (Additional) [Value: +5%]", "<br />", "The Resistance controlled NR10-ROMEO-05 (Additional) [Value: +5%]", "<br />", "The Resistance controlled AM03-HOTEL-04 (Additional) [Value: +5%]", "<br />", "The Resistance controlled AM15-PAPA-00 (Additional) [Value: +5%]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "Resistance - 75 - ", "<b>Enlightened</b>", " - 113.4", "<br />", "<br />", "<b>Total for this Primary Site:</b>", "<br />", "Resistance - 327 - ", "<b>Enlightened</b>", " - 648.6", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 1:05 (Minutes:Seconds within Measurement Window)", "<br />", "Padded String: s{v^djwk!1vm;%H'1,:.sp] 1:05 X+.hQyO", "<br />", "SHA256 of Padded String: 292f6bf769a63bfa1df31dafe891444376c95224404902e6903d299e2531658b", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "<br />", "ENL - Bagley Fountain", "<br />", "ENL - Bodies in Motion", "<br />", "ENL - Campus Martius Dancing Fountain", "<br />", "ENL - Christopher Columbus Monument", "<br />", "ENL - Color of Detroit", "<br />", "ENL - David Dunbar Buick", "<br />", "ENL - David Dunbar Buick", "<br />", "ENL - Detroit Cornice and Slate Building", "<br />", "ENL - Detroit Fire Department", "<br />", "ENL - Detroit River", "<br />", "ENL - DuMochelles gallery", "<br />", "ENL - First Jewish Religious Services", "<br />", "ENL - Fort Pontchartrain", "<br />", "ENL - Frederick Douglas - John Brown", "<br />", "ENL - Guardian Building", "<br />", "ENL - Hart Plaza - 2007/06/05", "<br />", "ENL - Jimmy Howard", "<br />", "ENL - Labor Legacy Landmark", "<br />", "ENL - Mariner's Church of Detroit", "<br />", "ENL - Old Wayne County Building", "<br />", "ENL - Reclamation Archway", "<br />", "ENL - Saint Andrew's Hall", "<br />", "ENL - Salvation Army", "<br />", "ENL - State Savings Bank", "<br />", "ENL - The Landing of Cadillac / Le d", "<br />", "ENL - U.S. Topographical Engineers", "<br />", "ENL - Urban Stele", "<br />", "ENL - Woman with Child Statue", "<br />", "ENL [Vol] - Spirit of Detroit", "<br />", "NEU - Abraham Lincoln Bust", "<br />", "NEU - Campus Martius Petrograph Carv", "<br />", "NEU - Captive Statue", "<br />", "NEU - Dancing Hands", "<br />", "NEU - Detroit Peace Tree", "<br />", "NEU - Ford Motor Company", "<br />", "NEU - George DeBaptiste Homesite", "<br />", "NEU - Graffiti", "<br />", "NEU - National Automotive History", "<br />", "NEU - Penobscot Building", "<br />", "NEU - Roasting Plant", "<br />", "NEU - Soldiers and Sailors Memorial", "<br />", "NEU - Stone Disk", "<br />", "NEU - The Buhl Building", "<br />", "NEU - The Procession a Family", "<br />", "NEU - Twenty-Fourth Michigan Volunte", "<br />", "NEU - University of Michigania", "<br />", "NEU - Veterans' Memorial Building", "<br />", "NEU [Vol] - Dodge Fountain Hart Plaza", "<br />", "NEU [Vol] - DTE Energy Sculpture in Campus Martius Park", "<br />", "NEU [Vol] - The Gateway to Freedom", "<br />", "RES - Arched Roof", "<br />", "RES - Bankers Trust Building", "<br />", "RES - Bricktown People Mover Station", "<br />", "RES - cement benches", "<br />", "RES - Compuware Building", "<br />", "RES - Detroit River Heritage", "<br />", "RES - Fort Lernoult", "<br />", "RES - Foutains Between Detroit River", "<br />", "RES - General Motors World Headquarters", "<br />", "RES - Gomidas Statue Detroit", "<br />", "RES - Gretchen C. Valade", "<br />", "RES - Jacoby's Beer Garden", "<br />", "RES - Marilyn", "<br />", "RES - Passo Di Danza Statue", "<br />", "RES - Ram Sculpture", "<br />", "RES - Second Baptist Church", "<br />", "RES - Shrine Circus", "<br />", "RES - Spirit of Transportation", "<br />", "RES - Sweetwater Tavern", "<br />", "RES - Wild Boar Statue", "<br />", "RES [Vol] - Joe Louis Fist", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a></b>", "<b>: Baltimore - Measurement 4 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " captured this Measurement, 81.2 to 23.", "<br />", "The ", "<b>Resistance</b>", " captured this Secondary Site, outperforming the Enlightened by 106.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 18 - ENL: 13 - [Value: 1 each]", "<br />", "Volatile Portals Owned - ", "<b>RES:</b>", " 4 - ENL: 1 - [Value: 10 each]", "<br />", "Links Created - RES: 0 - ENL: 0 - [Value: 3 each]", "<br />", "Single Field Over Entire Cluster - ", "<b>RES</b>", " - [Value: +40%, (23.2)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "<b>Resistance</b>", " - 81.2 - Enlightened - 23", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "<b>Resistance</b>", " - 230 - Enlightened - 124", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "<br />", "ENL - At the Cafe", "<br />", "ENL - Baltimore Maritime Museum", "<br />", "ENL - Black Shipbuilders", "<br />", "ENL - Broadway at Fleet", "<br />", "ENL - Crab Structure", "<br />", "ENL - Cyryl and Methodius Community", "<br />", "ENL - Fells Point Historic District House", "<br />", "ENL - Fishie Statue", "<br />", "ENL - How Great Thou Art", "<br />", "ENL - Jimmy's Restaurant", "<br />", "ENL - Oliver The Wharf Rat", "<br />", "ENL - The Red Star", "<br />", "ENL - Wharf mural", "<br />", "ENL [Vol] - Fells Point", "<br />", "NEU - Baltimore Waterfront Promenade", "<br />", "NEU - Broadway Market Stain Glass", "<br />", "NEU - Enoch Pratt Library", "<br />", "NEU - Historic Brown's Wharf", "<br />", "NEU - Historic Fells Property", "<br />", "NEU - In This Building From 1992 - 1999 Homicide", "<br />", "NEU - On Thursday, September 18, 200", "<br />", "NEU - St. Stanislaus Kostka Church", "<br />", "NEU - The Horse you Rode in on Saloon", "<br />", "NEU - The Robert Long House", "<br />", "NEU - Union Box", "<br />", "RES - Anti-Prohibition sign in Fells", "<br />", "RES - Baltimore Post Office", "<br />", "RES - Birds of a Feather Scotch Whisky Bar", "<br />", "RES - Blue Moon Café", "<br />", "RES - Church House", "<br />", "RES - Fell Family Cemetery", "<br />", "RES - Fell's Point National Register", "<br />", "RES - Fells Point Historic Visitors Center (National Park)", "<br />", "RES - Frederick Douglass", "<br />", "RES - National Can Company", "<br />", "RES - Politics in an Oyster House", "<br />", "RES - Seashell Glass Mosaic", "<br />", "RES - The Admiral Fell Inn", "<br />", "RES - The Admirals Cup", "<br />", "RES - The Nutcracker", "<br />", "RES - The Robert McClintock Gallery", "<br />", "RES - Water Front", "<br />", "RES - Woodys Mural", "<br />", "RES [Vol] - Schooner Lion of Baltimore", "<br />", "RES [Vol] - Thames Point Park", "<br />", "RES [Vol] - The Union Wharf", "<br />", "RES [Vol] - Vagabond Theatre", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a></b>", "<b>: Indianapolis - Measurement 4 Report</b>", "<br />", "<br />", "The ", "<b>Resistance</b>", " captured this Measurement, 108 to 27.", "<br />", "The ", "<b>Resistance</b>", " captured this Secondary Site, outperforming the Enlightened by 263.", "<br />", "<br />", "Portals Owned - ", "<b>RES:</b>", " 15 - ENL: 7 - [Value: 1 each]", "<br />", "Volatile Portals Owned - ", "<b>RES:</b>", " 3 - ENL: 2 - [Value: 10 each]", "<br />", "Links Created - ", "<b>RES:</b>", " 21 - ENL: 0 - [Value: 3 each]", "<br />", "Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]", "<br />", "<br />", "<b>Total for this Measurement:</b>", "<br />", "<b>Resistance</b>", " - 108 - Enlightened - 27", "<br />", "<br />", "<b>Total for this Secondary Site:</b>", "<br />", "<b>Resistance</b>", " - 391 - Enlightened - 128", "<br />", "<br />", "<b>Portal Ownership Details</b>", "<br />", "<br />", "ENL - Alabama Liquors", "<br />", "ENL - Apollo/Aurora Relief Panels (1", "<br />", "ENL - Graffiti Girl", "<br />", "ENL - Murat Shrine", "<br />", "ENL - Murat Shriners", "<br />", "ENL - Phoenix Theater", "<br />", "ENL - St Joseph's Memorial Church", "<br />", "ENL [Vol] - Brick Head Statue", "<br />", "ENL [Vol] - James Whitcomb Riley", "<br />", "NEU - Human Mural", "<br />", "NEU - Murat Centre", "<br />", "NEU - St. Vincent's Infirmary", "<br />", "RES - Ann Dancing by Julian Opie", "<br />", "RES - Boy and his Dog", "<br />", "RES - First Indiana State Meeting of", "<br />", "RES - Historic Harlan Hoffman House", "<br />", "RES - Indianapolis Fire Station", "<br />", "RES - Indianapolis Professional Fire", "<br />", "RES - Lockerbie Square", "<br />", "RES - Mary by Franz Mayer Studio", "<br />", "RES - Orca", "<br />", "RES - Reclamation by Lesley Baker 2008", "<br />", "RES - St. Mary's Catholic Church", "<br />", "RES - The Athenaeum", "<br />", "RES - Unity Church", "<br />", "RES - Visual and Mental Paradoxes, 1999", "<br />", "RES - Zerelda G. Wallace", "<br />", "RES [Vol] - Care/Don't Care", "<br />", "RES [Vol] - Honor Guard 2001", "<br />", "RES [Vol] - IPS School Art", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/104950418894511130618\" oid=\"104950418894511130618\">Rose Burt</a>"], " in Baltimore", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Helios 06: Summary of Anomaly Conditions at Measurement 4
+Detroit - R:327 - E:648.6
+Baltimore - R:230 - E:124
+Indianapolis - R:391 - E:128
+Regional Cells - R:237 - E:72.048
+Total - R:1185 - E:972.648
+This was fierce. The Resistance removed all stops, taking Baltimore and Indianapolis by storm, both by leveraging boots on the ground and efficient tactical Fields in Baltimore. Their fellow Agents around the world stepped up to the challenge as well, bringing 5 out of 6 Additional Cells to the table. The Enlightened had a tremendous advantage in Detroit, where they outperformed their opponents by a factor of nearly two.   During the final Measurement, they cast a large Field overhead for good measure, but it was not enough. The Resistance control #Helios 06 with an advantage of 212.352.
+The Resistance currently control 4 of the 40 #Helios Artifacts. The Enlightened control 3.
+The #Helios series stands 19 to 12, with the Enlightened leading.
+#Helios: Detroit - Measurement 4 Report
+The Enlightened captured this Measurement, 113.4 to 75.
+The Enlightened captured this Primary Site, outperforming the Resistance by 321.6.
+Portals Owned - RES: 20 - ENL: 28 - [Value: 2 each]
+Volatile Portals Owned - RES: 1 - ENL: 1 - [Value: 20 each]
+Links Created - RES: 3 - ENL: 1 - [Value: 5 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (32.4)]
+The Enlightened controlled PA01-SIERRA-08 (Volatile) [Value: +8%]
+The Resistance controlled AM02-DELTA-04 (Additional) [Value: +5%]
+The Resistance controlled NR15-CHARLIE-05 (Additional) [Value: +5%]
+The Resistance controlled NR10-ROMEO-05 (Additional) [Value: +5%]
+The Resistance controlled AM03-HOTEL-04 (Additional) [Value: +5%]
+The Resistance controlled AM15-PAPA-00 (Additional) [Value: +5%]
+Total for this Measurement:
+Resistance - 75 - Enlightened - 113.4
+Total for this Primary Site:
+Resistance - 327 - Enlightened - 648.6
+Measurement Time Details:
+Original: 1:05 (Minutes:Seconds within Measurement Window)
+Padded String: s{v^djwk!1vm;%H'1,:.sp] 1:05 X+.hQyO
+SHA256 of Padded String: 292f6bf769a63bfa1df31dafe891444376c95224404902e6903d299e2531658b
+Portal Ownership Details
+ENL - Bagley Fountain
+ENL - Bodies in Motion
+ENL - Campus Martius Dancing Fountain
+ENL - Christopher Columbus Monument
+ENL - Color of Detroit
+ENL - David Dunbar Buick
+ENL - David Dunbar Buick
+ENL - Detroit Cornice and Slate Building
+ENL - Detroit Fire Department
+ENL - Detroit River
+ENL - DuMochelles gallery
+ENL - First Jewish Religious Services
+ENL - Fort Pontchartrain
+ENL - Frederick Douglas - John Brown
+ENL - Guardian Building
+ENL - Hart Plaza - 2007/06/05
+ENL - Jimmy Howard
+ENL - Labor Legacy Landmark
+ENL - Mariner's Church of Detroit
+ENL - Old Wayne County Building
+ENL - Reclamation Archway
+ENL - Saint Andrew's Hall
+ENL - Salvation Army
+ENL - State Savings Bank
+ENL - The Landing of Cadillac / Le d
+ENL - U.S. Topographical Engineers
+ENL - Urban Stele
+ENL - Woman with Child Statue
+ENL [Vol] - Spirit of Detroit
+NEU - Abraham Lincoln Bust
+NEU - Campus Martius Petrograph Carv
+NEU - Captive Statue
+NEU - Dancing Hands
+NEU - Detroit Peace Tree
+NEU - Ford Motor Company
+NEU - George DeBaptiste Homesite
+NEU - Graffiti
+NEU - National Automotive History
+NEU - Penobscot Building
+NEU - Roasting Plant
+NEU - Soldiers and Sailors Memorial
+NEU - Stone Disk
+NEU - The Buhl Building
+NEU - The Procession a Family
+NEU - Twenty-Fourth Michigan Volunte
+NEU - University of Michigania
+NEU - Veterans' Memorial Building
+NEU [Vol] - Dodge Fountain Hart Plaza
+NEU [Vol] - DTE Energy Sculpture in Campus Martius Park
+NEU [Vol] - The Gateway to Freedom
+RES - Arched Roof
+RES - Bankers Trust Building
+RES - Bricktown People Mover Station
+RES - cement benches
+RES - Compuware Building
+RES - Detroit River Heritage
+RES - Fort Lernoult
+RES - Foutains Between Detroit River
+RES - General Motors World Headquarters
+RES - Gomidas Statue Detroit
+RES - Gretchen C. Valade
+RES - Jacoby's Beer Garden
+RES - Marilyn
+RES - Passo Di Danza Statue
+RES - Ram Sculpture
+RES - Second Baptist Church
+RES - Shrine Circus
+RES - Spirit of Transportation
+RES - Sweetwater Tavern
+RES - Wild Boar Statue
+RES [Vol] - Joe Louis Fist
+#Helios: Baltimore - Measurement 4 Report
+The Resistance captured this Measurement, 81.2 to 23.
+The Resistance captured this Secondary Site, outperforming the Enlightened by 106.
+Portals Owned - RES: 18 - ENL: 13 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (23.2)]
+Total for this Measurement:
+Resistance - 81.2 - Enlightened - 23
+Total for this Secondary Site:
+Resistance - 230 - Enlightened - 124
+Portal Ownership Details
+ENL - At the Cafe
+ENL - Baltimore Maritime Museum
+ENL - Black Shipbuilders
+ENL - Broadway at Fleet
+ENL - Crab Structure
+ENL - Cyryl and Methodius Community
+ENL - Fells Point Historic District House
+ENL - Fishie Statue
+ENL - How Great Thou Art
+ENL - Jimmy's Restaurant
+ENL - Oliver The Wharf Rat
+ENL - The Red Star
+ENL - Wharf mural
+ENL [Vol] - Fells Point
+NEU - Baltimore Waterfront Promenade
+NEU - Broadway Market Stain Glass
+NEU - Enoch Pratt Library
+NEU - Historic Brown's Wharf
+NEU - Historic Fells Property
+NEU - In This Building From 1992 - 1999 Homicide
+NEU - On Thursday, September 18, 200
+NEU - St. Stanislaus Kostka Church
+NEU - The Horse you Rode in on Saloon
+NEU - The Robert Long House
+NEU - Union Box
+RES - Anti-Prohibition sign in Fells
+RES - Baltimore Post Office
+RES - Birds of a Feather Scotch Whisky Bar
+RES - Blue Moon Café
+RES - Church House
+RES - Fell Family Cemetery
+RES - Fell's Point National Register
+RES - Fells Point Historic Visitors Center (National Park)
+RES - Frederick Douglass
+RES - National Can Company
+RES - Politics in an Oyster House
+RES - Seashell Glass Mosaic
+RES - The Admiral Fell Inn
+RES - The Admirals Cup
+RES - The Nutcracker
+RES - The Robert McClintock Gallery
+RES - Water Front
+RES - Woodys Mural
+RES [Vol] - Schooner Lion of Baltimore
+RES [Vol] - Thames Point Park
+RES [Vol] - The Union Wharf
+RES [Vol] - Vagabond Theatre
+#Helios: Indianapolis - Measurement 4 Report
+The Resistance captured this Measurement, 108 to 27.
+The Resistance captured this Secondary Site, outperforming the Enlightened by 263.
+Portals Owned - RES: 15 - ENL: 7 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 21 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 108 - Enlightened - 27
+Total for this Secondary Site:
+Resistance - 391 - Enlightened - 128
+Portal Ownership Details
+ENL - Alabama Liquors
+ENL - Apollo/Aurora Relief Panels (1
+ENL - Graffiti Girl
+ENL - Murat Shrine
+ENL - Murat Shriners
+ENL - Phoenix Theater
+ENL - St Joseph's Memorial Church
+ENL [Vol] - Brick Head Statue
+ENL [Vol] - James Whitcomb Riley
+NEU - Human Mural
+NEU - Murat Centre
+NEU - St. Vincent's Infirmary
+RES - Ann Dancing by Julian Opie
+RES - Boy and his Dog
+RES - First Indiana State Meeting of
+RES - Historic Harlan Hoffman House
+RES - Indianapolis Fire Station
+RES - Indianapolis Professional Fire
+RES - Lockerbie Square
+RES - Mary by Franz Mayer Studio
+RES - Orca
+RES - Reclamation by Lesley Baker 2008
+RES - St. Mary's Catholic Church
+RES - The Athenaeum
+RES - Unity Church
+RES - Visual and Mental Paradoxes, 1999
+RES - Zerelda G. Wallace
+RES [Vol] - Care/Don't Care
+RES [Vol] - Honor Guard 2001
+RES [Vol] - IPS School Art
+Photo by Agent +Rose Burt in Baltimore](https://lh5.googleusercontent.com/-zL63w6fTWbg/U_kRaaYegCI/AAAAAAAA_2E/03IkfIzovHA/w4411-h713/PANO_20140823_134418.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/bL9ZM5DKTX2](https://plus.google.com/+NianticProject/posts/bL9ZM5DKTX2)

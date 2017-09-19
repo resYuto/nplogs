@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-04-22 12:53:07 +0900"
+date:   2016-04-22 12:53:07 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "The thing about ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108200572857719809031\" oid=\"108200572857719809031\">Oliver Lynton-Wolfe</a>"], " that we have to remember is that his thirst for knowledge is complete... unquenchable. His intellectual curiosity is almost an addiction. It's gotten him into trouble in the past...", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23InvestigateIngress\">#InvestigateIngress</a>", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/Au8C13tsryr](https://plus.google.com/+NianticProject/posts/Au8C13tsryr)

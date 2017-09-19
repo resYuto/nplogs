@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2015-04-13 10:38:54 +0900"
+date:   2015-04-13 10:38:54 +0900
+categories: nianticproject
+---
+A fascinating conversation just occurred. 
+
+Dr. +[Edgar Allan Wright](https://plus.google.com/110289508116377658380 ""), founder of +[Operation Essex](https://plus.google.com/101577681173166935630 ""), confronted +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "")  aka P. A. Chapeau about his night of trance-like programming at the NSA over a decade ago, his role in the creation of Truthseeker and its impact on +[A Detection Algorithm](https://plus.google.com/114076692022231059864 "").
+
+I will not comment on any of the assertions concerning me at this time.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1110, :value=>"shared"@1117}], :children=>["<br />", "<h2>Edgar Allan Wright</h2>", "It is evident to me that if you are to be a Truthseeker, Mr. Chapeau, or ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], ", whatever name you are going by these days, you must provide some... verity to us. What do you think was the origin of the code you wrote that night? The NIA document is out there for everyone to see ( ", "<a href=\"http://goo.gl/UOekVS\" class=\"ot-anchor\">http://goo.gl/UOekVS</a>", " ).", "<br />", "<br />"], :ignore=>true}}
+[#### photo: It is evident to me that if you are to be a Truthseeker, Mr. Chapeau, or +H. Richard Loeb, whatever name you are going by these days, you must provide some... verity to us. What do you think was the origin of the code you wrote that night? The NIA document is out there for everyone to see ( http://goo.gl/UOekVS ).](https://lh3.googleusercontent.com/-7RR0J2CEmvk/VSsTr8R-0KI/AAAAAAAAAFg/h9Ap7FPPQWk/w400-h390/verity.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/cFVKjUnG5nS](https://plus.google.com/+NianticProject/posts/cFVKjUnG5nS)

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-17 22:19:26 +0900"
+date:   2013-08-17 22:19:26 +0900
+categories: nianticproject
+---
+Leveraging firm control of the Volatile Portals, the Enlightened are quickly establishing a dominating stance in Düsseldorf.
+
+A Resistance megafield arrived just moments too late. Here's hoping it stays standing.
+
+-PAC
+
+[#Cassandra](https://plus.google.com/s/%23Cassandra "")<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Dusseldorf<br /><br /><b>Measurement 2 Details</b><br /><br />The Enlightened are specifically targeting Volatile Portals, and their strategy proves highly effective. Although they capture fewer Portals, they're still able to secure the Measurement.<br /><br />The Resistance owned 0 Volatile Portals and 23 Non-Volatile Portals.<br /><b>The Enlightened owned 5 Volatile Portals and 7 Non Volatile Portals.</b><br /><br /><b>The Resistance had 9 Links standing at Measurement Time.</b><br />The Enlightened had 6 Links standing at Measurement Time.<br /><br />Total for the Resistance this Measurement = 91<br /><b>Total for the Enlightened this Measurement = 144</b><br /><br />Total for the Resistance this Anomaly = 187<br /><b>Total for the Enlightened this Anomaly = 272</b><br /><br /><b>Measurement Time Details</b><br /><br />Original:  ONE  MINUTE  AND THIRTY  ONE  SECONDS PAST  THREE  O CLOCK<br />Padded: XONEXXMINUTEXXANDXTHIRTYXXONEXXSECONDSXPASTXXTHREEXXOXCLOCK<br />OTP Key: UABEDBGYAUUZWZUXQPJTSEYPDJZFRVOXMWDSAKCPTPZALTPBEJWWHAAOCYK<br />Encrypted String: ROOIAYSGNONDTWUKTMCAAVRNAGNSVSLPQYRFDCZETHSXIMWSINTTVXCZQAU<br />MD5 of OTP Key: 9abedd65df86a0167224c11048bb735b<br /><br /></div>
+[#### photo: undefined](https://lh5.googleusercontent.com/-7MPllj_M8BE/Ug92OneHDTI/AAAAAAAAOaA/oLrB-W5dxPI/cassandra-dussledorf-2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/TPE1CN4kSyV](https://plus.google.com/+NianticProject/posts/TPE1CN4kSyV)

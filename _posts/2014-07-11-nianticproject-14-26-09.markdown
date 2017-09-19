@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-11 14:26:09 +0900"
+date:   2014-07-11 14:26:09 +0900
+categories: nianticproject
+---
+Dr. +[Martin Schubert](https://plus.google.com/100425314717666507497 "") has begun studying the effects of Dr. +[Devra Bogdanovich](https://plus.google.com/102598577258553073047 "")'s so called 'Portal Virus.'
+
+His initial analysis indicates that Portal Decay has accelerated dramatically. See his post for the details.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@591, :value=>"shared"@598}], :children=>["<br />", "<h2>Martin Schubert</h2>", "I'm sure by now most of you have seen the revelations on the “Ingress Report” about the work by Dr. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], " and the CDC on a so-called Portal Virus.", "<br />", "<br />", "I began investigating as soon as I heard.  Initial results show increased Portal Decay. At this point I am unable to say exactly how much, but the increase seems greater than 200%.  Fully charged Portals will decay in 72 hours.  ", "<br />", "<br />", "Using access to remote sensing data, I have begun an expanded study of 2^10 Portals over a 24-hour window.  This will enable me to monitor the longer term impact of the Virus on Portal stability.", "<br />", "<br />", "Initial data suggests that the Virus was able to spread without the use of Links, Fields, or human activity as a vector.  In fact, it appears that it distributes itself through the transdimensional XM Matrix, meaning there is no known way to stop its spread.  ", "<br />", "<br />", "I have been contacted separately by all three major XM Corporations as well as a number of former colleagues from the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], ".  It seems that all parties are being affected by this change in Portal behavior.  Obviously many are concerned and are attempting to study and in some cases reverse the effects of the Virus.", "<br />", "<br />", "I will keep you updated as research progresses.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: I'm sure by now most of you have seen the revelations on the “Ingress Report” about the work by Dr. +Devra Bogdanovich and the CDC on a so-called Portal Virus.
+I began investigating as soon as I heard.  Initial results show increased Portal Decay. At this point I am unable to say exactly how much, but the increase seems greater than 200%.  Fully charged Portals will decay in 72 hours.
+Using access to remote sensing data, I have begun an expanded study of 2^10 Portals over a 24-hour window.  This will enable me to monitor the longer term impact of the Virus on Portal stability.
+Initial data suggests that the Virus was able to spread without the use of Links, Fields, or human activity as a vector.  In fact, it appears that it distributes itself through the transdimensional XM Matrix, meaning there is no known way to stop its spread.
+I have been contacted separately by all three major XM Corporations as well as a number of former colleagues from the +Niantic Project.  It seems that all parties are being affected by this change in Portal behavior.  Obviously many are concerned and are attempting to study and in some cases reverse the effects of the Virus.
+I will keep you updated as research progresses.](https://lh3.googleusercontent.com/-dvC9aU67rxQ/U79zhw1EbZI/AAAAAAAAANg/7OWy_XKG52k/w1280-h720/Decay.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ZTZNqcoa2v4](https://plus.google.com/+NianticProject/posts/ZTZNqcoa2v4)

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Niantic Project: 2015-04-16 17:07:19 +0900"
+date:   2015-04-16 17:07:19 +0900
+categories: nianticproject
+---
+*"Who survived the Shōnin ritual? Who didn't?"*
+
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") reflects on the task at hand...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@297, :value=>"shared"@304}], :children=>["<br />", "<h2>Hank Johnson</h2>", "Transit is a good time to reflect and recollect oneself. Somehow, being higher than the clouds affords a certain clarity.", "<br />", "<br />", "Before I head to Persepolis, I need to find out just how far the 13MAGNUS event reached. I'm not willing to trust a leaked NIA or Hulong document when it comes to this. I need first hand evidence.", "<br />", "<br />", "Who survived the Shōnin ritual. Who didn't.", "<br />", "<br />", "My punch-list:", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], ". Her current status is known by all.", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108200572857719809031\" oid=\"108200572857719809031\">Oliver Lynton-Wolfe</a>"], ". Confirmed missing. (Research materials compromised)", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/100425314717666507497\" oid=\"100425314717666507497\">Martin Schubert</a>"], ". Confirmed missing. (Research materials compromised)", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115238965157544465033\" oid=\"115238965157544465033\">Stein Lightman</a>"], ". Rumored, and likely, missing. Not yet confirmed.", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108841352205789260050\" oid=\"108841352205789260050\">Yuri Alaric Nagassa</a>"], ". Rumored and likely missing. Not yet confirmed.", "<br />", "Calvin. Rumored missing. Not yet confirmed.", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/104253779462149704457\" oid=\"104253779462149704457\">Misty Hannah</a>"], ". Have not been able to check yet. No info.", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114348053832535597563\" oid=\"114348053832535597563\">enoch dalby</a>"], ". Same.", "<br />", "<br />", "I'm still trying to figure out who else needs to be on this list.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Transit is a good time to reflect and recollect oneself. Somehow, being higher than the clouds affords a certain clarity.
+Before I head to Persepolis, I need to find out just how far the 13MAGNUS event reached. I'm not willing to trust a leaked NIA or Hulong document when it comes to this. I need first hand evidence.
+Who survived the Shōnin ritual. Who didn't.
+My punch-list:
++Devra Bogdanovich. Her current status is known by all.
++Oliver](https://lh3.googleusercontent.com/-a1gp2RYUcNc/VS9sU76H7pI/AAAAAAAACgY/ede1tSfg9EY/w1200-h675/Sky.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ieH8gt4oMUE](https://plus.google.com/+NianticProject/posts/ieH8gt4oMUE)

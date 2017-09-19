@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-16 18:51:59 +0900"
+date:   2014-12-16 18:51:59 +0900
+categories: nianticproject
+---
+Chapeau poses a question we've all been wondering (but for an entirely different set of reasons). Is ADA fraying around the edges?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@144, :value=>"shared"@151}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Darsana is over. The N’zeer, whatever they are, are coming. And yet, somehow, ADA has the capacity to deal with the utterly mundane issue of her relationship with me. I don’t know if it’s a distraction, or if when you’re that good at processing information there’s no such thing as priorities. Every things happens all the time, always.", "<br />", "<br />", "Anyway, it’s pretty rich. Some background: So my ex-girlfriend who has been mind-hacked by a sentient computer that I created is now being told to contact me by said sentient computer. And here’s what’s weirder. I’m not sure whether my ‘girlfriend’ was the flesh and blood girl or the computer.  It’s embarrassing to admit, but I think the computer was in love with me and the real flesh and blood girl had no idea what she wanted. Come to think of it, I’ve been in weirder relationships, but that’s not the discussion here. First off: why do I know this? Did ADA leak her own conversation with ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " in Edinburgh? If so, did she do it intentionally or is she going whacko?", "<br />", " ", "<br />", "Secondly, how is Klue going to contact me?  I get a text on my burner, I’m not going to know whether its from her or ADA... Of course, I could get out ahead of this and make a date...  But the real question is, ‘what does ADA want?’", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-lUGy0ggKQuk/VJAAPITfRBI/AAAAAAAAAgM/DeaqLl6smHQ/Uncomfortable.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/GsjfYP8Qy55](https://plus.google.com/+NianticProject/posts/GsjfYP8Qy55)

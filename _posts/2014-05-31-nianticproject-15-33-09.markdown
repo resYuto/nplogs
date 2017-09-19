@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-05-31 15:33:09 +0900"
+date:   2014-05-31 15:33:09 +0900
+categories: nianticproject
+---
++[Stein Lightman](https://plus.google.com/115238965157544465033 ""), Shaper Language expert, contemplates possible Glyph forms that could represent +[Hank Johnson](https://plus.google.com/117792105926525258257 "")'s difficult predicament.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@504, :value=>"shared"@511}], :children=>["<br />", "<h2>Stein Lightman</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], "'s  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a>", "  date approaches.", "<br />", "<br />", "I grew to admire Hank greatly during our time together at Niantic. He has a gift, and I wish his predicament were not so severe.", "<br />", "<br />", "In thinking about his situation, I began to explore the idea that there may exist Glyphs that represent the kind of construct that he has become.", "<br />", "<br />", "What I share here with you are not verifiable at this point, they are merely my theories based on an analysis of Shaper Language structure and a conceptual understanding of ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a>", " and the nature of simulacra. (Thus I have not labelled them. They represent not a true Shaper Glyph, rather an attempt to predict possible future discoveries.)", "<br />", "<br />", "What are your thoughts on these? Do you imagine other Glyph forms that could represent Hank's situation?", "<br />", "<br />"], :ignore=>true}}
+[#### album: 2014-05-30](https://plus.google.com/photos/115238965157544465033/albums/6019472677567402641 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/bYPKqABGQR7](https://plus.google.com/+NianticProject/posts/bYPKqABGQR7)

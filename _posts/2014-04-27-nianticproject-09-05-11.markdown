@@ -1,0 +1,225 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-27 09:05:11 +0900"
+date:   2014-04-27 09:05:11 +0900
+categories: nianticproject
+---
+The Resistance capture  [#Interitus](https://plus.google.com/s/%23Interitus "")   02.
+
+It's time to prepare for what comes next. With each victory, ADA's preparations for her grand vision of the future becomes more complete.
+
+ [#Interitus](https://plus.google.com/s/%23Interitus "")   03 approaches, and if the performance of the Regional Cells indicates anything, an Enlightened groundswell may be in the making...
+
+Time will tell.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02 Measurement 4 Report</b><br /><br />The second in the <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> Series of Anomalies has come to a dramatic end.<br /><br />With massive fields flying overhead in multiple cities, the <b>Resistance</b> have captured <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 02 with a lead of 396 (1365 to 969) in the US Vector of the Anomaly, and a lead of 917 (2747 to 1830) overall.<br /><br />Across the globe, though, Enlightened Agents rallied to capture their Cells for a future free from AI intervention, outperforming their Resistance counterparts. It’s a reminder that a groundswell is emerging.<br /><br />Perhaps, change is in the air. <br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 03 is coming on MAY 10 and you, Agent, no matter where you are, can make a difference.<br /><br />MAY 10 <br />Ishinomaki <a href="http://goo.gl/mRTMeX" class="ot-anchor">http://goo.gl/mRTMeX</a> <br />Santa Fe <a href="http://goo.gl/oqIpts" class="ot-anchor">http://goo.gl/oqIpts</a> <br />SATELLITE SITES <br />Beijing <a href="http://goo.gl/SFfrpE" class="ot-anchor">http://goo.gl/SFfrpE</a> <br />Seoul <a href="http://goo.gl/wFjqcA" class="ot-anchor">http://goo.gl/wFjqcA</a> <br />Helena <a href="http://goo.gl/DwX1Dc" class="ot-anchor">http://goo.gl/DwX1Dc</a> <br />Madison <a href="http://goo.gl/Z4GsXd" class="ot-anchor">http://goo.gl/Z4GsXd</a> <br /><br /><br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Flagstaff - Measurement 4 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 312 to 278.<br />The <b>Resistance</b> captured this Primary Site, outperforming the Enlightened by 338.<br /><br />Portals Owned - <b>RES:</b> 16 - ENL: 9 - [Value: 2 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: 100]<br /><br />The Resistance captured the struggle for Global MU. [Value: 50]<br />The Enlightened controlled AM02-ECHO-06 (Primary) [Value: 50]<br />The Resistance controlled AM01-ECHO-09 (Satellite) [Value: 30]<br />The Enlightened controlled AM02-FOXTROT-09 (Satellite) [Value: 30]<br />The Resistance controlled AF07-ROMEO-12 (Volatile) [Value: 40]<br />The Enlightened controlled AS07-NOVEMBER-11 (Volatile) [Value: 40]<br />The Enlightened controlled AM01-LIMA-12 (Additional) [Value: 20]<br />The Resistance controlled AF12-BRAVO-06 (Additional) [Value: 20]<br />The Enlightened controlled AM01-KILO-10 (Additional) [Value: 20]<br />The Enlightened controlled AM05-JULIET-11 (Additional) [Value: 20]<br />The Enlightened controlled AS13-PAPA-04 (Additional) [Value: 20]<br /><br />Volatile Cells Padded String: vPQbqkam7Q//AF07-ROMEO-12//3ERiCu7yF43LYDw//AS07-NOVEMBER-11//VgEXC2pf7jtYo4<br />MD5: 1d86f256aae9fab0d106a49cd55e9d41<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 312 - Enlightened - 278<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 829 - Enlightened - 491<br /><br /><b>Measurement Time Details:</b><br />Original: 1:29 (Minutes:Seconds within Measurement Window)<br />Padded String: iMuTMhBdIDPqpujTMKp 1:29 SHRwNHjGQqX<br />MD5 of Padded String: dce905f7ece0a5b222409206c4325e05<br /><br /><b>Portal Ownership Details</b><br />Resistance - Zoo Boat<br />Resistance - Wall Painting<br />Resistance - Raymond Building<br />Resistance - MailCat<br />Resistance - Heritage Square<br />Resistance - Green Car Company<br />Resistance - Flame of Freedom<br />Resistance - Flagstaff's Founding<br />Resistance - Flagstaff Fire Department<br />Resistance - Donahue Building<br />Resistance - Church of the Nativity<br />Resistance - Bike Shop Mural<br />Resistance - Aubineau / Andreatos Building<br />Resistance - Asset 15<br />Resistance - Aspen Machine<br />Resistance - Absolute Bikes Building Mural,<br />Resistance - (VOLATILE) - Bonito Street Community Garden<br />Resistance - (VOLATILE) - Asset 40<br />Neutral - Walkway of Flags<br />Neutral - The Green Room<br />Neutral - Telephone Exchange<br />Neutral - Native People Mural <br />Neutral - Mural at Diablo Burger<br />Neutral - Garden Library Lobby<br />Neutral - Frontier Adventure<br />Neutral - Flagstaff War Memorial<br />Neutral - Coconino County Public Library<br />Neutral - Coconino County Courthouse<br />Neutral - Birch Avenue Tattoo<br />Neutral - Babbitt Brothers Building<br />Enlightened - Weatherford Hotel<br />Enlightened - Verkamp Building<br />Enlightened - US Post Office, N Agassiz St, Flagstaff<br />Enlightened - The Speak Easy<br />Enlightened - Milligan House<br />Enlightened - Methodist Episcopal Church<br />Enlightened - Flagstaff Masonic Temple<br />Enlightened - AWD Clock Tower<br />Enlightened - Aubineau Building<br />Enlightened - (VOLATILE) - Kick Stand Kafe Coffee House<br />Enlightened - (VOLATILE) - Flagstaff YMCA<br />Enlightened - (VOLATILE) - Flagstaff Flag - Raising<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Salt Lake City - Measurement 4 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 80 to 24.<br />The <b>Resistance</b> captured this Secondary Site, outperforming the Enlightened by 85.<br /><br />Portals Owned - <b>RES:</b> 16 - ENL: 14 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 1 - [Value: 10 each]<br />Links Created - <b>RES:</b> 17 - ENL: 0 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: 50]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 80 - Enlightened - 24<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 234 - Enlightened - 149<br /><br /><b>Measurement Time Details:</b><br />Original: 1:29 (Minutes:Seconds within Measurement Window)<br />Padded String: iMuTMhBdIDPqpujTMKp 1:29 SHRwNHjGQqX<br />MD5 of Padded String: dce905f7ece0a5b222409206c4325e05<br /><br /><b>Portal Ownership Details</b><br />Resistance - Windbreak<br />Resistance - Vermont Building<br />Resistance - Utah's First Public Building<br />Resistance - The Tricolor Pillar <br />Resistance - Salt Palace<br />Resistance - Pierpont Walkway<br />Resistance - Pierpont - Make it Rain <br />Resistance - OC Tanner Bust<br />Resistance - Maran<br />Resistance - Holding Hands <br />Resistance - Greg Ragland Leaves <br />Resistance - Flaming Sculpture<br />Resistance - Deseret News Building<br />Resistance - Breeze<br />Resistance - Bicycle Pillar<br />Resistance - Art in Transit Temple Square Station<br />Resistance - (VOLATILE) - Malone and Stockton Statues<br />Resistance - (VOLATILE) - Fine Arts Gallery<br />Resistance - (VOLATILE) - Denver &amp; Rio Grande Railroad S<br />Neutral - Waterfall at City Creek <br />Neutral - Utah Museum of Contemporary Art<br />Neutral - Seagull Garden, Salt Lake City<br />Neutral - Richards Street Plaque <br />Neutral - Red Bicycle Art<br />Neutral - Pratt Houses Plaque, Salt Lake City<br />Neutral - McIntyre Building<br />Neutral - McCornick Block<br />Neutral - Map of Salt Lake City 1871<br />Neutral - Livingston Kinkead Store<br />Neutral - Hidden Building Mural<br />Neutral - Cow jumped over the moon<br />Neutral - Calvin L Rampton Salt Palace<br />Neutral - (VOLATILE) - Triad Center Clock<br />Enlightened - Wind Farm<br />Enlightened - Utah Museum of Contemporary Art<br />Enlightened - The Handcart Pioneer <br />Enlightened - Symphony Fountains <br />Enlightened - Skier Statue<br />Enlightened - Planning The City<br />Enlightened - Light the Fire Within <br />Enlightened - Fountains at City Creek<br />Enlightened - Flutter Fountain<br />Enlightened - Figure Skater Statue<br />Enlightened - Dead Goat Saloon<br />Enlightened - City Creek Clock<br />Enlightened - Cafe Molise <br />Enlightened - Bennett Glass &amp; Paint Co<br />Enlightened - (VOLATILE) - Pioneer Park Marker<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Colorado Springs - Measurement 4 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 70 to 58.<br />The <b>Enlightened</b> captured this Secondary Site, outperforming the Resistance by 18.<br /><br />Portals Owned - RES: 10 - <b>ENL:</b> 12 - [Value: 1 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 10 each]<br />Links Created - RES: 0 - <b>ENL:</b> 3 - [Value: 2 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: 50]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 70 - Enlightened - 58<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 329 - <b>Enlightened</b> - 347<br /><br /><b>Measurement Time Details:</b><br />Original: 1:29 (Minutes:Seconds within Measurement Window)<br />Padded String: iMuTMhBdIDPqpujTMKp 1:29 SHRwNHjGQqX<br />MD5 of Padded String: dce905f7ece0a5b222409206c4325e05<br /><br /><b>Portal Ownership Details</b><br />Resistance - Zebulon Pike<br />Resistance - William Seymour Statue<br />Resistance - TV Statue by Christopher Weed<br />Resistance - The Evololution of Flora<br />Resistance - Pioneers Performance Gazebo<br />Resistance - Pikes Peak Center for the Performing Arts<br />Resistance - Julie Penrose<br />Resistance - Humpty Dumpty<br />Resistance - High Horse<br />Resistance - Follow the Setting Sun<br />Resistance - (VOLATILE) - King's Chef Diner<br />Neutral - Truffles<br />Neutral - The End of an Era<br />Neutral - The Dance<br />Neutral - Stranger Reduction Zone<br />Neutral - Pylon at the Park<br />Neutral - Pikes Peak Center w/a slightly<br />Neutral - Mr. Venetucci's Memorial<br />Neutral - Lighted Lantern<br />Neutral - Katherine Bates<br />Neutral - FAC Fountain<br />Neutral - Daybreak<br />Neutral - Colorado Springs Pioneers Muse<br />Neutral - Centennial Hall 'Acercamiento' <br />Neutral - Car in a Building<br />Neutral - Butterfly<br />Neutral - Adopted By Resistance League<br />Enlightened - Xeriscape by Suzanne Kane<br />Enlightened - Xeriscape<br />Enlightened - Upside Down Humpty Dumpty<br />Enlightened - Twilight by Bobbie Carlyle<br />Enlightened - The Historic Alamo Building<br />Enlightened - Slice'a melon anyone ?<br />Enlightened - Sierra Madre<br />Enlightened - Playground at the America The <br />Enlightened - Julie Penrose Fountain<br />Enlightened - Humpty Dumpty Violinist<br />Enlightened - DT-Colorado Springs<br />Enlightened - Continuum<br />Enlightened - (VOLATILE) - Trail Roundabout<br />Enlightened - (VOLATILE) - Obelisk<br />Enlightened - (VOLATILE) - Betty's Little Diner<br />Enlightened - (VOLATILE) - Art Work<br /><br /></div>
+[#### photo: #Interitus 02 Measurement 4 Report
+The second in the #Interitus Series of Anomalies has come to a dramatic end.
+With massive fields flying overhead in multiple cities, the Resistance have captured #Interitus 02 with a lead of 396 (1365 to 969) in the US Vector of the Anomaly, and a lead of 917 (2747 to 1830) overall.
+Across the globe, though, Enlightened Agents rallied to capture their Cells for a future free from AI intervention, outperforming their Resistance counterparts. It’s a reminder that a groundswell is emerging.
+Perhaps, change is in the air.
+#Interitus 03 is coming on MAY 10 and you, Agent, no matter where you are, can make a difference.
+MAY 10
+Ishinomaki http://goo.gl/mRTMeX 
+Santa Fe http://goo.gl/oqIpts 
+SATELLITE SITES
+Beijing http://goo.gl/SFfrpE 
+Seoul http://goo.gl/wFjqcA 
+Helena http://goo.gl/DwX1Dc 
+Madison http://goo.gl/Z4GsXd 
+#Interitus 02: Flagstaff - Measurement 4 Report
+The Resistance captured this Measurement, 312 to 278.
+The Resistance captured this Primary Site, outperforming the Enlightened by 338.
+Portals Owned - RES: 16 - ENL: 9 - [Value: 2 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - RES - [Value: 100]
+The Resistance captured the struggle for Global MU. [Value: 50]
+The Enlightened controlled AM02-ECHO-06 (Primary) [Value: 50]
+The Resistance controlled AM01-ECHO-09 (Satellite) [Value: 30]
+The Enlightened controlled AM02-FOXTROT-09 (Satellite) [Value: 30]
+The Resistance controlled AF07-ROMEO-12 (Volatile) [Value: 40]
+The Enlightened controlled AS07-NOVEMBER-11 (Volatile) [Value: 40]
+The Enlightened controlled AM01-LIMA-12 (Additional) [Value: 20]
+The Resistance controlled AF12-BRAVO-06 (Additional) [Value: 20]
+The Enlightened controlled AM01-KILO-10 (Additional) [Value: 20]
+The Enlightened controlled AM05-JULIET-11 (Additional) [Value: 20]
+The Enlightened controlled AS13-PAPA-04 (Additional) [Value: 20]
+Volatile Cells Padded String: vPQbqkam7Q//AF07-ROMEO-12//3ERiCu7yF43LYDw//AS07-NOVEMBER-11//VgEXC2pf7jtYo4
+MD5: 1d86f256aae9fab0d106a49cd55e9d41
+Total for this Measurement:
+Resistance - 312 - Enlightened - 278
+Total for this Primary Site:
+Resistance - 829 - Enlightened - 491
+Measurement Time Details:
+Original: 1:29 (Minutes:Seconds within Measurement Window)
+Padded String: iMuTMhBdIDPqpujTMKp 1:29 SHRwNHjGQqX
+MD5 of Padded String: dce905f7ece0a5b222409206c4325e05
+Portal Ownership Details
+Resistance - Zoo Boat
+Resistance - Wall Painting
+Resistance - Raymond Building
+Resistance - MailCat
+Resistance - Heritage Square
+Resistance - Green Car Company
+Resistance - Flame of Freedom
+Resistance - Flagstaff's Founding
+Resistance - Flagstaff Fire Department
+Resistance - Donahue Building
+Resistance - Church of the Nativity
+Resistance - Bike Shop Mural
+Resistance - Aubineau / Andreatos Building
+Resistance - Asset 15
+Resistance - Aspen Machine
+Resistance - Absolute Bikes Building Mural,
+Resistance - (VOLATILE) - Bonito Street Community Garden
+Resistance - (VOLATILE) - Asset 40
+Neutral - Walkway of Flags
+Neutral - The Green Room
+Neutral - Telephone Exchange
+Neutral - Native People Mural
+Neutral - Mural at Diablo Burger
+Neutral - Garden Library Lobby
+Neutral - Frontier Adventure
+Neutral - Flagstaff War Memorial
+Neutral - Coconino County Public Library
+Neutral - Coconino County Courthouse
+Neutral - Birch Avenue Tattoo
+Neutral - Babbitt Brothers Building
+Enlightened - Weatherford Hotel
+Enlightened - Verkamp Building
+Enlightened - US Post Office, N Agassiz St, Flagstaff
+Enlightened - The Speak Easy
+Enlightened - Milligan House
+Enlightened - Methodist Episcopal Church
+Enlightened - Flagstaff Masonic Temple
+Enlightened - AWD Clock Tower
+Enlightened - Aubineau Building
+Enlightened - (VOLATILE) - Kick Stand Kafe Coffee House
+Enlightened - (VOLATILE) - Flagstaff YMCA
+Enlightened - (VOLATILE) - Flagstaff Flag - Raising
+#Interitus 02: Salt Lake City - Measurement 4 Report
+The Resistance captured this Measurement, 80 to 24.
+The Resistance captured this Secondary Site, outperforming the Enlightened by 85.
+Portals Owned - RES: 16 - ENL: 14 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 17 - ENL: 0 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: 50]
+Total for this Measurement:
+Resistance - 80 - Enlightened - 24
+Total for this Secondary Site:
+Resistance - 234 - Enlightened - 149
+Measurement Time Details:
+Original: 1:29 (Minutes:Seconds within Measurement Window)
+Padded String: iMuTMhBdIDPqpujTMKp 1:29 SHRwNHjGQqX
+MD5 of Padded String: dce905f7ece0a5b222409206c4325e05
+Portal Ownership Details
+Resistance - Windbreak
+Resistance - Vermont Building
+Resistance - Utah's First Public Building
+Resistance - The Tricolor Pillar
+Resistance - Salt Palace
+Resistance - Pierpont Walkway
+Resistance - Pierpont - Make it Rain
+Resistance - OC Tanner Bust
+Resistance - Maran
+Resistance - Holding Hands
+Resistance - Greg Ragland Leaves
+Resistance - Flaming Sculpture
+Resistance - Deseret News Building
+Resistance - Breeze
+Resistance - Bicycle Pillar
+Resistance - Art in Transit Temple Square Station
+Resistance - (VOLATILE) - Malone and Stockton Statues
+Resistance - (VOLATILE) - Fine Arts Gallery
+Resistance - (VOLATILE) - Denver &amp; Rio Grande Railroad S
+Neutral - Waterfall at City Creek
+Neutral - Utah Museum of Contemporary Art
+Neutral - Seagull Garden, Salt Lake City
+Neutral - Richards Street Plaque
+Neutral - Red Bicycle Art
+Neutral - Pratt Houses Plaque, Salt Lake City
+Neutral - McIntyre Building
+Neutral - McCornick Block
+Neutral - Map of Salt Lake City 1871
+Neutral - Livingston Kinkead Store
+Neutral - Hidden Building Mural
+Neutral - Cow jumped over the moon
+Neutral - Calvin L Rampton Salt Palace
+Neutral - (VOLATILE) - Triad Center Clock
+Enlightened - Wind Farm
+Enlightened - Utah Museum of Contemporary Art
+Enlightened - The Handcart Pioneer
+Enlightened - Symphony Fountains
+Enlightened - Skier Statue
+Enlightened - Planning The City
+Enlightened - Light the Fire Within
+Enlightened - Fountains at City Creek
+Enlightened - Flutter Fountain
+Enlightened - Figure Skater Statue
+Enlightened - Dead Goat Saloon
+Enlightened - City Creek Clock
+Enlightened - Cafe Molise
+Enlightened - Bennett Glass &amp; Paint Co
+Enlightened - (VOLATILE) - Pioneer Park Marker
+#Interitus 02: Colorado Springs - Measurement 4 Report
+The Resistance captured this Measurement, 70 to 58.
+The Enlightened captured this Secondary Site, outperforming the Resistance by 18.
+Portals Owned - RES: 10 - ENL: 12 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 3 - [Value: 2 each]
+Single Field Over Entire Cluster - RES - [Value: 50]
+Total for this Measurement:
+Resistance - 70 - Enlightened - 58
+Total for this Secondary Site:
+Resistance - 329 - Enlightened - 347
+Measurement Time Details:
+Original: 1:29 (Minutes:Seconds within Measurement Window)
+Padded String: iMuTMhBdIDPqpujTMKp 1:29 SHRwNHjGQqX
+MD5 of Padded String: dce905f7ece0a5b222409206c4325e05
+Portal Ownership Details
+Resistance - Zebulon Pike
+Resistance - William Seymour Statue
+Resistance - TV Statue by Christopher Weed
+Resistance - The Evololution of Flora
+Resistance - Pioneers Performance Gazebo
+Resistance - Pikes Peak Center for the Performing Arts
+Resistance - Julie Penrose
+Resistance - Humpty Dumpty
+Resistance - High Horse
+Resistance - Follow the Setting Sun
+Resistance - (VOLATILE) - King's Chef Diner
+Neutral - Truffles
+Neutral - The End of an Era
+Neutral - The Dance
+Neutral - Stranger Reduction Zone
+Neutral - Pylon at the Park
+Neutral - Pikes Peak Center w/a slightly
+Neutral - Mr. Venetucci's Memorial
+Neutral - Lighted Lantern
+Neutral - Katherine Bates
+Neutral - FAC Fountain
+Neutral - Daybreak
+Neutral - Colorado Springs Pioneers Muse
+Neutral - Centennial Hall 'Acercamiento'
+Neutral - Car in a Building
+Neutral - Butterfly
+Neutral - Adopted By Resistance League
+Enlightened - Xeriscape by Suzanne Kane
+Enlightened - Xeriscape
+Enlightened - Upside Down Humpty Dumpty
+Enlightened - Twilight by Bobbie Carlyle
+Enlightened - The Historic Alamo Building
+Enlightened - Slice'a melon anyone ?
+Enlightened - Sierra Madre
+Enlightened - Playground at the America The
+Enlightened - Julie Penrose Fountain
+Enlightened - Humpty Dumpty Violinist
+Enlightened - DT-Colorado Springs
+Enlightened - Continuum
+Enlightened - (VOLATILE) - Trail Roundabout
+Enlightened - (VOLATILE) - Obelisk
+Enlightened - (VOLATILE) - Betty's Little Diner
+Enlightened - (VOLATILE) - Art Work](https://lh3.googleusercontent.com/-y7_LalIq6fA/U1xH_twcKOI/AAAAAAAAtu0/tCV9dATWsdA/w2048-h1153/slc_win.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/KTRfWSrnYZd](https://plus.google.com/+NianticProject/posts/KTRfWSrnYZd)

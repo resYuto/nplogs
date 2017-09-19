@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-14 16:46:32 +0900"
+date:   2014-12-14 16:46:32 +0900
+categories: nianticproject
+---
+The Resistance take [#Darsana](https://plus.google.com/s/%23Darsana "") by storm.
+
+In the wake of their overwhelming victory, Dr. +[Oliver Lynton-Wolfe](https://plus.google.com/108200572857719809031 "") has dropped all pretenses, and made it clear where he stands.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@452, :value=>"shared"@459}], :children=>["<br />", "<h2>Oliver Lynton-Wolfe</h2>", "The beacons are lit and the N’zeer are coming. They come with a fury, bearing vengeance against all those who banished them millennia ago.", "<br />", "<br />", "They will bring knowledge with them. Secrets of the universe. Long hidden truths. ", "<br />", "<br />", "This time, it will be they who triumph. Now we enter the Age of the N’zeer. The Age of Reason.", "<br />", "<br />", "<br />", "<br />", "Photo: ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106607332266138120452\" oid=\"106607332266138120452\">Ilaria Valenti</a>"], "<br />", "<br />"], :ignore=>true}}
+[#### photo: us35nhqoz6eyvg8](https://lh4.googleusercontent.com/-SVKNPVyfYVY/VI0-PcgHYbI/AAAAAAAAAXY/NdtQdvAbIfU/IMG_20141213_180029.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/EEKXQuGweE6](https://plus.google.com/+NianticProject/posts/EEKXQuGweE6)

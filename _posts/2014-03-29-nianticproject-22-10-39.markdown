@@ -1,0 +1,216 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-29 22:10:39 +0900"
+date:   2014-03-29 22:10:39 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "") 07
+
+Measurement 2 Report
+
+The Resistance edge past the Enlightened to the take the lead in all cities.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@226, :value=>"shared"@233}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - BERLIN - Measurement 2 Report</b>", "<br />", "<br />", "Resistance Megafields were established over both Nantes and Brussels, but only the Nantes Megafield survived through the Measurement Time. The Resistance secure Measurement 2 across all Anomaly Sites.", "<br />", "<br />", "<b>The Resistance owned 5 Volatile Portals and 72 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 0 Volatile Portals and 26 Non-Volatile Portals", "<br />", "<br />", "<b>The Resistance had 36 Links standing at Measurement Time</b>", "<br />", "The Enlightened had 6 Links standing at Measurement Time", "<br />", "<br />", "<b>Total for Resistance this Measurement = 424</b>", "<br />", "Total for Enlightened this Measurement = 82", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 605</b>", "<br />", "Total for Enlightened this Anomaly = 202", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 3:07 (Minutes:Seconds past the hour)", "<br />", "Padded: SAdcXf 3:07 iYMrjIaprEPcipHwJOOxEXrn", "<br />", "MD5 of Padded String: 2ffac0c03934b85e255688d41aa2f85e", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Stadtbrunnen am Teutoburger Platz (VOLATILE) - Resistance", "<br />", "Liebe in der Kultur Brauerei (VOLATILE) - Resistance", "<br />", "Achteck am Wasserturm (VOLATILE) - Resistance", "<br />", "Karotte (VOLATILE) - Resistance", "<br />", "Zionskirche (VOLATILE) - Resistance", "<br />", "Father and Daughter  - Enlightened", "<br />", "Kopf in der Husemannstraße - Enlightened", "<br />", "Stadtkloster Segen - Enlightened", "<br />", "Dietrich Bonhoeffer Memorial Zionskirche - Enlightened", "<br />", "Brauerwappen - Enlightened", "<br />", "Löwin am Wasserturm - Enlightened", "<br />", "Relief - Enlightened", "<br />", "Wasserturm - Enlightened", "<br />", "Weinsbergweg Park - Enlightened", "<br />", "Eingang Nord Jüdischer Friedhof - Enlightened", "<br />", "Bücherbaum bei Anna Blume  - Enlightened", "<br />", "Jüdischer Friedhof - Enlightened", "<br />", "Karl Liebknecht Denkmal - Enlightened", "<br />", "Crazy Fish - Enlightened", "<br />", "Widerstand - Enlightened", "<br />", "Umwelt Bibliothek - Enlightened", "<br />", "alte Königstadt - Enlightened", "<br />", "Stadtbibliothek - Enlightened", "<br />", "The Walls Have Eyes - Enlightened", "<br />", "Public Clock - Enlightened", "<br />", "Café Achteck (Pissoir) - Enlightened", "<br />", "Berlvin Whisky Store  - Enlightened", "<br />", "Torstrasse 105 - Enlightened", "<br />", "Buntstifte - Enlightened", "<br />", "Zionskirche Ecke Swinemünder - Enlightened", "<br />", "Brunnen in der alten Backfabrik - Enlightened", "<br />", "Wandbild in der Chorinerstraße II - Neutral", "<br />", "Der Meister - Neutral", "<br />", "Kind mit Blumenstrauß - Neutral", "<br />", "Alter Kirchturm Kulturbrauerei - Neutral", "<br />", "Futterboden in der Kulturbrauerei - Neutral", "<br />", "Stolpersteine am Stadtkloster Segen - Neutral", "<br />", "Einfaches Mosaik - Neutral", "<br />", "Torbogen Tragendes Paar  - Neutral", "<br />", "Erich - Neutral", "<br />", "Teutoburger Graffiti - Neutral", "<br />", "Steigrohrturm - Neutral", "<br />", "Pause Sculpture - Neutral", "<br />", "Schwabilon - Resistance", "<br />", "Kaulbach und Schinkel - Resistance", "<br />", "Herz Jesu Kirche - Resistance", "<br />", "Kunst am Kollwitzplatz - Resistance", "<br />", "Wandbild Chorinerstraße III - Resistance", "<br />", "Putten-Fries - Resistance", "<br />", "Spendentunte - Resistance", "<br />", "Wandbilder Sredzki IV - Resistance", "<br />", "Wasserpumpe - Resistance", "<br />", "Figur am Eck - Resistance", "<br />", "Hufeisen - Resistance", "<br />", "Galerie KURT IM HIRSCH  - Resistance", "<br />", "Kopf in der Chorinerstraße - Resistance", "<br />", "Mosaikbrunnen - Resistance", "<br />", "Froschkönig - Resistance", "<br />", "Frannz Club - Resistance", "<br />", "Königstadt Mural - Resistance", "<br />", "Stolpersteine Schönhauser Allee 174 - Resistance", "<br />", "Pence Berlin - Resistance", "<br />", "Lapidarium - Resistance", "<br />", "Wandbild Chorinerstraße IV - Resistance", "<br />", "Käthe Kollwitz - Denkmal - Resistance", "<br />", "Brunnen - Resistance", "<br />", "auf dem Klo - Resistance", "<br />", "Kopf in der Oderbergerstraße - Resistance", "<br />", "Schultheiss Brauerei - Resistance", "<br />", "Pfefferberg - Resistance", "<br />", "Sporthalle Rotation - Resistance", "<br />", "Donkey Kong - Mural - Resistance", "<br />", "Graffiti Schule am Senefelderplatz - Resistance", "<br />", "Arthur Sodtke Gedenktafel - Resistance", "<br />", "Albert - Resistance", "<br />", "Glaspalast - Resistance", "<br />", "Tool Mural - Resistance", "<br />", "Säule an der Hochbahn - Resistance", "<br />", "Skull - Resistance", "<br />", "Alois Senefelder - Resistance", "<br />", "Deer Mural - Resistance", "<br />", "Stadbad Oderberger - Resistance", "<br />", "Wandbilder Sredzki II - Resistance", "<br />", "I Miss My Plattenbau  - Resistance", "<br />", "Made in Italy Wall Painting - Resistance", "<br />", "Wandbild Chorinerstraße I - Resistance", "<br />", "Rosenthaler Platz - Resistance", "<br />", "El Mac Mural - Resistance", "<br />", "Seeblick - Resistance", "<br />", "Lapidarium - Resistance", "<br />", "Graffiti Chorinerstraße - Resistance", "<br />", "Elephant - Resistance", "<br />", "Deportation Mark: Warner Bab - Resistance", "<br />", "Kreuz Kastanienallee &amp; Schwedter Straße - Resistance", "<br />", "Denkmal Galinski - Resistance", "<br />", "Gebäude aus dem 2.Weltkrieg - Resistance", "<br />", "Statue in Grey - Resistance", "<br />", "Lady on the Wall - Resistance", "<br />", "Fresko der Bürger - Resistance", "<br />", "Spielplatz Am Christinienstraße - Resistance", "<br />", "Marlene - Resistance", "<br />", "Relief - Resistance", "<br />", "Last Cathedral - Resistance", "<br />", "Frau an der Fassade - Resistance", "<br />", "Großstadtindianer - Resistance", "<br />", "The Circus Hostel - Resistance", "<br />", "Stolpersteine Donat und Berger - Resistance", "<br />", "Kolle Belle Klaasik-Anmutung - Resistance", "<br />", "Freie Internationale Tankstelle  - Resistance", "<br />", "1848 Memorial - Resistance", "<br />", "Druckerei Gutenberg - Resistance", "<br />", "Pratergarten  - Resistance", "<br />", "Kulturbrauerei Sredzki Strasse - Resistance", "<br />", "Stolperstein Schönhauser Allee 172a - Resistance", "<br />", "Innenhof - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - NANTES - Measurement 2 Report</b>", "<br />", "<br />", "The Resistance owned 0 Volatile Portals and 3 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 4 Volatile Portals and 9 Non-Volatile Portals</b>", "<br />", "<br />", "<b>A Resistance Field covered all the Portals in this Cluster (50)</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 53</b>", "<br />", "Total for Enlightened this Measurement = 49", "<br />", "<br />", "Total for Resistance this Anomaly = 75", "<br />", "<b>Total for Enlightened this Anomaly = 95</b>", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Frontal Ouest Eglise St Nicolas (VOLATILE) - Enlightened", "<br />", "Mister X (VOLATILE) - Enlightened", "<br />", "Bretagne Fantôme Pacman  (VOLATILE) - Enlightened", "<br />", "Nantes, Fontaine De Papi (VOLATILE) - Enlightened", "<br />", "Chapelle Des Jésuites (VOLATILE) - Neutral", "<br />", "Le Nid - Enlightened", "<br />", "Nantes, Kirby - Enlightened", "<br />", "Vierge - Enlightened", "<br />", "Hotel La Perouse - Enlightened", "<br />", "Golden Angels - Enlightened", "<br />", "Plaque Aristide Briand  - Enlightened", "<br />", "Rue de la Boucherie - Enlightened", "<br />", "Revenge, Kill Humans - Enlightened", "<br />", "Benepe - Enlightened", "<br />", "Street Art Tour De Bretagne - Neutral", "<br />", "Statue Guepin  - Neutral", "<br />", "Tour de Bretagne (144m) en con - Neutral", "<br />", "Droit Comme Un i   - Neutral", "<br />", "Horloge C&amp;A - Neutral", "<br />", "Arbre Mural  - Neutral", "<br />", "St Mercoeur - Resistance", "<br />", "Fantôme De Pacman - Resistance", "<br />", "maître mercoeur - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - BRUSSELS - Measurement 2 Report</b>", "<br />", "<br />", "The Resistance owned 2 Volatile Portals and 5 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 2 Volatile Portals and 13 Non-Volatile Portals</b>", "<br />", "<br />", "<b>The Resistance had 8 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 41</b>", "<br />", "Total for Enlightened this Measurement = 33", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 102</b>", "<br />", "Total for Enlightened this Anomaly = 51", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Parlamentarium Entrance (VOLATILE) - Enlightened", "<br />", "Juliaan Dillens Memorial Statue (VOLATILE) - Enlightened", "<br />", "Der EU Amtsschimmel (VOLATILE) - Neutral", "<br />", "Berlin Wall Fragment (VOLATILE) - Resistance", "<br />", "Luxemburgplein (VOLATILE) - Resistance", "<br />", "Nordrhein-Westfalen Coat-of-Arms - Enlightened", "<br />", "Maison Chevalier - Enlightened", "<br />", "European Voice Tree Plaque - Enlightened", "<br />", "Hergé Wall - Enlightened", "<br />", "EP Tableau - Enlightened", "<br />", "L. Général Storms - Enlightened", "<br />", "Two Friends Relief - Enlightened", "<br />", "Library of France - Enlightened", "<br />", "Gare Bruxelles-Luxembourg - Enlightened", "<br />", "Comté Ferdinand de Meeûs statue - Enlightened", "<br />", "Statue of Two children and Mother - Enlightened", "<br />", "Statue en parc de Meeûs - Enlightened", "<br />", "Glass Decor - Enlightened", "<br />", "Marnix Gijsen Statue - Neutral", "<br />", "New WR 9.85 Berlin Wall Fragment - Neutral", "<br />", "Unique Building - Neutral", "<br />", "The European Parliament - Neutral", "<br />", "Auguste Beernaert Mémorial - Neutral", "<br />", "John Cockerill Statue - Neutral", "<br />", "Euro Zone Statue - Resistance", "<br />", "Curved Building - Resistance", "<br />", "Human Rights Stone - Resistance", "<br />", "Comte De Theux De Meylandt - Resistance", "<br />", "EP Informatiebureau in België - Resistance", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/100561270975878716100\" oid=\"100561270975878716100\">Timo Beuttenmüller</a>"], ".", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Recursion - BERLIN - Measurement 2 Report
+Resistance Megafields were established over both Nantes and Brussels, but only the Nantes Megafield survived through the Measurement Time. The Resistance secure Measurement 2 across all Anomaly Sites.
+The Resistance owned 5 Volatile Portals and 72 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 26 Non-Volatile Portals
+The Resistance had 36 Links standing at Measurement Time
+The Enlightened had 6 Links standing at Measurement Time
+Total for Resistance this Measurement = 424
+Total for Enlightened this Measurement = 82
+Total for Resistance this Anomaly = 605
+Total for Enlightened this Anomaly = 202
+Measurement Time Details:
+Original: 3:07 (Minutes:Seconds past the hour)
+Padded: SAdcXf 3:07 iYMrjIaprEPcipHwJOOxEXrn
+MD5 of Padded String: 2ffac0c03934b85e255688d41aa2f85e
+Portal Ownership Details:
+Stadtbrunnen am Teutoburger Platz (VOLATILE) - Resistance
+Liebe in der Kultur Brauerei (VOLATILE) - Resistance
+Achteck am Wasserturm (VOLATILE) - Resistance
+Karotte (VOLATILE) - Resistance
+Zionskirche (VOLATILE) - Resistance
+Father and Daughter  - Enlightened
+Kopf in der Husemannstraße - Enlightened
+Stadtkloster Segen - Enlightened
+Dietrich Bonhoeffer Memorial Zionskirche - Enlightened
+Brauerwappen - Enlightened
+Löwin am Wasserturm - Enlightened
+Relief - Enlightened
+Wasserturm - Enlightened
+Weinsbergweg Park - Enlightened
+Eingang Nord Jüdischer Friedhof - Enlightened
+Bücherbaum bei Anna Blume  - Enlightened
+Jüdischer Friedhof - Enlightened
+Karl Liebknecht Denkmal - Enlightened
+Crazy Fish - Enlightened
+Widerstand - Enlightened
+Umwelt Bibliothek - Enlightened
+alte Königstadt - Enlightened
+Stadtbibliothek - Enlightened
+The Walls Have Eyes - Enlightened
+Public Clock - Enlightened
+Café Achteck (Pissoir) - Enlightened
+Berlvin Whisky Store  - Enlightened
+Torstrasse 105 - Enlightened
+Buntstifte - Enlightened
+Zionskirche Ecke Swinemünder - Enlightened
+Brunnen in der alten Backfabrik - Enlightened
+Wandbild in der Chorinerstraße II - Neutral
+Der Meister - Neutral
+Kind mit Blumenstrauß - Neutral
+Alter Kirchturm Kulturbrauerei - Neutral
+Futterboden in der Kulturbrauerei - Neutral
+Stolpersteine am Stadtkloster Segen - Neutral
+Einfaches Mosaik - Neutral
+Torbogen Tragendes Paar  - Neutral
+Erich - Neutral
+Teutoburger Graffiti - Neutral
+Steigrohrturm - Neutral
+Pause Sculpture - Neutral
+Schwabilon - Resistance
+Kaulbach und Schinkel - Resistance
+Herz Jesu Kirche - Resistance
+Kunst am Kollwitzplatz - Resistance
+Wandbild Chorinerstraße III - Resistance
+Putten-Fries - Resistance
+Spendentunte - Resistance
+Wandbilder Sredzki IV - Resistance
+Wasserpumpe - Resistance
+Figur am Eck - Resistance
+Hufeisen - Resistance
+Galerie KURT IM HIRSCH  - Resistance
+Kopf in der Chorinerstraße - Resistance
+Mosaikbrunnen - Resistance
+Froschkönig - Resistance
+Frannz Club - Resistance
+Königstadt Mural - Resistance
+Stolpersteine Schönhauser Allee 174 - Resistance
+Pence Berlin - Resistance
+Lapidarium - Resistance
+Wandbild Chorinerstraße IV - Resistance
+Käthe Kollwitz - Denkmal - Resistance
+Brunnen - Resistance
+auf dem Klo - Resistance
+Kopf in der Oderbergerstraße - Resistance
+Schultheiss Brauerei - Resistance
+Pfefferberg - Resistance
+Sporthalle Rotation - Resistance
+Donkey Kong - Mural - Resistance
+Graffiti Schule am Senefelderplatz - Resistance
+Arthur Sodtke Gedenktafel - Resistance
+Albert - Resistance
+Glaspalast - Resistance
+Tool Mural - Resistance
+Säule an der Hochbahn - Resistance
+Skull - Resistance
+Alois Senefelder - Resistance
+Deer Mural - Resistance
+Stadbad Oderberger - Resistance
+Wandbilder Sredzki II - Resistance
+I Miss My Plattenbau  - Resistance
+Made in Italy Wall Painting - Resistance
+Wandbild Chorinerstraße I - Resistance
+Rosenthaler Platz - Resistance
+El Mac Mural - Resistance
+Seeblick - Resistance
+Lapidarium - Resistance
+Graffiti Chorinerstraße - Resistance
+Elephant - Resistance
+Deportation Mark: Warner Bab - Resistance
+Kreuz Kastanienallee &amp; Schwedter Straße - Resistance
+Denkmal Galinski - Resistance
+Gebäude aus dem 2.Weltkrieg - Resistance
+Statue in Grey - Resistance
+Lady on the Wall - Resistance
+Fresko der Bürger - Resistance
+Spielplatz Am Christinienstraße - Resistance
+Marlene - Resistance
+Relief - Resistance
+Last Cathedral - Resistance
+Frau an der Fassade - Resistance
+Großstadtindianer - Resistance
+The Circus Hostel - Resistance
+Stolpersteine Donat und Berger - Resistance
+Kolle Belle Klaasik-Anmutung - Resistance
+Freie Internationale Tankstelle  - Resistance
+1848 Memorial - Resistance
+Druckerei Gutenberg - Resistance
+Pratergarten  - Resistance
+Kulturbrauerei Sredzki Strasse - Resistance
+Stolperstein Schönhauser Allee 172a - Resistance
+Innenhof - Resistance
+#Recursion - NANTES - Measurement 2 Report
+The Resistance owned 0 Volatile Portals and 3 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 9 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (50)
+Total for Resistance this Measurement = 53
+Total for Enlightened this Measurement = 49
+Total for Resistance this Anomaly = 75
+Total for Enlightened this Anomaly = 95
+Portal Ownership Details:
+Frontal Ouest Eglise St Nicolas (VOLATILE) - Enlightened
+Mister X (VOLATILE) - Enlightened
+Bretagne Fantôme Pacman  (VOLATILE) - Enlightened
+Nantes, Fontaine De Papi (VOLATILE) - Enlightened
+Chapelle Des Jésuites (VOLATILE) - Neutral
+Le Nid - Enlightened
+Nantes, Kirby - Enlightened
+Vierge - Enlightened
+Hotel La Perouse - Enlightened
+Golden Angels - Enlightened
+Plaque Aristide Briand  - Enlightened
+Rue de la Boucherie - Enlightened
+Revenge, Kill Humans - Enlightened
+Benepe - Enlightened
+Street Art Tour De Bretagne - Neutral
+Statue Guepin  - Neutral
+Tour de Bretagne (144m) en con - Neutral
+Droit Comme Un i   - Neutral
+Horloge C&amp;A - Neutral
+Arbre Mural  - Neutral
+St Mercoeur - Resistance
+Fantôme De Pacman - Resistance
+maître mercoeur - Resistance
+#Recursion - BRUSSELS - Measurement 2 Report
+The Resistance owned 2 Volatile Portals and 5 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 13 Non-Volatile Portals
+The Resistance had 8 Links standing at Measurement Time
+Total for Resistance this Measurement = 41
+Total for Enlightened this Measurement = 33
+Total for Resistance this Anomaly = 102
+Total for Enlightened this Anomaly = 51
+Portal Ownership Details:
+Parlamentarium Entrance (VOLATILE) - Enlightened
+Juliaan Dillens Memorial Statue (VOLATILE) - Enlightened
+Der EU Amtsschimmel (VOLATILE) - Neutral
+Berlin Wall Fragment (VOLATILE) - Resistance
+Luxemburgplein (VOLATILE) - Resistance
+Nordrhein-Westfalen Coat-of-Arms - Enlightened
+Maison Chevalier - Enlightened
+European Voice Tree Plaque - Enlightened
+Hergé Wall - Enlightened
+EP Tableau - Enlightened
+L. Général Storms - Enlightened
+Two Friends Relief - Enlightened
+Library of France - Enlightened
+Gare Bruxelles-Luxembourg - Enlightened
+Comté Ferdinand de Meeûs statue - Enlightened
+Statue of Two children and Mother - Enlightened
+Statue en parc de Meeûs - Enlightened
+Glass Decor - Enlightened
+Marnix Gijsen Statue - Neutral
+New WR 9.85 Berlin Wall Fragment - Neutral
+Unique Building - Neutral
+The European Parliament - Neutral
+Auguste Beernaert Mémorial - Neutral
+John Cockerill Statue - Neutral
+Euro Zone Statue - Resistance
+Curved Building - Resistance
+Human Rights Stone - Resistance
+Comte De Theux De Meylandt - Resistance
+EP Informatiebureau in België - Resistance
+Photo by Agent +Timo Beuttenmüller.](https://lh3.googleusercontent.com/-8Swp1FH0DxE/UzbDisqOd0I/AAAAAAAApO0/aOWeNKpktww/w1337-h1783/IMG_20140329_130839.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/4z6MrjiwrAr](https://plus.google.com/+NianticProject/posts/4z6MrjiwrAr)

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-09 04:50:32 +0900"
+date:   2014-03-09 04:50:32 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  04
+
+Here are the Volatiles for Mexico City and St. Louis Cluster 1. 
+
+Volatiles for Austin were delivered on-site.
+
+The playing field starts out on even ground for [#Recursion](https://plus.google.com/s/%23Recursion "") 04.  Good luck, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@416, :value=>"shared"@423}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23RECURSION\">#RECURSION</a></b>", "<b> 04 - MEXICO CITY, ST LOUIS - C1 VOLS</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/Q82W6U\" class=\"ot-anchor\">http://goo.gl/Q82W6U</a>", "<br />", "<br />", "MD5: 101399e30519e5e70b1b3797e28133f2", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101412482791457669319\" oid=\"101412482791457669319\">Linda Besh</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #RECURSION 04 - MEXICO CITY, ST LOUIS - C1 VOLS
+Volatiles: http://goo.gl/Q82W6U
+MD5: 101399e30519e5e70b1b3797e28133f2
+Photo by Agent +Linda Besh ](https://lh5.googleusercontent.com/-7-RPMoXzp7U/Uxty0acsFQI/AAAAAAAAl8o/07Pw1jOMBGI/w2000-h1125/stlouis_startgroup.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Lh59mKFRu13](https://plus.google.com/+NianticProject/posts/Lh59mKFRu13)

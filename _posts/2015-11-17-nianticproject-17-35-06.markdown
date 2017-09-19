@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-11-17 17:35:06 +0900"
+date:   2015-11-17 17:35:06 +0900
+categories: nianticproject
+---
+A fragment of +[Klue S.](https://plus.google.com/110350977702120778591 "")'s investigation in Hamburg emerges via +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") aka P. A. Chapeau.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@467, :value=>"shared"@474}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Looks like ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], "'s investigation in Hamburg hit paydirt. She sent me this fragment. Told me there was more on the page, but she didn't feel safe transmitting it to me at this point. I'll keep an eye out. In the meantime, do you see anything here that could be meaningful?", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Looks like +Klue S.'s investigation in Hamburg hit paydirt. She sent me this fragment. Told me there was more on the page, but she didn't feel safe transmitting it to me at this point. I'll keep an eye out. In the meantime, do you see anything here that could be meaningful?](https://lh3.googleusercontent.com/-0KdJonkttB4/VkrmDrYVGYI/AAAAAAAABv0/i80hKbqVXGw/w974-h800/Fragment.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/cCay45G568z](https://plus.google.com/+NianticProject/posts/cCay45G568z)

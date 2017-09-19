@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-05-29 10:20:16 +0900"
+date:   2015-05-29 10:20:16 +0900
+categories: nianticproject
+---
+Tune in to +[Behind The Scanner](https://plus.google.com/113020726391023655192 "") now...
+
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") will be the special guest on their weekly segment, The Weekly Truth, answering questions about his role in the development of ADA, Truthseeker, Klue and more.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@590, :value=>"shared"@597}], :children=>["<br />", "<h2>Behind The Scanner</h2>", "Watch ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101136634145087429618\" oid=\"101136634145087429618\">Ahmed El-Sharkawy</a>"], " (R), ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/109506054187424520115\" oid=\"109506054187424520115\">Christopher Bowman</a>"], " (E) and special guest ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], " live in about 30 minutes here: ", "<a href=\"http://www.youtube.com/watch?v=LCKq_kFYxaI\" class=\"ot-anchor\">http://www.youtube.com/watch?v=LCKq_kFYxaI</a>", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Watch +Ahmed El-Sharkawy (R), +Christopher Bowman (E) and special guest +H. Richard Loeb live in about 30 minutes here: http://www.youtube.com/watch?v=LCKq_kFYxaI](https://lh3.googleusercontent.com/-cCFc9x372y8/VWezIga0qAI/AAAAAAAABlU/CZbdydDxjSM/w1920-h1080/ep53_live_in_30.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Q4CJoMpDDXV](https://plus.google.com/+NianticProject/posts/Q4CJoMpDDXV)

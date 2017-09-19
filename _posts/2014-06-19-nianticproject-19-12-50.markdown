@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-19 19:12:50 +0900"
+date:   2014-06-19 19:12:50 +0900
+categories: nianticproject
+---
++[Roland Jarvis](https://plus.google.com/103568659333550762891 ""), philosophical leader of the Enlightened, heads to Krakow for the [#Interitus](https://plus.google.com/s/%23Interitus "") Anomaly, promising to reveal new information about the Shapers...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@436, :value=>"shared"@443}], :children=>["<br />", "<h2>Roland Jarvis</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " believed that mythical beasts are history's way of hiding great secrets. Despite our many disagreements, I cannot fault his intuition in this matter.", "<br />", "<br />", "I've been thinking on dreams and nightmares. They are the mind at its most active. Millions of possible connections lighting up as our deepest self explores the threats and opportunities of the universe. ", "<br />", "<br />", "When Our Friends speak to us, they too activate every cavern of the mind. They awaken the power to build music, art, genius. But also, they bring us the terror of the night: The haunted house, the monster. Dragons.", "<br />", "<br />", "The two are equal gifts from the Ultimate. Fear and love combined are the ideal teaching medium. ", "<br />", "<br />", "To understand our Friends, one needs to understand why we are gifted both halves of the coin: The daydream and the nightmare.", "<br />", "<br />", "My fellow Enlightened. I will see you in Krakow. Together, we will open the book to a new chapter. We will learn why our Friends need us as much as we need them.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-Zjm3yP2i5k8/U6K1c3f_BpI/AAAAAAAAAVU/_O8seGmgdtI/Krakow.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/XY7DTBSjZxL](https://plus.google.com/+NianticProject/posts/XY7DTBSjZxL)

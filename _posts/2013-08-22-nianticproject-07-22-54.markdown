@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-22 07:22:54 +0900"
+date:   2013-08-22 07:22:54 +0900
+categories: nianticproject
+---
+Enlightened have an early foothold in Operation [#Cassandra](https://plus.google.com/s/%23Cassandra "") - São Paulo, but heading into Measurement 2, it looks like the Resistance have a plan in mind.
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Sao Paulo<br /><br />The Enlightened target high-value Volatile Portals and establish a dense network of Portal Links to secure Measurement 1. While using a tried-and-tested strategy may work in the short-run, we suspect the Resistance may eventually identify possible vulnerabilities.<br /><br /><b>Measurement 1 Details</b><br /><br />The Resistance owned 1 Volatile Portal and 5 Non-Volatile Portals.<br /><b>The Enlightened owned 4 Volatile Portals and 7 Non-Volatile Portals.</b><br /><br />The Resistance had 4 Links standing at Measurement Time.<br /><b>The Enlightened had 18 Links standing at Measurement Time.</b><br /><br />Total for the Resistance this Measurement = 23<br /><b>Total for the Enlightened this Measurement = 83</b><br /><br /><b>Measurement Time Details</b><br /><br />Original:     TWO MINUTES AND FIFTY TWO SECONDS AFTER  THE HOUR<br />Padded: XXXXTWOXMINUTESXANDXFIFTYXTWOXSECONDSXAFTERXXTHEXHOURXXXXXX<br />OTP Key: HLSGQUCZHNWEEGVTOIQHVLFHQEZYQTNFYCHJNFBFUWTWRZHFPFRAOOLFNKX<br />Encrypted String: EIPDJQQWTVJYXKNQOVTEATKAOBSUEQFJAQUMFCBKNAKTOSOJMMFUFLICKHU<br />MD5 of OTP Key: C3F05A0FA9A1AC823CCFAED40219503A<br /><br /></div>
+[#### photo: undefined](https://lh6.googleusercontent.com/-3z1dvSI_2q4/UhU65pnJJ7I/AAAAAAAAPYA/uRrHOrz15u8/cassandra-saopaulo-1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/j5yPxXmHBuV](https://plus.google.com/+NianticProject/posts/j5yPxXmHBuV)

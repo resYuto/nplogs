@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Niantic Project: 2014-02-05 11:27:09 +0900"
+date:   2014-02-05 11:27:09 +0900
+categories: nianticproject
+---
+Earlier today, investigators were able to decode the source of the hit order on +[Hank Johnson](https://plus.google.com/117792105926525258257 ""). The information was hidden within the 'ORDERED BY' section of the document, Vignere encoded using  'IQTECH' as the key.
+
+When I discovered this, I began to dig, and uncovered some additional intel. I can confirm that it does indeed seem that Lorazon is behind this, and his right hand Devitt seems to want in as well. It's unclear as of now how far up the chain of command this goes.
+
+**What do you think? Lorazon claims he's operating behind Calvin's back, but that seems to be an unthinkably brazen move... Is he covering for him? What about the NIA? Are they involved? Do the motivations to remove Hank Johnson from the field extend to others in the circle of power? If they succeed, what will the repercussions be?**
+
++[Klue S.](https://plus.google.com/110350977702120778591 ""), +[Susanna Moyer](https://plus.google.com/101560858827970533247 "") and Agents from both Factions are descending on Vegas as we speak. Tomorrow is an important day, and I wish Agents on both sides of the Factional divide good luck.
+
+A passcode to those who enrich our conversation with meaningful insights, references and speculation.
+
+x
+[#### photo: Earlier today, investigators were able to decode the source of the hit order on +Hank Johnson. The information was hidden within the 'ORDERED BY' section of the document, Vignere encoded using  'IQTECH' as the key.
+When I discovered this, I began to dig, and uncovered some additional intel. I can confirm that it does indeed seem that Lorazon is behind this, and his right hand Devitt seems to want in as well. It's unclear as of now how far up the chain of command this goes.
+What do you think? Lorazon claims he's operating behind Calvin's back, but that seems to be an unthinkably brazen move... Is he covering for him? What about the NIA? Are they involved? Do the motivations to remove Hank Johnson from the field extend to others in the circle of power? If they succeed, what will the repercussions be?
++Klue S., +Susanna Moyer and Agents from both Factions are descending on Vegas as we speak. Tomorrow is an important day, and I wish Agents on both sides of the Factional divide good luck.
+A passcode to those who enrich our conversation with meaningful insights, references and speculation.
+x](https://lh6.googleusercontent.com/-9ZYfCk6pjMc/UvGhCNBkx5I/AAAAAAAAWKA/S8OqSWEYIY0/w1200-h1553/Score.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/AhL3D4JdtY6](https://plus.google.com/+NianticProject/posts/AhL3D4JdtY6)

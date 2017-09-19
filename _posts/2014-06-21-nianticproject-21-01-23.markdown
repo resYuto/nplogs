@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-21 21:01:23 +0900"
+date:   2014-06-21 21:01:23 +0900
+categories: nianticproject
+---
+C2 VOLs for Bergen and St. Petersburg.  {:element=>{:name=>"div", :attributes=>[{:name=>"class"@45, :value=>"shared"@52}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 06 C2 VOLS - BERGEN, ST. PETERSBURG</b>", " ", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/0FZpCa\" class=\"ot-anchor\">http://goo.gl/0FZpCa</a>", " ", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/111680392665918775944\" oid=\"111680392665918775944\">Marius H Tronstad</a>"], " in Bergen.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-820-YZO-Rdw/U6VzplYLYnI/AAAAAAAA1NI/gPx17NNNsAU/ENLviking.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/fCEJvjm5R4Q](https://plus.google.com/+NianticProject/posts/fCEJvjm5R4Q)

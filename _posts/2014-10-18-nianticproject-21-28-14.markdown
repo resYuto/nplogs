@@ -1,0 +1,240 @@
+---
+layout: post
+title:  "Niantic Project: 2014-10-18 21:28:14 +0900"
+date:   2014-10-18 21:28:14 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b> 01 - Summary of Anomaly Conditions at Measurement 1:</b><br /><br />Brussels - <b>R:263</b> - E:154<br />Berne - R:43 - <b>E:45</b><br />Vilnius - <b>R:61.6</b> - E:20<br />Aarhus - <b>R:56</b> - E:17<br />Pune - <b>R:101</b> - E:25<br /><br />The Resistance firmly control the majority of the sites as  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a>  01 begins. In the Satellite Site of Berne, the Enlightened take control by a razor thin margin of just 2. At the Primary Site of Brussels, a significant network of Links enabled the Resistance to seize the site despite losing control of a majority of the Volatile Portals. It seems, as  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a>  begins, that the Resistance are committed to bringing forth a new vision of the universe, one the Shapers may have hidden from us for thousands of year.<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Brussels - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 263 to 154.<br />The <b>Resistance</b> currently control this Primary Site, leading by 109.<br /><br />Portals Owned - <b>RES:</b> 74 - ENL: 37 - [Value: 2 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 20 each]<br />Links Created - <b>RES:</b> 19 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 263 - Enlightened - 154<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 263 - Enlightened - 154<br /><br /><b>Measurement Time Details:</b><br />Original: 6:08 (Minutes:Seconds within Measurement Window)<br />Padded String: z(tv*4#yd5[bN3tA 6:08 fQ=EvUP<br />SHA256 of Padded String: 9362b575296af9ff26c28291bc37389b00dc51eaa1705365ee4eb0153aaa5a3c<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Agora Simone Veil<br />ENL - Auschwitz Memorial<br />ENL - Berlin Wall Fragment<br />ENL - Bibliothèque Solvay<br />ENL - CDH Building Facade<br />ENL - Colored Windows<br />ENL - Concert Noble<br />ENL - Curved Building<br />ENL - Déclaration of Preseren<br />ENL - Ep Official Soccer Training Centre<br />ENL - EP Starts Here Plaque<br />ENL - EUrban Magenta Installation<br />ENL - European Bridge<br />ENL - Foyer Culturel d'Etterbeek<br />ENL - Frère Orban Statue<br />ENL - Goethe Institut<br />ENL - Hiéroglyphes<br />ENL - Human Rights Stone<br />ENL - Iguanodons<br />ENL - InfoPoint of External Cooperation<br />ENL - Ireland<br />ENL - Jardin Royal De Zoologie<br />ENL - Jean Jindel<br />ENL - Library of France<br />ENL - Madonna and the Lamb of God<br />ENL - Matteucci Plaque<br />ENL - Modern Wall Sculpture<br />ENL - Palazzo Con Teste<br />ENL - Parc Léopold South Entrance<br />ENL - Sculpture en Bois<br />ENL - SOFINA Building<br />ENL - SudTirol Representation<br />ENL - The Brewers of Europe Plaque<br />ENL - The Meeting Point<br />ENL - Tower<br />ENL - Un Européen<br />ENL - Wiertz Museum<br />ENL [Vol] - 25 Fountains<br />ENL [Vol] - EuropeAid Building<br />ENL [Vol] - Petite Fontaine<br />ENL [Vol] - Renaissance Tower<br />NEU - Auguste Beernaert Mémorial<br />NEU - Danmark Representation<br />NEU - Embajada de España<br />NEU - Ephaistos<br />NEU - EUrban Orange Installation<br />NEU - Germany's Ambassy<br />NEU - Italian Permanent Representation<br />NEU - Naissance D'une Nation<br />NEU - Parc Léopold Entrance<br />NEU - Peace Statue<br />NEU - Représentation Permanente De La Grece<br />NEU - Staines Aircraft Crash<br />RES - Albert Borschette<br />RES - Albert Edouard Janssen Plaque<br />RES - Alexandre Gendebien Statue<br />RES - Ambassade du Congo<br />RES - Armée Secrète Memorial<br />RES - Armenia Coat-of-arms<br />RES - Backside Orban Church<br />RES - Balcony<br />RES - Bas Relief Rue Wiertz<br />RES - Bavarian Presence<br />RES - Berlaymont Tree<br />RES - Bronze D'une Femme Assise<br />RES - Castel Molise<br />RES - Cave in the Water<br />RES - Colonnade<br />RES - De Krekel<br />RES - Der EU Amtsschimmel<br />RES - Entrée Parc Léopold<br />RES - EP Informatiebureau in België<br />RES - EP Tableau<br />RES - Esplanade Solidarosc 1980<br />RES - EUrban Blue Installation<br />RES - Euro Zone Statue<br />RES - Europe - DG Education<br />RES - European Voice Tree Plaque<br />RES - Fragmented Statuette<br />RES - Gare Bruxelles-Luxembourg<br />RES - Giant Frits of Legs<br />RES - Glass Decor<br />RES - Gold Windows<br />RES - Greek representative for Europe<br />RES - Greenland Representation<br />RES - Happy Traffic Jam<br />RES - Headless Angel<br />RES - Hergé Wall<br />RES - Immeuble Commission Européenne<br />RES - Indifference Kills<br />RES - Iron Dome<br />RES - Jacques Delors Memorial Tableau<br />RES - John Cockerill Statue<br />RES - Joueuse De Harpe<br />RES - Kitty O'Shea's Pub<br />RES - La Gare Het Station<br />RES - Le Justus Lipsius<br />RES - Lion's Head Statue<br />RES - Luxemburgplein<br />RES - Lycee Emile Jacqmain<br />RES - Maison Chevalier<br />RES - New WR 9.85 Berlin Wall Fragment<br />RES - Nordrhein-Westfalen Coat-of-Arms<br />RES - North Rhine Westphalia Representation<br />RES - Ornamented Iron Gate<br />RES - Ornements Belliard<br />RES - Parlamentarium Entrance<br />RES - Place Jourdan<br />RES - Raad Van State<br />RES - Renaissance Hotel<br />RES - Représentation Permanente de Hongrie<br />RES - Robert Schuman Memorial<br />RES - Royal Automobile Club Belgium<br />RES - Schuman Railway Station<br />RES - Solvay Library<br />RES - Space Invader Pixel Streetart<br />RES - Sphinx Ornament<br />RES - The European Parliament<br />RES - The Taking of Europe by Zeus<br />RES - The TAXUD Building<br />RES - Toujours la tête en l'air, têt<br />RES - Twin Triangle Pillars<br />RES - Two Friends Relief<br />RES - Unique Building<br />RES - VVV Gezinnen<br />RES - Whisper<br />RES - Wooden Sculpture<br />RES [Vol] - Église Saint Joseph<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Berne - Measurement 1 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 45 to 43.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 2.<br /><br />Portals Owned - <b>RES:</b> 24 - ENL: 5 - [Value: 1 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 10 each]<br />Links Created - <b>RES:</b> 3 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 43 - <b>Enlightened</b> - 45<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 43 - <b>Enlightened</b> - 45<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Eating Apples<br />ENL - Geschenk an die Hasler AG<br />ENL - Rote Balken<br />ENL - SRF Statue<br />ENL - Wandgemälde<br />ENL [Vol] - Angelus<br />ENL [Vol] - Belpstr. Schwarztorstr. Turm<br />ENL [Vol] - Mondbrunnen<br />ENL [Vol] - Relief on SRF Building<br />NEU - Leerer Brunnen<br />RES - Aebi and Vincent<br />RES - Brunnen Schulhaus Sulgenbach<br />RES - Crybabies<br />RES - Eigerplatz<br />RES - Eingang Floraanlage<br />RES - Fountain at Hauptsitz PostAuto<br />RES - Fountain At La Pergola<br />RES - Fountain at Mattenhof<br />RES - Fountain At Monbijou Park<br />RES - Fountain at Tram Stop Hasler<br />RES - Glaspyramiden<br />RES - La Cultina<br />RES - Mobiliar<br />RES - Monbijou castel<br />RES - Ornaments<br />RES - Ornate Building<br />RES - Pirate Ship<br />RES - Right Lion<br />RES - Statue Frau mit Hund, Monbijou<br />RES - SVB Umweltpassbaum<br />RES - Titanic II<br />RES - Tree Mural<br />RES - Villa Stucki<br />RES - Wall Art at Philosophenweg<br />RES [Vol] - Florabrunnen<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Vilnius - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 61.6 to 20.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 41.6.<br /><br />Portals Owned - RES: 4 - <b>ENL:</b> 10 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (17.6)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 61.6 - Enlightened - 20<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 61.6 - Enlightened - 20<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Appolus On Sky<br />ENL - Former KGB Quarters<br />ENL - Genocido Auku Muziejus<br />ENL - Lietuvos statistika<br />ENL - Lithuanian-US Relationships Renewal Memorial aka Washington Square Rock<br />ENL - LMTA Skulptūros<br />ENL - Ministry of Foreign Affairs<br />ENL - Ray Spear Sculpture on White Bridge<br />ENL - Sovietinės Okupacijos Aukoms Atminti<br />ENL - The Dog<br />ENL [Vol] - Brodo vaikas Vytautas Kernagis<br />NEU - Lietuvos Respublikos Seimas<br />NEU - Nepriklausomybės aikštės fontano<br />RES - Lukiskiu Aikste<br />RES - Music Academy<br />RES - Sv. Apastalu Pilypo ir Jokubo<br />RES - Vytautas Kernagis<br />RES [Vol] - Angelas<br />RES [Vol] - Meškius<br />RES [Vol] - Unknown Fighter Memorial<br />RES [Vol] - Žinia<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Aarhus - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 56 to 17.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 39.<br /><br />Portals Owned - <b>RES:</b> 13 - ENL: 7 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - <b>RES:</b> 1 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 56 - Enlightened - 17<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 56 - Enlightened - 17<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Horse Head in Amaliegade<br />ENL - Humpback Gunship<br />ENL - Katolsk Vor Frue menighed<br />ENL - Øgle<br />ENL - Skulptur 1984<br />ENL - Teatret Svalegangen<br />ENL - Tiden, Byen Og Manden<br />ENL [Vol] - Pigen af 1940<br />NEU - Atalante<br />NEU - Vågnende Kvinde<br />RES - Agnete and the Merman<br />RES - Århus I Bronze<br />RES - Aros<br />RES - Ceres Brønden<br />RES - Flodhesten<br />RES - Gavlsmaleri<br />RES - Konen Med Hønen<br />RES - Minde over 40 Krigere<br />RES - Old Cemetery<br />RES - Ole Rømer<br />RES - Sort Granit Fra Congo<br />RES - The Pregnant Woman by Johannes<br />RES - Vokseværk<br />RES [Vol] - Étude<br />RES [Vol] - Fugl Med Guldæble<br />RES [Vol] - Hustømrerne Århus<br />RES [Vol] - Red Sculpture at Musikskolen<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Pune - Measurement 1 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 101 to 25.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 76.<br /><br />Portals Owned - <b>RES:</b> 20 - ENL: 5 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - <b>RES:</b> 17 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 101 - Enlightened - 25<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 101 - Enlightened - 25<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Fountain Inside Shaniwarwada<br />ENL - Guruji Talim Ganesh Mandir<br />ENL - Nadeekathee Temple<br />ENL - Shri Premal Vitthal Mandir<br />ENL - Shri Shaniwarwada Maruti Temple<br />ENL [Vol] - Kakasaheb Gadgil Statue<br />ENL [Vol] - Sakaal Statue<br />NEU - Lal Mahal, Ganesh Road, Kasba Peth, Pune, Maharashtra, India<br />NEU - Shree Balaji Maharaj Mandir<br />RES - Bal Vikas Mandal Ganpati Temple<br />RES - Dagadusheth Halwai Mandir<br />RES - Dakshin Mukhi Maruti Temple<br />RES - Ganpati Deva Mandir<br />RES - Historic Amruteshwar Temple<br />RES - Historic Annasaheb Patwardhan House<br />RES - Kasba Ganpati Kaman<br />RES - Kasba Ganpati Temple<br />RES - Lokmanya Tilak Bust<br />RES - Neelkantheshwar Mandir<br />RES - Nitan Mitra Mandal<br />RES - Pune Nagar Vachan Mandir (Library)<br />RES - Shani Mandir<br />RES - Shiva And Maruti Temple<br />RES - Shri Kasba Ganapati Entrance<br />RES - Shri Sainath Temple<br />RES - Tambadi Jogeshwari Mandir<br />RES - Vaibhaveshwar Navagrah Temple<br />RES - Vitthal Mandir<br />RES - श्री शितळा देवी मंदिर<br />RES [Vol] - Shanivarwada: Heritage of Empire Peshwa<br />RES [Vol] - Thorle Bajirao Statue, Shaniwar Wada<br />RES [Vol] - श्री आत्मावरेश्वर मंदिर<br /><br /></div>
+[#### photo: #Darsana 01 - Summary of Anomaly Conditions at Measurement 1:
+Brussels - R:263 - E:154
+Berne - R:43 - E:45
+Vilnius - R:61.6 - E:20
+Aarhus - R:56 - E:17
+Pune - R:101 - E:25
+The Resistance firmly control the majority of the sites as #Darsana 01 begins. In the Satellite Site of Berne, the Enlightened take control by a razor thin margin of just 2. At the Primary Site of Brussels, a significant network of Links enabled the Resistance to seize the site despite losing control of a majority of the Volatile Portals. It seems, as #Darsana begins, that the Resistance are committed to bringing forth a new vision of the universe, one the Shapers may have hidden from us for thousands of year.
+#Darsana: Brussels - Measurement 1 Report
+The Resistance captured this Measurement, 263 to 154.
+The Resistance currently control this Primary Site, leading by 109.
+Portals Owned - RES: 74 - ENL: 37 - [Value: 2 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 20 each]
+Links Created - RES: 19 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 263 - Enlightened - 154
+Total for this Primary Site:
+Resistance - 263 - Enlightened - 154
+Measurement Time Details:
+Original: 6:08 (Minutes:Seconds within Measurement Window)
+Padded String: z(tv*4#yd5[bN3tA 6:08 fQ=EvUP
+SHA256 of Padded String: 9362b575296af9ff26c28291bc37389b00dc51eaa1705365ee4eb0153aaa5a3c
+Portal Ownership Details
+ENL - Agora Simone Veil
+ENL - Auschwitz Memorial
+ENL - Berlin Wall Fragment
+ENL - Bibliothèque Solvay
+ENL - CDH Building Facade
+ENL - Colored Windows
+ENL - Concert Noble
+ENL - Curved Building
+ENL - Déclaration of Preseren
+ENL - Ep Official Soccer Training Centre
+ENL - EP Starts Here Plaque
+ENL - EUrban Magenta Installation
+ENL - European Bridge
+ENL - Foyer Culturel d'Etterbeek
+ENL - Frère Orban Statue
+ENL - Goethe Institut
+ENL - Hiéroglyphes
+ENL - Human Rights Stone
+ENL - Iguanodons
+ENL - InfoPoint of External Cooperation
+ENL - Ireland
+ENL - Jardin Royal De Zoologie
+ENL - Jean Jindel
+ENL - Library of France
+ENL - Madonna and the Lamb of God
+ENL - Matteucci Plaque
+ENL - Modern Wall Sculpture
+ENL - Palazzo Con Teste
+ENL - Parc Léopold South Entrance
+ENL - Sculpture en Bois
+ENL - SOFINA Building
+ENL - SudTirol Representation
+ENL - The Brewers of Europe Plaque
+ENL - The Meeting Point
+ENL - Tower
+ENL - Un Européen
+ENL - Wiertz Museum
+ENL [Vol] - 25 Fountains
+ENL [Vol] - EuropeAid Building
+ENL [Vol] - Petite Fontaine
+ENL [Vol] - Renaissance Tower
+NEU - Auguste Beernaert Mémorial
+NEU - Danmark Representation
+NEU - Embajada de España
+NEU - Ephaistos
+NEU - EUrban Orange Installation
+NEU - Germany's Ambassy
+NEU - Italian Permanent Representation
+NEU - Naissance D'une Nation
+NEU - Parc Léopold Entrance
+NEU - Peace Statue
+NEU - Représentation Permanente De La Grece
+NEU - Staines Aircraft Crash
+RES - Albert Borschette
+RES - Albert Edouard Janssen Plaque
+RES - Alexandre Gendebien Statue
+RES - Ambassade du Congo
+RES - Armée Secrète Memorial
+RES - Armenia Coat-of-arms
+RES - Backside Orban Church
+RES - Balcony
+RES - Bas Relief Rue Wiertz
+RES - Bavarian Presence
+RES - Berlaymont Tree
+RES - Bronze D'une Femme Assise
+RES - Castel Molise
+RES - Cave in the Water
+RES - Colonnade
+RES - De Krekel
+RES - Der EU Amtsschimmel
+RES - Entrée Parc Léopold
+RES - EP Informatiebureau in België
+RES - EP Tableau
+RES - Esplanade Solidarosc 1980
+RES - EUrban Blue Installation
+RES - Euro Zone Statue
+RES - Europe - DG Education
+RES - European Voice Tree Plaque
+RES - Fragmented Statuette
+RES - Gare Bruxelles-Luxembourg
+RES - Giant Frits of Legs
+RES - Glass Decor
+RES - Gold Windows
+RES - Greek representative for Europe
+RES - Greenland Representation
+RES - Happy Traffic Jam
+RES - Headless Angel
+RES - Hergé Wall
+RES - Immeuble Commission Européenne
+RES - Indifference Kills
+RES - Iron Dome
+RES - Jacques Delors Memorial Tableau
+RES - John Cockerill Statue
+RES - Joueuse De Harpe
+RES - Kitty O'Shea's Pub
+RES - La Gare Het Station
+RES - Le Justus Lipsius
+RES - Lion's Head Statue
+RES - Luxemburgplein
+RES - Lycee Emile Jacqmain
+RES - Maison Chevalier
+RES - New WR 9.85 Berlin Wall Fragment
+RES - Nordrhein-Westfalen Coat-of-Arms
+RES - North Rhine Westphalia Representation
+RES - Ornamented Iron Gate
+RES - Ornements Belliard
+RES - Parlamentarium Entrance
+RES - Place Jourdan
+RES - Raad Van State
+RES - Renaissance Hotel
+RES - Représentation Permanente de Hongrie
+RES - Robert Schuman Memorial
+RES - Royal Automobile Club Belgium
+RES - Schuman Railway Station
+RES - Solvay Library
+RES - Space Invader Pixel Streetart
+RES - Sphinx Ornament
+RES - The European Parliament
+RES - The Taking of Europe by Zeus
+RES - The TAXUD Building
+RES - Toujours la tête en l'air, têt
+RES - Twin Triangle Pillars
+RES - Two Friends Relief
+RES - Unique Building
+RES - VVV Gezinnen
+RES - Whisper
+RES - Wooden Sculpture
+RES [Vol] - Église Saint Joseph
+#Darsana: Berne - Measurement 1 Report
+The Enlightened captured this Measurement, 45 to 43.
+The Enlightened currently control this Secondary Site, leading by 2.
+Portals Owned - RES: 24 - ENL: 5 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 10 each]
+Links Created - RES: 3 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 43 - Enlightened - 45
+Total for this Secondary Site:
+Resistance - 43 - Enlightened - 45
+Portal Ownership Details
+ENL - Eating Apples
+ENL - Geschenk an die Hasler AG
+ENL - Rote Balken
+ENL - SRF Statue
+ENL - Wandgemälde
+ENL [Vol] - Angelus
+ENL [Vol] - Belpstr. Schwarztorstr. Turm
+ENL [Vol] - Mondbrunnen
+ENL [Vol] - Relief on SRF Building
+NEU - Leerer Brunnen
+RES - Aebi and Vincent
+RES - Brunnen Schulhaus Sulgenbach
+RES - Crybabies
+RES - Eigerplatz
+RES - Eingang Floraanlage
+RES - Fountain at Hauptsitz PostAuto
+RES - Fountain At La Pergola
+RES - Fountain at Mattenhof
+RES - Fountain At Monbijou Park
+RES - Fountain at Tram Stop Hasler
+RES - Glaspyramiden
+RES - La Cultina
+RES - Mobiliar
+RES - Monbijou castel
+RES - Ornaments
+RES - Ornate Building
+RES - Pirate Ship
+RES - Right Lion
+RES - Statue Frau mit Hund, Monbijou
+RES - SVB Umweltpassbaum
+RES - Titanic II
+RES - Tree Mural
+RES - Villa Stucki
+RES - Wall Art at Philosophenweg
+RES [Vol] - Florabrunnen
+#Darsana: Vilnius - Measurement 1 Report
+The Resistance captured this Measurement, 61.6 to 20.
+The Resistance currently control this Secondary Site, leading by 41.6.
+Portals Owned - RES: 4 - ENL: 10 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (17.6)]
+Total for this Measurement:
+Resistance - 61.6 - Enlightened - 20
+Total for this Secondary Site:
+Resistance - 61.6 - Enlightened - 20
+Portal Ownership Details
+ENL - Appolus On Sky
+ENL - Former KGB Quarters
+ENL - Genocido Auku Muziejus
+ENL - Lietuvos statistika
+ENL - Lithuanian-US Relationships Renewal Memorial aka Washington Square Rock
+ENL - LMTA Skulptūros
+ENL - Ministry of Foreign Affairs
+ENL - Ray Spear Sculpture on White Bridge
+ENL - Sovietinės Okupacijos Aukoms Atminti
+ENL - The Dog
+ENL [Vol] - Brodo vaikas Vytautas Kernagis
+NEU - Lietuvos Respublikos Seimas
+NEU - Nepriklausomybės aikštės fontano
+RES - Lukiskiu Aikste
+RES - Music Academy
+RES - Sv. Apastalu Pilypo ir Jokubo
+RES - Vytautas Kernagis
+RES [Vol] - Angelas
+RES [Vol] - Meškius
+RES [Vol] - Unknown Fighter Memorial
+RES [Vol] - Žinia](https://lh6.googleusercontent.com/-qJr7-1Mi8uo/VEJaxJS7_vI/AAAAAAABFRo/y7jZXDtsMkQ/w2048-h1290/IMG_20141018_130457.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/GuEVxotXBfj](https://plus.google.com/+NianticProject/posts/GuEVxotXBfj)

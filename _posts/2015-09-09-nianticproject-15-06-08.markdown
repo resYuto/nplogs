@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-09-09 15:06:08 +0900"
+date:   2015-09-09 15:06:08 +0900
+categories: nianticproject
+---
+Why did ADA want Jarvis to die after escaping from the Niantic Project nearly 3 years ago?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@104, :value=>"shared"@111}], :children=>["<br />", "<h2>Susanna Moyer</h2>", "Hey ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], ".", "<br />", "<br />", "Been thinking about your project... putting all the pieces in order so we can understand more about ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Abaddon\">#Abaddon</a>", ". I've been trying to do some of that myself.", "<br />", "<br />", "Here's what I don't understand, and maybe you have a clue... given that you and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], " were pretty 'close' for a while...", "<br />", "<br />", "Why did ADA want ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], " dead? ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: uozsyinzuwpzyzgqpozuyjpqugquwqs](https://lh3.googleusercontent.com/-TE9HPBxq_Ec/Ve_LI89fsEI/AAAAAAAAAY0/Scn3d_ubf-8/w800-h1236/2willdie.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/6Cj7FybzBp4](https://plus.google.com/+NianticProject/posts/6Cj7FybzBp4)

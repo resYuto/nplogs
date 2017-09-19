@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-28 04:21:42 +0900"
+date:   2016-02-28 04:21:42 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Rio: E:11 - R:23. 2 Shards uncaptured.  Milwaukee @ M1: RES lead. E:156 - R:420
+
+In Rio de Janeiro, the Resistance have been moving forward aggressively, they lead by 12 Shards. Only 2 Shards remain uncaptured. 8 Targets remain to Manifest, however they may be destined to remain untouched. This has been a fast paced and high stakes Anomaly, as the Resistance continue to level the playing field for the day. Just under an hour remains in Rio.
+
+Milwaukee has entered the spotlight with equal ferocity... at Measurement 1, the Resistance have taken a lead of 264. The Enlightened currently trail across the board, from Cluster Portals to Anchored Fields… they will need to focus and bring a viable strategy into action in order to keep this Anomaly from spiralling out of their control. 3 Measurements remain in Milwaukee.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Rio de Janeiro**
+Flash Shard Update: 16:00:00 Jump Window, Local Time (BRT)
+
+Enlightened: 11 Shards
+Resistance: 23 Shards
+
+"At the time of this update, the Resistance led by 12 Shards.
+
+2 Shards are currently live in the Anomaly Zone and remain uncaptured.
+
+0 Shards, 2 Enlightened Targets and 2 Resistance Targets have yet to manifest.
+
+3 Jump Windows remain in this Anomaly."
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Milwaukee - Measurement 1 Report**
+The **Resistance** captured this Measurement, 420 to 156.
+The **Resistance** currently control this Satellite Site, leading by 264.
+Portals Owned - **RES:** 23 - ENL: 8 - [Value: 6 each]
+Volatile Portals Owned - RES: 6 - **ENL:** 9 - [Value: 12 each]
+Links Created - **RES:** 24 - ENL: 4 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]"
+Anchored Fields Created - **RES:** 18 - ENL: 1
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]
+Strategic Field - NONE
+[Value: 50% of opponent's Values this Measurement, rounded]
+Values acquired this Measurement:
+Portals - **RES:** 138 - ENL: 48
+Volatile Portals - RES: 72 - **ENL:** 108
+Links - **RES:** 90 - ENL: 0
+Anchored Fields - **RES:** 120 - ENL: 0
+Strategic Field - RES: 0 - ENL: 0
+
+**Total for this Measurement:**
+**Resistance** - 420 - Enlightened - 156
+
+**Total for this Satellite Site:**
+**Resistance** - 420 - Enlightened - 156
+
+**Measurement Time Details:**
+Original: 8:47 (Minutes:Seconds within Measurement Window)
+Padded String: La,2@[q###8:47####Uq&amp;;V+'0X
+SHA256 of Padded String: 13bd3d95768ba6616f1209f2f7eed180700ee042aea9efb69af00af8faffbf40
+
+**Portal Ownership Details**
+
+E - Aura Bar
+E - Burns Commons 
+E - First Ward Triangle
+E - Lincoln Center Of Arts 
+E - Milwaukees Ugliest Building
+E - Robert Burns Club
+E - St. Paul's Episcopal Church
+E - The Knickerbocker Hotel
+E VOL - Archbishop Weakland Center
+E VOL - Juneau and Prospect
+E VOL - Margaret Loock Hall
+E VOL - Robert Burns Statue
+E VOL - Solomon Juneau
+E VOL - The County Clare Pub Wall Mural
+E VOL - The Flushing Station
+E VOL - The Green Gallery (East)
+E VOL - US Post Office
+R - All Saints Episcopal Cathedral
+R - Astor Hotel Plaque 
+R - Bollywood Grill
+R - Brew City Church
+R - Burns Commons 
+R - Cass Street Park
+R - Cleopatra's Wedge
+R - College Women's Club
+R - Edward Diederichs House
+R - Immanuel Presbyterian Church
+R - Immanuel Presbyterian Church
+R - Jason Downer House
+R - Jason Downer House
+R - Junior Club of Milwaukee
+R - Kids Grafitti
+R - Park Fountain
+R - Red Bird Tree
+R - St Rita Church
+R - Summerfield United Methodist Church 
+R - The Astor Hotel
+R - The First Unitarian Church of 
+R - The Prospect Avenue
+R - Todd Wehr Science Center
+R VOL - David Barnett Gallery
+R VOL - Karma Wall
+R VOL - Kid with Duck
+R VOL - Old Mount Zion
+R VOL - The Globe of Destiny Monument
+R VOL - The Plaza
+
+[#IngressNews](https://plus.google.com/s/%23IngressNews "")
+[#### photo: #IngressObsidian Rio: E:11 - R:23. 2 Shards uncaptured.  Milwaukee @ M1: RES lead. E:156 - R:420
+In Rio de Janeiro, the Resistance have been moving forward aggressively, they lead by 12 Shards. Only 2 Shards remain uncaptured. 8 Targets remain to Manifest, however they may be destined to remain untouched. This has been a fast paced and high stakes Anomaly, as the Resistance continue to level the playing field for the day. Just under an hour](https://lh3.googleusercontent.com/-I0hd1k0nZ48/VtH3OyICxFI/AAAAAAAAi0I/JMMQ3-3VizQ/w450-h600/mke_1.JPG "")
+- - -
+[https://plus.google.com/+NianticProject/posts/X4wbXSBsivE](https://plus.google.com/+NianticProject/posts/X4wbXSBsivE)

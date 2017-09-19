@@ -1,0 +1,265 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-27 20:02:54 +0900"
+date:   2016-02-27 20:02:54 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Hamamatsu Final Score: ENL: 7482 to RES: 3100 (Shards included). Shards E:16 - R:0
+
+The Enlightened have launched themselves into [#Obsidian](https://plus.google.com/s/%23Obsidian "") with fervor, capturing this Anomaly 7482 to 3100. Combining a lock-out performance with the Flash Shards and a dominating presence across the Clusters, they have created a strong lead for their fellow Agents to defend during the rest of today’s Anomalies. The Resistance have their work cut out for them, but much remains to unfold. It is likely the lay of the land will shift as the day proceeds. 
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")**** Series Score**
+Enlightened: 7482
+Resistance: 3100
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Hamamatsu - Measurement 4 Report**			
+
+The **Enlightened** captured this Measurement, 1416 to 702.			
+The **Enlightened** captured this Satellite Site, outperforming the Resistance by 4382.			
+
+Portals Owned - RES: 39 - **ENL:** 84 - [Value: 6 each]			
+Volatile Portals Owned - RES: 39 - **ENL:** 41 - [Value: 12 each]			
+Links Created - RES: 14 - **ENL:** 65 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]			
+Anchored Fields Created - RES: 3 - **ENL:** 17
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]			
+Strategic Field - NONE
+[Value: 0% of opponent's Values this Measurement, rounded]"			
+
+Values acquired this Measurement:			
+Portals - RES: 234 - **ENL:** 504			
+Volatile Portals - RES: 468 - **ENL:** 492			
+Links - RES: 0 - **ENL**: 300			
+Anchored Fields - RES: 0 - **ENL:** 120			
+Strategic Field - RES: 0 - ENL: 0			
+
+**Total for this Measurement:**
+Resistance - 702 - **Enlightened** - 1416
+
+**Total for this Satellite Site:**
+Resistance - 3100 - **Enlightened** - 7482
+
+**Measurement Time Details:**
+Original: 0:37 (Minutes:Seconds within Measurement Window)
+Padded String: m:^6{bC###0:37###opQDTM:'1
+SHA256 of Padded String: 0b98ccc0b7db57324ce644ddb11e4d6d7488b70a7ad783906e18b51f78dc29c3
+
+**Portal Ownership Details**
+
+E - BW教室顔板
+E - Clock Tower
+E - KE Tank Kikansha
+E - Lawson ローソン 浜松南浅田
+E - Lawson ローソン 浜松鍛冶町
+E - Lawson ローソン 浜松鴨江一丁目
+E - Piano Chair
+E - QUOZE! (浜松市中区肴町)
+E - Sposic Japan
+E - Wall Art 1 (浜松市立南図書館東側)
+E - Wall Art 10 (浜松市中区役所付近)
+E - Wall Art 12 (浜松市中区役所付近)
+E - Wall Art 15 (浜松市中区役所付近)
+E - Wall Art 17 浜松市中区役所付近
+E - Wall Art 19 (浜松市立南図書館東側)
+E - Wall Art 2 (浜松市中区役所付近)
+E - Wall Art 5 (浜松市中区役所付近)
+E - Wall Art 7 (浜松市中区役所付近)
+E - かど松
+E - ざぼん入口 庭師の少年像
+E - イグレシア・ニ・キリスト(浜松市中区塩町)
+E - カッパの看板
+E - ステンレスの樹
+E - ハセちゃん　長谷川米穀店
+E - ピアノ(浜松市中区砂山サザンクロス西側)
+E - マナーを守りましょう
+E - マンホール蓋 浜松市中区砂山サザンクロス
+E - ミカンちゃん
+E - モール街フルート奏者(浜松市中区千歳町)
+E - 三菱東京UFJ銀行　浜松支店
+E - 五社公園
+E - 五社公園 鳩
+E - 五社神社 南側鳥居
+E - 五社神社 諏訪神社 正面鳥居
+E - 伊場遺跡公園 役所
+E - 伊場遺跡公園 復元住居
+E - 伊場遺跡公園 掘っ立て柱建物
+E - 伊場遺跡公園 掘っ立て柱建物跡
+E - 伏見稲荷購社 浜松支部
+E - 六所神社
+E - 勇ましいレリーフ
+E - 午 Gatoo Misuzu
+E - 和 石碑 (浜松市中区海老塚)
+E - 堀留ポッポ道
+E - 大厳寺
+E - 寺島西公園　滑り台
+E - 小さな祠
+E - 川口本陣跡
+E - 巴湯
+E - 床絵ヒマワリ(浜松市中区肴町)
+E - 慈光院
+E - 戌辰之役報國隊記念碑
+E - 日本福音自由教会 ニューホープチャーチ
+E - 春華堂本店
+E - 東洋紡績浜松工場跡石碑
+E - 松菱ビル
+E - 案内板 南通り 東側(浜松市中区千歳町)
+E - 楽譜
+E - 正福寺
+E - 浄土宗発心山菩提寺　菩提寺本殿
+E - 浅森緑地看板西側 浜松市中区西浅田
+E - 浜松 海老塚郵便局
+E - 浜松 砂山郵便局
+E - 浜松こども館
+E - 浜松市教育文化会館
+E - 浜松浅田郵便局
+E - 浜松駅付近のステージ
+E - 浜松鴨江郵便局
+E - 牡丹橋公園 看板 (浜松市中区寺島町南交差点)
+E - 県居南公園 看板 (浜松商工会議所会館東側)
+E - 石像
+E - 石碑 浜松消防発祥之地 (浜松市教育文化会館南側)
+E - 砂山稲荷(浜松市中区砂山サザンクロス) 
+E - 社
+E - 秋葉神社 本殿(浜松市中区三組町)
+E - 秋葉神社 鳥居
+E - 肴町のだるま猫
+E - 芭蕉翁奥の細道道行脚より300年記念碑
+E - 若宮神社 浜松市中区伝馬町交差点南側
+E - 賀茂真淵生誕の地 記念碑
+E - 賀茂神社 鳥居
+E - 遠州七不思議 (浜松市中区東伊場浜松アーバンヒルズ)
+E - 馬込川 昔は自然がまぶしかった。(浜松市中区 高砂公園)
+E - 鴨江寺 鴨江観音 納骨堂観音像(浜松市中区鴨江)
+E VOL - Lawson ローソン 浜松南伊場
+E VOL - no-na
+E VOL - Wall Art 8 (浜松市中区役所付近)
+E VOL - にこにこ餅
+E VOL - グランドホテル浜松入り口レリーフ
+E VOL - ボオダジア
+E VOL - ポスター　昔は自然がまぶしかった
+E VOL - モール街 太鼓奏者(浜松市中区千歳町)
+E VOL - 五社公園行幸記念碑
+E VOL - 伊場遺跡公園 大溝
+E VOL - 伊場遺跡公園 門
+E VOL - 依鈴(浜松市中区連尺交差点西側)
+E VOL - 出雲殿 時計台　（浜松市中区高町）
+E VOL - 呉竹荘噴水
+E VOL - 城山遺跡 石碑 (伊場遺跡公園西側)
+E VOL - 堀留運河 (浜松市中区遠鉄ストア東伊場店)
+E VOL - 塩町公園 時計塔(浜松市中区成子交差点東側)
+E VOL - 平田町公民館
+E VOL - 新川 (浜松市中区海老塚)
+E VOL - 杉浦本陣跡
+E VOL - 正福寺(浜松市中区高町紺屋町交差点西側
+E VOL - 残したいきれいな水を未来まで
+E VOL - 氏神
+E VOL - 浄土寺 本殿(浜松市中区広沢町
+E VOL - 浅森緑地看板南側(浜松市中区西浅田)
+E VOL - 浅田浅間神社
+E VOL - 浜松家畜病院
+E VOL - 浜松連尺郵便局 / Hamamatsu Renjaku Post Office
+E VOL - 灯籠
+E VOL - 石碑 浜松市消防団浜松第1分団(浜松市中区元城連尺交差点北側)
+E VOL - 縣居神社鳥居
+E VOL - 花屋敷跡　稲荷
+E VOL - 蓮華寺
+E VOL - 賀茂神社遺址 石碑
+E VOL - 躍進 (浜松商工会議所会館)
+E VOL - 馬込川公園　青カバの遊具
+E VOL - 高町公園 克明館跡(浜松市中区紺屋町交差点)
+E VOL - 鴨江別館
+E VOL - 鴨江寺 鴨江観音 伊藤磯平治翁之碑(浜松市中区鴨江)
+E VOL - 鴨江小路
+E VOL - 鴨江山公園 (浜松市中区根上り松前交差点)
+N - お城のベンチ
+N - チェロ奏者 モール街東口(浜松市中区千歳町)
+N - モール街 横笛奏者(浜松市中区千歳町)
+N - 心造寺
+N - 愛
+N - 遠州教会
+N - 静岡西部会館
+N VOL - Wall Art 3 浜松市中区役所付近
+N VOL - 地蔵堂
+N VOL - 鴨江寺 鴨江観音 仁王門(浜松市中区鴨江)
+R - Kamoe Kannon 
+R - Wall Art 16 (浜松市中区役所付近)
+R - サーラシティ浜松
+R - ザザシティ浜松 時計塔
+R - ソフトバンク浜松
+R - フクロウ 浜松べんがら横丁南側
+R - 五社神社 鳥居北側 (浜松市中区利町)
+R - 光福寺
+R - 大安路 ヨットと鳥居
+R - 大石写真館(浜松市中区紺屋町連尺郵便局西側)
+R - 子育地蔵尊(浜松市中区菅原町交差点)
+R - 床絵チューリップ(浜松市中区肴町)
+R - 心造寺 本殿(浜松市中区利町)
+R - 時計塔(浜松松竹ビル前)
+R - 木下恵介記念館
+R - 案内板 伝馬町交差点
+R - 案内板 教育文化会館東
+R - 案内板 連尺交差点
+R - 橋の竜
+R - 民芸割烹いなんば
+R - 浅間児童遊園看板
+R - 浜松しみずビル(浜松市中区神明連尺交差点東側)
+R - 浜松城大手門跡
+R - 浜松市福祉交流センター 愛の泉(浜松市中区成子交差点東側) 
+R - 浜松福祉交流センター
+R - 海話室 The Boon
+R - 砂山銀座(浜松市中区砂山サザンクロス)
+R - 遠州鉄道 新浜松駅
+R - 金山神社 (浜松市中区栄町)
+R - 金山神社 本殿 (浜松市中区栄町)
+R - 馬込川公園　四連ブランコ
+R - 駄菓子屋 みずの 七福神
+R - 高札場跡
+R - 高砂公園 看板(浜松市中区西浅田)
+R - 鴨江公園
+R - 鴨江寺 鴨江観音 弁天堂(浜松市中区鴨江)
+R - 鴨江寺 鴨江観音 弘法大師堂(浜松市中区鴨江)
+R - 鴨江寺 鴨江観音 成田山不動堂(浜松市中区鴨江)
+R - 鹿島神社 鳥居
+R VOL - Lawson ローソン 新浜松駅前
+R VOL - Manhole Art of Fire Track(浜松市中区連尺交差点)
+R VOL - Manhole Art of Fish 浜松市中区肴町
+R VOL - Manhole Art of Fish(浜松市中区肴町)
+R VOL - Wall Art
+R VOL - Wall Art 13 (浜松市中区役所付近)
+R VOL - Wall Art 21 (浜松市中区役所付近)
+R VOL - うなぎ
+R VOL - ぐにゃぐにゃ遊具
+R VOL - シャッターアート
+R VOL - ソフトバンク浜松南
+R VOL - ソフトバンク浜松駅南
+R VOL - タイルアート　ASIAN-J
+R VOL - バイオリンのベンチ
+R VOL - プラージュ鴨江 親子鳥のオブジェ
+R VOL - 五社神社　五宝稲荷社
+R VOL - 八幡神社 本殿 (浜松市南区東若林町)
+R VOL - 凛香(浜松市中区田町)
+R VOL - 千歳町公會堂
+R VOL - 大安寺
+R VOL - 大雀神社 常夜灯(浜松市中区神田町公民館)
+R VOL - 招き猫
+R VOL - 招き猫
+R VOL - 東若林わんぱく公園
+R VOL - 松尾神社
+R VOL - 梅屋本陣跡
+R VOL - 森暉昌邸跡 (浜松市中区利町)
+R VOL - 津島神社(浜松市 中区 寺島町南交差点)
+R VOL - 浜松市立南図書館
+R VOL - 浜松秋葉坂下郵便局
+R VOL - 由美画廊とんぼ玉館 案内板
+R VOL - 眼蔵本堂
+R VOL - 神明神社 (浜松市中区三組町)
+R VOL - 足裏マッサージ歩道
+R VOL - 鎧橋
+R VOL - 須佐之男神社
+R VOL - 風の中で
+R VOL - 馬冷 道標(浜松開誠館中・高校北側)
+R VOL - 黒田稲荷
+[#### photo: #IngressObsidian Hamamatsu Final Score: ENL: 7482 to RES: 3100 (Shards included). Shards E:16 - R:0
+The Enlightened have launched themselves into #Obsidian with fervor, capturing this Anomaly 7482 to 3100. Combining a lock-out performance with the Flash Shards and a dominating presence across the Clusters, they have created a strong lead for their fellow Agents to defend during the rest of today’s Anomalies. The Resistance have their work cut](https://lh3.googleusercontent.com/-ZcQl0iLMhHs/VtFiLGg8zzI/AAAAAAAAiso/uAqPUFl8tMc/w600-h800/ham-final.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/GgbETGGdMVn](https://plus.google.com/+NianticProject/posts/GgbETGGdMVn)

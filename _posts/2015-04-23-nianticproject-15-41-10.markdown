@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2015-04-23 15:41:10 +0900"
+date:   2015-04-23 15:41:10 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") is headed back stateside.
+
+It's unclear if the visit to the Valley of the Dead changed him, or if these are simply the lingering effects of being exposed to such a powerful Anomaly Zone in his new form.
+
+He intends to seek counsel from an individual who has a long and storied history with XM. I suspect I know who this is...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@543, :value=>"shared"@550}], :children=>["<br />", "<h2>Hank Johnson</h2>", "Airborne again. Headed back stateside.", "<br />", "<br />", "Every now and again I stop and look at my hands. I don’t feel different. I don’t look different. And yet, the look in the Anazktec eyes as I was leaving...", "<br />", "<br />", "They saw me differently.", "<br />", "<br />", "For so long, only Yuri held their secret. Perhaps they wished it had stayed that way.", "<br />", "<br />", "I hope that's all it is.", "<br />", "<br />", "This will be a long ride. Close to 8 hours.", "<br />", "<br />", "I’m tired, but my mind is too awake to get much rest.", "<br />", "<br />", "When I get back, there are others I need to meet. Other researchers, both from within the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], " and without.", "<br />", "<br />", "What’s clear is that new revelations and old secrets are emerging. The only real weapon I’m going to have when I face Jahan and whatever N’zeer technology she is trying to activate is knowledge. Information.", "<br />", "<br />", "There’s a person who knows a lot about the history of this conflict... someone who has been deeply involved in the study and use of XM over the last few decades.", "<br />", "<br />", "I hope he has some answers.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: NmmCVaSFRVyDXWV-1VkWY ](https://lh3.googleusercontent.com/-9vpwoqQwf4U/VTiSIB6ZHYI/AAAAAAAACn8/Mi66GzONp5s/w1200-h675/Echo.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/JaHaVWMUkDS](https://plus.google.com/+NianticProject/posts/JaHaVWMUkDS)

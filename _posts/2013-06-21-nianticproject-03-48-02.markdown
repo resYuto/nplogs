@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Niantic Project: 2013-06-21 03:48:02 +0900"
+date:   2013-06-21 03:48:02 +0900
+categories: nianticproject
+---
+On the Ingress Report this week:
+
+Susanna explores the link between recently discovered symbols and XM anomalies. [#timezero](https://plus.google.com/s/%23timezero "")
+L1-L8 in a day.
+The Ingress Community reacts to 5 new MODs.
+The Girl with the Ingress Tattoo.
+Resistance India create Pune's first twin L8s.
+Ingress Agents receive 5 Scanner Invites each.
+and more...
+
++[Felicia Hajra-Lee](https://plus.google.com/118344555717370644832 "")'s novel, The Niantic Project: Ingress, is available on Google Play ( [https://play.google.com/store/books/details?id=BKE4MsCPlX8C](https://play.google.com/store/books/details?id=BKE4MsCPlX8C "") ) and in the Amazon e-book store ( [http://www.amazon.com/The-Niantic-Project-Ingress-ebook/dp/B00CTSZQ9Q](http://www.amazon.com/The-Niantic-Project-Ingress-ebook/dp/B00CTSZQ9Q "") ).  [#nianticprojectingress](https://plus.google.com/s/%23nianticprojectingress "")
+ [#ingress](https://plus.google.com/s/%23ingress "")  [#nianticproject](https://plus.google.com/s/%23nianticproject "")  [#ingressreport](https://plus.google.com/s/%23ingressreport ""){:element=>{:name=>"div", :attributes=>[{:name=>"class"@1511, :value=>"shared"@1518}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a href=\"http://www.youtube.com/watch?v=GlU7hpm4W38\" class=\"ot-anchor\">INGRESS REPORT | Ancient Glyphs Linked to XM Anomalies? - EP13</a>", " has dropped. Shaper symbols similar to those shared with ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101560858827970533247\" oid=\"101560858827970533247\">Susanna Moyer</a>"], " at Operation: Bowstring were also sighted by Agents in Cross Plains, TX. Reports of unidentified aircraft above Cross Plains during the Anomaly cannot be confirmed or denied at this time. While the origin of these symbols is unclear, it appears the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23TimeZero\">#TimeZero</a>", " Anomaly on June 22 may reveal more clues. For more info, see ", "<a href=\"https://plus.google.com/events/cbv6kah3kj8uk8n1d0g554453e8\" class=\"ot-anchor\">https://plus.google.com/events/cbv6kah3kj8uk8n1d0g554453e8</a>", "<br />", "<br />", "Agents across the globe continue to experiment with combinations of ADA Refactor and JARVIS Virus weapons, as well as new Portal Mods. Share your findings and SITREPs with the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressReport\">#IngressReport</a>", " hashtag, and sign the release at ", "<a href=\"http://ingress.com/report\" class=\"ot-anchor\">http://ingress.com/report</a>", ".", "<br />", "<br />", "<b>GTWM26519546RJZK</b>", "<br />", "<br />"], :ignore=>true}}
+[#### video: http://www.youtube.com/v/GlU7hpm4W38?version=3&amp;autohide=1](http://www.youtube.com/v/GlU7hpm4W38?version=3&amp;autohide=1 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/hWkT2DYBWiQ](https://plus.google.com/+NianticProject/posts/hWkT2DYBWiQ)

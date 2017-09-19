@@ -1,0 +1,120 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-27 23:17:58 +0900"
+date:   2016-02-27 23:17:58 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Madrid Measurement 2 Scores. The Resistance are in the lead. E: 432 to R: 855.
+
+At Measurement 2, the Resistance solidify their standing. Despite the loss of their overhead Field, the Resistance held strong across the Volatiles to maintain a firm 423 point lead. The Enlightened controlled a majority of the Cluster Portals, and made progress with the creation of Links and Anchored Fields, but not enough to generate a boost in score. Two Measurements remain, and the pressure is on the Resistance to further erode the lead established earlier today in Hamamatsu.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Madrid - Measurement 2 Report**			
+
+The **Resistance** captured this Measurement, 366 to 210.			
+The **Resistance** currently control this Satellite Site, leading by 423.			
+
+Portals Owned - RES: 19 - **ENL:** 23 - [Value: 6 each]			
+Volatile Portals Owned - **RES:** 21 - ENL: 6 - [Value: 12 each]			
+"Links Created - RES: 7 - ENL: 9 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]"			
+"Anchored Fields Created - RES: 0 - ENL: 3
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]"			
+"Strategic Field - NONE
+[Value: 50% of opponent's Values this Measurement, rounded]"			
+
+Values acquired this Measurement:			
+Portals - RES: 114 - **ENL:** 138			
+Volatile Portals - **RES:** 252 - ENL: 72			
+Links - RES: 0 - ENL: 0			
+Anchored Fields - RES: 0 - ENL: 0			
+Strategic Field - RES: 0 - ENL: 0			
+
+**Total for this Measurement:**
+**Resistance** - 366 - Enlightened - 210
+
+**Total for this Satellite Site:**
+**Resistance** - 855 - Enlightened - 432
+
+**Measurement Time Details:**
+Original: 6:42 (Minutes:Seconds within Measurement Window)
+Padded String: 2#%{b/###6:42###^Ji)5q`s|sUt`5dSx
+SHA256 of Padded String: 16edc1dde652686f317909b1cdd2df9a98fd6115f620d4fd80eca60b8ea19407
+
+**Portal Ownership Details**
+
+E - Angel Wire Sculpture
+E - Café Oliver Bar Restaurante
+E - Carlos Fernández Show
+E - Casa De Tócame Roque
+E - Corazón
+E - Cúpula San Lucas
+E - Edificio Artístico Alonso Martinez
+E - El Pájaro Panadero 
+E - Graffiti Del Bebedor
+E - Grafiti Bicho Verde
+E - Grafiti Car 10
+E - Grafity Vs Moto , Pero Con Clase.
+E - Horno San Onofre 1870
+E - Moto vs grafitti
+E - Mural Natural
+E - Mural Regalos Vintage
+E - Parroquia Santa Bárbara
+E - Slim Fishes
+E - Sta Maria Novella
+E - Super Mario Plant Graffiti
+E - Taller Spacial
+E - Te Veo
+E - XIX Building In Barco Street
+E VOL - Aceptando El Mundo Comienzas a Cambiarlo
+E VOL - By the Face
+E VOL - Estatuas
+E VOL - Lápiz Sonriente
+E VOL - Monumento a Juan Valera
+E VOL - Teatro Marquina
+N - Metro Chueca
+N - Museo Del Romanticismo
+N - Underwood
+R - Arquitectura Argensola
+R - Autoescuela Venecia Classic
+R - Casas
+R - Edificio Mejia Lequerica
+R - Iglesia Catedral Del Redentor
+R - Iglesia Valverde
+R - Instituto Francés 
+R - Jean Jacques Rousseau
+R - Lugar De Encuentro Chillida
+R - Mercado de Fuencarral
+R - Mercado de San Anton
+R - Monumento al Teniente Ruiz
+R - Palacio de Longoria
+R - Plaza De Los Cubos 
+R - Real Academia Ciencias 
+R - Revancha. 
+R - Señora Pérez
+R - Teatro Maria Guerrero
+R - Tortuga En Infantas
+R VOL - Amor A La Poesia
+R VOL - Antigua Embajada Británica
+R VOL - Antiguo Cine Avenida
+R VOL - Bárbara de Braganza
+R VOL - Copa de Higía con Girasoles
+R VOL - El Apaño
+R VOL - El Oso
+R VOL - Fuente
+R VOL - Grafiti De Bichos
+R VOL - Jardín Museo Romanticismo
+R VOL - La Casa De Las 7 Chimeneas
+R VOL - La Nicoletta
+R VOL - La Panza Es Primero
+R VOL - Le Salon D'Apodaca Street Art
+R VOL - Madrid La NUIT
+R VOL - Mercenarias Gongoras
+R VOL - Monasterio San Plácido Benedictinas
+R VOL - Palacete Ametller
+R VOL - Pensamiento amarillo
+R VOL - Vazquez de mella
+R VOL - Árbol callejero
+[#### photo: #IngressObsidian Madrid Measurement 2 Scores. The Resistance are in the lead. E: 432 to R: 855.
+At Measurement 2, the Resistance solidify their standing. Despite the loss of their overhead Field, the Resistance held strong across the Volatiles to maintain a firm 423 point lead. The Enlightened controlled a majority of the Cluster Portals, and made progress with the creation of Links and Anchored Fields, but not enough to generate a boost in](https://lh3.googleusercontent.com/-rL0AoeVCT28/VtGwETQlf9I/AAAAAAAAiu4/hRQvQv1gKCM/w800-h600/madrid_m2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/MNfXUrnk2E7](https://plus.google.com/+NianticProject/posts/MNfXUrnk2E7)

@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-28 08:11:29 +0900"
+date:   2016-02-28 08:11:29 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Milwaukee Final Measurement Report. Resistance control this Anomaly, 1566 to 444.
+
+At the start of the day, the Resistance faced an uphill battle to make up for a steep loss in Hamamatsu. With each successive Anomaly they have chipped away at the deficit. In Milwaukee, the Resistance continued this trend. As Milwaukee came to an end, the result netted them an extra 1122 points over their Enlightened counterparts. The Enlightened have lost some of their early advantage, but Seattle, with 72 Shards at stake, remains very much in play. At the most recent Jump Window just a few moments ago, the Enlightened had captured an additional 2 Shards, bringing their total to 33 vs. 10 for the Resistance.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Milwaukee - Measurement 4 Report**			
+
+The **Resistance** captured this Measurement, 588 to 42.			
+The **Resistance** captured this Satellite Site, outperforming the Enlightened by 1122.		
+
+Portals Owned - **RES:** 24 - ENL: 5 - [Value: 6 each]			
+Volatile Portals Owned - **RES:** 12 - ENL: 1 - [Value: 12 each]			
+Links Created - **RES:** 46 - ENL: 0 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]			
+Anchored Fields Created - **RES:** 16 - ENL: 0
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]			
+Strategic Field - NONE
+[Value: 50% of opponent's Values this Measurement, rounded]"			
+
+Values acquired this Measurement:			
+Portals - **RES:** 144 - ENL: 30			
+Volatile Portals - **RES:** 144 - ENL: 12			
+Links - **RES:** 180 - ENL: 0			
+Anchored Fields - **RES:** 120 - ENL: 0			
+Strategic Field - RES: 0 - ENL: 0			
+
+**Total for this Measurement:**
+**Resistance** - 588 - Enlightened - 42
+
+**Total for this Satellite Site:**
+**Resistance** - 1566 - Enlightened - 444
+
+**Measurement Time Details:**
+Original: 3:59 (Minutes:Seconds within Measurement Window)
+Padded String: a6UoZ,8u###3:59###$.@Yx|w4
+SHA256 of Padded String: 86b7de8d963397975844861e03e4b08d98720152b3d0aeb9b03e4c2dff15e223
+
+**Portal Ownership Details**
+
+E - Court House Square Memorial Plaque
+E - Delind Gallery Of Fine Arts 
+E - Matthew Keenan House
+E - Northwestern Mutual Life Insurance Company
+E - Saint John Cathedral
+E VOL - George Washington Memorial 
+N - First Court House
+N - Hotel Pfister Plaque
+N - Immigrant Mothers
+R - Archbishop Weakland Center
+R - Betty Brinn Children's Museum
+R - Birds in Flight
+R - Cathedral Square
+R - Federal Building - U.S. Courth
+R - Historic milwaukee East Wisconsin Ave
+R - In Memory of George Hrin Jr 
+R - Little Free Library
+R - Mason Street Grill Animals
+R - Metropolitan Milw Fair Housing
+R - Milwaukee Club
+R - Moving Pictures Art Project
+R - Northwestern National Insurance Company
+R - Old Police Call Box
+R - Old Police Call Box 6
+R - Rescue of Joshua Glover
+R - Sailor Jerry's Spiced Rum
+R - Service Star Legion World War 
+R - St John's Cathedral Rectory
+R - Swings
+R - The Masons
+R - Watts Building
+R - William F O'Donnell Park Flowering Trees
+R - Womens Club of Wisconsin
+R VOL - Blown Glass Sculpture
+R VOL - Brew City Church
+R VOL - Brig. Gen. Rufus King’s Home
+R VOL - Cafe Mural 
+R VOL - Citizen Stone
+R VOL - DeLind Art Gallery
+R VOL - Elsa's 
+R VOL - Mary of Milwaukee
+R VOL - Milwaukee Gas Light Building 1930
+R VOL - Milwaukee Wind Leaves
+R VOL - Pfister Hotel Established 1893
+R VOL - Sunburst Sculpture - Milwaukee
+[#### photo: undefined](https://lh6.googleusercontent.com/-hQ6SidaRaIo/VtInFqWNo7I/AAAAAAAAi3c/e2QyiHJdh0w/mke_final.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/JtqoAEdtdHc](https://plus.google.com/+NianticProject/posts/JtqoAEdtdHc)

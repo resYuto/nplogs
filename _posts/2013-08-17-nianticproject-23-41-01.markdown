@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-17 23:41:01 +0900"
+date:   2013-08-17 23:41:01 +0900
+categories: nianticproject
+---
+The Resistance grip on Operation  [#Cassandra](https://plus.google.com/s/%23Cassandra "")  - Düsseldorf seems to be slipping away. One measurement remains.
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Dusseldorf<br /><br /><b>Measurement 3 Details</b><br /><br />The Enlightened dominate ownership of key Volatile Portals, but the Resistance continue to fight. Both factions have created megafields during the Anomaly, but have been unable to maintain the fields at the specific Measurement Times.<br /><br />The Resistance owned 1 Volatile Portal and 15 Non-Volatile Portals.<br /><b>The Enlightened owned 4 Volatile Portals and 7 Non Volatile Portals.</b><br /><br />The Resistance had 10 Links standing at Measurement Time.<br /><b>The Enlightened had 12 Links standing at Measurement Time.</b><br /><br />Total for the Resistance this Measurement = 100<br /><b>Total for the Enlightened this Measurement = 154</b><br /><br />Total for the Resistance this Anomaly = 287<br /><b>Total for the Enlightened this Anomaly = 426</b><br /><br /><b>Measurement Time Details</b><br /><br />Original:    THIRTY   SIX SECONDS PAST    FOUR O    CLOCK     SHARP<br />Padded: XXXTHIRTYXXXSIXXSECONDSXPASTXXXXFOURXOXXXXCLOCKXXXXXSHARPXX<br />OTP Key: SUYTNFSIILGSXBPUIYBMUJYSAMDUWKWKPKFFFKTRDSDMGXXRIKQCCQWOGUF<br />Encrypted String: PRVMUNJBGIDPPJMRACDAHMQPPMVNTHTHUYZWCYQOAPFXUZHOFHNZUXWFVRC<br />MD5 of OTP Key: 08e48cccafd3074ce3132ee44480bb8d<br /><br /></div>
+[#### photo: undefined](https://lh6.googleusercontent.com/-3tC8w91jM7E/Ug-JRkotu4I/AAAAAAAAOcA/_DdYUM62DXw/cassandra-dussledorf-3.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/fp3qdY1Cau6](https://plus.google.com/+NianticProject/posts/fp3qdY1Cau6)

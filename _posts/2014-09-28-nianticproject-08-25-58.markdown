@@ -1,0 +1,211 @@
+---
+layout: post
+title:  "Niantic Project: 2014-09-28 08:25:58 +0900"
+date:   2014-09-28 08:25:58 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2><br /><b>Helios 10 - Cumulative Summary of Anomaly Conditions at M3:</b><br /><br />Tacoma - <b>R:709</b> - E:213<br />Sacramento - R:83 - <b>E:235.2</b><br />Vancouver - R:98 - <b>E:129</b><br /><br />Total - <b>R:890</b> - <b>E:577.2</b><br /><br />The Resistance tighten their grasp. In Tacoma, they now lead by 496. At the Satellite Sites, the Enlightened attempted to level the playing field: The massive Field remained overhead in Sacramento at M3 as the Enlightened surged forward on the ground.  In Vancouver, the Enlightened strengthened their position, although the Site remains hotly contested.<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Tacoma - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 215 to 93.<br />The <b>Resistance</b> currently control this Primary Site, leading by 496.<br /><br />Portals Owned - <b>RES:</b> 40 - ENL: 14 - [Value: 2 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 20 each]<br />Links Created - <b>RES:</b> 19 - ENL: 1 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 215 - Enlightened - 93<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 709 - Enlightened - 213<br /><br /><b>Measurement Time Details:</b><br />Original: 6:18 (Minutes:Seconds within Measurement Window)<br />Padded String: %87(:y4r'-QJxs 6:18 %+EzoyF<br />SHA256 of Padded String: da4b29b94a2b3adf7bc18596c3a7885e30a7b0cf10cf8cac27c9f27e2df0eb83<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - 253 Collective<br />ENL - ASUWT Student Government Memorial<br />ENL - City Glass Sign<br />ENL - Foss Waterway Park<br />ENL - Jet Mural<br />ENL - Russel T. Joy Building<br />ENL - Thea Foss Waterway Revitalization Project<br />ENL - Union Station Gear<br />ENL - University of Washington Tacoma Plaque<br />ENL - UW Tacoma Tioga Library Building<br />ENL - Venetian Wall<br />ENL - Welcome Figure Sign<br />ENL - West Coast Grocery<br />ENL - Zipcar-S. 21st Street<br />ENL [Vol] - Big W<br />ENL [Vol] - Union Station<br />ENL [Vol] - Water Forest - Howard Ben Tree<br />NEU - Donald A. Pugnetti Memorial Park<br />NEU - Fletching<br />NEU - Free People Free Land Bell<br />NEU - Governor Booth Gardner Memorial<br />NEU - Kelso Gillenwater Plaza<br />NEU - Seaform Pavilion<br />NEU - Tollefson Fountain<br />NEU - William W. Philip Hall - UWT<br />RES - 16 Marker<br />RES - 1701<br />RES - Adler Mill Loft Building<br />RES - Alleyway Sculptures<br />RES - Awaiting The Infill<br />RES - Birmingham Hay &amp; Seed<br />RES - Canoe Ribs<br />RES - Crystal Towers on the Chihuly<br />RES - Dougan Building<br />RES - Fishing Barbs<br />RES - Foss Waterway Bridge<br />RES - Foss Waterway Cleanup History Plaque<br />RES - Garretson Woodruff Pratt Building<br />RES - Gary E. Milgard Family Foundation Plaque<br />RES - Glass Wall<br />RES - Historic Harmon Brewery<br />RES - Hongwanji Buddhist Church<br />RES - Link Light Rail<br />RES - Main Plaza Reflecting Pool<br />RES - May Peace Prevail on Earth<br />RES - Northern Pacific Rail Meets Pacific Ocean Sails<br />RES - Seafoam Platform<br />RES - Silver Dome Artwork<br />RES - Tacoma Art Museum<br />RES - Tacoma Link<br />RES - Tacoma Union Station<br />RES - The Swiss<br />RES - The Whitney<br />RES - Thea Foss Water Way Cleanup<br />RES - Tolefson Plaza<br />RES - Tollefson Plaza<br />RES - United States Courthouse<br />RES - UW Tacoma Library<br />RES - UW Tacoma Pinkerton Building<br />RES - Venetian Wall<br />RES - Washington State Historical Society<br />RES - Washington State History Museum Plaque<br />RES - Water View Amphitheater<br />RES - WeII Pump<br />RES - You'll Like Tacoma<br />RES [Vol] - Museum of Glass<br />RES [Vol] - Statue at Tolofson<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Sacramento - Measurement 3 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 84 to 23.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 152.2.<br /><br />Portals Owned - RES: 3 - <b>ENL:</b> 30 - [Value: 1 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (24)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 23 - <b>Enlightened</b> - 84<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 83 - <b>Enlightened</b> - 235.2<br /><br /><b>Measurement Time Details:</b><br />Original: 6:18 (Minutes:Seconds within Measurement Window)<br />Padded String: %87(:y4r'-QJxs 6:18 %+EzoyF<br />SHA256 of Padded String: da4b29b94a2b3adf7bc18596c3a7885e30a7b0cf10cf8cac27c9f27e2df0eb83<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - 16th Street Pride<br />ENL - Agriculture Mural<br />ENL - Beer's Books<br />ENL - Bicycle Rack<br />ENL - Carrot<br />ENL - City Clock<br />ENL - Clock Tower<br />ENL - Fatman Cigars<br />ENL - Fox and Goose Statue<br />ENL - Fremont Cash Grocery Plaque, Sacramento<br />ENL - Fremont Community Garden<br />ENL - Giant Gecko Mosaic<br />ENL - Guarded Door<br />ENL - Historic R District Sign<br />ENL - Hot Italian<br />ENL - John C. Fremont Park Signage<br />ENL - Legato De Ravel Clock Tower<br />ENL - Multi-Colored Eyeballs Art<br />ENL - Old Ironsides<br />ENL - People Painted On Utility Box<br />ENL - Piano Stand<br />ENL - Posey's<br />ENL - Public Garden Pagoda<br />ENL - Sacramento Kings Mural<br />ENL - Shady Lady Saloon<br />ENL - Theatrical Bike Rack<br />ENL - Theodore Judah Memorial Plaque<br />ENL - Tile Mosaic Window<br />ENL - Tree Mosaic<br />ENL - Wishing Well<br />ENL [Vol] - Colorful Windows<br />ENL [Vol] - Fremont Park Fountain<br />ENL [Vol] - Iron Work Wall Art<br />NEU - 13th Street Light Rail<br />NEU - AD 1962 Tablet<br />NEU - Historic Businesses 12th to 13th Streets North Plaque<br />NEU - Hit the Nail on the Head<br />NEU - Iron Dragon<br />NEU - Mural on Building on 16th Street<br />NEU - Roofline<br />NEU - The Jazz Man<br />RES - Fremont Park, Sacramento, CA 4<br />RES - Good Fortune<br />RES - John C. Fremont Park<br />RES [Vol] - CA Secretary of State<br />RES [Vol] - Sherman Brothers Paint Color Structure<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Vancouver - Measurement 3 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 59 to 31.<br />The <b>Enlightened</b> currently control this Secondary Site, leading by 31.<br /><br />Portals Owned - <b>RES:</b> 19 - ENL: 9 - [Value: 1 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 5 - [Value: 10 each]<br />Links Created - <b>RES:</b> 4 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 31 - <b>Enlightened</b> - 59<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 98 - <b>Enlightened</b> - 129<br /><br /><b>Measurement Time Details:</b><br />Original: 6:18 (Minutes:Seconds within Measurement Window)<br />Padded String: %87(:y4r'-QJxs 6:18 %+EzoyF<br />SHA256 of Padded String: da4b29b94a2b3adf7bc18596c3a7885e30a7b0cf10cf8cac27c9f27e2df0eb83<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Aquatic Center<br />ENL - Beta Theta Pi<br />ENL - Brimacombe Building<br />ENL - George Cunningham Building<br />ENL - MacInnes Field Memorial<br />ENL - Ozeki White<br />ENL - Peter Marron Slate<br />ENL - United Nations Habitat at UBC<br />ENL - War Memorial Gym<br />ENL [Vol] - Djavad Mowafghian Centre for Brain Health<br />ENL [Vol] - Honeycomb Bus Stop<br />ENL [Vol] - Rapid Water Steps<br />ENL [Vol] - Regent College<br />ENL [Vol] - The Modes of Travel<br />NEU - Queen Elizabeth II Inauguration Plaque<br />NEU - Queen of the Night: Cereus<br />RES - Bust of Sir Frederick Banting<br />RES - Contained Spheres<br />RES - David Strangway Building<br />RES - Djavad Mowafaghian Centre for Brain Health<br />RES - Doris Tha Memorial Bench<br />RES - Duke of York Commemorative Plaque<br />RES - Frank Galik and Peter Quiring Memorial<br />RES - Freedom Memorial Wall<br />RES - Graduating Class of '81<br />RES - Honeycomb Bus Stop<br />RES - King George VI<br />RES - Lutheran Campus Centre<br />RES - Salmon Man<br />RES - Sopron Memorial Oak<br />RES - Streaming Tears<br />RES - The Hive Mind<br />RES - UBC True North Tower<br />RES - Weghsteen Wall<br />RES - Woodward Library<br /><br /></div>
+[#### photo: Helios 10 - Cumulative Summary of Anomaly Conditions at M3:
+Tacoma - R:709 - E:213
+Sacramento - R:83 - E:235.2
+Vancouver - R:98 - E:129
+Total - R:890 - E:577.2
+The Resistance tighten their grasp. In Tacoma, they now lead by 496. At the Satellite Sites, the Enlightened attempted to level the playing field: The massive Field remained overhead in Sacramento at M3 as the Enlightened surged forward on the ground.  In Vancouver, the Enlightened strengthened their position, although the Site remains hotly contested.
+#Helios: Tacoma - Measurement 3 Report
+The Resistance captured this Measurement, 215 to 93.
+The Resistance currently control this Primary Site, leading by 496.
+Portals Owned - RES: 40 - ENL: 14 - [Value: 2 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 20 each]
+Links Created - RES: 19 - ENL: 1 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 215 - Enlightened - 93
+Total for this Primary Site:
+Resistance - 709 - Enlightened - 213
+Measurement Time Details:
+Original: 6:18 (Minutes:Seconds within Measurement Window)
+Padded String: %87(:y4r'-QJxs 6:18 %+EzoyF
+SHA256 of Padded String: da4b29b94a2b3adf7bc18596c3a7885e30a7b0cf10cf8cac27c9f27e2df0eb83
+Portal Ownership Details
+ENL - 253 Collective
+ENL - ASUWT Student Government Memorial
+ENL - City Glass Sign
+ENL - Foss Waterway Park
+ENL - Jet Mural
+ENL - Russel T. Joy Building
+ENL - Thea Foss Waterway Revitalization Project
+ENL - Union Station Gear
+ENL - University of Washington Tacoma Plaque
+ENL - UW Tacoma Tioga Library Building
+ENL - Venetian Wall
+ENL - Welcome Figure Sign
+ENL - West Coast Grocery
+ENL - Zipcar-S. 21st Street
+ENL [Vol] - Big W
+ENL [Vol] - Union Station
+ENL [Vol] - Water Forest - Howard Ben Tree
+NEU - Donald A. Pugnetti Memorial Park
+NEU - Fletching
+NEU - Free People Free Land Bell
+NEU - Governor Booth Gardner Memorial
+NEU - Kelso Gillenwater Plaza
+NEU - Seaform Pavilion
+NEU - Tollefson Fountain
+NEU - William W. Philip Hall - UWT
+RES - 16 Marker
+RES - 1701
+RES - Adler Mill Loft Building
+RES - Alleyway Sculptures
+RES - Awaiting The Infill
+RES - Birmingham Hay &amp; Seed
+RES - Canoe Ribs
+RES - Crystal Towers on the Chihuly
+RES - Dougan Building
+RES - Fishing Barbs
+RES - Foss Waterway Bridge
+RES - Foss Waterway Cleanup History Plaque
+RES - Garretson Woodruff Pratt Building
+RES - Gary E. Milgard Family Foundation Plaque
+RES - Glass Wall
+RES - Historic Harmon Brewery
+RES - Hongwanji Buddhist Church
+RES - Link Light Rail
+RES - Main Plaza Reflecting Pool
+RES - May Peace Prevail on Earth
+RES - Northern Pacific Rail Meets Pacific Ocean Sails
+RES - Seafoam Platform
+RES - Silver Dome Artwork
+RES - Tacoma Art Museum
+RES - Tacoma Link
+RES - Tacoma Union Station
+RES - The Swiss
+RES - The Whitney
+RES - Thea Foss Water Way Cleanup
+RES - Tolefson Plaza
+RES - Tollefson Plaza
+RES - United States Courthouse
+RES - UW Tacoma Library
+RES - UW Tacoma Pinkerton Building
+RES - Venetian Wall
+RES - Washington State Historical Society
+RES - Washington State History Museum Plaque
+RES - Water View Amphitheater
+RES - WeII Pump
+RES - You'll Like Tacoma
+RES [Vol] - Museum of Glass
+RES [Vol] - Statue at Tolofson
+#Helios: Sacramento - Measurement 3 Report
+The Enlightened captured this Measurement, 84 to 23.
+The Enlightened currently control this Secondary Site, leading by 152.2.
+Portals Owned - RES: 3 - ENL: 30 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (24)]
+Total for this Measurement:
+Resistance - 23 - Enlightened - 84
+Total for this Secondary Site:
+Resistance - 83 - Enlightened - 235.2
+Measurement Time Details:
+Original: 6:18 (Minutes:Seconds within Measurement Window)
+Padded String: %87(:y4r'-QJxs 6:18 %+EzoyF
+SHA256 of Padded String: da4b29b94a2b3adf7bc18596c3a7885e30a7b0cf10cf8cac27c9f27e2df0eb83
+Portal Ownership Details
+ENL - 16th Street Pride
+ENL - Agriculture Mural
+ENL - Beer's Books
+ENL - Bicycle Rack
+ENL - Carrot
+ENL - City Clock
+ENL - Clock Tower
+ENL - Fatman Cigars
+ENL - Fox and Goose Statue
+ENL - Fremont Cash Grocery Plaque, Sacramento
+ENL - Fremont Community Garden
+ENL - Giant Gecko Mosaic
+ENL - Guarded Door
+ENL - Historic R District Sign
+ENL - Hot Italian
+ENL - John C. Fremont Park Signage
+ENL - Legato De Ravel Clock Tower
+ENL - Multi-Colored Eyeballs Art
+ENL - Old Ironsides
+ENL - People Painted On Utility Box
+ENL - Piano Stand
+ENL - Posey's
+ENL - Public Garden Pagoda
+ENL - Sacramento Kings Mural
+ENL - Shady Lady Saloon
+ENL - Theatrical Bike Rack
+ENL - Theodore Judah Memorial Plaque
+ENL - Tile Mosaic Window
+ENL - Tree Mosaic
+ENL - Wishing Well
+ENL [Vol] - Colorful Windows
+ENL [Vol] - Fremont Park Fountain
+ENL [Vol] - Iron Work Wall Art
+NEU - 13th Street Light Rail
+NEU - AD 1962 Tablet
+NEU - Historic Businesses 12th to 13th Streets North Plaque
+NEU - Hit the Nail on the Head
+NEU - Iron Dragon
+NEU - Mural on Building on 16th Street
+NEU - Roofline
+NEU - The Jazz Man
+RES - Fremont Park, Sacramento, CA 4
+RES - Good Fortune
+RES - John C. Fremont Park
+RES [Vol] - CA Secretary of State
+RES [Vol] - Sherman Brothers Paint Color Structure
+#Helios: Vancouver - Measurement 3 Report
+The Enlightened captured this Measurement, 59 to 31.
+The Enlightened currently control this Secondary Site, leading by 31.
+Portals Owned - RES: 19 - ENL: 9 - [Value: 1 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 10 each]
+Links Created - RES: 4 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 31 - Enlightened - 59
+Total for this Secondary Site:
+Resistance - 98 - Enlightened - 129
+Measurement Time Details:
+Original: 6:18 (Minutes:Seconds within Measurement Window)
+Padded String: %87(:y4r'-QJxs 6:18 %+EzoyF
+SHA256 of Padded String: da4b29b94a2b3adf7bc18596c3a7885e30a7b0cf10cf8cac27c9f27e2df0eb83
+Portal Ownership Details
+ENL - Aquatic Center
+ENL - Beta Theta Pi
+ENL - Brimacombe Building
+ENL - George Cunningham Building
+ENL - MacInnes Field Memorial
+ENL - Ozeki White
+ENL - Peter Marron Slate
+ENL - United Nations Habitat at UBC
+ENL - War Memorial Gym
+ENL [Vol] - Djavad Mowafghian Centre for Brain Health
+ENL [Vol] - Honeycomb Bus Stop
+ENL [Vol] - Rapid Water Steps
+ENL [Vol] - Regent College
+ENL [Vol] - The Modes of Travel
+NEU - Queen Elizabeth II Inauguration Plaque
+NEU - Queen of the Night: Cereus
+RES - Bust of Sir Frederick Banting
+RES - Contained Spheres
+RES - David Strangway Building
+RES - Djavad Mowafaghian Centre for Brain Health
+RES - Doris Tha Memorial Bench
+RES - Duke of York Commemorative Plaque
+RES - Frank Galik and Peter Quiring Memorial
+RES - Freedom Memorial Wall
+RES - Graduating Class of '81
+RES - Honeycomb Bus Stop
+RES - King George VI
+RES - Lutheran Campus Centre
+RES - Salmon Man
+RES - Sopron Memorial Oak
+RES - Streaming Tears
+RES - The Hive Mind
+RES - UBC True North Tower
+RES - Weghsteen Wall
+RES - Woodward Library](https://lh6.googleusercontent.com/-VLR7sy7qmwM/VCdFxJkKX2I/AAAAAAABEAY/F9YSAONp6hw/w2048-h1153/IMG_20140927_150717.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/L1AVGv6RF1K](https://plus.google.com/+NianticProject/posts/L1AVGv6RF1K)

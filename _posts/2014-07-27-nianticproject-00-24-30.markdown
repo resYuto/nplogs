@@ -1,0 +1,115 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-27 00:24:30 +0900"
+date:   2014-07-27 00:24:30 +0900
+categories: nianticproject
+---
+[#Helios](https://plus.google.com/s/%23Helios "")  01
+
+The Measurement 3 Report for Dublin has been released.  The Resistance stay on top, despite Tallinn going to the Enlightened in this round.  With the last Measurement approaching, will the Enlightened finally be able to tip the scales in their favor?  Or will the Resistance continue to dominate?<div class="shared"><br /><h2>Ingress</h2><br /><b>Helios - 01: Summary of Anomaly Conditions</b><br /><br />Dublin - <b>R:330</b> - E:141<br />Palermo - <b>R:134</b> - E:37.2<br />Tallinn - <b>R:137</b> - E:80<br />Total - <b>R:601</b> - E:258.2<br /><br />The Enlightened capture M3 in Tallinn, but continued strength in Dublin and Palermo combined with an early lead in Tallinn ensure that the Resistance remain in a position of dominance. The Resistance lead by 342.8 going into the Final Measurement, a difficult but surmountable challenge for the Enlightened.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Dublin - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 112 to 32.<br />The <b>Resistance</b> currently control this Primary Site, leading by 189.<br /><br />Portals Owned - <b>RES:</b> 11 - ENL: 6 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 20 each]<br />Links Created - <b>RES:</b> 2 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 112 - Enlightened - 32<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 330 - Enlightened - 141<br /><br /><b>Measurement Time Details:</b><br />Original: 3:49 (Minutes:Seconds within Measurement Window)<br />Padded String: 6nQj!K+39M/TpUGx%rIO 3:49 oUE?p.qR@<br />SHA256 of Padded String: d4953d6ed67bb86245c6bbca09cf8d0c48f89e178f8751df9bb789dddf153068<br /><br /><b>Portal Ownership Details</b><br />Resistance - Wolf Snake Street Art<br />Resistance - Windsor Place<br />Resistance - Ulster Bank<br />Resistance - Mosaic Mural<br />Resistance - Mainie Jellett Plaque<br />Resistance - Kiosk at Leeson Street Bridge<br />Resistance - Jack B Corner<br />Resistance - Hartigans Pub<br />Resistance - Good Mood Food Cafe Wall Art<br />Resistance - Fitzwilliam Hall<br />Resistance - FINEOS Corp<br />Resistance - (VOLATILE) - Wilton Fountain<br />Resistance - (VOLATILE) - Larry Murphy Pub<br />Resistance - (VOLATILE) - Fitzwilliam Square<br />Resistance - (VOLATILE) - Brooks Store<br />Neutral - Hatch Hall<br />Neutral - Greek Embassy<br />Enlightened - Sculpture beside BOI Mespil<br />Enlightened - Royal Hibernian Academy <br />Enlightened - Permanent TSB Headquarters<br />Enlightened - Igloo Wall Art<br />Enlightened - House of George Francis Fitzgerald<br />Enlightened - Docked Boat Restaurant at the Canal<br />Enlightened - (VOLATILE) - Earlsfort Cube<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Palermo - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 45 to 13.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 96.8.<br /><br />Portals Owned - <b>RES:</b> 5 - ENL: 3 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 45 - Enlightened - 13<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 134 - Enlightened - 37.2<br /><br /><b>Portal Ownership Details</b><br />Resistance - Tempio Munito Fortezza Mistica<br />Resistance - Teatro Massimo - Scalinata Con Stelle Di Natale<br />Resistance - Teatro Massimo - Particolare Della Porta Laterale<br />Resistance - Piazza Verdi - Base Lampione<br />Resistance - Palazzo Vigili Del Fuoco<br />Resistance - (VOLATILE) - Teatro Massimo - S.P.Q.R.<br />Resistance - (VOLATILE) - Teatro Massimo - Inquadratura Laterale<br />Resistance - (VOLATILE) - Fontana Via Magliocco<br />Resistance - (VOLATILE) - Caserma Pompieri<br />Neutral - Tempio Munito Fortezza Mistica<br />Neutral - Teatro Massimo - Fantasia Floreale<br />Neutral - Teatro Massimo - Cupola<br />Neutral - Liberty palermitano, Chiosco Ribaudo<br />Enlightened - Teatro Massimo - Capitelli Corinzi<br />Enlightened - Teatro Massimo - Busto Verdi<br />Enlightened - Maiolica Gialla<br />Enlightened - (VOLATILE) - Grifoni BNL<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Tallinn - Measurement 3 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 42 to 39.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 57.<br /><br />Portals Owned - <b>RES:</b> 8 - ENL: 2 - [Value: 1 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 10 each]<br />Links Created - <b>RES:</b> 7 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 39 - <b>Enlightened</b> - 42<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 137 - Enlightened - 80<br /><br /><b>Portal Ownership Details</b><br />Resistance - Wall Art<br />Resistance - Steampunk Theatre<br />Resistance - Sauna Tower<br />Resistance - Rannaküla lambaaed<br />Resistance - Mustpeade Maja<br />Resistance - Merevaigust Käsitööd<br />Resistance - Jeltsini Barelieef<br />Resistance - Goat On Five Crones<br />Resistance - (VOLATILE) - Tallinn Fountain<br />Neutral - Toompark<br />Neutral - The Towers Sqare<br />Enlightened - Tallinn City Theatre<br />Enlightened - Alien Buttersnail<br />Enlightened - (VOLATILE) - Siuru<br />Enlightened - (VOLATILE) - Nunne Torn<br />Enlightened - (VOLATILE) - Ferdinand Veike<br />Enlightened - (VOLATILE) - Ancient Gates<br /><br /></div>
+[#### photo: Helios - 01: Summary of Anomaly Conditions
+Dublin - R:330 - E:141
+Palermo - R:134 - E:37.2
+Tallinn - R:137 - E:80
+Total - R:601 - E:258.2
+The Enlightened capture M3 in Tallinn, but continued strength in Dublin and Palermo combined with an early lead in Tallinn ensure that the Resistance remain in a position of dominance. The Resistance lead by 342.8 going into the Final Measurement, a difficult but surmountable challenge for the Enlightened.
+#Helios: Dublin - Measurement 3 Report
+The Resistance captured this Measurement, 112 to 32.
+The Resistance currently control this Primary Site, leading by 189.
+Portals Owned - RES: 11 - ENL: 6 - [Value: 2 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 20 each]
+Links Created - RES: 2 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 112 - Enlightened - 32
+Total for this Primary Site:
+Resistance - 330 - Enlightened - 141
+Measurement Time Details:
+Original: 3:49 (Minutes:Seconds within Measurement Window)
+Padded String: 6nQj!K+39M/TpUGx%rIO 3:49 oUE?p.qR@
+SHA256 of Padded String: d4953d6ed67bb86245c6bbca09cf8d0c48f89e178f8751df9bb789dddf153068
+Portal Ownership Details
+Resistance - Wolf Snake Street Art
+Resistance - Windsor Place
+Resistance - Ulster Bank
+Resistance - Mosaic Mural
+Resistance - Mainie Jellett Plaque
+Resistance - Kiosk at Leeson Street Bridge
+Resistance - Jack B Corner
+Resistance - Hartigans Pub
+Resistance - Good Mood Food Cafe Wall Art
+Resistance - Fitzwilliam Hall
+Resistance - FINEOS Corp
+Resistance - (VOLATILE) - Wilton Fountain
+Resistance - (VOLATILE) - Larry Murphy Pub
+Resistance - (VOLATILE) - Fitzwilliam Square
+Resistance - (VOLATILE) - Brooks Store
+Neutral - Hatch Hall
+Neutral - Greek Embassy
+Enlightened - Sculpture beside BOI Mespil
+Enlightened - Royal Hibernian Academy
+Enlightened - Permanent TSB Headquarters
+Enlightened - Igloo Wall Art
+Enlightened - House of George Francis Fitzgerald
+Enlightened - Docked Boat Restaurant at the Canal
+Enlightened - (VOLATILE) - Earlsfort Cube
+#Helios: Palermo - Measurement 3 Report
+The Resistance captured this Measurement, 45 to 13.
+The Resistance currently control this Secondary Site, leading by 96.8.
+Portals Owned - RES: 5 - ENL: 3 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 45 - Enlightened - 13
+Total for this Secondary Site:
+Resistance - 134 - Enlightened - 37.2
+Portal Ownership Details
+Resistance - Tempio Munito Fortezza Mistica
+Resistance - Teatro Massimo - Scalinata Con Stelle Di Natale
+Resistance - Teatro Massimo - Particolare Della Porta Laterale
+Resistance - Piazza Verdi - Base Lampione
+Resistance - Palazzo Vigili Del Fuoco
+Resistance - (VOLATILE) - Teatro Massimo - S.P.Q.R.
+Resistance - (VOLATILE) - Teatro Massimo - Inquadratura Laterale
+Resistance - (VOLATILE) - Fontana Via Magliocco
+Resistance - (VOLATILE) - Caserma Pompieri
+Neutral - Tempio Munito Fortezza Mistica
+Neutral - Teatro Massimo - Fantasia Floreale
+Neutral - Teatro Massimo - Cupola
+Neutral - Liberty palermitano, Chiosco Ribaudo
+Enlightened - Teatro Massimo - Capitelli Corinzi
+Enlightened - Teatro Massimo - Busto Verdi
+Enlightened - Maiolica Gialla
+Enlightened - (VOLATILE) - Grifoni BNL
+#Helios: Tallinn - Measurement 3 Report
+The Enlightened captured this Measurement, 42 to 39.
+The Resistance currently control this Secondary Site, leading by 57.
+Portals Owned - RES: 8 - ENL: 2 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 10 each]
+Links Created - RES: 7 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 39 - Enlightened - 42
+Total for this Secondary Site:
+Resistance - 137 - Enlightened - 80
+Portal Ownership Details
+Resistance - Wall Art
+Resistance - Steampunk Theatre
+Resistance - Sauna Tower
+Resistance - Rannaküla lambaaed
+Resistance - Mustpeade Maja
+Resistance - Merevaigust Käsitööd
+Resistance - Jeltsini Barelieef
+Resistance - Goat On Five Crones
+Resistance - (VOLATILE) - Tallinn Fountain
+Neutral - Toompark
+Neutral - The Towers Sqare
+Enlightened - Tallinn City Theatre
+Enlightened - Alien Buttersnail
+Enlightened - (VOLATILE) - Siuru
+Enlightened - (VOLATILE) - Nunne Torn
+Enlightened - (VOLATILE) - Ferdinand Veike
+Enlightened - (VOLATILE) - Ancient Gates](https://lh4.googleusercontent.com/-kcOZAaVwqnA/U9PHBKQM0LI/AAAAAAAA8aE/6uWrZ1qYH9k/w2048-h1395/cross.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/1913HYBYAJZ](https://plus.google.com/+NianticProject/posts/1913HYBYAJZ)

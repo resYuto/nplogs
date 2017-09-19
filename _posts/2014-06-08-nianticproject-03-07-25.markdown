@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-08 03:07:25 +0900"
+date:   2014-06-08 03:07:25 +0900
+categories: nianticproject
+---
+Volatiles for Cluster 2,  [#Interitus](https://plus.google.com/s/%23Interitus "")  05 - Asheville, Birmingham, San Jose and San Juan are out.
+
+The Measurement 1 window just closed. Report will be shared here shortly. Stay tuned.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@290, :value=>"shared"@297}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a></b>", "<b> 05 C2 VOLS - ASHEVILLE, BIRMINGHAM, SAN JOSE, SAN JUAN</b>", " ", "<br />", "<br />", "Cluster 2 Volatiles: ", "<a href=\"http://goo.gl/QvBV7m\" class=\"ot-anchor\">http://goo.gl/QvBV7m</a>", " ", "<br />", "<br />", "Measurement 2 MD5: c814a31413b4b3fcd7fe428f5c815c39", "<br />", "<br />", "Photo by Santiago Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114864056414086606166\" oid=\"114864056414086606166\">Oscar Rojas</a>"], ".", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Interitus 05 C2 VOLS - ASHEVILLE, BIRMINGHAM, SAN JOSE, SAN JUAN 
+Cluster 2 Volatiles: http://goo.gl/QvBV7m 
+Measurement 2 MD5: c814a31413b4b3fcd7fe428f5c815c39
+Photo by Santiago Agent +Oscar Rojas.](https://lh5.googleusercontent.com/-GdSkvvPfJ50/U5NSsWywxRI/AAAAAAAAy84/F9ZitAvavR4/20140607_131157.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Rpu1rDTmWSR](https://plus.google.com/+NianticProject/posts/Rpu1rDTmWSR)

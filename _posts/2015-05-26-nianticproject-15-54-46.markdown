@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-05-26 15:54:46 +0900"
+date:   2015-05-26 15:54:46 +0900
+categories: nianticproject
+---
+Dr. +[Edgar Allan Wright](https://plus.google.com/110289508116377658380 "")'s appearance on +[Behind The Scanner](https://plus.google.com/113020726391023655192 "") was cut short by a strange disturbance. Three questions remained unanswered, and he has been responding to them one at a time on his G+ page. Today's answer is especially fascinating.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@613, :value=>"shared"@620}], :children=>["<br />", "<h2>Edgar Allan Wright</h2>", "Here is the next question I could not answer from ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/113020726391023655192\" oid=\"113020726391023655192\">Behind The Scanner</a>"], ". I believe it was from ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/116231682126219631771\" oid=\"116231682126219631771\">José Antonio Rey</a>"], ".", "<br />", "<br />", "<i>Jose: Dr. Wright I would like to know why do you think PAC was hired to train ADA?</i>", "<br />", "<br />", "The official story was that Henry Bowles hired him simply to tune ADA to pass the neo-Turing test. The deeper question is whether Bowles was hired because it was known that he would hire Loeb aka P.A. Chapeau.  Looking at time backwards, one could conclude that Anti-Magnus saw the creation of ADA as essential to the N’zeer’s return to our realm.  ", "<br />", "<br />", "It is evident to me that many of the actions taken by Loeb, Devra, Bowles and other members of the Niantic team unwittingly played into a well hewn plan from Jahan, Calvin and their Anti-Magnus operatives to bring the return of the N’zeer. ", "<br />", "<br />", "An example I would give is Devra’s work at the CDC in unleashing the Portal Virus during the Helios period.  It played perfectly into the hands of the N’zeer -- created the firmament that has allowed their return.  The question is when the master plan ends.  Is it at Persepolis, or has it been scripted for far beyond Persepolis?  And if 13MAGNUS and their Enlightened allies were to stop them, how would they do it.", "<br />", "<br />", "It is a fascinating mental puzzle.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Here is the next question I could not answer from +Behind The Scanner. I believe it was from +José Antonio Rey.
+Jose: Dr. Wright I would like to know why do you think PAC was hired to train ADA?
+The official story was that Henry Bowles hired him simply to tune ADA to pass the neo-Turing test. The deeper question is whether Bowles was hired because it was known that he would hire Loeb aka P.A. Chapeau.  Looking at time backwards, one could](https://lh3.googleusercontent.com/-kIEeHJhk33c/VWQXetuO1mI/AAAAAAAAAH8/LWBxIqE9mmk/w800-h781/ADA.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/N5MCvT5s3bC](https://plus.google.com/+NianticProject/posts/N5MCvT5s3bC)

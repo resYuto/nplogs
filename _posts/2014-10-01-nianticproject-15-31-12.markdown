@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-10-01 15:31:12 +0900"
+date:   2014-10-01 15:31:12 +0900
+categories: nianticproject
+---
++[Martin Schubert](https://plus.google.com/100425314717666507497 "") shares his insights into the video revealed by ADA at the [#Helios](https://plus.google.com/s/%23Helios "") Finale Anomalies.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@376, :value=>"shared"@383}], :children=>["<br />", "<h2>Martin Schubert</h2>", "I've been studying the information that ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " revealed to Agents at the last  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", "  Anomaly.", "<br />", "<br />", "This image in particular caught my attention.", "<br />", "<br />", "The work I had been doing showed the possibility of underlying patterns in the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Helios\">#Helios</a>", " Portals, but this articulation seems much more... distinct.", "<br />", "<br />", "I intend to spend more time looking into this.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: I've been studying the information that +Klue S. revealed to Agents at the last #Helios  Anomaly.
+This image in particular caught my attention.
+The work I had been doing showed the possibility of underlying patterns in the #Helios Portals, but this articulation seems much more... distinct.
+I intend to spend more time looking into this.](https://lh3.googleusercontent.com/-RBgj8lPA3BQ/VCuetOy3oZI/AAAAAAAACSs/dcWyMrykgSI/w718-h501/Beacons.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/BYHyHU6Y8pg](https://plus.google.com/+NianticProject/posts/BYHyHU6Y8pg)

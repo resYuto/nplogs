@@ -1,0 +1,172 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-27 06:19:03 +0900"
+date:   2014-04-27 06:19:03 +0900
+categories: nianticproject
+---
+At  [#Interitus](https://plus.google.com/s/%23Interitus "")  02, the Resistance have asserted themselves once again, taking back the top of the hill.
+
+2 Measurements remain.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02 Measurement 2 Report</b><br /><br />The Resistance Strikes Back. While the Enlightened seemed to be holding a position of strength in Colorado Springs, that advantage now stands decimated. Salt Lake City remains an even match, but without a major strategic push, that will not be good enough to undo the losses incurred earlier in the day and the Resistance megafield over Flagstaff, which has now withstood two Measurements.<br /><br />At Measurement 2, the <b>Resistance</b> outperformed the Enlightened in this US vector of the <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 02 Anomaly, Leading by 182 (602 to 420).<br /><br />Overall across today’s Anomaly, the <b>Resistance</b> have increased their lead to 703. (1984 to 1281).<br /><br />Agents across the globe and in their respective Regions may be able to help quell the tide. That remains to be seen.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Flagstaff - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 169 to 87.<br />The <b>Resistance</b> currently control this Primary Site, leading by 172.<br /><br />Portals Owned - <b>RES:</b> 12 - ENL: 11 - [Value: 2 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 20 each]<br />Links Created - RES: 1 - ENL: 1 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: 100]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 169 - Enlightened - 87<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 331 - Enlightened - 159<br /><br /><b>Measurement Time Details:</b><br />Original: 3:06 (Minutes:Seconds within Measurement Window)<br />Padded String: fNKGFIBhMLkmVBruFdYjTciuwPD 3:06 BYs<br />MD5 of Padded String: 8c610437b33cc90721d6bbc0da073014<br /><br /><b>Portal Ownership Details</b><br />Resistance - Twisted Steel<br />Resistance - The Riordan Building<br />Resistance - The Girl Who Sings to Plants<br />Resistance - Our Lady Guadalupe <br />Resistance - Newman Center<br />Resistance - John R. Frog Ivey<br />Resistance - Green Triangles or is it Purple Triangles<br />Resistance - Flowering Eye<br />Resistance - Fire and Steel<br />Resistance - EDF 200<br />Resistance - Cline Library<br />Resistance - Calvary Cemetery <br />Resistance - (VOLATILE) - My Elden Preserve<br />Resistance - (VOLATILE) - East Flagstaff Community Library<br />Neutral - Wheel of Fortune<br />Neutral - Riordan Mansion State Historic Park<br />Neutral - NAU Student Union<br />Neutral - NAU Performing and Fine Arts<br />Neutral - First Amendment Plaza<br />Enlightened - Stage Mic<br />Enlightened - Petrified Wood Memorial<br />Enlightened - Orca Electrical Box<br />Enlightened - NAU Crest <br />Enlightened - Mysterious Sculpture at NAU<br />Enlightened - Mural Cat ASSET #1<br />Enlightened - Jarvis Memorial<br />Enlightened - Jamba Juice Northern Arizona University<br />Enlightened - Crystal Creek<br />Enlightened - Crashed and Burned<br />Enlightened - Barry Lutz Telescope<br />Enlightened - (VOLATILE) - The Museum Club<br />Enlightened - (VOLATILE) - Mt. Elden Environmental Study Area<br />Enlightened - (VOLATILE) - Bushmaster Park Entrance<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Salt Lake City - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 46 to 31.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 6.<br /><br />Portals Owned - <b>RES:</b> 18 - ENL: 9 - [Value: 1 each]<br />Volatile Portals Owned - RES: 2 - ENL: 2 - [Value: 10 each]<br />Links Created - <b>RES:</b> 4 - ENL: 1 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: 50]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 46 - Enlightened - 31<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 95 - Enlightened - 89<br /><br /><b>Measurement Time Details:</b><br />Original: 3:06 (Minutes:Seconds within Measurement Window)<br />Padded String: fNKGFIBhMLkmVBruFdYjTciuwPD 3:06 BYs<br />MD5 of Padded String: 8c610437b33cc90721d6bbc0da073014<br /><br /><b>Portal Ownership Details</b><br />Resistance - Yellow Bellied Sap Sucker<br />Resistance - Ring-Tailed Cat Tracks<br />Resistance - Raccoon<br />Resistance - Primary Children’s Hospital Plaque<br />Resistance - Porcupine <br />Resistance - Ottinger Hall<br />Resistance - Mule Deer Foot Prints<br />Resistance - LDS Conference Center<br />Resistance - LDS Church <br />Resistance - Human Tracks<br />Resistance - Gibbs-Thomas-Hansen Home<br />Resistance - First University West of the Mississippi<br />Resistance - Conference Center Waterfall<br />Resistance - City Creek Park Pond Island. <br />Resistance - City Creek Park<br />Resistance - Brigham Young's Garden Wall<br />Resistance - Beaver<br />Resistance - 18th Ward Chapel<br />Resistance - (VOLATILE) - Salt Lake Hardware<br />Resistance - (VOLATILE) - Cathedral of the Madeleine<br />Neutral - Oregon Junco<br />Neutral - Northern Pocket Gopher<br />Neutral - Hairy Woodpecker<br />Neutral - Conference Center Theater Fountain<br />Neutral - (VOLATILE) - Historic Ellerbeck Mansion<br />Enlightened - Western Meadolark Tracks<br />Enlightened - The Church of Jesus Christ<br />Enlightened - McCune Mansion<br />Enlightened - Kimball Whitney Cemetery <br />Enlightened - Kimball Cemetery Head Stones<br />Enlightened - Inn on the Hill<br />Enlightened - Crismon Mill Site<br />Enlightened - Conference Center Fountain<br />Enlightened - Church History Library<br />Enlightened - (VOLATILE) - Squiggles<br />Enlightened - (VOLATILE) - Lorraine<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 02: Colorado Springs - Measurement 2 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 177 to 67.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 13.<br /><br />Portals Owned - <b>RES:</b> 31 - ENL: 1 - [Value: 1 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 10 each]<br />Links Created - <b>RES:</b> 68 - ENL: 13 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: 50]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 177 - Enlightened - 67<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 203 - Enlightened - 190<br /><br /><b>Measurement Time Details:</b><br />Original: 3:06 (Minutes:Seconds within Measurement Window)<br />Padded String: fNKGFIBhMLkmVBruFdYjTciuwPD 3:06 BYs<br />MD5 of Padded String: 8c610437b33cc90721d6bbc0da073014<br /><br /><b>Portal Ownership Details</b><br />Resistance - Wind Scoops Art<br />Resistance - Uncle Wilber Fountain<br />Resistance - Tile Mural <br />Resistance - The McAllister House Museum<br />Resistance - The Lennox<br />Resistance - Supernova<br />Resistance - St Mary's on a Snowy Night<br />Resistance - Sculpture in the Park<br />Resistance - Poor Richard's<br />Resistance - Moving Interactive Art<br />Resistance - Monument Valley Park view Nort<br />Resistance - Mission Arts Center Mural<br />Resistance - Labyrinth <br />Resistance - Island Butterfly<br />Resistance - Iron Horse<br />Resistance - Indian Raider<br />Resistance - Horse Art<br />Resistance - General Palmer Statue<br />Resistance - First United Methodist Church<br />Resistance - Cubical Cactus<br />Resistance - cor of Tejon and Platte<br />Resistance - Celebration<br />Resistance - Catholic Pastoral Center<br />Resistance - Biking Statue<br />Resistance - Bandshell<br />Resistance - Antique Cast - Iron Lamppost<br />Resistance - American Legion<br />Resistance - Alleyway Mural<br />Resistance - Acacia Park Sculpture<br />Resistance - Acacia Park<br />Resistance - (VOLATILE) - Fujiyoshida Sister City Arch<br />Resistance - "The Best Week Of Our Lives" YoungLife Statue<br />Enlightened - Monument Valley Formal Gardens <br />Enlightened - (VOLATILE) - Shooks Run Marker Stone<br />Enlightened - (VOLATILE) - Prarie Dog Park<br />Enlightened - (VOLATILE) - Give us Liberty<br />Enlightened - (VOLATILE) - CityWalk Fountain<br /><br /></div>
+[#### photo: #Interitus 02 Measurement 2 Report
+The Resistance Strikes Back. While the Enlightened seemed to be holding a position of strength in Colorado Springs, that advantage now stands decimated. Salt Lake City remains an even match, but without a major strategic push, that will not be good enough to undo the losses incurred earlier in the day and the Resistance megafield over Flagstaff, which has now withstood two Measurements.
+At Measurement 2, the Resistance outperformed the Enlightened in this US vector of the #Interitus 02 Anomaly, Leading by 182 (602 to 420).
+Overall across today’s Anomaly, the Resistance have increased their lead to 703. (1984 to 1281).
+Agents across the globe and in their respective Regions may be able to help quell the tide. That remains to be seen.
+#Interitus 02: Flagstaff - Measurement 2 Report
+The Resistance captured this Measurement, 169 to 87.
+The Resistance currently control this Primary Site, leading by 172.
+Portals Owned - RES: 12 - ENL: 11 - [Value: 2 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 20 each]
+Links Created - RES: 1 - ENL: 1 - [Value: 5 each]
+Single Field Over Entire Cluster - RES - [Value: 100]
+Total for this Measurement:
+Resistance - 169 - Enlightened - 87
+Total for this Primary Site:
+Resistance - 331 - Enlightened - 159
+Measurement Time Details:
+Original: 3:06 (Minutes:Seconds within Measurement Window)
+Padded String: fNKGFIBhMLkmVBruFdYjTciuwPD 3:06 BYs
+MD5 of Padded String: 8c610437b33cc90721d6bbc0da073014
+Portal Ownership Details
+Resistance - Twisted Steel
+Resistance - The Riordan Building
+Resistance - The Girl Who Sings to Plants
+Resistance - Our Lady Guadalupe
+Resistance - Newman Center
+Resistance - John R. Frog Ivey
+Resistance - Green Triangles or is it Purple Triangles
+Resistance - Flowering Eye
+Resistance - Fire and Steel
+Resistance - EDF 200
+Resistance - Cline Library
+Resistance - Calvary Cemetery
+Resistance - (VOLATILE) - My Elden Preserve
+Resistance - (VOLATILE) - East Flagstaff Community Library
+Neutral - Wheel of Fortune
+Neutral - Riordan Mansion State Historic Park
+Neutral - NAU Student Union
+Neutral - NAU Performing and Fine Arts
+Neutral - First Amendment Plaza
+Enlightened - Stage Mic
+Enlightened - Petrified Wood Memorial
+Enlightened - Orca Electrical Box
+Enlightened - NAU Crest
+Enlightened - Mysterious Sculpture at NAU
+Enlightened - Mural Cat ASSET #1
+Enlightened - Jarvis Memorial
+Enlightened - Jamba Juice Northern Arizona University
+Enlightened - Crystal Creek
+Enlightened - Crashed and Burned
+Enlightened - Barry Lutz Telescope
+Enlightened - (VOLATILE) - The Museum Club
+Enlightened - (VOLATILE) - Mt. Elden Environmental Study Area
+Enlightened - (VOLATILE) - Bushmaster Park Entrance
+#Interitus 02: Salt Lake City - Measurement 2 Report
+The Resistance captured this Measurement, 46 to 31.
+The Resistance currently control this Secondary Site, leading by 6.
+Portals Owned - RES: 18 - ENL: 9 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 4 - ENL: 1 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: 50]
+Total for this Measurement:
+Resistance - 46 - Enlightened - 31
+Total for this Secondary Site:
+Resistance - 95 - Enlightened - 89
+Measurement Time Details:
+Original: 3:06 (Minutes:Seconds within Measurement Window)
+Padded String: fNKGFIBhMLkmVBruFdYjTciuwPD 3:06 BYs
+MD5 of Padded String: 8c610437b33cc90721d6bbc0da073014
+Portal Ownership Details
+Resistance - Yellow Bellied Sap Sucker
+Resistance - Ring-Tailed Cat Tracks
+Resistance - Raccoon
+Resistance - Primary Children’s Hospital Plaque
+Resistance - Porcupine
+Resistance - Ottinger Hall
+Resistance - Mule Deer Foot Prints
+Resistance - LDS Conference Center
+Resistance - LDS Church
+Resistance - Human Tracks
+Resistance - Gibbs-Thomas-Hansen Home
+Resistance - First University West of the Mississippi
+Resistance - Conference Center Waterfall
+Resistance - City Creek Park Pond Island.
+Resistance - City Creek Park
+Resistance - Brigham Young's Garden Wall
+Resistance - Beaver
+Resistance - 18th Ward Chapel
+Resistance - (VOLATILE) - Salt Lake Hardware
+Resistance - (VOLATILE) - Cathedral of the Madeleine
+Neutral - Oregon Junco
+Neutral - Northern Pocket Gopher
+Neutral - Hairy Woodpecker
+Neutral - Conference Center Theater Fountain
+Neutral - (VOLATILE) - Historic Ellerbeck Mansion
+Enlightened - Western Meadolark Tracks
+Enlightened - The Church of Jesus Christ
+Enlightened - McCune Mansion
+Enlightened - Kimball Whitney Cemetery
+Enlightened - Kimball Cemetery Head Stones
+Enlightened - Inn on the Hill
+Enlightened - Crismon Mill Site
+Enlightened - Conference Center Fountain
+Enlightened - Church History Library
+Enlightened - (VOLATILE) - Squiggles
+Enlightened - (VOLATILE) - Lorraine
+#Interitus 02: Colorado Springs - Measurement 2 Report
+The Resistance captured this Measurement, 177 to 67.
+The Resistance currently control this Secondary Site, leading by 13.
+Portals Owned - RES: 31 - ENL: 1 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 10 each]
+Links Created - RES: 68 - ENL: 13 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: 50]
+Total for this Measurement:
+Resistance - 177 - Enlightened - 67
+Total for this Secondary Site:
+Resistance - 203 - Enlightened - 190
+Measurement Time Details:
+Original: 3:06 (Minutes:Seconds within Measurement Window)
+Padded String: fNKGFIBhMLkmVBruFdYjTciuwPD 3:06 BYs
+MD5 of Padded String: 8c610437b33cc90721d6bbc0da073014
+Portal Ownership Details
+Resistance - Wind Scoops Art
+Resistance - Uncle Wilber Fountain
+Resistance - Tile Mural
+Resistance - The McAllister House Museum
+Resistance - The Lennox
+Resistance - Supernova
+Resistance - St Mary's on a Snowy Night
+Resistance - Sculpture in the Park
+Resistance - Poor Richard's
+Resistance - Moving Interactive Art
+Resistance - Monument Valley Park view Nort
+Resistance - Mission Arts Center Mural
+Resistance - Labyrinth
+Resistance - Island Butterfly
+Resistance - Iron Horse
+Resistance - Indian Raider
+Resistance - Horse Art
+Resistance - General Palmer Statue
+Resistance - First United Methodist Church
+Resistance - Cubical Cactus
+Resistance - cor of Tejon and Platte
+Resistance - Celebration
+Resistance - Catholic Pastoral Center
+Resistance - Biking Statue
+Resistance - Bandshell
+Resistance - Antique Cast - Iron Lamppost
+Resistance - American Legion
+Resistance - Alleyway Mural
+Resistance - Acacia Park Sculpture
+Resistance - Acacia Park
+Resistance - (VOLATILE) - Fujiyoshida Sister City Arch
+Resistance - "The Best Week Of Our Lives" YoungLife Statue
+Enlightened - Monument Valley Formal Gardens
+Enlightened - (VOLATILE) - Shooks Run Marker Stone
+Enlightened - (VOLATILE) - Prarie Dog Park
+Enlightened - (VOLATILE) - Give us Liberty
+Enlightened - (VOLATILE) - CityWalk Fountain](https://lh3.googleusercontent.com/-yzbHxI8p5gE/U1wiQ9g3GWI/AAAAAAAAtcs/uRRsGy5NLGY/w2048-h1153/IMG_20140426_140721.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ZxHgydUgLS1](https://plus.google.com/+NianticProject/posts/ZxHgydUgLS1)

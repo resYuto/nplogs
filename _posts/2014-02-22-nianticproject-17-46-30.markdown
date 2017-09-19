@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "Niantic Project: 2014-02-22 17:46:30 +0900"
+date:   2014-02-22 17:46:30 +0900
+categories: nianticproject
+---
+The Enlightened strike an early advantage in Bangalore. In Hyderabad and New Delhi, the Resistance lead but the Enlightened are not far behind. The Anomaly today remains balanced on a precarious edge. 
+
+My analysis of +[IQTech Research](https://plus.google.com/108020987035258478791 "")'s Regional Tracking Data indicates that the Resistance have already secured the Septicycle checkpoints leading up to the Final Measurement, putting the Enlightened efforts on the back foot. They'll have to rally to prevail.
+
+ [#Recursion](https://plus.google.com/s/%23Recursion "")  02 - Measurement 1 has occurred. 3 Hours remain to determine the fate of the next [#Recursion](https://plus.google.com/s/%23Recursion "") Artifact.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Recursion">#Recursion</a> - BANGALORE - Measurement 1 Report<br /><br />The Resistance owned 2 Volatile Portals and 2 Non-Volatile Portals<br /><b>The Enlightened owned 3 Volatile Portals and 4 Non-Volatile Portals</b><br /><br /><b>The Enlightened had 5 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 44<br /><b>Total for Enlightened this Measurement = 93</b><br /><br /><b>Portal Ownership Details:</b><br />Big Tummy Tank (VOLATILE) - Enlightened<br />Charaka Mural (VOLATILE) - Enlightened<br />Anji Temple (VOLATILE) - Enlightened<br />Visheshwara Statue (VOLATILE) - Resistance<br />Anjaneya Swamy Temple (VOLATILE) - Resistance<br />Ganesh Mantap - Enlightened<br />Sri Ramanjaneya Swamy Devalaya - Enlightened<br />Temple near Avenue Road  - Enlightened<br />Freedom Park - Enlightened<br />Ayyappa-Ganapa Temple - Resistance<br />Visvesvaraya Statue - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Recursion">#Recursion</a> - HYDERABAD - Measurement 1 Report<br /><br /><b>The Resistance owned 3 Volatile Portals and 4 Non-Volatile Portals</b><br />The Enlightened owned 1 Volatile Portals and 5 Non-Volatile Portals<br /><br /><b>Total for Resistance this Measurement = 34</b><br />Total for Enlightened this Measurement = 15<br /><br /><b>Portal Ownership Details:</b><br />Statue near Liberty Cross Road (VOLATILE) - Enlightened<br />Gagan Mahal Chowk Statue (VOLATILE) - Neutral<br />Annamayya Statue (VOLATILE) - Resistance<br />Shaliwahana (VOLATILE) - Resistance<br />Siddhendra Yogi (VOLATILE) - Resistance<br />Shiva Temple - Enlightened<br />Gautam Buddha  - Enlightened<br />Majestic Arch Gate - Enlightened<br />Venkateshwara Temple - Enlightened<br />Tank Bund Mosque - Enlightened<br />Maisama Temple - Neutral<br />Ramakrishna Math - Neutral<br />Shyam Temple - Resistance<br />Tankbund Sculpture - Resistance<br />Gadimaisamma Temple - Resistance<br />Vemana - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Recursion">#Recursion</a> - NEW DELHI - Measurement 1 Report<br /><br /><b>The Resistance owned 3 Volatile Portals and 2 Non-Volatile Portals</b><br />The Enlightened owned 2 Volatile Portals and 2 Non-Volatile Portals<br /><br /><b>Total for Resistance this Measurement = 32</b><br />Total for Enlightened this Measurement = 22<br /><br /><b>Measurement Time Details:</b><br />Original: 4:33 (Minutes:Seconds past the hour)<br />Padded: jaWyqfJDoCjRZf 4:33 OpdXWlJiMcTEagpn<br />MD5 of Padded String: 5b37c5cc6daa2ddb54633865f9ed57a3<br /><br /><b>Portal Ownership Details:</b><br />New Delhi - India Gate (VOLATILE) - Enlightened<br />Airplane at Air Force Mess  (VOLATILE) - Enlightened<br />Amar Jawan Chowk (VOLATILE) - Resistance<br />The Fountains at India Gate (VOLATILE) - Resistance<br />National Gallery of Modern Art (VOLATILE) - Resistance<br />national gallery of modern art - Enlightened<br />India gate - Enlightened<br />national gallery of modern art - Neutral<br />इण्डिया गेट  - Neutral<br />India Gate - Resistance<br />इण्डिया गेट / India Gate - Resistance<br /><br /></div>
+[#### photo: #Recursion - BANGALORE - Measurement 1 Report
+The Resistance owned 2 Volatile Portals and 2 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 4 Non-Volatile Portals
+The Enlightened had 5 Links standing at Measurement Time
+Total for Resistance this Measurement = 44
+Total for Enlightened this Measurement = 93
+Portal Ownership Details:
+Big Tummy Tank (VOLATILE) - Enlightened
+Charaka Mural (VOLATILE) - Enlightened
+Anji Temple (VOLATILE) - Enlightened
+Visheshwara Statue (VOLATILE) - Resistance
+Anjaneya Swamy Temple (VOLATILE) - Resistance
+Ganesh Mantap - Enlightened
+Sri Ramanjaneya Swamy Devalaya - Enlightened
+Temple near Avenue Road  - Enlightened
+Freedom Park - Enlightened
+Ayyappa-Ganapa Temple - Resistance
+Visvesvaraya Statue - Resistance
+#Recursion - HYDERABAD - Measurement 1 Report
+The Resistance owned 3 Volatile Portals and 4 Non-Volatile Portals
+The Enlightened owned 1 Volatile Portals and 5 Non-Volatile Portals
+Total for Resistance this Measurement = 34
+Total for Enlightened this Measurement = 15
+Portal Ownership Details:
+Statue near Liberty Cross Road (VOLATILE) - Enlightened
+Gagan Mahal Chowk Statue (VOLATILE) - Neutral
+Annamayya Statue (VOLATILE) - Resistance
+Shaliwahana (VOLATILE) - Resistance
+Siddhendra Yogi (VOLATILE) - Resistance
+Shiva Temple - Enlightened
+Gautam Buddha  - Enlightened
+Majestic Arch Gate - Enlightened
+Venkateshwara Temple - Enlightened
+Tank Bund Mosque - Enlightened
+Maisama Temple - Neutral
+Ramakrishna Math - Neutral
+Shyam Temple - Resistance
+Tankbund Sculpture - Resistance
+Gadimaisamma Temple - Resistance
+Vemana - Resistance
+#Recursion - NEW DELHI - Measurement 1 Report
+The Resistance owned 3 Volatile Portals and 2 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 2 Non-Volatile Portals
+Total for Resistance this Measurement = 32
+Total for Enlightened this Measurement = 22
+Measurement Time Details:
+Original: 4:33 (Minutes:Seconds past the hour)
+Padded: jaWyqfJDoCjRZf 4:33 OpdXWlJiMcTEagpn
+MD5 of Padded String: 5b37c5cc6daa2ddb54633865f9ed57a3
+Portal Ownership Details:
+New Delhi - India Gate (VOLATILE) - Enlightened
+Airplane at Air Force Mess  (VOLATILE) - Enlightened
+Amar Jawan Chowk (VOLATILE) - Resistance
+The Fountains at India Gate (VOLATILE) - Resistance
+National Gallery of Modern Art (VOLATILE) - Resistance
+national gallery of modern art - Enlightened
+India gate - Enlightened
+national gallery of modern art - Neutral
+इण्डिया गेट  - Neutral
+India Gate - Resistance
+इण्डिया गेट / India Gate - Resistance](https://lh3.googleusercontent.com/-2cysubz0AS8/Uwhh_hy4TVI/AAAAAAAAkGw/j0l-moEpaSc/w1536-h2048/IMG_20140222_123809.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/JEUEqJDQgir](https://plus.google.com/+NianticProject/posts/JEUEqJDQgir)

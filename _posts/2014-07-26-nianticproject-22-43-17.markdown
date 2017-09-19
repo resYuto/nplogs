@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-26 22:43:17 +0900"
+date:   2014-07-26 22:43:17 +0900
+categories: nianticproject
+---
+[#Helios](https://plus.google.com/s/%23Helios "")  01
+
+Here are the C2 Volatiles for Dublin, Palermo, and Tallinn.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@167, :value=>"shared"@174}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 01 - DUBLIN, PALERMO, TALLINN - C2 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/sckqdT\" class=\"ot-anchor\">http://goo.gl/sckqdT</a>", "<br />", "<br />", "SHA256: 1c340132256d5f97f57b651ccc03f1c4416acd087abd9e718ef3a8ac46998560", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/104502230930791781812\" oid=\"104502230930791781812\">Eugene GLook</a>"], " in Tallinn", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #HELIOS 01 - DUBLIN, PALERMO, TALLINN - C2 VOLs
+Volatiles: http://goo.gl/sckqdT
+SHA256: 1c340132256d5f97f57b651ccc03f1c4416acd087abd9e718ef3a8ac46998560
+Photo by Agent +Eugene GLook in Tallinn](https://lh4.googleusercontent.com/-p_awWqqDbTI/U9OvuOWo9gI/AAAAAAAA8Rk/7NpE5kz3ErY/w2048-h1536/IMG_20140726_161107.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/BcoTXt5R5tG](https://plus.google.com/+NianticProject/posts/BcoTXt5R5tG)

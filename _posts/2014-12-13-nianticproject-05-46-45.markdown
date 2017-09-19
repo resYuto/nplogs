@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-13 05:46:45 +0900"
+date:   2014-12-13 05:46:45 +0900
+categories: nianticproject
+---
++[Oliver Lynton-Wolfe](https://plus.google.com/108200572857719809031 "") claims that speculation about the arrival of the N'zeer has greatly increased his 'market-value.'
+
+What do you think... Would he jump ship from +[Visur Technology](https://plus.google.com/115880454950193571355 "") so quickly? He *is* a notoriously fickle individual, but he doesn't have many potential homes left....
+
+Maybe this is leverage to force a 'renegotiation' with Ilya Pevtsov?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@742, :value=>"shared"@749}], :children=>["<br />", "<h2>Oliver Lynton-Wolfe</h2>", "Many have now begun to speculate on whether my post about a dwelling near ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115880454950193571355\" oid=\"115880454950193571355\">Visur Technology</a>"], "'s laboratories was a feint. I am on my way to Barcelona, having just completed the changes I was able to push through thanks to the increased XM activity recently. Is it not obvious to you all that as we approach the Darsana Point the military/industrial establishment fully realizes that more knowledge – knowledge gained from the N’zeer – can be translated into new and more powerful weapons?  Thus, is it not easy to deduce that my market value has increased dramatically? ", "<br />", "<br />", "I am humoring a myriad of offers.  Do not be fooled into thinking that I am grubbing for money. To hell with money. This is about research facilities. This is about validation. And yes. It is a bit about revenge. Can you blame me?", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/YcsmpvPZd8Z](https://plus.google.com/+NianticProject/posts/YcsmpvPZd8Z)

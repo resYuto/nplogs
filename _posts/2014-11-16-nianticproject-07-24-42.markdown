@@ -1,0 +1,271 @@
+---
+layout: post
+title:  "Niantic Project: 2014-11-16 07:24:42 +0900"
+date:   2014-11-16 07:24:42 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a>  03<br /><br /><b>Cumulative Summary of Anomaly Conditions at M3:</b><br /><br />New Orleans - R:190.8 - <b>E:338</b><br />Oklahoma City - <b>R:173</b> - E:74.2<br />Santo Domingo - <b>R:187.6</b> - E:80<br />Virginia Beach - <b>R:237.8</b> - E:137<br /><br /><br />The Resistance cast overhead fields over nearly all sites except Oklahoma City. In New Orleans, this provides a much needed boost as they chase a growing Enlightened lead. In Oklahoma City and Santo Domingo, the Resistance grow increasingly dominant. Virginia Beach, hotly contested in both Measurements 1 and 2 now swings sharply towards the Resistance, as they outperform their opponent on nearly all fronts: Links, Volatile Portals and even an overhead Field.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: New Orleans - Measurement 3 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 132 to 92.4.<br />The <b>Enlightened</b> currently control this Primary Site, leading by 147.2.<br /><br />Portals Owned - RES: 23 - <b>ENL:</b> 26 - [Value: 2 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 20 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (26.4)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 92.4 - <b>Enlightened</b> - 132<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 190.8 - <b>Enlightened</b> - 338<br /><br /><b>Measurement Time Details:</b><br />Original: 1:25 (Minutes:Seconds within Measurement Window)<br />Padded String: !tZv#%49Vyn6+$U@ 1:25 w9*~#/8:kX(q<br />SHA256 of Padded String: 96d5d515305ad5b74c4ac6da30611655551209feb6a22ad923dee12fb38a950f<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Antoine Fats Domino<br />ENL - Art for Art's Sake<br />ENL - Bank of Louisiana<br />ENL - Berger Family Great Lawn<br />ENL - Bienville House<br />ENL - Boimaré-Macarty House<br />ENL - Country Flame Restaurant Mural<br />ENL - French Market Inn<br />ENL - Grenoble House<br />ENL - Guardians Of The Lights<br />ENL - House of Blues Musician Wall<br />ENL - Jack Teagarden<br />ENL - Judge Fred J. Cassibry Square North<br />ENL - Judge Fred J. Cassibry Square South<br />ENL - Louisiana Music Factory<br />ENL - May Baily's Place<br />ENL - New Orleans Holocaust Memorial<br />ENL - Ocean Song<br />ENL - Rillieux Waldhorn House<br />ENL - Ryan's Irish Pub<br />ENL - The Art of Dr. Seuss<br />ENL - The Historic New Orleans Collection<br />ENL - These Three Townhouse<br />ENL - U.S. Branch Bank<br />ENL - Vintage Astor Hotel Mural<br />ENL - Williams Historic Research Center<br />ENL [Vol] - Chris Owens Statue<br />ENL [Vol] - Edison Place<br />ENL [Vol] - Fire Fountain<br />ENL [Vol] - The Birthplace of Dixie<br />NEU - Arnauds French 75 Bar<br />NEU - Calle Real<br />NEU - Eat Oysters Love Longer<br />NEU - Flamingo Mural<br />NEU - Hermann-Grima House<br />NEU - Historic Site of the Upstairs Lounge <br />NEU - House of Blues Alley Wall Mural<br />NEU - King Crab<br />NEU - Louisiana Supreme Court Building<br />NEU - Stingray Colonnade<br />RES - Audubon Room<br />RES - Conway’s Court<br />RES - Edgar Degas House<br />RES - Ginger-Mint Julep Vintage Advertising<br />RES - Girod House<br />RES - Hotel Mazarin Fountain<br />RES - Hotel Monteleone<br />RES - Huck Finn's Cafe<br />RES - Jazz Funeral<br />RES - Jean Adrien Delpit House<br />RES - Louis J. Dufilho<br />RES - Malcolm Woldenberg<br />RES - Merieult House<br />RES - Omni Royal Orleans<br />RES - Original Old Absinthe Bar<br />RES - Pierre Maspero’s Exchange<br />RES - Site of Kolly Townhouse<br />RES - Tahiti Goddess at Tiki Tolteca<br />RES - Tortorici’s<br />RES - Upstairs Lounge Massacre Memorial Plaque<br />RES - Vieux Carre Assembly of God Church<br />RES - Woldenberg Riverfront Park 2<br />RES - Woldenberg Riverfront Park 3<br />RES [Vol] - Bienville Monument<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Oklahoma City - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 48 to 37.8.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 98.8.<br /><br />Portals Owned - <b>RES:</b> 18 - ENL: 7 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (10.8)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 48 - Enlightened - 37.8<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 173 - Enlightened - 74.2<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Bricktown Bike Bash<br />ENL - Bricktown Brewery<br />ENL - Bricktown Desert Storm Walk of Honor<br />ENL - Buffalo Sculpture<br />ENL - Charles "Bird" Christopher Parker Jr.<br />ENL - Oklahoma City Tower<br />ENL - Sunflake Buffalo <br />ENL [Vol] - 1800 US Map Mural<br />ENL [Vol] - Bayondmetal Sculpture<br />NEU - Dr. William Lewis Haywood<br />NEU - Mideke Supply Co 1919 Historic Building<br />NEU - New Bricktown Plaque<br />NEU - Oklahoma History Mural<br />NEU - Oklahoma Muriel 1840-1860 <br />RES - American Banjo Museum<br />RES - Bank of Oklahoma Buffalo Statue <br />RES - Buffalo Sculpture<br />RES - Calvary Baptist Church<br />RES - Clark Building Fountain<br />RES - Construction Buffalo Statue <br />RES - Deep Deuce Grill<br />RES - Dr. Inman E. Page<br />RES - Juliet<br />RES - Military Post<br />RES - Romeo Sculpture<br />RES - Roscoe Dunjee Plaque<br />RES - TapWerks Ale House<br />RES - Telephone Buffalo Statue <br />RES - Three Vases Fountain<br />RES - Untitled Arts Space<br />RES - Wedge Pizzeria<br />RES - Zelia N. Breaux<br />RES [Vol] - Buffalo Nickle Sculpture<br />RES [Vol] - Buffalo Sculpture<br />RES [Vol] - Heritage Hills Buffalo <br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Santo Domingo - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 67.2 to 16.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 107.6.<br /><br />Portals Owned - <b>RES:</b> 8 - ENL: 6 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (19.2)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 67.2 - Enlightened - 16<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 187.6 - Enlightened - 80<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Biblioteca Nacional Pedro Henriquez Ureña<br />ENL - El Fuego, Santo Domingo<br />ENL - Fuente Del Museo De Historia Natural<br />ENL - La Tierra, Santo Domingo<br />ENL - Totem Juan Bosch<br />ENL - Totem Pintura<br />ENL [Vol] - Fosil Ballena <br />NEU - Andres Bello Statue<br />NEU - Bartolome de las Casas<br />NEU - Busto Sor Juana Inés de la Cruz<br />NEU - El Agua, Santo Domingo<br />NEU - Escultura En Caoba -  La Desfloracion. Del Mar<br />NEU - Escultura lagarto del museo<br />NEU - Estatua de Fabio Fiallo<br />NEU - Estatua Eugenio María De Hostos<br />NEU - Estatua Metalica Sebastián Lemba RD<br />NEU - Fuente Plaza de la Cultura<br />NEU - Juan Pablo Duarte<br />NEU - La Estatua De Marmol <br />NEU - Miguel de Cervantes<br />NEU - Mons Meriño<br />NEU - Mural Abstracto Pared Roja<br />NEU - Mural Acuático <br />NEU - Mural Ballena<br />NEU - Mural De Cinema<br />NEU - Mural Gobernacion Plaza De La Cultura<br />NEU - Mural Guerra De Restauracion<br />NEU - Mural Harlequines De La Naturaleza <br />NEU - Mural Museo De Historia<br />NEU - Mural Tainos<br />NEU - Mural Tiranosaurio Rex<br />NEU - Museo de Historia y Geografía<br />NEU - Museo del Hombre Dominicano<br />NEU - Museo Nacional de Historia Natural<br />NEU - Placa Andres Bello<br />NEU - Placa Museo de Historia Y Geografia<br />NEU - Plaza Indigena Yuboa<br />NEU - Tortugas Marinas<br />NEU - Totem Franklin Mirabal<br />RES - Bote Black Jack<br />RES - Enriquillo, Santo Domingo<br />RES - Estatua de Bartolomé de las Casas<br />RES - Estatua Juan Pablo Duarte<br />RES - Juan Bosch, Santo Domingo<br />RES - Mural Lusitania Martinrez<br />RES - Mural Raíces<br />RES - Totem Juan Pablo Duarte<br />RES [Vol] - El Aire, Santo Domingo<br />RES [Vol] - Escultura Nido De Paloma<br />RES [Vol] - Escultura Todos Somos Hermanos<br />RES [Vol] - Globo Terraqueo <br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Darsana">#Darsana</a></b><b>: Virginia Beach - Measurement 3 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 128.8 to 41.<br />The <b>Resistance</b> currently control this Secondary Site, leading by 100.8.<br /><br />Portals Owned - RES: 16 - <b>ENL:</b> 25 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 10 each]<br />Links Created - <b>RES:</b> 12 - ENL: 2 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (36.8)]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 128.8 - Enlightened - 41<br /><br /><b>Total for this Secondary Site:</b><br /><b>Resistance</b> - 237.8 - Enlightened - 137<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - 10th Street sign board<br />ENL - 11th Street Playground<br />ENL - 4th Street sign board<br />ENL - 8th Family Great Adventure<br />ENL - Beach Bums<br />ENL - Beach Carousel Sign and Mural<br />ENL - Colorful Gazebo <br />ENL - Dolphin Run Condominium Sculpture<br />ENL - Flagship<br />ENL - Fox Art Mural  <br />ENL - Fun Mural<br />ENL - Grommet Island Beach Park<br />ENL - Harbor Point Anchor  <br />ENL - Oceanfront Firefighter Mural<br />ENL - Raven Mural<br />ENL - Sandcastle Hotel Fountain<br />ENL - Schooner inn Dolphins Promise<br />ENL - Schooner Inn Hotel Ship<br />ENL - The Blue Dolphin Statue<br />ENL - The Colony Hotel<br />ENL - The Raven Mural<br />ENL - Turtle Cay Sculpture <br />ENL - Virginia Beach Boardwalk Tour<br />ENL - Virginia Beach Fishing Center Giant Fish<br />ENL - Virginia Legends Walk<br />ENL [Vol] - Virginia Legends<br />NEU - 13th Street Sign <br />NEU - Diving Dolphin<br />NEU - Dolphins, Mother, and Child<br />NEU - Face on a Box<br />NEU - Fishing Center Catch of the Day<br />NEU - In Memory of Bob Hutchinson<br />NEU - Lighthouse Restaurant<br />RES - 12th Street Informational Sign<br />RES - 6TH STREET SIGN BOARD<br />RES - Atlantic Wildfowl Heritage Museum <br />RES - Boardwalk Tour - Virginia Legends Walk<br />RES - Crucifix<br />RES - de Witt Cottage<br />RES - Frank R Baumann Memorial Dolphin<br />RES - Giant Swirl Cone<br />RES - Il Giardino Statue<br />RES - Lighthouse Point<br />RES - Lil Rudee Dolphin<br />RES - Mahi Mah's Mural<br />RES - Something Fishy<br />RES - Star of the Sea Parish church<br />RES - Three Sea Turtles<br />RES - Wishing Well Sculpture<br />RES [Vol] - Rudee Inlet Shark<br />RES [Vol] - Rudy Inlet Walkway Fountain<br />RES [Vol] - Surf Statues<br />RES [Vol] - The Wooden Seaman<br /><br /></div>
+[#### photo: #Darsana  03
+Cumulative Summary of Anomaly Conditions at M3:
+New Orleans - R:190.8 - E:338
+Oklahoma City - R:173 - E:74.2
+Santo Domingo - R:187.6 - E:80
+Virginia Beach - R:237.8 - E:137
+The Resistance cast overhead fields over nearly all sites except Oklahoma City. In New Orleans, this provides a much needed boost as they chase a growing Enlightened lead. In Oklahoma City and Santo Domingo, the Resistance grow increasingly dominant. Virginia Beach, hotly contested in both Measurements 1 and 2 now swings sharply towards the Resistance, as they outperform their opponent on nearly all fronts: Links, Volatile Portals and even an overhead Field.
+#Darsana: New Orleans - Measurement 3 Report
+The Enlightened captured this Measurement, 132 to 92.4.
+The Enlightened currently control this Primary Site, leading by 147.2.
+Portals Owned - RES: 23 - ENL: 26 - [Value: 2 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 20 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (26.4)]
+Total for this Measurement:
+Resistance - 92.4 - Enlightened - 132
+Total for this Primary Site:
+Resistance - 190.8 - Enlightened - 338
+Measurement Time Details:
+Original: 1:25 (Minutes:Seconds within Measurement Window)
+Padded String: !tZv#%49Vyn6+$U@ 1:25 w9*~#/8:kX(q
+SHA256 of Padded String: 96d5d515305ad5b74c4ac6da30611655551209feb6a22ad923dee12fb38a950f
+Portal Ownership Details
+ENL - Antoine Fats Domino
+ENL - Art for Art's Sake
+ENL - Bank of Louisiana
+ENL - Berger Family Great Lawn
+ENL - Bienville House
+ENL - Boimaré-Macarty House
+ENL - Country Flame Restaurant Mural
+ENL - French Market Inn
+ENL - Grenoble House
+ENL - Guardians Of The Lights
+ENL - House of Blues Musician Wall
+ENL - Jack Teagarden
+ENL - Judge Fred J. Cassibry Square North
+ENL - Judge Fred J. Cassibry Square South
+ENL - Louisiana Music Factory
+ENL - May Baily's Place
+ENL - New Orleans Holocaust Memorial
+ENL - Ocean Song
+ENL - Rillieux Waldhorn House
+ENL - Ryan's Irish Pub
+ENL - The Art of Dr. Seuss
+ENL - The Historic New Orleans Collection
+ENL - These Three Townhouse
+ENL - U.S. Branch Bank
+ENL - Vintage Astor Hotel Mural
+ENL - Williams Historic Research Center
+ENL [Vol] - Chris Owens Statue
+ENL [Vol] - Edison Place
+ENL [Vol] - Fire Fountain
+ENL [Vol] - The Birthplace of Dixie
+NEU - Arnauds French 75 Bar
+NEU - Calle Real
+NEU - Eat Oysters Love Longer
+NEU - Flamingo Mural
+NEU - Hermann-Grima House
+NEU - Historic Site of the Upstairs Lounge
+NEU - House of Blues Alley Wall Mural
+NEU - King Crab
+NEU - Louisiana Supreme Court Building
+NEU - Stingray Colonnade
+RES - Audubon Room
+RES - Conway’s Court
+RES - Edgar Degas House
+RES - Ginger-Mint Julep Vintage Advertising
+RES - Girod House
+RES - Hotel Mazarin Fountain
+RES - Hotel Monteleone
+RES - Huck Finn's Cafe
+RES - Jazz Funeral
+RES - Jean Adrien Delpit House
+RES - Louis J. Dufilho
+RES - Malcolm Woldenberg
+RES - Merieult House
+RES - Omni Royal Orleans
+RES - Original Old Absinthe Bar
+RES - Pierre Maspero’s Exchange
+RES - Site of Kolly Townhouse
+RES - Tahiti Goddess at Tiki Tolteca
+RES - Tortorici’s
+RES - Upstairs Lounge Massacre Memorial Plaque
+RES - Vieux Carre Assembly of God Church
+RES - Woldenberg Riverfront Park 2
+RES - Woldenberg Riverfront Park 3
+RES [Vol] - Bienville Monument
+#Darsana: Oklahoma City - Measurement 3 Report
+The Resistance captured this Measurement, 48 to 37.8.
+The Resistance currently control this Secondary Site, leading by 98.8.
+Portals Owned - RES: 18 - ENL: 7 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (10.8)]
+Total for this Measurement:
+Resistance - 48 - Enlightened - 37.8
+Total for this Secondary Site:
+Resistance - 173 - Enlightened - 74.2
+Portal Ownership Details
+ENL - Bricktown Bike Bash
+ENL - Bricktown Brewery
+ENL - Bricktown Desert Storm Walk of Honor
+ENL - Buffalo Sculpture
+ENL - Charles "Bird" Christopher Parker Jr.
+ENL - Oklahoma City Tower
+ENL - Sunflake Buffalo
+ENL [Vol] - 1800 US Map Mural
+ENL [Vol] - Bayondmetal Sculpture
+NEU - Dr. William Lewis Haywood
+NEU - Mideke Supply Co 1919 Historic Building
+NEU - New Bricktown Plaque
+NEU - Oklahoma History Mural
+NEU - Oklahoma Muriel 1840-1860
+RES - American Banjo Museum
+RES - Bank of Oklahoma Buffalo Statue
+RES - Buffalo Sculpture
+RES - Calvary Baptist Church
+RES - Clark Building Fountain
+RES - Construction Buffalo Statue
+RES - Deep Deuce Grill
+RES - Dr. Inman E. Page
+RES - Juliet
+RES - Military Post
+RES - Romeo Sculpture
+RES - Roscoe Dunjee Plaque
+RES - TapWerks Ale House
+RES - Telephone Buffalo Statue
+RES - Three Vases Fountain
+RES - Untitled Arts Space
+RES - Wedge Pizzeria
+RES - Zelia N. Breaux
+RES [Vol] - Buffalo Nickle Sculpture
+RES [Vol] - Buffalo Sculpture
+RES [Vol] - Heritage Hills Buffalo
+#Darsana: Santo Domingo - Measurement 3 Report
+The Resistance captured this Measurement, 67.2 to 16.
+The Resistance currently control this Secondary Site, leading by 107.6.
+Portals Owned - RES: 8 - ENL: 6 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (19.2)]
+Total for this Measurement:
+Resistance - 67.2 - Enlightened - 16
+Total for this Secondary Site:
+Resistance - 187.6 - Enlightened - 80
+Portal Ownership Details
+ENL - Biblioteca Nacional Pedro Henriquez Ureña
+ENL - El Fuego, Santo Domingo
+ENL - Fuente Del Museo De Historia Natural
+ENL - La Tierra, Santo Domingo
+ENL - Totem Juan Bosch
+ENL - Totem Pintura
+ENL [Vol] - Fosil Ballena
+NEU - Andres Bello Statue
+NEU - Bartolome de las Casas
+NEU - Busto Sor Juana Inés de la Cruz
+NEU - El Agua, Santo Domingo
+NEU - Escultura En Caoba -  La Desfloracion. Del Mar
+NEU - Escultura lagarto del museo
+NEU - Estatua de Fabio Fiallo
+NEU - Estatua Eugenio María De Hostos
+NEU - Estatua Metalica Sebastián Lemba RD
+NEU - Fuente Plaza de la Cultura
+NEU - Juan Pablo Duarte
+NEU - La Estatua De Marmol
+NEU - Miguel de Cervantes
+NEU - Mons Meriño
+NEU - Mural Abstracto Pared Roja
+NEU - Mural Acuático
+NEU - Mural Ballena
+NEU - Mural De Cinema
+NEU - Mural Gobernacion Plaza De La Cultura
+NEU - Mural Guerra De Restauracion
+NEU - Mural Harlequines De La Naturaleza
+NEU - Mural Museo De Historia
+NEU - Mural Tainos
+NEU - Mural Tiranosaurio Rex
+NEU - Museo de Historia y Geografía
+NEU - Museo del Hombre Dominicano
+NEU - Museo Nacional de Historia Natural
+NEU - Placa Andres Bello
+NEU - Placa Museo de Historia Y Geografia
+NEU - Plaza Indigena Yuboa
+NEU - Tortugas Marinas
+NEU - Totem Franklin Mirabal
+RES - Bote Black Jack
+RES - Enriquillo, Santo Domingo
+RES - Estatua de Bartolomé de las Casas
+RES - Estatua Juan Pablo Duarte
+RES - Juan Bosch, Santo Domingo
+RES - Mural Lusitania Martinrez
+RES - Mural Raíces
+RES - Totem Juan Pablo Duarte
+RES [Vol] - El Aire, Santo Domingo
+RES [Vol] - Escultura Nido De Paloma
+RES [Vol] - Escultura Todos Somos Hermanos
+RES [Vol] - Globo Terraqueo
+#Darsana: Virginia Beach - Measurement 3 Report
+The Resistance captured this Measurement, 128.8 to 41.
+The Resistance currently control this Secondary Site, leading by 100.8.
+Portals Owned - RES: 16 - ENL: 25 - [Value: 1 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 10 each]
+Links Created - RES: 12 - ENL: 2 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (36.8)]
+Total for this Measurement:
+Resistance - 128.8 - Enlightened - 41
+Total for this Secondary Site:
+Resistance - 237.8 - Enlightened - 137
+Portal Ownership Details
+ENL - 10th Street sign board
+ENL - 11th Street Playground
+ENL - 4th Street sign board
+ENL - 8th Family Great Adventure
+ENL - Beach Bums
+ENL - Beach Carousel Sign and Mural
+ENL - Colorful Gazebo
+ENL - Dolphin Run Condominium Sculpture
+ENL - Flagship
+ENL - Fox Art Mural
+ENL - Fun Mural
+ENL - Grommet Island Beach Park
+ENL - Harbor Point Anchor
+ENL - Oceanfront Firefighter Mural
+ENL - Raven Mural
+ENL - Sandcastle Hotel Fountain
+ENL - Schooner inn Dolphins Promise
+ENL - Schooner Inn Hotel Ship
+ENL - The Blue Dolphin Statue
+ENL - The Colony Hotel
+ENL - The Raven Mural
+ENL - Turtle Cay Sculpture
+ENL - Virginia Beach Boardwalk Tour
+ENL - Virginia Beach Fishing Center Giant Fish
+ENL - Virginia Legends Walk
+ENL [Vol] - Virginia Legends
+NEU - 13th Street Sign
+NEU - Diving Dolphin
+NEU - Dolphins, Mother, and Child
+NEU - Face on a Box
+NEU - Fishing Center Catch of the Day
+NEU - In Memory of Bob Hutchinson
+NEU - Lighthouse Restaurant
+RES - 12th Street Informational Sign
+RES - 6TH STREET SIGN BOARD
+RES - Atlantic Wildfowl Heritage Museum
+RES - Boardwalk Tour - Virginia Legends Walk
+RES - Crucifix
+RES - de Witt Cottage
+RES - Frank R Baumann Memorial Dolphin
+RES - Giant Swirl Cone
+RES - Il Giardino Statue
+RES - Lighthouse Point
+RES - Lil Rudee Dolphin
+RES - Mahi Mah's Mural
+RES - Something Fishy
+RES - Star of the Sea Parish church
+RES - Three Sea Turtles
+RES - Wishing Well Sculpture
+RES [Vol] - Rudee Inlet Shark
+RES [Vol] - Rudy Inlet Walkway Fountain
+RES [Vol] - Surf Statues
+RES [Vol] - The Wooden Seaman](https://lh4.googleusercontent.com/-WCitW6ZUd-A/VGfRqUsfu3I/AAAAAAABIfg/SWo0ayVfOHs/w1763-h1152/joe_magic.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/CiHwS9fyWSF](https://plus.google.com/+NianticProject/posts/CiHwS9fyWSF)

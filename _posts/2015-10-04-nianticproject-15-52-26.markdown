@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-10-04 15:52:26 +0900"
+date:   2015-10-04 15:52:26 +0900
+categories: nianticproject
+---
+An introduction to +[Yuri Alaric Nagassa](https://plus.google.com/108841352205789260050 "") from +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "").
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@432, :value=>"shared"@439}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108841352205789260050\" oid=\"108841352205789260050\">Yuri Alaric Nagassa</a>"], ". His energy pattern is tangled up in the Flash Shard Anomalies on 10/10 as well.", "<br />", "<br />", "What do we know about him?", "<br />", "<br />", "He's an astrophysicist who grew up among a native South American tribe called the Anazktec. Apparently, his father (a Soviet intelligence operative) was stationed at a remote monitoring station there.", "<br />", "<br />", "Yuri's early research posited that a ordered data signal seemed to be a new kind of astronomical phenomenon (he thought it might be a kind of radioactivity). Turns out, like Bogdanovich, he was looking in the wrong direction, and what he was seeing on his instruments was actually the trace effects of Exotic Matter.", "<br />", "<br />", "His value to Niantic stemmed as much from his scientific prowess as from his intimate knowledge of a pure and ancient way of living and interacting with XM.", "<br />", "<br />", "The Anazktec, like many ancient peoples, had developed their own mythology around Exotic Matter and Portals. It's likely they were able to manipulate it in sophisticated ways as well. Yuri's knowledge of these ancient methods would prove invaluable to Niantic's research.", "<br />", "<br />", "Prior to joining Niantic, Yuri is known to have worked with Dr. Kureze in academic pursuits and on Project Whydah. He also had a friendship with Hank Johnson going back many years (in fact, he recommended Hank be recruited to the Niantic Project -- unaware that Hank was part of Niantic from its inception).", "<br />", "<br />"], :ignore=>true}}
+[#### photo: ofbtrt-leu-k9orve1u-zjy](https://lh6.googleusercontent.com/-YxVkzJeG9NQ/VhDMTvP3gqI/AAAAAAAABgo/wFc5oO8IidY/Alaric.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/abXfAkPUiWB](https://plus.google.com/+NianticProject/posts/abXfAkPUiWB)

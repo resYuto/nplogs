@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-15 22:50:32 +0900"
+date:   2014-03-15 22:50:32 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  05
+
+The Volatiles for C2 satellite sites have been released.
+
+Resistance have grabbed an early hold of these cities, but Enlightened can make their move now.  
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@284, :value=>"shared"@291}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23RECURSION\">#RECURSION</a>", " 05 - ZAGREB, NICE, CAGLIARI, CAIRO, TEL AVIV - C2 VOLS", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/T67y8h\" class=\"ot-anchor\">http://goo.gl/T67y8h</a>", " ", "<br />", "<br />", "MD5: 87066849095f3cbe34d5b593acd0796a", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114981818811280923006\" oid=\"114981818811280923006\">Danny Shaked</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #RECURSION 05 - ZAGREB, NICE, CAGLIARI, CAIRO, TEL AVIV - C2 VOLS
+Volatiles: http://goo.gl/T67y8h 
+MD5: 87066849095f3cbe34d5b593acd0796a
+Photo by Agent +Danny Shaked ](https://lh4.googleusercontent.com/-fpR3f7shk8o/UyRZMrSdj2I/AAAAAAAAnKE/SEX2u87v2Ds/w2048-h1227/telaviv_agents.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ZPJjfHcSZ2v](https://plus.google.com/+NianticProject/posts/ZPJjfHcSZ2v)

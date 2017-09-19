@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-11 14:22:21 +0900"
+date:   2013-08-11 14:22:21 +0900
+categories: nianticproject
+---
+The Enlightened established a firm grip over Operation  [#Cassandra](https://plus.google.com/s/%23Cassandra "") . It's up to the Resistance in Milan to strike back, and bring this Anomaly back into our hands...<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - Sydney has been captured by the Enlightened.<br /><br /><b>Measurement 3 Details</b><br />The Resistance owned 1 Volatile Portal and 8 Non-Volatile Portals.<br /><b>The Enlightened owned 4 Volatile Portals and 15 Non Volatile Portals.</b><br /><br /><b>An Enlightened Field covered all Portals in this Cluster.</b><br /><br />The Resistance had 1 Link standing at measurement time.<br /><b>The Enlightened had 7 Links standing at measurement time.</b><br /><br />Total for the Resistance this Measurement = 20<br /><b>Total for the Enlightened this Measurement = 119</b><br /><br />Total for the Resistance this Anomaly = 82<br /><b>Total for the Enlightened this Anomaly = 278</b><br /><br /><b>Measurement Time Details</b><br />Original:    THREE  MINUTES   FIFTY TWO  SECONDS PAST THREE O CLOCK <br />Padded: XXXTHREEXXMINUTESXXXFIFTYXTWOXXSECONDSXPASTXTHREEXOXCLOCKXX<br />OTP Key: XQMQHNDRAKICVDGBAQTIIKJPYLMSPIJPPMAEQNQBLOSVXXBVSLOYONKQIJB<br />Encrypted String: UNJJOEHVXHUKIXZFSNQFNSOIWIFODFGHTOORTFNQLGLSQESZWICVQYYSSGY<br />MD5: 15BF98576D8B1D2D4A441643C4550323<br /><br /></div>
+[#### photo: undefined](https://lh5.googleusercontent.com/-Mx5cOF6UqN8/Ugceefap0jI/AAAAAAAANL8/uJnZexPYAwA/sydney-cluster3.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/N5HbBgL294J](https://plus.google.com/+NianticProject/posts/N5HbBgL294J)

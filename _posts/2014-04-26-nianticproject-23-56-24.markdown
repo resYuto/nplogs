@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-26 23:56:24 +0900"
+date:   2014-04-26 23:56:24 +0900
+categories: nianticproject
+---
+Final Volatiles set for  [#Interitus](https://plus.google.com/s/%23Interitus "")  02 - London, Frankfurt and Stockholm.
+
+Measurement 3 approaches.  Will the Enlightenment wrest control?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@247, :value=>"shared"@254}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23INTERITUS\">#INTERITUS</a></b>", "<b> 02 - LONDON, FRANKFURT, STOCKHOLM - C4 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/7VBiIt\" class=\"ot-anchor\">http://goo.gl/7VBiIt</a>", "<br />", "<br />", "MD5: 105d3b0cfa97db1d5ff7c674a8d4d3b0", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103396630337008638705\" oid=\"103396630337008638705\">Kritpong Smith</a>"], "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-plro5owxjMI/U1vIqzoma3I/AAAAAAAAs8I/iMZv8Hfw-KQ/frankfurt_bldgs.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/i7S287rmU13](https://plus.google.com/+NianticProject/posts/i7S287rmU13)

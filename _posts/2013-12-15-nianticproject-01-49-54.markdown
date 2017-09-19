@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-15 01:49:54 +0900"
+date:   2013-12-15 01:49:54 +0900
+categories: nianticproject
+---
+The fields over São Paulo have fallen. Minutes remain until the next measurement.
+
+Here are the Cluster 2 Volatiles for Rio de Janeiro and São Paulo, and the Cluster 1 Volatiles for Santiago.
+
+x
+
+Operation [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS ""){:element=>{:name=>"div", :attributes=>[{:name=>"class"@324, :value=>"shared"@331}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- RIO DE JANEIRO, SAO PAULO - C2; SANTIAGO - C1 VOLs</b>", " ", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/vdql5g\" class=\"ot-anchor\">http://goo.gl/vdql5g</a>", "<br />", "<br />", "MD5 of Padded String: 1b89853bcf695de7ca64bf17364d5f86", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/116552798038432778145\" oid=\"116552798038432778145\">Armando Ricardo</a>"], ".", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>DEC 14 PRIMARY SITES:</b>", " ", "<br />", "Buenos Aires: ", "<a href=\"http://goo.gl/BDcLTZ\" class=\"ot-anchor\">http://goo.gl/BDcLTZ</a>", " ", "<br />", "San Francisco: ", "<a href=\"http://goo.gl/plCBZL\" class=\"ot-anchor\">http://goo.gl/plCBZL</a>", "<br />", "<br />", "<b>SATELLITE SITES:</b>", " ", "<br />", "Rio de Janeiro: ", "<a href=\"http://goo.gl/EeuyO4\" class=\"ot-anchor\">http://goo.gl/EeuyO4</a>", " ", "<br />", "San Diego: ", "<a href=\"http://goo.gl/uqmCci\" class=\"ot-anchor\">http://goo.gl/uqmCci</a>", " ", "<br />", "Santiago: ", "<a href=\"http://goo.gl/BE71fV\" class=\"ot-anchor\">http://goo.gl/BE71fV</a>", " ", "<br />", "Sao Paulo: ", "<a href=\"http://goo.gl/AnJNro\" class=\"ot-anchor\">http://goo.gl/AnJNro</a>", " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #13MAGNUS - RIO DE JANEIRO, SAO PAULO - C2; SANTIAGO - C1 VOLs 
+Volatiles: http://goo.gl/vdql5g
+MD5 of Padded String: 1b89853bcf695de7ca64bf17364d5f86
+Photo by Agent +Armando Ricardo.
+#13MAGNUS DEC 14 PRIMARY SITES: 
+Buenos Aires: http://goo.gl/BDcLTZ 
+San Francisco: http://goo.gl/plCBZL
+SATELLITE SITES: 
+Rio de Janeiro: http://goo.gl/EeuyO4 
+San Diego: http://goo.gl/uqmCci 
+Santiago: http://goo.gl/BE71fV 
+Sao Paulo: http://goo.gl/AnJNro ](https://lh6.googleusercontent.com/-ooc59pUxwWo/UqyKKlG_nbI/AAAAAAAAd3U/RikKjLYVZvY/w1536-h2048/1387038095327.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/NAisAtJ6oTs](https://plus.google.com/+NianticProject/posts/NAisAtJ6oTs)

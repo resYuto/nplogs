@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-31 16:36:05 +0900"
+date:   2014-12-31 16:36:05 +0900
+categories: nianticproject
+---
++[Stein Lightman](https://plus.google.com/115238965157544465033 "") proposes a new Glyph for the N'zeer, and calls out to the Investigative community for help in attempting to decipher their identity.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@340, :value=>"shared"@347}], :children=>["<br />", "<h2>Stein Lightman</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], " Thank you for sharing that Glyph analysis with me. These days I've been working mostly on attempting to learn more about the N'zeer. I suspect 2015 will be the Age of the N'zeer, and I intend to be forearmed with knowledge. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " has gone radio silent, so for now, the work continues without him.", "<br />", "<br />", "I've been pondering something astute you said some time ago: ", "<br />", "<br />", "<i>\"In mathematics, two negatives make a positive. In analysis, something similar can be true. Given enough lies, one can often piece them together and see the truth in the negative space produced between them.\"</i>", "<br />", "<br />", "We know about the 'Ultimate' from ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], "'s descriptions of it, and we know that the N'zeer represent a force that directly opposes the Shapers.", "<br />", "<br />", "Previously I thought this meant 'the N'zeer are against the Shapers.' Now I am reconsidering. What if it means 'the N'zeer represent the opposite of the Shapers,' and thus by extension, the Ultimate?", "<br />", "<br />", "Investigators of this community, I call on you to help collect what we know of the Ultimate in this thread. I suspect, that as we begin to lay the pieces of evidence on the table, we will see something new in the spaces between them.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-uUVGJ1tt7wE/VKOkV0oSJFI/AAAAAAAABko/2wR2ChZlazQ/N%27Zeer.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/N9sZR7PybtC](https://plus.google.com/+NianticProject/posts/N9sZR7PybtC)

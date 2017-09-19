@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Niantic Project: 2014-02-16 05:50:27 +0900"
+date:   2014-02-16 05:50:27 +0900
+categories: nianticproject
+---
+Cluster 3 Volatiles,  [#Recursion](https://plus.google.com/s/%23Recursion "")  Lousville and Columbus.
+
+2 Measurements remain, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@196, :value=>"shared"@203}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a>", " VOLATILES - LOUISVILLE, COLUMBUS - C3", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/NGu0Cl\" class=\"ot-anchor\">http://goo.gl/NGu0Cl</a>", "<br />", "<br />", "MD5: 1fb149866d5cc8ac7c98ade0ad9abef3", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103733080548502967620\" oid=\"103733080548502967620\">Joe Billera</a>"], ".", "<br />", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a>", "   ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #Recursion VOLATILES - LOUISVILLE, COLUMBUS - C3
+Volatiles: http://goo.gl/NGu0Cl
+MD5: 1fb149866d5cc8ac7c98ade0ad9abef3
+Photo by Agent +Joe Billera.
+#Recursion  ](https://lh4.googleusercontent.com/-K8wXuZwtvEc/Uv_SfPNY0uI/AAAAAAAAi8w/6CfVNV1mnFA/w2048-h1536/20140215_153519.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/7fu2k7QUvBK](https://plus.google.com/+NianticProject/posts/7fu2k7QUvBK)

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2015-11-06 16:18:52 +0900"
+date:   2015-11-06 16:18:52 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") weighs in on the veracity of +[Tycho C.](https://plus.google.com/106965960712090580437 "")'s most recent series of visions.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@455, :value=>"shared"@462}], :children=>["<br />", "<h2>Hank Johnson</h2>", "Like ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], ", (aka P. A. Chapeau), I agree that much of what is in Ingress: Origins is accurate -- at least the things that I was involved in.", "<br />", "<br />", "That could indicate that other things are accurate as well, but I don't like to presume.", "<br />", "<br />", "It's also clear to me, though I can’t go into much detail on this, that some events that took place at the Niantic Project are the root cause of things playing out around us now, in ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Abaddon\">#Abaddon</a>", ".  ", "<br />", "<br />", "And yeah. For the record, I very much look forward to having a direct conversation with Calvin, and, for that matter, Lynton-Wolfe.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Like +H. Richard Loeb, (aka P. A. Chapeau), I agree that much of what is in Ingress: Origins is accurate -- at least the things that I was involved in.
+That could indicate that other things are accurate as well, but I don't like to presume.
+It's also clear to me, though I can’t go into much detail on this, that some events that took place at the Niantic Project are the root cause of things playing out around us now, in #Abaddon.
+And yeah. For](https://lh3.googleusercontent.com/-Z7RL6Up7z70/VjxTBLosZOI/AAAAAAAADTc/h1qBypTnf80/w1769-h380/Showdown.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/1ZKrrx77V31](https://plus.google.com/+NianticProject/posts/1ZKrrx77V31)

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2015-02-20 20:38:52 +0900"
+date:   2015-02-20 20:38:52 +0900
+categories: nianticproject
+---
+And PAC thinks this is all coming full circle...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@62, :value=>"shared"@69}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Something very bad is about to go down.  You’ve got Jahan threatening to kill Azmati if ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " doesn’t lead her to the Afghan Anomalous Zone or whatever its called.  Even if we ignore the creepiness of seeing your own corpse, its got to be a strange moment for him.  I just don’t believe he’s going to lead her in there unless he’s got a trick up his sleeve… And without saying it here, I have a pretty good idea of what that might be.", "<br />", "<br />", "Then you have ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], "  and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105931060527409787825\" oid=\"105931060527409787825\">Hubert Farlowe</a>"], " making their way up from Australia.  Which Devra is going to show up?  Is it the Resistance Devra to help Jahan or the newly penitent Devra who will want to save Hank. They have a lot of history in caves, if you remember all the way back to Arecibo.  It's just that she didn’t have one of the most lethal snipers in the world with her.  That could go bad.", "<br />", "<br />", "And our old friend Calvin is in this loop. What’s he going to do.  Its pretty clear that he had a hidden agenda when he set up the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], " in the first place and duped Ni into funding it.  For him, this must feel a lot like the moment he’s been building to for three years.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Something very bad is about to go down.  You’ve got Jahan threatening to kill Azmati if +Hank Johnson doesn’t lead her to the Afghan Anomalous Zone or whatever its called.  Even if we ignore the creepiness of seeing your own corpse, its got to be a strange moment for him.  I just don’t believe he’s going to lead her in there unless he’s got a trick up his sleeve… And without saying it here, I have a pretty good idea of what that might be.
+Then](https://lh6.googleusercontent.com/-v2rpSJYTztY/VOcZD5v7lHI/AAAAAAAAA1g/fq5PCq16Tok/w333-h334/FullCircle.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/LDvP9HG65H4](https://plus.google.com/+NianticProject/posts/LDvP9HG65H4)

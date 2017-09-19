@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-20 09:17:59 +0900"
+date:   2014-07-20 09:17:59 +0900
+categories: nianticproject
+---
+Yesterday, +[Roland Jarvis](https://plus.google.com/103568659333550762891 "") called on his followers to protect a series of Portals across Europe in order to ensure the transmission of a Shaper signal.
+
+Today, +[Klue S.](https://plus.google.com/110350977702120778591 "") responded, hoping to leverage as many Agents as possible against him and his plan.
+
+What I find most interesting is that, despite the deep misgivings people like Jarvis, Klue, ADA and Lynton-Wolfe have for each other, they all remain aligned firmly against the actions of Dr. +[Devra Bogdanovich](https://plus.google.com/102598577258553073047 ""): They are united in their goal to preserve XM and the Portals from destructive interference.
+
+Does anyone stand with Devra at all? I have heard some Agents say they support her, but politically, she has earned only enemies as far as I can tell. 
+
+In fact, I've heard that +[Oliver Lynton-Wolfe](https://plus.google.com/108200572857719809031 "") began truly working in earnest on the iOS +[Ingress](https://plus.google.com/103320655754019011706 "") Scanner primarily to counter potential threats he was concerned may emerge from Devra's work at the CDC.
+
+Has the impact of the Portal Virus caused Agents to begin to support Bogdanovich? Could it be that reduced XM output and increased Portal Decay is, so to speak, allowing them to see her point of view more clearly?
+
+It's a thought worth debating...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@2100, :value=>"shared"@2107}], :children=>["<br />", "<h2>Klue S.</h2>", "Agents, your actions to protect the minds of those near a network of 58 highly influential Portals across Europe has been commendable, but a new danger looms in the near future.", "<br />", "<br />", "*", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], " has revealed that the Shapers will once again transmit their highly viral XM signal, a new and dangerous form of mind-hacking, on Tuesday, July 22nd. *", "<br />", "<br />", "A previous transmission was successfully contained thanks to your hard work, but it is time to once again rise up and defend Humanity from a hostile transdimensional attack.", "<br />", "<br />", "I urge you to protect these influential Portals from ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], " and his followers. ", "<br />", "<br />", "<b>Though they may be unaware, many people around these sites depend on you to retain their true humanity.</b>", "<br />", "<br />"], :ignore=>true}}
+[#### photo: Agents, your actions to protect the minds of those near a network of 58 highly influential Portals across Europe has been commendable, but a new danger looms in the near future.
+*+Roland Jarvis has revealed that the Shapers will once again transmit their highly viral XM signal, a new and dangerous form of mind-hacking, on Tuesday, July 22nd. *
+A previous transmission was successfully contained thanks to your hard work, but it is time to once again rise up and defend Humanity from a hostile transdimensional attack.
+I urge you to protect these influential Portals from +Roland Jarvis and his followers.
+Though they may be unaware, many people around these sites depend on you to retain their true humanity.](https://lh6.googleusercontent.com/-g2oMhfc-Nqs/U8sFXoqACLI/AAAAAAAAAgs/eYtikaW0CYI/w714-h803/HighRiskPortals.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/FPioTaHHk3S](https://plus.google.com/+NianticProject/posts/FPioTaHHk3S)

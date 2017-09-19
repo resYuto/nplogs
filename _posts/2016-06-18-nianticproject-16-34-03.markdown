@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-06-18 16:34:03 +0900"
+date:   2016-06-18 16:34:03 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Agents, I've obtained the following high priority intel regarding the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23AegisNova\">#AegisNova</a>", " Anomalies on June 25. Any questions and concerns should be directed to ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107849663787965375687\" oid=\"107849663787965375687\">Hulong Transglobal</a>"], ".", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23InvestigateIngress\">#InvestigateIngress</a>", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/fBLMUxfL6ht](https://plus.google.com/+NianticProject/posts/fBLMUxfL6ht)

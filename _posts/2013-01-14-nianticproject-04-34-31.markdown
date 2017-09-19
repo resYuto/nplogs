@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2013-01-14 04:34:31 +0900"
+date:   2013-01-14 04:34:31 +0900
+categories: nianticproject
+---
+A video of the recovery operation of the items left by a sensitive at Jim Morrison's grave in Paris. Well done.
+
+I hope to see the contents of the drop, and look forward to them being shared.
+
+(Turn on Captions for English subtitles){:element=>{:name=>"div", :attributes=>[{:name=>"class"@250, :value=>"shared"@257}], :children=>["<br />", "<h2>Damien Mórka</h2>", "Yesterday we got some information about Niantic documents around the Jim Morrisson's grave in the Père Lachaise Cemetry.", "<br />", "Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105830300886132141737\" oid=\"105830300886132141737\">Guillaume BARAT</a>"], "  went there for the opening, noticed the documents and warned the Enlightened Community of Paris.", "<br />", "Finally, our agent ", "<b>JackDowser</b>", " managed to take them later in the day.", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23ingress\">#ingress</a>", "   ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23ingressinvite\">#ingressinvite</a>", "   ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23ingressparis\">#ingressparis</a>", "  ", "<br />", "<br />"], :ignore=>true}}
+[#### video: http://www.youtube.com/v/Hb_5AUb9RxI?autohide=1&amp;version=3](http://www.youtube.com/v/Hb_5AUb9RxI?autohide=1&amp;version=3 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/exw9SQtgWyb](https://plus.google.com/+NianticProject/posts/exw9SQtgWyb)

@@ -1,0 +1,223 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-29 22:59:22 +0900"
+date:   2014-03-29 22:59:22 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  07
+
+Hats off to the Resistance, who capture  [#Recursion](https://plus.google.com/s/%23Recursion "")  Berlin.
+
+While the Enlightened managed to win Nantes, the Resistance came out on top in Berlin and Brussels.
+
+On to the next.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@400, :value=>"shared"@407}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b>The Resistance capture </b>", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> Berlin.</b>", "<br />", "<br />", "The Resistance secure Berlin and Brussels, and the Enlightened rally in Measurement 3 and capture Nantes. The Resistance Target Portal will manifest in Berlin from 15:00 to 17:01.", "<br />", "<br />", "<b>MAR 29 PRIMARY:</b>", " ", "<br />", "Berlin, Germany ", "<a href=\"http://goo.gl/2jsTfL\" class=\"ot-anchor\">http://goo.gl/2jsTfL</a>", "<br />", "Los Angeles, CA ", "<a href=\"http://goo.gl/2eawGc\" class=\"ot-anchor\">http://goo.gl/2eawGc</a>", "<br />", "<br />", "<b>SATELLITE:</b>", " ", "<br />", "Brussels, Belgium ", "<a href=\"http://goo.gl/dWsSNO\" class=\"ot-anchor\">http://goo.gl/dWsSNO</a>", "<br />", "Nantes, France ", "<a href=\"http://goo.gl/uo3MQo\" class=\"ot-anchor\">http://goo.gl/uo3MQo</a>", " ", "<br />", "Oakland, CA ", "<a href=\"http://goo.gl/IQGE3x\" class=\"ot-anchor\">http://goo.gl/IQGE3x</a>", "<br />", "Spokane, WA ", "<a href=\"http://goo.gl/9Zwl4B\" class=\"ot-anchor\">http://goo.gl/9Zwl4B</a>", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - BERLIN - Measurement 3 Report</b>", "<br />", "<br />", "<b>The Resistance owned 2 Volatile Portals and 50 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 2 Volatile Portals and 15 Non-Volatile Portals", "<br />", "<br />", "<b>The Resistance had 20 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>The Resistance controlled NR02-GOLF-04, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (50)</b>", "<br />", "<br />", "<b>The Enlightened controlled the Global Score, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (100)</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 290</b>", "<br />", "Total for Enlightened this Measurement = 170", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 895</b>", "<br />", "Total for Enlightened this Anomaly = 372", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 1:05 (Minutes:Seconds past the hour)", "<br />", "Padded: H 1:05 GRLtivrqrfhaAmkHMpytNAhewYOfP", "<br />", "MD5 of Padded String: 73b7cb019672e690153cbfd6f55fb632", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Märchenbrunnen im Volkspark Fr (VOLATILE) - Enlightened", "<br />", "Stierbrunnen Arnswalder Platz (VOLATILE) - Enlightened", "<br />", "Base Station (VOLATILE) - Neutral", "<br />", "Mutter Mit Kind (VOLATILE) - Resistance", "<br />", "Schweizer Käse (VOLATILE) - Resistance", "<br />", "Platz der Vereinten Nationen - Enlightened", "<br />", "Bedromte - Enlightened", "<br />", "Junge Und Mädchen Stuck    - Enlightened", "<br />", "Filmtheater am Friedrichshain - Enlightened", "<br />", "Pavillon - Enlightened", "<br />", "Gedenksteine Familie Jaskulski - Enlightened", "<br />", "Eingang zum Märchenbrunnen - Enlightened", "<br />", "Jugendclub KoCa - Enlightened", "<br />", "Holzkobolt - Enlightened", "<br />", "Windspiel Im F'hain - Enlightened", "<br />", "Säulen Am Dietrich - Enlightened", "<br />", "Denkmal Am Vivantes Klinikum - Enlightened", "<br />", "Playground Parrot - Enlightened", "<br />", "SEZ Berlin - Enlightened", "<br />", "Freiluftkino Friedrichshain - Enlightened", "<br />", "Kindersoldat Mit Fisch - Neutral", "<br />", "Fischerjunge - Neutral", "<br />", "Rotkäppchen - Neutral", "<br />", "Holzbär - Neutral", "<br />", "Großer Teich Im Volkspark FHain - Neutral", "<br />", "Brüderchen und Schwesterchen - Neutral", "<br />", "Eckstein - Neutral", "<br />", "Frau Mit Hut - Neutral", "<br />", "Mädchen - Neutral", "<br />", "Café Schönbrunn - Neutral", "<br />", "Friedensglocke - Neutral", "<br />", "Spielplatz Im Volkspark - Neutral", "<br />", "Maske - Neutral", "<br />", "Steinmann - Neutral", "<br />", "Neuer Spielplatz im Volkspark - Neutral", "<br />", "Der Rosenbrunnen - Neutral", "<br />", "Gedenkstatte der Deutschen Interbrigadisten - Resistance", "<br />", "Steinrobbe - Resistance", "<br />", "Metallknubbel - Resistance", "<br />", "Knirps mit Ziege - Resistance", "<br />", "Talisman - Resistance", "<br />", "Stolperstein für Ludwig und Else David - Resistance", "<br />", "Am FRIEDRICHSHAIN  - Resistance", "<br />", "EBKO Evangelische Kirche In Berlin-Brandenburg - Resistance", "<br />", "Bear  - Resistance", "<br />", "Wasserpumpe Bötzowviertel - Resistance", "<br />", "FridericusRex - Resistance", "<br />", "Stolperstein Denkmal Josef Cyzner - Resistance", "<br />", "Springbrunnen - Resistance", "<br />", "Steinpinguin - Resistance", "<br />", "Trinkbrunnen - Resistance", "<br />", "Kletterfelsen - Resistance", "<br />", "Holzschwein - Resistance", "<br />", "Sport und Erholungszentrum - Resistance", "<br />", "Cows on a Cafe - Resistance", "<br />", "Stolperstein und Denkmal Elisabeth Schmidt - Resistance", "<br />", "The Island - Resistance", "<br />", "3 Würfel - Resistance", "<br />", "Kletterburg - Resistance", "<br />", "Skulptur Pasteurstraße - Resistance", "<br />", "Skulptur Blumentopf - Resistance", "<br />", "Holzkatze - Resistance", "<br />", "Gr.Metamorphe - Resistance", "<br />", "Staffelläufer - Resistance", "<br />", "Bibliothek - Resistance", "<br />", "Frauengefängnis von Rosa Luxemburg - Resistance", "<br />", "Deutsch Polnisches Denkmal - Resistance", "<br />", "Wandmalerei - Resistance", "<br />", "Art Nouveau on Door Gable - Resistance", "<br />", "Die Eule Von Liselotte - Resistance", "<br />", "Bärenstuck - Resistance", "<br />", "Aschenputtel Märchenbrunnen  - Resistance", "<br />", "Neptune - Resistance", "<br />", "Steinfluss - Resistance", "<br />", "Kind Macht Waage - Resistance", "<br />", "Stolperstein Georg Stolt - Resistance", "<br />", "Kletter-Park Weinstrasse - Resistance", "<br />", "Volkspark Friedrichshain Skulptur - Resistance", "<br />", "Nackte Frau - Resistance", "<br />", "Relief Spanischer Bürgerkrieg - Resistance", "<br />", "Head Stucci - Resistance", "<br />", "Schlumpfi - Resistance", "<br />", "Berlin Bear Statue - Resistance", "<br />", "Peter und der Wolf - Resistance", "<br />", "Couple Statue on the Entrance - Resistance", "<br />", "Abstrakter Akt - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - NANTES - Measurement 3 Report</b>", "<br />", "<br />", "The Resistance owned 3 Volatile Portals and 1 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 2 Volatile Portals and 15 Non-Volatile Portals</b>", "<br />", "<br />", "<b>The Enlightened had 25 Links standing at Measurement Time</b>", "<br />", "<br />", "Total for Resistance this Measurement = 31", "<br />", "<b>Total for Enlightened this Measurement = 85</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 106", "<br />", "<b>Total for Enlightened this Anomaly = 180</b>", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Cacatoès (VOLATILE) - Enlightened", "<br />", "tireuse du mcbyrn (VOLATILE) - Enlightened", "<br />", "Rue du Moulin (VOLATILE) - Resistance", "<br />", "Général de Gaulle Statue Nante (VOLATILE) - Resistance", "<br />", "Follow the Leaders (VOLATILE) - Resistance", "<br />", "Demon St Croix - Enlightened", "<br />", "Pinnochio - Enlightened", "<br />", "Plaque Place Du Bouffay - Enlightened", "<br />", "Spaceinvaders, Nantes - Enlightened", "<br />", "Nantes, rue de la Juiverie, ba - Enlightened", "<br />", "La Vierge Et L'enfant - Enlightened", "<br />", "armoiries rue Léon blum  - Enlightened", "<br />", "Plaque Pour  l Ecole Laicque - Enlightened", "<br />", "Guerrier Saint  - Enlightened", "<br />", "anges  du quai des tanneurs - Enlightened", "<br />", "la facade au visages - Enlightened", "<br />", "Rochebobois - Enlightened", "<br />", "Nantes, méridienne de l'hôtel  - Enlightened", "<br />", "Informatic School Epsi - Enlightened", "<br />", "Cheminées Extérieures, Bouffay - Enlightened", "<br />", "Link Streetart on Rue de la Baclerie - Neutral", "<br />", "Place Saint Vincent - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - BRUSSELS - Measurement 3 Report</b>", "<br />", "<br />", "<b>The Resistance owned 4 Volatile Portals and 4 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 0 Volatile Portals and 21 Non-Volatile Portals", "<br />", "<br />", "<b>The Enlightened had 13 Links standing at Measurement Time</b>", "<br />", "<br />", "Total for Resistance this Measurement = 44", "<br />", "<b>Total for Enlightened this Measurement = 47</b>", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 146</b>", "<br />", "Total for Enlightened this Anomaly = 98", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Belgian Parliamant (VOLATILE) - Neutral", "<br />", "Le Lion Du Parc (VOLATILE) - Resistance", "<br />", "The Wolf (VOLATILE) - Resistance", "<br />", "Statue at the Warandepark (VOLATILE) - Resistance", "<br />", "Cathedral (VOLATILE) - Resistance", "<br />", "Lady Statue at Royal Park - Enlightened", "<br />", "Sculpture Moderne - Enlightened", "<br />", "Place du Musée - Enlightened", "<br />", "Woman Statue at Parc Royal - Enlightened", "<br />", "Statue of Godefroid De Bouillon - Enlightened", "<br />", "Children Statue in Brussels - Enlightened", "<br />", "L'enfant A La Cruche - Enlightened", "<br />", "'Le Scorpion'  - Enlightened", "<br />", "Fonteinen De Kunstberg - Enlightened", "<br />", "Gotische poort - Enlightened", "<br />", "Brüssel / Brussel - The Whirli - Enlightened", "<br />", "Foudre Et Trompette - Enlightened", "<br />", "Henri Alexis Brialmont Statue - Enlightened", "<br />", "Notre Dame du Coin - Enlightened", "<br />", "Vache Rossel - Enlightened", "<br />", "Royal Palace - Enlightened", "<br />", "Bruselas Parque - Enlightened", "<br />", "Onink - Enlightened", "<br />", "Femme Parc Bruxelles - Enlightened", "<br />", "Kiosque Du parc Royal - Enlightened", "<br />", "Statue Parc De Bruxelles  - Enlightened", "<br />", "Golden Church Angel - Neutral", "<br />", "Beeld warandepark - Neutral", "<br />", "Bruxelles : le Palais Royal - Neutral", "<br />", "Kathedraal van Sint-Michiel en - Neutral", "<br />", "Repos Sous La Roche - Neutral", "<br />", "Park van Brussel (Warandepark) - Neutral", "<br />", "Brussels, Belgium - St Gudule - Neutral", "<br />", "Standbeeld voor Fortis-gebouw - Neutral", "<br />", "Bibliothèque Royale De Belgique - Neutral", "<br />", "Park van Brussel (Warandepark) - Neutral", "<br />", "Park van Brussel (Warandepark) - Neutral", "<br />", "Clock In Brussels - Neutral", "<br />", "Museum Nationale Bank Van Belgie - Neutral", "<br />", "Park van Brussel (Warandepark) - Neutral", "<br />", "Statue in Parc Royal - Neutral", "<br />", "Statue De O. Jespers - Neutral", "<br />", "Statue at Parc Royal - Neutral", "<br />", "Charle De Lorraine Statue - Neutral", "<br />", "Statue of Woman at Parc Royal - Neutral", "<br />", "Peter De Grote - Neutral", "<br />", "Warandepark  \"De Bode\" - Neutral", "<br />", "Theatre Royal Du Parc - Neutral", "<br />", " Leopoldo II - Neutral", "<br />", "Brussels, Belgium - St Michael - Neutral", "<br />", "Brussels, the statue of king A - Resistance", "<br />", "Statue at Parc Royal - Resistance", "<br />", "Kathedraal van Sint-Michiel en - Resistance", "<br />", "Statue De Femme Nue - Resistance", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115470071077898720170\" oid=\"115470071077898720170\">Tzafrir Rehan</a>"], ".", "<br />", "<br />"], :ignore=>true}}
+[#### photo: The Resistance capture #Recursion Berlin.
+The Resistance secure Berlin and Brussels, and the Enlightened rally in Measurement 3 and capture Nantes. The Resistance Target Portal will manifest in Berlin from 15:00 to 17:01.
+MAR 29 PRIMARY: 
+Berlin, Germany http://goo.gl/2jsTfL
+Los Angeles, CA http://goo.gl/2eawGc
+SATELLITE: 
+Brussels, Belgium http://goo.gl/dWsSNO
+Nantes, France http://goo.gl/uo3MQo 
+Oakland, CA http://goo.gl/IQGE3x
+Spokane, WA http://goo.gl/9Zwl4B
+#Recursion - BERLIN - Measurement 3 Report
+The Resistance owned 2 Volatile Portals and 50 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 15 Non-Volatile Portals
+The Resistance had 20 Links standing at Measurement Time
+The Resistance controlled NR02-GOLF-04, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (50)
+The Enlightened controlled the Global Score, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (100)
+Total for Resistance this Measurement = 290
+Total for Enlightened this Measurement = 170
+Total for Resistance this Anomaly = 895
+Total for Enlightened this Anomaly = 372
+Measurement Time Details:
+Original: 1:05 (Minutes:Seconds past the hour)
+Padded: H 1:05 GRLtivrqrfhaAmkHMpytNAhewYOfP
+MD5 of Padded String: 73b7cb019672e690153cbfd6f55fb632
+Portal Ownership Details:
+Märchenbrunnen im Volkspark Fr (VOLATILE) - Enlightened
+Stierbrunnen Arnswalder Platz (VOLATILE) - Enlightened
+Base Station (VOLATILE) - Neutral
+Mutter Mit Kind (VOLATILE) - Resistance
+Schweizer Käse (VOLATILE) - Resistance
+Platz der Vereinten Nationen - Enlightened
+Bedromte - Enlightened
+Junge Und Mädchen Stuck    - Enlightened
+Filmtheater am Friedrichshain - Enlightened
+Pavillon - Enlightened
+Gedenksteine Familie Jaskulski - Enlightened
+Eingang zum Märchenbrunnen - Enlightened
+Jugendclub KoCa - Enlightened
+Holzkobolt - Enlightened
+Windspiel Im F'hain - Enlightened
+Säulen Am Dietrich - Enlightened
+Denkmal Am Vivantes Klinikum - Enlightened
+Playground Parrot - Enlightened
+SEZ Berlin - Enlightened
+Freiluftkino Friedrichshain - Enlightened
+Kindersoldat Mit Fisch - Neutral
+Fischerjunge - Neutral
+Rotkäppchen - Neutral
+Holzbär - Neutral
+Großer Teich Im Volkspark FHain - Neutral
+Brüderchen und Schwesterchen - Neutral
+Eckstein - Neutral
+Frau Mit Hut - Neutral
+Mädchen - Neutral
+Café Schönbrunn - Neutral
+Friedensglocke - Neutral
+Spielplatz Im Volkspark - Neutral
+Maske - Neutral
+Steinmann - Neutral
+Neuer Spielplatz im Volkspark - Neutral
+Der Rosenbrunnen - Neutral
+Gedenkstatte der Deutschen Interbrigadisten - Resistance
+Steinrobbe - Resistance
+Metallknubbel - Resistance
+Knirps mit Ziege - Resistance
+Talisman - Resistance
+Stolperstein für Ludwig und Else David - Resistance
+Am FRIEDRICHSHAIN  - Resistance
+EBKO Evangelische Kirche In Berlin-Brandenburg - Resistance
+Bear  - Resistance
+Wasserpumpe Bötzowviertel - Resistance
+FridericusRex - Resistance
+Stolperstein Denkmal Josef Cyzner - Resistance
+Springbrunnen - Resistance
+Steinpinguin - Resistance
+Trinkbrunnen - Resistance
+Kletterfelsen - Resistance
+Holzschwein - Resistance
+Sport und Erholungszentrum - Resistance
+Cows on a Cafe - Resistance
+Stolperstein und Denkmal Elisabeth Schmidt - Resistance
+The Island - Resistance
+3 Würfel - Resistance
+Kletterburg - Resistance
+Skulptur Pasteurstraße - Resistance
+Skulptur Blumentopf - Resistance
+Holzkatze - Resistance
+Gr.Metamorphe - Resistance
+Staffelläufer - Resistance
+Bibliothek - Resistance
+Frauengefängnis von Rosa Luxemburg - Resistance
+Deutsch Polnisches Denkmal - Resistance
+Wandmalerei - Resistance
+Art Nouveau on Door Gable - Resistance
+Die Eule Von Liselotte - Resistance
+Bärenstuck - Resistance
+Aschenputtel Märchenbrunnen  - Resistance
+Neptune - Resistance
+Steinfluss - Resistance
+Kind Macht Waage - Resistance
+Stolperstein Georg Stolt - Resistance
+Kletter-Park Weinstrasse - Resistance
+Volkspark Friedrichshain Skulptur - Resistance
+Nackte Frau - Resistance
+Relief Spanischer Bürgerkrieg - Resistance
+Head Stucci - Resistance
+Schlumpfi - Resistance
+Berlin Bear Statue - Resistance
+Peter und der Wolf - Resistance
+Couple Statue on the Entrance - Resistance
+Abstrakter Akt - Resistance
+#Recursion - NANTES - Measurement 3 Report
+The Resistance owned 3 Volatile Portals and 1 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 15 Non-Volatile Portals
+The Enlightened had 25 Links standing at Measurement Time
+Total for Resistance this Measurement = 31
+Total for Enlightened this Measurement = 85
+Total for Resistance this Anomaly = 106
+Total for Enlightened this Anomaly = 180
+Portal Ownership Details:
+Cacatoès (VOLATILE) - Enlightened
+tireuse du mcbyrn (VOLATILE) - Enlightened
+Rue du Moulin (VOLATILE) - Resistance
+Général de Gaulle Statue Nante (VOLATILE) - Resistance
+Follow the Leaders (VOLATILE) - Resistance
+Demon St Croix - Enlightened
+Pinnochio - Enlightened
+Plaque Place Du Bouffay - Enlightened
+Spaceinvaders, Nantes - Enlightened
+Nantes, rue de la Juiverie, ba - Enlightened
+La Vierge Et L'enfant - Enlightened
+armoiries rue Léon blum  - Enlightened
+Plaque Pour  l Ecole Laicque - Enlightened
+Guerrier Saint  - Enlightened
+anges  du quai des tanneurs - Enlightened
+la facade au visages - Enlightened
+Rochebobois - Enlightened
+Nantes, méridienne de l'hôtel  - Enlightened
+Informatic School Epsi - Enlightened
+Cheminées Extérieures, Bouffay - Enlightened
+Link Streetart on Rue de la Baclerie - Neutral
+Place Saint Vincent - Resistance
+#Recursion - BRUSSELS - Measurement 3 Report
+The Resistance owned 4 Volatile Portals and 4 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 21 Non-Volatile Portals
+The Enlightened had 13 Links standing at Measurement Time
+Total for Resistance this Measurement = 44
+Total for Enlightened this Measurement = 47
+Total for Resistance this Anomaly = 146
+Total for Enlightened this Anomaly = 98
+Portal Ownership Details:
+Belgian Parliamant (VOLATILE) - Neutral
+Le Lion Du Parc (VOLATILE) - Resistance
+The Wolf (VOLATILE) - Resistance
+Statue at the Warandepark (VOLATILE) - Resistance
+Cathedral (VOLATILE) - Resistance
+Lady Statue at Royal Park - Enlightened
+Sculpture Moderne - Enlightened
+Place du Musée - Enlightened
+Woman Statue at Parc Royal - Enlightened
+Statue of Godefroid De Bouillon - Enlightened
+Children Statue in Brussels - Enlightened
+L'enfant A La Cruche - Enlightened
+'Le Scorpion'  - Enlightened
+Fonteinen De Kunstberg - Enlightened
+Gotische poort - Enlightened
+Brüssel / Brussel - The Whirli - Enlightened
+Foudre Et Trompette - Enlightened
+Henri Alexis Brialmont Statue - Enlightened
+Notre Dame du Coin - Enlightened
+Vache Rossel - Enlightened
+Royal Palace - Enlightened
+Bruselas Parque - Enlightened
+Onink - Enlightened
+Femme Parc Bruxelles - Enlightened
+Kiosque Du parc Royal - Enlightened
+Statue Parc De Bruxelles  - Enlightened
+Golden Church Angel - Neutral
+Beeld warandepark - Neutral
+Bruxelles : le Palais Royal - Neutral
+Kathedraal van Sint-Michiel en - Neutral
+Repos Sous La Roche - Neutral
+Park van Brussel (Warandepark) - Neutral
+Brussels, Belgium - St Gudule - Neutral
+Standbeeld voor Fortis-gebouw - Neutral
+Bibliothèque Royale De Belgique - Neutral
+Park van Brussel (Warandepark) - Neutral
+Park van Brussel (Warandepark) - Neutral
+Clock In Brussels - Neutral
+Museum Nationale Bank Van Belgie - Neutral
+Park van Brussel (Warandepark) - Neutral
+Statue in Parc Royal - Neutral
+Statue De O. Jespers - Neutral
+Statue at Parc Royal - Neutral
+Charle De Lorraine Statue - Neutral
+Statue of Woman at Parc Royal - Neutral
+Peter De Grote - Neutral
+Warandepark  "De Bode" - Neutral
+Theatre Royal Du Parc - Neutral
+Leopoldo II - Neutral
+Brussels, Belgium - St Michael - Neutral
+Brussels, the statue of king A - Resistance
+Statue at Parc Royal - Resistance
+Kathedraal van Sint-Michiel en - Resistance
+Statue De Femme Nue - Resistance
+Photo by Agent +Tzafrir Rehan.](https://lh3.googleusercontent.com/-s5B22fnrVUA/UzbNEObMMKI/AAAAAAAApTw/-xTUXpL856M/w960-h1280/IMG_20140329_141332_1.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/X9XrDuDjAPH](https://plus.google.com/+NianticProject/posts/X9XrDuDjAPH)

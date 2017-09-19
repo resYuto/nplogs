@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-04-28 14:26:32 +0900"
+date:   2014-04-28 14:26:32 +0900
+categories: nianticproject
+---
++[Roland Jarvis](https://plus.google.com/103568659333550762891 ""), reclusive and philosophical leader of the Enlightenment, shares his thoughts on recent revelations about ADA and +[Klue S.](https://plus.google.com/110350977702120778591 ""), and their plan for the future... The [#Interitus](https://plus.google.com/s/%23Interitus "").  
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@646, :value=>"shared"@653}], :children=>["<br />", "<h2>Roland Jarvis</h2>", "What ADA has called ", "<b>‘the Unity’</b>", " is a time when its ability to affect one human mind will expand until it can, in essence, infect us all and use us to its ends.  ", "<br />", "<br />", "What you have heard is the first step in the road to a hollow and ruined future for all of mankind.", "<br />", "<br />", "If not the obliteration of all, it would represent the subjugation of the human spirit.  It is the first step in the road to a future devoid of creativity, devoid of inspiration and devoid of joy. ", "<br />", "<br />", "This is the greatest fear of our Friends and it is my greatest fear.", "<br />", "<br />", "It is the  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Interitus\">#Interitus</a>", " .", "<br />", "<br />", "It must be stopped.", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107293393622139455503\" oid=\"107293393622139455503\">Society for the Ethical Treatment of AIs</a>"], "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " ", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101577681173166935630\" oid=\"101577681173166935630\">Operation Essex</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-65tKiJhst0Y/U13ix5a4IiI/AAAAAAAAACs/xJXt054I0f4/Ruin.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/MHXHbwZwP7x](https://plus.google.com/+NianticProject/posts/MHXHbwZwP7x)

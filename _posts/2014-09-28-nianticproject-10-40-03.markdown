@@ -1,0 +1,218 @@
+---
+layout: post
+title:  "Niantic Project: 2014-09-28 10:40:03 +0900"
+date:   2014-09-28 10:40:03 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2><br /><b>Helios 10 - Cumulative Summary of Anomaly Conditions at M3:</b><br /><br />Tacoma - <b>R:810</b> - E:313<br />Sacramento - R:104 - <b>E:329</b><br />Vancouver - R:107 - <b>E:187</b><br />Regional Cells - <b>R:204.2</b> - E:107.77<br />Total - <b>R:1225.2</b> - E:936.77<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a> sets. The series belongs to the Resistance, who captured 16 Artifacts to the Enlightened’s 6, and controlled a majority of the Anomalies including today’s <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a> 9 and 10.<br /><br />Leveraging a strong presence in Tacoma, the Resistance were able to effectively counter the Enlightened dominance at both Satellite sites.  Although the Enlightened were able to control the Volatile Regional Cell of NR03-JULIET-03, Resistance Agents around the world managed to control 4 of the Connected Regional Cells, helping to ensure their victory.<br /><br />Congratulations to both Factions on a long and tenaciously fought series of events... From massive Anomalies with thousands of Agents on the ground, to epic tales of sleepless nights spent guarding Artifacts and building shipping lanes across the oceans, it has truly been one for the record books.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Tacoma - Measurement 4 Report</b><br /><br />The <b>Resistance</b> captured this Measurement, 101 to 100.<br />The <b>Resistance</b> captured this Primary Site, outperforming the Enlightened by 497.<br /><br />Portals Owned - <b>RES:</b> 33 - ENL: 10 - [Value: 2 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 20 each]<br />Links Created - <b>RES:</b> 3 - ENL: 0 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><br />The Enlightened controlled NR03-JULIET-03 (Volatile) [Value: +8%]<br />The Resistance controlled NR12-ROMEO-08 (Additional) [Value: +5%]<br />The Resistance controlled AS12-LIMA-10 (Additional) [Value: +5%]<br />The Resistance controlled AM01-LIMA-01 (Additional) [Value: +5%]<br />The Enlightened controlled AM03-KILO-03 (Additional) [Value: +5%]<br />The Resistance controlled AF02-GOLF-05 (Additional) [Value: +5%]<br /><br /><b>Total for this Measurement:</b><br /><b>Resistance</b> - 101 - Enlightened - 100<br /><br /><b>Total for this Primary Site:</b><br /><b>Resistance</b> - 810 - Enlightened - 313<br /><br /><b>Measurement Time Details:</b><br />Original: 1:08 (Minutes:Seconds within Measurement Window)<br />Padded String: /3h 1:08 :~tq7!0o;cy7'JMe<br />SHA256 of Padded String: 967b296590858a205b7415f772a02f8aa59a4284074391265e95784a7f011b5f<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - C.A. Thayer<br />ENL - Elephant Car Wash<br />ENL - Ezra Meeker 1915<br />ENL - F.E. Lovejoy<br />ENL - Freight House Water Sculpture<br />ENL - Pacific 23 Train House<br />ENL - Sounder Train Station - Tacoma Dome<br />ENL - Sounder Train Underpass<br />ENL - Tacoma Amtrak Station<br />ENL - Tacoma Dome Station<br />ENL [Vol] - Brown and Haley<br />ENL [Vol] - Madrona<br />ENL [Vol] - Tacoma Dome<br />ENL [Vol] - Tacoma Glass Blowing Studio<br />NEU - Shanaman Sports Museum<br />NEU - Tacoma Dome Clock Tower<br />NEU - Tacoma Waterfront Timeline<br />NEU - Transportation Timeline<br />RES - Alfred's Cafe Mural<br />RES - Andrew Foss<br />RES - Blacksmith Shop Puget Sound Lumber Co<br />RES - Bull's Eye<br />RES - Cascade Materials<br />RES - Dentristy Chair Entrance Statue<br />RES - Diving Wall Mural<br />RES - Falcon<br />RES - Fireboat #1<br />RES - Freighthouse Jagged Art<br />RES - Freighthouse Sasquach<br />RES - Giant Mixer<br />RES - Hamilton's Antique Auction House<br />RES - Horse Shoe Clutch<br />RES - Humanity<br />RES - Iron Clad Nature<br />RES - Ivy Wall and Glass<br />RES - Lure of a Tram Ride<br />RES - Metal Palm Tree Art<br />RES - Mocha Artwork<br />RES - New Frontier Graphic<br />RES - Olympian<br />RES - Powder Coating Systems<br />RES - Rainer Room<br />RES - Tacoma<br />RES - Tacoma Hotel Fire October 17 1924<br />RES - Tacoma Palm Trees<br />RES - The Span of Time Tacoma<br />RES - Thunderbird and Killer Whale<br />RES - Train Garden<br />RES - Umbrella Wall Mural<br />RES - We Are One<br />RES - Wedell Foss<br />RES [Vol] - Freighthouse Square<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Sacramento - Measurement 4 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 93.8 to 21.<br />The <b>Enlightened</b> captured this Secondary Site, outperforming the Resistance by 225.<br /><br />Portals Owned - RES: 11 - <b>ENL:</b> 27 - [Value: 1 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (26.8)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 21 - <b>Enlightened</b> - 93.8<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 104 - <b>Enlightened</b> - 329<br /><br /><b>Measurement Time Details:</b><br />Original: 1:08 (Minutes:Seconds within Measurement Window)<br />Padded String: /3h 1:08 :~tq7!0o;cy7'JMe<br />SHA256 of Padded String: 967b296590858a205b7415f772a02f8aa59a4284074391265e95784a7f011b5f<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - 14th Street Mural<br />ENL - A Tribute<br />ENL - Alpha Romeo on a Stick<br />ENL - At Lions Gate<br />ENL - Audrey Hepburn Graffiti<br />ENL - Brannan Mural<br />ENL - Comrades<br />ENL - Crepeville<br />ENL - Edible Pedal<br />ENL - Fountain<br />ENL - Fred Keeshaw Memorial<br />ENL - Good Coffee Mural<br />ENL - Governor's Mansion State Histo<br />ENL - Grocery Mural<br />ENL - Jack Daniels Statue<br />ENL - Memorial Auditorium Info<br />ENL - Mural on Business Wall<br />ENL - Old Soul Mural<br />ENL - Resource Center Lending Service<br />ENL - Sacramento Ballet Building<br />ENL - St. Johns<br />ENL - Statue of Saint<br />ENL - The Bread Store Mural<br />ENL - Victorian<br />ENL - Wells Fargo Pavillion Fountain<br />ENL - YWCA<br />ENL - Zanzibar Gold Mask<br />ENL [Vol] - Art Structure at East End Company<br />ENL [Vol] - Capitol View<br />ENL [Vol] - Governor's Mansion<br />ENL [Vol] - The Bridge<br />NEU - Blocks<br />NEU - Bubble Yum<br />NEU - Capitol Park<br />NEU - Circular Wall Art<br />NEU - De Vere's Pub<br />NEU - Econo Lodge<br />NEU - Gardener Waldo<br />NEU - Hamburger Patties<br />NEU - In Memory Of Dr. J. Arliss Pollock<br />NEU - Mural Inside Garage<br />NEU - Natomas Charter<br />NEU - Old Hanger<br />NEU - Pedal to the Metal<br />NEU - Pinky<br />NEU - Recycling is Good<br />NEU - Shark Tale<br />NEU - Shining arch<br />NEU - Sierra Boulder<br />NEU - Star Chart with State Capitol Plaque<br />NEU - The Painted Cork<br />NEU - Young Women's Christian Association<br />NEU - Zipcar-J Street<br />RES - 16th st. Zone of Discovery Plaque<br />RES - Camellia Coffee Shop<br />RES - Chief Wiggum on the Scene<br />RES - EIXI Orange<br />RES - Friend of Education<br />RES - Gorilla's Sunburst<br />RES - Governor’s Mansion Signage<br />RES - Graffiti on Japanese Imports Service and Repair<br />RES - Man in Wall Escapes<br />RES - Public Parking Mural<br />RES - Sacramento in Tile Wall Art<br />RES [Vol] - Memorial Auditorium<br /><br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Vancouver - Measurement 4 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 58 to 9.<br />The <b>Enlightened</b> captured this Secondary Site, outperforming the Resistance by 80.<br /><br />Portals Owned - <b>RES:</b> 9 - ENL: 8 - [Value: 1 each]<br />Volatile Portals Owned - RES: 0 - <b>ENL:</b> 5 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 9 - <b>Enlightened</b> - 58<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 107 - <b>Enlightened</b> - 187<br /><br /><b>Measurement Time Details:</b><br />Original: 1:08 (Minutes:Seconds within Measurement Window)<br />Padded String: /3h 1:08 :~tq7!0o;cy7'JMe<br />SHA256 of Padded String: 967b296590858a205b7415f772a02f8aa59a4284074391265e95784a7f011b5f<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Ancient Crest Stone<br />ENL - Blue Imp<br />ENL - Chapel of Epiphany<br />ENL - Floaty Steps<br />ENL - Fountain Park<br />ENL - St. Andrew's Hall<br />ENL - The Maltese Labyrinth<br />ENL - Water Spouts<br />ENL [Vol] - Chancellor Place Entry<br />ENL [Vol] - East Mall: Remember<br />ENL [Vol] - Rough Wooden Silhouettes<br />ENL [Vol] - Stone Compass<br />ENL [Vol] - Water Feature<br />NEU - 3 Faceless Persons<br />NEU - Dr John Micallef Memorial Library<br />NEU - East Graham Gate<br />NEU - Gage Common Block<br />NEU - House Post of Capilano<br />NEU - Iona Building<br />NEU - Totem Pole at Vancouver School of Theology<br />RES - Allard Hall<br />RES - Allard Hall<br />RES - Calm Waterfall<br />RES - Carey Theological College<br />RES - Chinese Dogwood Stone<br />RES - Garden Arc<br />RES - Grad Class of 1993<br />RES - Native Hosts - Cree<br />RES - St. Mark's Catholic College &amp; Chapel<br /><br /></div>
+[#### photo: Helios 10 - Cumulative Summary of Anomaly Conditions at M3:
+Tacoma - R:810 - E:313
+Sacramento - R:104 - E:329
+Vancouver - R:107 - E:187
+Regional Cells - R:204.2 - E:107.77
+Total - R:1225.2 - E:936.77
+#Helios sets. The series belongs to the Resistance, who captured 16 Artifacts to the Enlightened’s 6, and controlled a majority of the Anomalies including today’s #Helios 9 and 10.
+Leveraging a strong presence in Tacoma, the Resistance were able to effectively counter the Enlightened dominance at both Satellite sites.  Although the Enlightened were able to control the Volatile Regional Cell of NR03-JULIET-03, Resistance Agents around the world managed to control 4 of the Connected Regional Cells, helping to ensure their victory.
+Congratulations to both Factions on a long and tenaciously fought series of events... From massive Anomalies with thousands of Agents on the ground, to epic tales of sleepless nights spent guarding Artifacts and building shipping lanes across the oceans, it has truly been one for the record books.
+#Helios: Tacoma - Measurement 4 Report
+The Resistance captured this Measurement, 101 to 100.
+The Resistance captured this Primary Site, outperforming the Enlightened by 497.
+Portals Owned - RES: 33 - ENL: 10 - [Value: 2 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 20 each]
+Links Created - RES: 3 - ENL: 0 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+The Enlightened controlled NR03-JULIET-03 (Volatile) [Value: +8%]
+The Resistance controlled NR12-ROMEO-08 (Additional) [Value: +5%]
+The Resistance controlled AS12-LIMA-10 (Additional) [Value: +5%]
+The Resistance controlled AM01-LIMA-01 (Additional) [Value: +5%]
+The Enlightened controlled AM03-KILO-03 (Additional) [Value: +5%]
+The Resistance controlled AF02-GOLF-05 (Additional) [Value: +5%]
+Total for this Measurement:
+Resistance - 101 - Enlightened - 100
+Total for this Primary Site:
+Resistance - 810 - Enlightened - 313
+Measurement Time Details:
+Original: 1:08 (Minutes:Seconds within Measurement Window)
+Padded String: /3h 1:08 :~tq7!0o;cy7'JMe
+SHA256 of Padded String: 967b296590858a205b7415f772a02f8aa59a4284074391265e95784a7f011b5f
+Portal Ownership Details
+ENL - C.A. Thayer
+ENL - Elephant Car Wash
+ENL - Ezra Meeker 1915
+ENL - F.E. Lovejoy
+ENL - Freight House Water Sculpture
+ENL - Pacific 23 Train House
+ENL - Sounder Train Station - Tacoma Dome
+ENL - Sounder Train Underpass
+ENL - Tacoma Amtrak Station
+ENL - Tacoma Dome Station
+ENL [Vol] - Brown and Haley
+ENL [Vol] - Madrona
+ENL [Vol] - Tacoma Dome
+ENL [Vol] - Tacoma Glass Blowing Studio
+NEU - Shanaman Sports Museum
+NEU - Tacoma Dome Clock Tower
+NEU - Tacoma Waterfront Timeline
+NEU - Transportation Timeline
+RES - Alfred's Cafe Mural
+RES - Andrew Foss
+RES - Blacksmith Shop Puget Sound Lumber Co
+RES - Bull's Eye
+RES - Cascade Materials
+RES - Dentristy Chair Entrance Statue
+RES - Diving Wall Mural
+RES - Falcon
+RES - Fireboat #1
+RES - Freighthouse Jagged Art
+RES - Freighthouse Sasquach
+RES - Giant Mixer
+RES - Hamilton's Antique Auction House
+RES - Horse Shoe Clutch
+RES - Humanity
+RES - Iron Clad Nature
+RES - Ivy Wall and Glass
+RES - Lure of a Tram Ride
+RES - Metal Palm Tree Art
+RES - Mocha Artwork
+RES - New Frontier Graphic
+RES - Olympian
+RES - Powder Coating Systems
+RES - Rainer Room
+RES - Tacoma
+RES - Tacoma Hotel Fire October 17 1924
+RES - Tacoma Palm Trees
+RES - The Span of Time Tacoma
+RES - Thunderbird and Killer Whale
+RES - Train Garden
+RES - Umbrella Wall Mural
+RES - We Are One
+RES - Wedell Foss
+RES [Vol] - Freighthouse Square
+#Helios: Sacramento - Measurement 4 Report
+The Enlightened captured this Measurement, 93.8 to 21.
+The Enlightened captured this Secondary Site, outperforming the Resistance by 225.
+Portals Owned - RES: 11 - ENL: 27 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (26.8)]
+Total for this Measurement:
+Resistance - 21 - Enlightened - 93.8
+Total for this Secondary Site:
+Resistance - 104 - Enlightened - 329
+Measurement Time Details:
+Original: 1:08 (Minutes:Seconds within Measurement Window)
+Padded String: /3h 1:08 :~tq7!0o;cy7'JMe
+SHA256 of Padded String: 967b296590858a205b7415f772a02f8aa59a4284074391265e95784a7f011b5f
+Portal Ownership Details
+ENL - 14th Street Mural
+ENL - A Tribute
+ENL - Alpha Romeo on a Stick
+ENL - At Lions Gate
+ENL - Audrey Hepburn Graffiti
+ENL - Brannan Mural
+ENL - Comrades
+ENL - Crepeville
+ENL - Edible Pedal
+ENL - Fountain
+ENL - Fred Keeshaw Memorial
+ENL - Good Coffee Mural
+ENL - Governor's Mansion State Histo
+ENL - Grocery Mural
+ENL - Jack Daniels Statue
+ENL - Memorial Auditorium Info
+ENL - Mural on Business Wall
+ENL - Old Soul Mural
+ENL - Resource Center Lending Service
+ENL - Sacramento Ballet Building
+ENL - St. Johns
+ENL - Statue of Saint
+ENL - The Bread Store Mural
+ENL - Victorian
+ENL - Wells Fargo Pavillion Fountain
+ENL - YWCA
+ENL - Zanzibar Gold Mask
+ENL [Vol] - Art Structure at East End Company
+ENL [Vol] - Capitol View
+ENL [Vol] - Governor's Mansion
+ENL [Vol] - The Bridge
+NEU - Blocks
+NEU - Bubble Yum
+NEU - Capitol Park
+NEU - Circular Wall Art
+NEU - De Vere's Pub
+NEU - Econo Lodge
+NEU - Gardener Waldo
+NEU - Hamburger Patties
+NEU - In Memory Of Dr. J. Arliss Pollock
+NEU - Mural Inside Garage
+NEU - Natomas Charter
+NEU - Old Hanger
+NEU - Pedal to the Metal
+NEU - Pinky
+NEU - Recycling is Good
+NEU - Shark Tale
+NEU - Shining arch
+NEU - Sierra Boulder
+NEU - Star Chart with State Capitol Plaque
+NEU - The Painted Cork
+NEU - Young Women's Christian Association
+NEU - Zipcar-J Street
+RES - 16th st. Zone of Discovery Plaque
+RES - Camellia Coffee Shop
+RES - Chief Wiggum on the Scene
+RES - EIXI Orange
+RES - Friend of Education
+RES - Gorilla's Sunburst
+RES - Governor’s Mansion Signage
+RES - Graffiti on Japanese Imports Service and Repair
+RES - Man in Wall Escapes
+RES - Public Parking Mural
+RES - Sacramento in Tile Wall Art
+RES [Vol] - Memorial Auditorium
+#Helios: Vancouver - Measurement 4 Report
+The Enlightened captured this Measurement, 58 to 9.
+The Enlightened captured this Secondary Site, outperforming the Resistance by 80.
+Portals Owned - RES: 9 - ENL: 8 - [Value: 1 each]
+Volatile Portals Owned - RES: 0 - ENL: 5 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+Total for this Measurement:
+Resistance - 9 - Enlightened - 58
+Total for this Secondary Site:
+Resistance - 107 - Enlightened - 187
+Measurement Time Details:
+Original: 1:08 (Minutes:Seconds within Measurement Window)
+Padded String: /3h 1:08 :~tq7!0o;cy7'JMe
+SHA256 of Padded String: 967b296590858a205b7415f772a02f8aa59a4284074391265e95784a7f011b5f
+Portal Ownership Details
+ENL - Ancient Crest Stone
+ENL - Blue Imp
+ENL - Chapel of Epiphany
+ENL - Floaty Steps
+ENL - Fountain Park
+ENL - St. Andrew's Hall
+ENL - The Maltese Labyrinth
+ENL - Water Spouts
+ENL [Vol] - Chancellor Place Entry
+ENL [Vol] - East Mall: Remember
+ENL [Vol] - Rough Wooden Silhouettes
+ENL [Vol] - Stone Compass
+ENL [Vol] - Water Feature
+NEU - 3 Faceless Persons
+NEU - Dr John Micallef Memorial Library
+NEU - East Graham Gate
+NEU - Gage Common Block
+NEU - House Post of Capilano
+NEU - Iona Building
+NEU - Totem Pole at Vancouver School of Theology
+RES - Allard Hall
+RES - Allard Hall
+RES - Calm Waterfall
+RES - Carey Theological College
+RES - Chinese Dogwood Stone
+RES - Garden Arc
+RES - Grad Class of 1993
+RES - Native Hosts - Cree
+RES - St. Mark's Catholic College &amp; Chapel](https://lh4.googleusercontent.com/-64JzGrSez6M/VCdlukACRQI/AAAAAAABEI0/AYBVOVQtg3w/w2048-h1152/IMG_20140927_180951118.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/JP19wCzaXPT](https://plus.google.com/+NianticProject/posts/JP19wCzaXPT)

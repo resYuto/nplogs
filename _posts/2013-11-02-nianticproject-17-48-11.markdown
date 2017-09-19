@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-02 17:48:11 +0900"
+date:   2013-11-02 17:48:11 +0900
+categories: nianticproject
+---
+Operation [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "") - Mumbai has begun.
+
+The Resistance begin the day with a slight edge over their opponents, but as we've witnessed many times before, there's much yet to come.
+
+To Agents of both Factions: Good luck.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- MUMBAI - Measurement 1 Report</b><br /><br /><b>The Resistance owned 3 Volatile Portals and 7 Non-Volatile Portals</b><br />The Enlightened owned 2 Volatile Portals and 1 Non-Volatile Portal<br /><br />Mind Units at Anomaly START (R): 365,565,290<br />Mind Units at Anomaly START (E): 383,983,232<br /><br /><b>Total for Resistance this Measurement = 74</b><br />Total for Enlightened this Measurement = 42<br /><br /><b>Measurement Time Details:</b><br />Original: 4:23 (Minutes:Seconds past the hour)<br />Padded: DskHLhyCwiWIPRhPiTCGUgcEoZbyTPsJlrqlcQZasXdHRJKITW 4:23<br />MD5 of Padded String: CE0E3FEC0FEA7DF2F865D0F60A2121F9<br /><br /><b>NOV 2 PRIMARY SITES:</b><br />Atlanta: <a href="http://goo.gl/6qEZHx" class="ot-anchor">http://goo.gl/6qEZHx</a> <br />Madrid: <a href="http://goo.gl/Cu0Qkz" class="ot-anchor">http://goo.gl/Cu0Qkz</a> <br />Mumbai: <a href="http://goo.gl/B07bMC" class="ot-anchor">http://goo.gl/B07bMC</a> <br /><br /><b>REMOTE SITES:</b><br />Barcelona: <a href="http://goo.gl/wjSbor" class="ot-anchor">http://goo.gl/wjSbor</a> <br />Charlotte: <a href="http://goo.gl/bcUvi4" class="ot-anchor">http://goo.gl/bcUvi4</a> <br />Lisbon: <a href="http://goo.gl/0DxIOf" class="ot-anchor">http://goo.gl/0DxIOf</a> <br />Raleigh: <a href="http://goo.gl/4iSH8r" class="ot-anchor">http://goo.gl/4iSH8r</a><br /><br /></div>
+[#### photo: #13MAGNUS - MUMBAI - Measurement 1 Report
+The Resistance owned 3 Volatile Portals and 7 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 1 Non-Volatile Portal
+Mind Units at Anomaly START (R): 365,565,290
+Mind Units at Anomaly START (E): 383,983,232
+Total for Resistance this Measurement = 74
+Total for Enlightened this Measurement = 42
+Measurement Time Details:
+Original: 4:23 (Minutes:Seconds past the hour)
+Padded: DskHLhyCwiWIPRhPiTCGUgcEoZbyTPsJlrqlcQZasXdHRJKITW 4:23
+MD5 of Padded String: CE0E3FEC0FEA7DF2F865D0F60A2121F9
+NOV 2 PRIMARY SITES:
+Atlanta: http://goo.gl/6qEZHx 
+Madrid: http://goo.gl/Cu0Qkz 
+Mumbai: http://goo.gl/B07bMC 
+REMOTE SITES:
+Barcelona: http://goo.gl/wjSbor 
+Charlotte: http://goo.gl/bcUvi4 
+Lisbon: http://goo.gl/0DxIOf 
+Raleigh: http://goo.gl/4iSH8r](https://lh5.googleusercontent.com/-IYCS2rC2oR0/UnS7YjciliI/AAAAAAAAXFs/2jv0yep43vM/w1000-h594/13magnus-mumbai-m1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/QQHKT8XX2wy](https://plus.google.com/+NianticProject/posts/QQHKT8XX2wy)

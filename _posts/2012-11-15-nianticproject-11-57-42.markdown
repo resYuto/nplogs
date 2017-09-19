@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2012-11-15 11:57:42 +0900"
+date:   2012-11-15 11:57:42 +0900
+categories: nianticproject
+---
+The site went down for a few hours today, a DDOS attack from what I believe to be the NIA.
+
+Caused some hardship at my end for a few hours, but I'm back, and I've got a message for those who tried to shut me down.
+
+This is the beginning.
+- - -
+[https://plus.google.com/+NianticProject/posts/VGJsSWyfaA2](https://plus.google.com/+NianticProject/posts/VGJsSWyfaA2)

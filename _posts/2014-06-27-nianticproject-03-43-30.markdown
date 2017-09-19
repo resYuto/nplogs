@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-27 03:43:30 +0900"
+date:   2014-06-27 03:43:30 +0900
+categories: nianticproject
+---
+[#IngressIO](https://plus.google.com/s/%23IngressIO "")  
+
+Here are the C2 Volatiles at Google IO Extended Sites.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@166, :value=>"shared"@173}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressIO\">#IngressIO</a></b>", "<b> - C2 VOLS</b>", " ", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/pr648w\" class=\"ot-anchor\">http://goo.gl/pr648w</a>", " ", "<br />", "<br />", "Measurement 2 MD5: 423ccba8bf18806619e339f4f2b09ec8 ", "<br />", "<br />", "Event page: ", "<a href=\"http://goo.gl/RfkG99\" class=\"ot-anchor\">http://goo.gl/RfkG99</a>", " ", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/112522649430735138973\" oid=\"112522649430735138973\">Евгения Самойличенко</a>"], ".", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #IngressIO - C2 VOLS 
+Volatiles: http://goo.gl/pr648w 
+Measurement 2 MD5: 423ccba8bf18806619e339f4f2b09ec8
+Event page: http://goo.gl/RfkG99 
+Photo by Agent +Евгения Самойличенко.](https://lh5.googleusercontent.com/-KRi-CPl1uQI/U6xmZOKYqpI/AAAAAAAA3Z0/ccvn6Yj7pVA/w1536-h1152/26.06.14%2B-%2B1.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/STnfqM8NXLC](https://plus.google.com/+NianticProject/posts/STnfqM8NXLC)

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-23 17:11:07 +0900"
+date:   2016-02-23 17:11:07 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "A source sent this surveillance transcript my way earlier today. One of the speakers is clearly ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], ", and I have a pretty confident guess on the other speaker as well. Let me know who you think it is in the comments, let's see if we're on the same page...", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23InvestigateIngress\">#InvestigateIngress</a>", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/Av514EVwfv6](https://plus.google.com/+NianticProject/posts/Av514EVwfv6)

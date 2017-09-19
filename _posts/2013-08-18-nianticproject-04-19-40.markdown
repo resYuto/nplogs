@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2013-08-18 04:19:40 +0900"
+date:   2013-08-18 04:19:40 +0900
+categories: nianticproject
+---
+The Megafield comes down, the Resistance dominate the Volatiles.
+
+Looks like the Resistance in Boston and DC is ready to get down to serious business.
+
+ [#Cassanda](https://plus.google.com/s/%23Cassanda "")  
+
+-PAC<div class="shared"><br /><h2>Ingress</h2><br /><b>Operation</b> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Cassandra">#Cassandra</a> - DC + Boston<br /><br />After careful planning and biding their time, the Resistance now secure DC and take Measurement 2. When Factions are as evenly matched as they are today, one small miscalculation can cost Agents the Measurement. Or, as the Resistance hope, even an Anomaly.<br /><br /><b>Measurement 2 Details</b><br /><br /><b>The Resistance owned 3 Volatile Portals and 4 Non-Volatile Portals in Boston. In Washington D.C. they controlled 4 Volatile Portals and 14 Non-Volatile Portals.</b><br />The Enlightened owned 2 Volatile Portals and 12 Non-Volatile Portals in Boston. In Washington D.C. they controlled 1 Volatile Portal and 5 Non-Volatile Portals.<br /><br />The Resistance had 1 Link standing at Measurement Time. 1 in Boston and 0 in Washington D.C.<br /><b>The Enlightened had 5 Links standing at Measurement Time. 5 in Boston and 0 in Washington D.C.</b><br /><br /><b>Total for the Resistance this Measurement = 181. (Boston: 73 DC: 108.)</b><br />Total for the Enlightened this Measurement = 119. (Boston: 89 DC: 30.)<br /><br />Total for the Resistance this Anomaly = 403. (Boston: 205 DC: 198.)<br /><b>Total for the Enlightened this Anomaly = 521. (Boston: 157 DC: 364.)</b><br /><br /><b>Measurement Time Details</b><br /><br />Original:    THREE    O    FOUR    AND      TWO         SECONDS<br />Padded: XXXTHREEXXXXOXXXXFOURXXXXANDXXXXXXTWOXXXXXXXXXSECONDSXXXXXX   <br />OTP Key: MQTIYLKNAQOYQGHROUDFWPKJIIMJOMAPXWPTOAYGVOARJGGPZZWKTQFWPJK<br />Encrypted String: JNQBFCORXNLVEDEOLZRZNMHGFIZMLJXMUTIPCXVDSLXOGDYTBNJNLNCTMGH<br />MD5 of OTP Key: 307f9e36e74e899aeaa0c2c3c603d77d<br /><br /></div>
+[#### photo: undefined](https://lh4.googleusercontent.com/-hI8GgMLmjkw/Ug_K5mw4Z-I/AAAAAAAAOhw/osyWPUP-Ovs/cassandra-dcboston-2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/ZfN26SsVT51](https://plus.google.com/+NianticProject/posts/ZfN26SsVT51)

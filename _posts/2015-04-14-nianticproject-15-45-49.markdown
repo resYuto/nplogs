@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2015-04-14 15:45:49 +0900"
+date:   2015-04-14 15:45:49 +0900
+categories: nianticproject
+---
++[Paul School](https://plus.google.com/109763890472937053947 ""), a former colleague of Dr. +[Devra Bogdanovich](https://plus.google.com/102598577258553073047 "") from her days at Arecibo, recently reached out to +[Hank Johnson](https://plus.google.com/117792105926525258257 ""). He claimed to have received some form of message from Bogdanovich. 
+
+Hank first met Paul over a decade ago, after encountering Devra while in Arecibo researching 13MAGNUS. ( [http://goo.gl/f8ftPj](http://goo.gl/f8ftPj "") , [http://goo.gl/26gr25](http://goo.gl/26gr25 "") )
+
+It's unclear if Paul's messages from Devra are real or not, but we thought the same when we first saw Jarvis. ([http://www.nianticproject.com/?id=sc201b](http://www.nianticproject.com/?id=sc201b ""))
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1236, :value=>"shared"@1243}], :children=>["<br />", "<h2>Hank Johnson</h2>", "Decades ago at Arecibo when I met ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], " I also met ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/109763890472937053947\" oid=\"109763890472937053947\">Paul School</a>"], ". He was Devra’s mentor/supervisor/something and didn’t take kindly to my appearance on the scene. Might even have been responsible for some of the less fondly remembered parts of that visit. But that was decades ago...", "<br />", "<br />", "He’s older now. No less enthusiastic about contact with other intelligences than he was then. He was very curious about Niantic and felt a little bit shut out, but he said he had been in communication with Devra during the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], " period. And he suspected that Devra had been attempting to contact him very recently. ", "<br />", "<br />", "It makes sense, if Devra's in the portals as Jarvis was after his ‘Resurrection’, he would be a likely person for her to contact if for no reason other than he would likely be listening. Tuned in. Waiting for dialtone, as always.", "<br />", "<br />", "He played me some disrupted recordings of what certainly sounded like Devra. I heard the words 'becoming manifest,' but most of it I couldn't make out.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: xztm5tjp4hy7e8qrziw](https://lh3.googleusercontent.com/-TJbiMiuYAow/VSyv4SOLxjI/AAAAAAAACeI/WU-mBjWWaEw/w400-h400/WithDevra.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/4421L3akK5W](https://plus.google.com/+NianticProject/posts/4421L3akK5W)

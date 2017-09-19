@@ -1,0 +1,135 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-28 01:17:41 +0900"
+date:   2016-02-28 01:17:41 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "")  Madrid Final Scores. The Resistance claimed this Anomaly. E: 846 to R: 1741.
+
+The Resistance started strong and maintained their velocity, leveraging overhead Fields, Volatiles Portals and Links to their advantage. The Enlightened still lead in the  [#Obsidian](https://plus.google.com/s/%23Obsidian "")  Series, and Enlightened Agents on the ground did excellent work preventing a runaway Anomaly, including well executed blocking links in M4 to prevent another Resistance BAF. However, the Resistance capitalized on their strong ground performance to maintain the lead in Madrid, and as a result they have reduced the Enlightened lead from Hamamatsu by 895.
+
+The Shards in Rio have just passed through their first Jump Window… the action there is just beginning.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")**** Series Score**
+Enlightened: 8328
+Resistance: 4841
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Madrid - Measurement 4 Report**			
+
+The **Resistance** captured this Measurement, 478 to 210.			
+The **Resistance** captured this Satellite Site, outperforming the Enlightened by 895.			
+
+Portals Owned - **RES:** 32 - ENL: 23 - [Value: 6 each]			
+Volatile Portals Owned - **RES:** 13 - ENL: 6 - [Value: 12 each]			
+Links Created - **RES:** 20 - ENL: 7 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]		
+Anchored Fields Created - **RES:** 5 - ENL: 0
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]		
+Strategic Field - NONE
+[Value: 50% of opponent's Values this Measurement, rounded]			
+
+Values acquired this Measurement:			
+Portals - **RES:** 192 - ENL: 138			
+Volatile Portals - **RES:** 156 - ENL: 72			
+Links - **RES:** 90 - ENL: 0			
+Anchored Fields - **RES:** 40 - ENL: 0			
+Strategic Field - RES: 0 - ENL: 0			
+
+**Total for this Measurement:**
+**Resistance** - 478 - Enlightened - 210
+
+**Total for this Satellite Site:**
+**Resistance** - 1741 - Enlightened - 846
+
+**Measurement Time Details:**
+Original: 2:57 (Minutes:Seconds within Measurement Window)
+Padded String: :nCVh)w\Zwk%###2:57###YAK3:wQ(,E
+SHA256 of Padded String: 1f170f368f97b2fcc7104a1b65ccab93fac19ae0a2d94827b171f65b293aa793
+
+**Portal Ownership Details**
+
+E - Baron Hans Heinrich Thyssen-Bornemisza 
+E - Casa Museo Lope De Vega
+E - Colegio Notarial Madrid
+E - Diosa de la Justicia
+E - Edificio de la Cienciología
+E - España Cañi
+E - Estatua A Calderón De La Barca
+E - Felix Lope De Vega
+E - Fuente Del Corbellon
+E - Iglesia de San Sebastian
+E - Lorca en La Plaza Santa Ana
+E - Madrid
+E - Madrid, La Tercera
+E - María José De LARA
+E - Mural de Amanecer
+E - Museo Naval
+E - Niños con jarrón
+E - Palacio de Comunicaciones
+E - Paseo Del Prado
+E - Plaza de la Platería
+E - Recuerdo A Valle Inclan
+E - Smoking Blues. 
+E - Street Art the Back Side a News Stad
+E VOL - Daniel Urrabieta
+E VOL - El Barrendero
+E VOL - Monumento OPA
+E VOL - Teatro Reina Victoria
+E VOL - Vendedor Cupones Once Statue
+E VOL - Zorro Contento
+N - Ateneo de Madrid
+N VOL - Equitativa
+N VOL - Fachada Interactiva de MediaLab Prado
+N VOL - Hermandad De Cruzados De La Fe, Iglesia Del Santisimo Cristo de La Fe
+N VOL - Mercado De Anton Martín
+R - al otro lado
+R - Apolo
+R - Arte Toledano - esperando en e
+R - Barrio de Las Letras
+R - BOA MISTURA (MADRID_OCT. 2010)
+R - Casa Museo Lope De Vega
+R - Cervantes House
+R - Convento de Trinitarias Descalzas
+R - Cristo De Medinaceli
+R - Cuartel General De La Armada
+R - Designed By Don Pedro De Ribera
+R - Ejecutivo 
+R - Fachada Dolor 
+R - Giant Lizard
+R - Golden Door
+R - Grafitti Face
+R - Hotel Urban
+R - La Bolsa De Madrid
+R - La Cibeles
+R - Leon Felipe
+R - Mitico Cine Bogart
+R - Monumento 2 de Mayo
+R - Mural de pienso de cocodrilos
+R - Neptuno
+R - Peinture Murale
+R - Placa Homenaje A Casa Mira
+R - Saccharum
+R - Teatro De La Zarzuela
+R - Teatro Español 1869
+R - Vasija 
+R - Villa Real Statue
+R - Ñaka - Adiós dieta
+R VOL - Centro Ruso de Ciencia y Cultura
+R VOL - De Flamenco
+R VOL - El Buscón
+R VOL - El Casco Antiguo
+R VOL - Escudo C.Gracia
+R VOL - Escudo Oso Y Madroño
+R VOL - Faces Explosivas
+R VOL - Instituto Nacional De Administración Pública
+R VOL - Jesús de Medinacelli
+R VOL - Meliá
+R VOL - Mong
+R VOL - Mural de Toro
+R VOL - Toulouse Lautrec
+
+[#IngressNews](https://plus.google.com/s/%23IngressNews "")
+[#### photo: #IngressObsidian Madrid Final Scores. The Resistance claimed this Anomaly. E: 846 to R: 1741.
+The Resistance started strong and maintained their velocity, leveraging overhead Fields, Volatiles Portals and Links to their advantage. The Enlightened still lead in the #Obsidian Series, and Enlightened Agents on the ground did excellent work preventing a runaway Anomaly, including well executed blocking links in M4 to prevent another Resistance BAF.](https://lh3.googleusercontent.com/-dsQ3g5ltnAg/VtHLob8NFCI/AAAAAAAAixc/Q06KxXZg_U8/w503-h378/madrid_final.JPG "")
+- - -
+[https://plus.google.com/+NianticProject/posts/HLvaSKiRZWv](https://plus.google.com/+NianticProject/posts/HLvaSKiRZWv)

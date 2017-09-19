@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Niantic Project: 2013-10-12 17:15:59 +0900"
+date:   2013-10-12 17:15:59 +0900
+categories: nianticproject
+---
+The Resistance continue to struggle to gain their footing.
+
+Two Clusters remain.
+
+While the Resistance in Bangkok may be overwhelmed, their comrades from around the Globe have close to 2 hours left to win the race for Mind Units. 
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@256, :value=>"shared"@263}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " - BANGKOK - Measurement 2 Report", "<br />", "<br />", "Bangkok Enlightened Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103441793994153657153\" oid=\"103441793994153657153\">Phukao Pongsuwan</a>"], " shared that more than 50 Agents worked on their ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " strategy, coordinating with local cells to ensure a significant Enlightened presence. It has certainly paid off.", "<br />", "<br />", "The Resistance owned 0 Volatile Portals and 0 Non-Volatile Portals.", "<br />", "<b>The Enlightened owned 5 Volatile Portals and 26 Non Volatile Portals.</b>", "<br />", "<br />", "<b>The Enlightened had 94 Links standing at Measurement Time.</b>", "<br />", "<br />", "Total for Resistance this Measurement = 0", "<br />", "<b>Total for Enlightened this Measurement = 622</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 0", "<br />", "<b>Total for Enlightened this Anomaly = 1170</b>", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 2:01 (Minutes:Seconds past the hour)", "<br />", "Padded: RGkIDAgfLUYuUDKOp 2:01 hrQgRr", "<br />", "MD5 of Padded String: D61D8AF6AFFD5CCA601A62AE2C9D467A", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #13MAGNUS - BANGKOK - Measurement 2 Report
+Bangkok Enlightened Agent +Phukao Pongsuwan shared that more than 50 Agents worked on their #13MAGNUS strategy, coordinating with local cells to ensure a significant Enlightened presence. It has certainly paid off.
+The Resistance owned 0 Volatile Portals and 0 Non-Volatile Portals.
+The Enlightened owned 5 Volatile Portals and 26 Non Volatile Portals.
+The Enlightened had 94 Links standing at Measurement Time.
+Total for Resistance this Measurement = 0
+Total for Enlightened this Measurement = 622
+Total for Resistance this Anomaly = 0
+Total for Enlightened this Anomaly = 1170
+Measurement Time Details:
+Original: 2:01 (Minutes:Seconds past the hour)
+Padded: RGkIDAgfLUYuUDKOp 2:01 hrQgRr
+MD5 of Padded String: D61D8AF6AFFD5CCA601A62AE2C9D467A](https://lh5.googleusercontent.com/-as2aB9ITJhE/UlkCm9ocwHI/AAAAAAAAT3k/Q8Njwazl-ac/w1000-h594/13magnus-bangkok-c2.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/G5CoNp9okJE](https://plus.google.com/+NianticProject/posts/G5CoNp9okJE)

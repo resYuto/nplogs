@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-09-05 14:36:22 +0900"
+date:   2015-09-05 14:36:22 +0900
+categories: nianticproject
+---
++[Hank Johnson](https://plus.google.com/117792105926525258257 "") responds to +[Klue S.](https://plus.google.com/110350977702120778591 ""), and asks the most important question...
+
+How do we get the researchers back?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@488, :value=>"shared"@495}], :children=>["<br />", "<h2>Hank Johnson</h2>", "Well, ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], ".", "<br />", "<br />", "You're right and you're wrong. Yeah I was looking into 13MAGNUS a long time ago. Calvin backed a research project in my younger days.", "<br />", "<br />", "But that doesn't mean I have some kind of hidden agenda. I'm a seeker, just like you. I pursued 13MAGNUS, and it cost me my life. ", "<br />", "<br />", "I pursued Anti-Magnus, and it cost me one of my most trusted friends.", "<br />", "<br />", "I've paid the price for my curiosity, and all I've found is that sometimes well-meaning people do bad things. ", "<br />", "<br />", "As for ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Abaddon\">#Abaddon</a>", ". You're pretty on the nose. My instinct are saying the same things yours are:", "<br />", "<br />", "What did Calvin know about simulacra and the secrets of 13MAGNUS before the Niantic Project began? Why did the researchers disappear?", "<br />", "<br />", "And... I guess the most important question... how do we get them back?", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 7t2h8t7s2o6f9a8i1f1a5f1p4i0s2](https://lh3.googleusercontent.com/-nozKF-Ji_0Q/Vep-VupVf-I/AAAAAAAADJ0/50J9ueethwA/w800-h565/MightandPower.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/7hmshAPTee3](https://plus.google.com/+NianticProject/posts/7hmshAPTee3)

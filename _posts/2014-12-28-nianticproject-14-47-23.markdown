@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-28 14:47:23 +0900"
+date:   2014-12-28 14:47:23 +0900
+categories: nianticproject
+---
+Chapeau shares his impressions after meeting +[Klue S.](https://plus.google.com/110350977702120778591 "")... well, a hint of his impressions. Much remains a secret, although I've heard news that a new [#ADAEscape](https://plus.google.com/s/%23ADAEscape "") mission has been discovered in Rome. +[Operation Essex](https://plus.google.com/101577681173166935630 "") may have more details about that as it develops.
+
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "")'s post includes a fascinating analysis of possible hidden meanings in Shaper Glyphs conducted by Agent and Investigator +[Pyxaron Dragon](https://plus.google.com/104034317933526599549 "") . Most definitely worth a deeper look.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1274, :value=>"shared"@1281}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Met ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " in person for the first time in a long time. ", "<br />", "<br />", "I took an oath of secrecy about everything I observed and learned. I know truthseekers aren’t supposed to do that, but I did it for her. As I think we were all expecting, she’s in a state of transition, and worried about lots of things. Who is what, who knows what, more.", "<br />", "<br />", "It was interesting, and, like most mysteries, the truth was right in front of my face. That’s all I can say, for now. ", "<br />", "<br />", "Now on to other topics, I’m no Lightman, but I do understand the complexity and intricacy of the Shaper Glyphs. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/104034317933526599549\" oid=\"104034317933526599549\">Pyxaron Dragon</a>"], " ‘s analysis of some of the potential hidden meanings is quite amazing, and worth a deeper study. I've attached his image here, and the post can be found here: ", "<a href=\"http://goo.gl/ZXNNt9\" class=\"ot-anchor\">http://goo.gl/ZXNNt9</a>", ".", "<br />", "<br />", "It’s actually an old post, but it’s only come to my attention now. Just one of those many treasures buried deep in this community of minds. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115238965157544465033\" oid=\"115238965157544465033\">Stein Lightman</a>"], " … I hope you get a chance to see this. I’m sure you’ll unravel much more from this than I can. ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-a-ibiRQwuXU/VJ-VKUzhJYI/AAAAAAAAAjw/sSzpr2C9Ekg/glyph_10-11-2014.JPG "")
+- - -
+[https://plus.google.com/+NianticProject/posts/RzDY75rcVeM](https://plus.google.com/+NianticProject/posts/RzDY75rcVeM)

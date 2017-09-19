@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2013-03-28 05:32:09 +0900"
+date:   2013-03-28 05:32:09 +0900
+categories: nianticproject
+---
+Starting at 3:05PM PDT, +[Ingress](https://plus.google.com/103320655754019011706 "") will be tracking Misty Hannah's position as she begins her hyperthreading jumps across the Los Angeles Juice Club network.... I'll be resharing their updates here.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@379, :value=>"shared"@386}], :children=>["<br />", "<h2>Ingress</h2>", "Having successfully utilized the XM anomalies in Austin and Lake Geneva to break free from the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], ", Misty Hannah now plans to execute hyperthread jumps to navigate through Los Angeles using Operation Juice Club Portals. Local Enlightened Agents have been working with Hannah to help her avoid capture and containment, beginning with her first jump this afternoon at 3:05PM PDT. See ", "<a href=\"https://plus.google.com/events/c1p4b6iamgg6m0bmkd5pa5i1nqo\" class=\"ot-anchor\">https://plus.google.com/events/c1p4b6iamgg6m0bmkd5pa5i1nqo</a>", " for more details.", "<br />", "<br />"], :ignore=>true}}
+[#### album: SXSW 2013](https://plus.google.com/photos/103320655754019011706/albums/5860116729200513441?authkey=CLbt_dK2rJqXBg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/K6oPRFEC2Cm](https://plus.google.com/+NianticProject/posts/K6oPRFEC2Cm)

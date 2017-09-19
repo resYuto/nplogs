@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-06 16:30:17 +0900"
+date:   2014-12-06 16:30:17 +0900
+categories: nianticproject
+---
+PAC made a declaration today.  Is it time for us all to evaluate our beliefs and allegiances?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@107, :value=>"shared"@114}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "For the record, to the extent that I can tell, I am no longer Resistance. I am not Enlightened. I am a Truthseeker. I gather facts, make connections, ask questions, form hypotheses and test them.  I am no better than my information. It appears that odd things are appearing in portals. We know the origin of some of them – ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], "'s Breadcrumbs, but others are more mysterious – of unknown origin. The line between electronic and exotic may have been breached. I ask you to report anything you find. I say this even to the Resistance: Wouldn’t it be a good thing to know the nature of the N’zeer before we invite them into our world?", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/eaHWogxT3s9](https://plus.google.com/+NianticProject/posts/eaHWogxT3s9)

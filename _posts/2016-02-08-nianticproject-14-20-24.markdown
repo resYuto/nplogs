@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-08 14:20:24 +0900"
+date:   2016-02-08 14:20:24 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>H. Richard Loeb</h2>PAC’s Weekly Wrap-up: February 7, 2016<br /><br />Hello, Agents. As promised, here’s my top-line look back at this week in the Ingress Investigation. Last week, we followed the Roman exploratore Obsidius on his journey to North Africa in search of an Oracle. We started out this week with intercepted…<br /><br /></div>
+- - -
+[https://plus.google.com/+NianticProject/posts/Y6e7hC2pFDF](https://plus.google.com/+NianticProject/posts/Y6e7hC2pFDF)

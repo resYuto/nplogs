@@ -1,0 +1,221 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-22 01:29:19 +0900"
+date:   2014-06-22 01:29:19 +0900
+categories: nianticproject
+---
+[#Interitus](https://plus.google.com/s/%23Interitus "") 06
+
+Congratulations to the Enlightened who capture the Krakow Anomaly.  While they head into Gettysburg with the lead, the Resistance still hold the overall [#Interitus](https://plus.google.com/s/%23Interitus "") advantage.  
+
+All eyes now turn to Gettysburg.<div class="shared"><br /><h2>Ingress</h2><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b> 06 - Krakow, Bergen, Saint Petersburg</b><br />Measurement 4: Final Anomaly Report<br /><br />Krakow - R:907 - <b>E:1014</b><br />Bergen - R:96 - <b>E:238</b><br />St. Petersburg - R:181.5 - <b>E:254</b><br /><br />Total - R:1184.5 - <b>E:1506</b><br /><br />Despite a powerful performance by the Resistance across all three Sites, but particularly in Krakow and St. Petersburg, the Enlightened swept the first vector of <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> 06. <br /><br />Going into the American sites, Gettysburg, Jacksonville and Hoboken, the Enlightened lead the current Anomaly by 321.5, a respectable advantage, but not enough to even their standing in the <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a> Anomaly series. The Resistance still lead overall by 100.25.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b>: Krakow - Measurement 4 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 490 to 416.<br />The <b>Enlightened</b> captured this Primary Site, outperforming the Resistance by 107.<br /><br />Portals Owned - <b>RES:</b> 48 - ENL: 15 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 4 - ENL: 1 - [Value: 20 each]<br />Links Created - RES: 2 - <b>ENL:</b> 4 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]<br /><br />The Resistance captured the struggle for Global MU. [Value: 50]<br />The Enlightened controlled NR02-FOXTROT-11 (Primary) [Value: 70]<br />The Enlightened controlled NR04-FOXTROT-11 (Satellite) [Value: 60]<br />The Enlightened controlled NR03-HOTEL-14 (Satellite) [Value: 60]<br />The Enlightened controlled NR02-FOXTROT-05 (Volatile) [Value: 80]<br />The Resistance controlled PA07-SIERRA-12 (Volatile) [Value: 80]<br />The Enlightened controlled AM02-DELTA-14 (Additional) [Value: 50]<br />The Resistance controlled AM01-JULIET-07 (Additional) [Value: 50]<br />The Enlightened controlled AF07-SIERRA-02 (Additional) [Value: 50]<br />The Resistance controlled NR01-GOLF-06 (Additional) [Value: 50]<br />The Enlightened controlled PA01-ALPHA-00 (Additional) [Value: 50]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 416 - <b>Enlightened</b> - 490<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 907 - <b>Enlightened</b> - 1014<br /><br /><b>Portal Ownership Details</b><br />Resistance - Wojciech Bednarski<br />Resistance - Wieza<br />Resistance - Trybuny Stadionu Korony<br />Resistance - Tower Behind Church <br />Resistance - Taka sobie ciuchcia<br />Resistance - Tablica Pamiątkowa Prof. Rutkowskiego<br />Resistance - Tablica Pamiątkowa<br />Resistance - Świnka chrum chrum<br />Resistance - Statue on Crossroad<br />Resistance - Slon<br />Resistance - Sikawka<br />Resistance - Scrabble <br />Resistance - Przychodnia w starej kamienicy<br />Resistance - Portal Z Twarzą<br />Resistance - Podgorze - St Joseph Church<br />Resistance - Pobudka!<br />Resistance - Playground <br />Resistance - Plan Stadionu KS Korona<br />Resistance - Plac Bohaterow Getta<br />Resistance - Park Bednarskiego Playground <br />Resistance - Park Bednarskiego<br />Resistance - Ostrzelana Kamienica <br />Resistance - Oko Na Mnie Patrzy <br />Resistance - Mozaika Z Kwiatem<br />Resistance - Mozaika Korona<br />Resistance - Lion<br />Resistance - Legionisci Podgorscy<br />Resistance - Księgarnia Neon <br />Resistance - Kosmiczne Nadajniki<br />Resistance - Kościół Redemptorystow<br />Resistance - Kamienica Z Niejedną Głową <br />Resistance - Kamienica Z Herbami<br />Resistance - Kamienica Kalwaryjska 1<br />Resistance - Kalwaryjska 35a<br />Resistance - Game Over Mural<br />Resistance - Every Step Brings You Priceless Lessons<br />Resistance - Edward Dembowski<br />Resistance - Dwór Pod Jeleniem<br />Resistance - Dom Kultury Podgórze<br />Resistance - Dom Historii Podgórza<br />Resistance - Dobrowolski Farmaceuta <br />Resistance - Czerwony Ptaszek <br />Resistance - Building on Limanowskiego<br />Resistance - Budynek Z Herbem <br />Resistance - Armaty<br />Resistance - Archicadownia Building<br />Resistance - Apteka Pod Orlem <br />Resistance - Antoni Stawarz<br />Resistance - (VOLATILE) - Smok Wawelski<br />Resistance - (VOLATILE) - Kot Przy Wiśle<br />Resistance - (VOLATILE) - Es System Muzeum<br />Resistance - (VOLATILE) - Dom Kolejarza<br />Neutral - Żelazny Geniusz<br />Neutral - Trzepakowy Krąg<br />Neutral - Sunflower Facade<br />Neutral - Polski Związek Wędkarski<br />Neutral - Orzeł <br />Neutral - Ogniem i Mieczem<br />Neutral - No Właśnie? <br />Neutral - Nie Tylko Anioły<br />Neutral - Magistrat Miasta Podgórza<br />Neutral - KS Korona <br />Neutral - Krzemionki Playground <br />Neutral - Kladka Bernatka, koniec poludn<br />Neutral - Kino WRZOS<br />Neutral - Kapliczka w Parku Nowackiego<br />Neutral - Kamienica Z Wieżą<br />Neutral - Iglotech<br />Neutral - Dzban w oknie<br />Neutral - Dworek Pod Lipkami<br />Neutral - Chłopiec Z Winogron<br />Neutral - Baranek<br />Neutral - Artsy Flowers <br />Enlightened - Wolne Królewskie Miasto Podgórze<br />Enlightened - TWIERDZA KRAKÓW - FORT 31 ( ŚW<br />Enlightened - Smoczek Mural<br />Enlightened - Sklep sportowy<br />Enlightened - Przy Forcie<br />Enlightened - Poziomkowa polanka<br />Enlightened - Pod Białym Orłem <br />Enlightened - Po Koszarach<br />Enlightened - Nienarodzonym <br />Enlightened - Królik Na Szkole<br />Enlightened - Kolorowy Zaułek <br />Enlightened - Janiołek<br />Enlightened - Drukarnia<br />Enlightened - Dom Sierót Żydowskich <br />Enlightened - Czarna Maria<br />Enlightened - (VOLATILE) - Popiersie Frycza-Modrzewskiego<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b>: Bergen - Measurement 4 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 66 to 18.<br />The <b>Enlightened</b> captured this Secondary Site, outperforming the Resistance by 142.<br /><br />Portals Owned - RES: 8 - ENL: 8 - [Value: 1 each]<br />Volatile Portals Owned - RES: 1 - <b>ENL:</b> 4 - [Value: 10 each]<br />Links Created - RES: 0 - <b>ENL:</b> 9 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 18 - <b>Enlightened</b> - 66<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 96 - <b>Enlightened</b> - 238<br /><br /><b>Portal Ownership Details</b><br />Resistance - Unesco Pillar at Bryggen <br />Resistance - Steinbit Logcarving at Bryggen<br />Resistance - Snorre Sturluson Statue<br />Resistance - Rolf Berntzen<br />Resistance - Mariakirken<br />Resistance - Madam Felle<br />Resistance - Enhjorningen<br />Resistance - Bryggen Angel<br />Resistance - (VOLATILE) - St. Jørgens Hospital - Leprosy Museum<br />Enlightened - Tentacle <br />Enlightened - St. Catherine's Hospital Ruins<br />Enlightened - Julehuset<br />Enlightened - Dreggen Buekorpsgutt <br />Enlightened - Bryggens Museum<br />Enlightened - Bryggen<br />Enlightened - Audun Hetland<br />Enlightened - Asbjørn E. Herteig Bust<br />Enlightened - (VOLATILE) - Skutevikgutter Buekorps<br />Enlightened - (VOLATILE) - Fontene<br />Enlightened - (VOLATILE) - Fløibanen<br />Enlightened - (VOLATILE) - Festningen Batteri<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Interitus">#Interitus</a></b><b>: St. Petersburg - Measurement 4 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 74 to 33.<br />The <b>Enlightened</b> captured this Secondary Site, outperforming the Resistance by 72.5.<br /><br />Portals Owned - RES: 11 - <b>ENL:</b> 18 - [Value: 1 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 10 each]<br />Links Created - RES: 1 - <b>ENL:</b> 13 - [Value: 2 each]<br />Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 33 - <b>Enlightened</b> - 74<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 181.5 - <b>Enlightened</b> - 254<br /><br /><b>Portal Ownership Details</b><br />Resistance - путешественник<br />Resistance - прогуляемся по крышам Питера? <br />Resistance - Н. В. Гоголь памятная доска<br />Resistance - Исакиевский собор во всей крас<br />Resistance - Главное Командование ВМФ<br />Resistance - Ангелы Исаакия<br />Resistance - Michael Glinka / Михаил Глинка<br />Resistance - Interior of St. Isaac's Cathed<br />Resistance - Dostoevskiy Memorial Plate<br />Resistance - Astoria Hotel Plate<br />Resistance - Angleterre<br />Resistance - (VOLATILE) - Рождение Фемиды<br />Resistance - (VOLATILE) - Church on the Konyushennaya Square<br />Neutral - Мемориальная доска Сергею Есенину<br />Neutral - Исакиевская площадь<br />Neutral - Monument to Przhevalsky / Sain<br />Neutral - Green Fountain <br />Neutral - Dzerzhinski<br />Enlightened - Это Следы Снаряда<br />Enlightened - памятник Лермонтову<br />Enlightened - памятник горчакову<br />Enlightened - памятник Гоголю<br />Enlightened - Львы дома Лобанова-Ростовского<br />Enlightened - Дом балерины Улановой<br />Enlightened - Tower of the Admiralty Building<br />Enlightened - The sculptures close to arch i<br />Enlightened - The First Russian Insurance Company, est. 1827<br />Enlightened - The Exhibition Center of the St.Petersburg Union of Artists <br />Enlightened - Tchaikovsky<br />Enlightened - Saint Isaac's Cathedral<br />Enlightened - John Paul Jones Commemorative Plaque<br />Enlightened - First Tram Line<br />Enlightened - Cannon Balls at Admiralty Building<br />Enlightened - Building Sculptures<br />Enlightened - Building Sculpture<br />Enlightened - [Untitled]<br />Enlightened - (VOLATILE) - Музей Русской Водки<br />Enlightened - (VOLATILE) - дом раскольникова<br />Enlightened - (VOLATILE) - Logo of St Palace<br /><br /><b>Measurement Time Details:</b><br />Original: 1:58 (Minutes:Seconds within Measurement Window)<br />Padded String: fNBVFNPMZmXDwlrXlkHmiTvYsThub 1:58 M<br />MD5 of Padded String: 1b54ad1dac9cc8d6cafc236b782fe0d1<br /><br /></div>
+[#### photo: #Interitus 06 - Krakow, Bergen, Saint Petersburg
+Measurement 4: Final Anomaly Report
+Krakow - R:907 - E:1014
+Bergen - R:96 - E:238
+St. Petersburg - R:181.5 - E:254
+Total - R:1184.5 - E:1506
+Despite a powerful performance by the Resistance across all three Sites, but particularly in Krakow and St. Petersburg, the Enlightened swept the first vector of #Interitus 06.
+Going into the American sites, Gettysburg, Jacksonville and Hoboken, the Enlightened lead the current Anomaly by 321.5, a respectable advantage, but not enough to even their standing in the #Interitus Anomaly series. The Resistance still lead overall by 100.25.
+#Interitus: Krakow - Measurement 4 Report
+The Enlightened captured this Measurement, 490 to 416.
+The Enlightened captured this Primary Site, outperforming the Resistance by 107.
+Portals Owned - RES: 48 - ENL: 15 - [Value: 2 each]
+Volatile Portals Owned - RES: 4 - ENL: 1 - [Value: 20 each]
+Links Created - RES: 2 - ENL: 4 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+The Resistance captured the struggle for Global MU. [Value: 50]
+The Enlightened controlled NR02-FOXTROT-11 (Primary) [Value: 70]
+The Enlightened controlled NR04-FOXTROT-11 (Satellite) [Value: 60]
+The Enlightened controlled NR03-HOTEL-14 (Satellite) [Value: 60]
+The Enlightened controlled NR02-FOXTROT-05 (Volatile) [Value: 80]
+The Resistance controlled PA07-SIERRA-12 (Volatile) [Value: 80]
+The Enlightened controlled AM02-DELTA-14 (Additional) [Value: 50]
+The Resistance controlled AM01-JULIET-07 (Additional) [Value: 50]
+The Enlightened controlled AF07-SIERRA-02 (Additional) [Value: 50]
+The Resistance controlled NR01-GOLF-06 (Additional) [Value: 50]
+The Enlightened controlled PA01-ALPHA-00 (Additional) [Value: 50]
+Total for this Measurement:
+Resistance - 416 - Enlightened - 490
+Total for this Primary Site:
+Resistance - 907 - Enlightened - 1014
+Portal Ownership Details
+Resistance - Wojciech Bednarski
+Resistance - Wieza
+Resistance - Trybuny Stadionu Korony
+Resistance - Tower Behind Church
+Resistance - Taka sobie ciuchcia
+Resistance - Tablica Pamiątkowa Prof. Rutkowskiego
+Resistance - Tablica Pamiątkowa
+Resistance - Świnka chrum chrum
+Resistance - Statue on Crossroad
+Resistance - Slon
+Resistance - Sikawka
+Resistance - Scrabble
+Resistance - Przychodnia w starej kamienicy
+Resistance - Portal Z Twarzą
+Resistance - Podgorze - St Joseph Church
+Resistance - Pobudka!
+Resistance - Playground
+Resistance - Plan Stadionu KS Korona
+Resistance - Plac Bohaterow Getta
+Resistance - Park Bednarskiego Playground
+Resistance - Park Bednarskiego
+Resistance - Ostrzelana Kamienica
+Resistance - Oko Na Mnie Patrzy
+Resistance - Mozaika Z Kwiatem
+Resistance - Mozaika Korona
+Resistance - Lion
+Resistance - Legionisci Podgorscy
+Resistance - Księgarnia Neon
+Resistance - Kosmiczne Nadajniki
+Resistance - Kościół Redemptorystow
+Resistance - Kamienica Z Niejedną Głową
+Resistance - Kamienica Z Herbami
+Resistance - Kamienica Kalwaryjska 1
+Resistance - Kalwaryjska 35a
+Resistance - Game Over Mural
+Resistance - Every Step Brings You Priceless Lessons
+Resistance - Edward Dembowski
+Resistance - Dwór Pod Jeleniem
+Resistance - Dom Kultury Podgórze
+Resistance - Dom Historii Podgórza
+Resistance - Dobrowolski Farmaceuta
+Resistance - Czerwony Ptaszek
+Resistance - Building on Limanowskiego
+Resistance - Budynek Z Herbem
+Resistance - Armaty
+Resistance - Archicadownia Building
+Resistance - Apteka Pod Orlem
+Resistance - Antoni Stawarz
+Resistance - (VOLATILE) - Smok Wawelski
+Resistance - (VOLATILE) - Kot Przy Wiśle
+Resistance - (VOLATILE) - Es System Muzeum
+Resistance - (VOLATILE) - Dom Kolejarza
+Neutral - Żelazny Geniusz
+Neutral - Trzepakowy Krąg
+Neutral - Sunflower Facade
+Neutral - Polski Związek Wędkarski
+Neutral - Orzeł
+Neutral - Ogniem i Mieczem
+Neutral - No Właśnie?
+Neutral - Nie Tylko Anioły
+Neutral - Magistrat Miasta Podgórza
+Neutral - KS Korona
+Neutral - Krzemionki Playground
+Neutral - Kladka Bernatka, koniec poludn
+Neutral - Kino WRZOS
+Neutral - Kapliczka w Parku Nowackiego
+Neutral - Kamienica Z Wieżą
+Neutral - Iglotech
+Neutral - Dzban w oknie
+Neutral - Dworek Pod Lipkami
+Neutral - Chłopiec Z Winogron
+Neutral - Baranek
+Neutral - Artsy Flowers
+Enlightened - Wolne Królewskie Miasto Podgórze
+Enlightened - TWIERDZA KRAKÓW - FORT 31 ( ŚW
+Enlightened - Smoczek Mural
+Enlightened - Sklep sportowy
+Enlightened - Przy Forcie
+Enlightened - Poziomkowa polanka
+Enlightened - Pod Białym Orłem
+Enlightened - Po Koszarach
+Enlightened - Nienarodzonym
+Enlightened - Królik Na Szkole
+Enlightened - Kolorowy Zaułek
+Enlightened - Janiołek
+Enlightened - Drukarnia
+Enlightened - Dom Sierót Żydowskich
+Enlightened - Czarna Maria
+Enlightened - (VOLATILE) - Popiersie Frycza-Modrzewskiego
+#Interitus: Bergen - Measurement 4 Report
+The Enlightened captured this Measurement, 66 to 18.
+The Enlightened captured this Secondary Site, outperforming the Resistance by 142.
+Portals Owned - RES: 8 - ENL: 8 - [Value: 1 each]
+Volatile Portals Owned - RES: 1 - ENL: 4 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 9 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 18 - Enlightened - 66
+Total for this Secondary Site:
+Resistance - 96 - Enlightened - 238
+Portal Ownership Details
+Resistance - Unesco Pillar at Bryggen
+Resistance - Steinbit Logcarving at Bryggen
+Resistance - Snorre Sturluson Statue
+Resistance - Rolf Berntzen
+Resistance - Mariakirken
+Resistance - Madam Felle
+Resistance - Enhjorningen
+Resistance - Bryggen Angel
+Resistance - (VOLATILE) - St. Jørgens Hospital - Leprosy Museum
+Enlightened - Tentacle
+Enlightened - St. Catherine's Hospital Ruins
+Enlightened - Julehuset
+Enlightened - Dreggen Buekorpsgutt
+Enlightened - Bryggens Museum
+Enlightened - Bryggen
+Enlightened - Audun Hetland
+Enlightened - Asbjørn E. Herteig Bust
+Enlightened - (VOLATILE) - Skutevikgutter Buekorps
+Enlightened - (VOLATILE) - Fontene
+Enlightened - (VOLATILE) - Fløibanen
+Enlightened - (VOLATILE) - Festningen Batteri
+#Interitus: St. Petersburg - Measurement 4 Report
+The Enlightened captured this Measurement, 74 to 33.
+The Enlightened captured this Secondary Site, outperforming the Resistance by 72.5.
+Portals Owned - RES: 11 - ENL: 18 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 1 - ENL: 13 - [Value: 2 each]
+Single Field Over Entire Cluster - NONE - [Value: +25%, (0)]
+Total for this Measurement:
+Resistance - 33 - Enlightened - 74
+Total for this Secondary Site:
+Resistance - 181.5 - Enlightened - 254
+Portal Ownership Details
+Resistance - путешественник
+Resistance - прогуляемся по крышам Питера?
+Resistance - Н. В. Гоголь памятная доска
+Resistance - Исакиевский собор во всей крас
+Resistance - Главное Командование ВМФ
+Resistance - Ангелы Исаакия
+Resistance - Michael Glinka / Михаил Глинка
+Resistance - Interior of St. Isaac's Cathed
+Resistance - Dostoevskiy Memorial Plate
+Resistance - Astoria Hotel Plate
+Resistance - Angleterre
+Resistance - (VOLATILE) - Рождение Фемиды
+Resistance - (VOLATILE) - Church on the Konyushennaya Square
+Neutral - Мемориальная доска Сергею Есенину
+Neutral - Исакиевская площадь
+Neutral - Monument to Przhevalsky / Sain
+Neutral - Green Fountain
+Neutral - Dzerzhinski
+Enlightened - Это Следы Снаряда
+Enlightened - памятник Лермонтову
+Enlightened - памятник горчакову
+Enlightened - памятник Гоголю
+Enlightened - Львы дома Лобанова-Ростовского
+Enlightened - Дом балерины Улановой
+Enlightened - Tower of the Admiralty Building
+Enlightened - The sculptures close to arch i
+Enlightened - The First Russian Insurance Company, est. 1827
+Enlightened - The Exhibition Center of the St.Petersburg Union of Artists
+Enlightened - Tchaikovsky
+Enlightened - Saint Isaac's Cathedral
+Enlightened - John Paul Jones Commemorative Plaque
+Enlightened - First Tram Line
+Enlightened - Cannon Balls at Admiralty Building
+Enlightened - Building Sculptures
+Enlightened - Building Sculpture
+Enlightened - [Untitled]
+Enlightened - (VOLATILE) - Музей Русской Водки
+Enlightened - (VOLATILE) - дом раскольникова
+Enlightened - (VOLATILE) - Logo of St Palace
+Measurement Time Details:
+Original: 1:58 (Minutes:Seconds within Measurement Window)
+Padded String: fNBVFNPMZmXDwlrXlkHmiTvYsThub 1:58 M
+MD5 of Padded String: 1b54ad1dac9cc8d6cafc236b782fe0d1](https://lh5.googleusercontent.com/-jH8dm85OiDc/U6WwY7lQJLI/AAAAAAAA1bA/JbMJnXkJYX8/w1907-h1430/IMG_20140621_121353.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Pr2ADNSGjHy](https://plus.google.com/+NianticProject/posts/Pr2ADNSGjHy)

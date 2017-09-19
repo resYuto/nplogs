@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-28 00:15:12 +0900"
+date:   2016-02-28 00:15:12 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Madrid Measurement 3 Scores. The Resistance are in the lead. E: 636 to R: 1263.
+
+Thanks in large part to another overhead Field, the Resistance put in a strong performance this Measurement. The Enlightened continued to control the majority of the Cluster Portals, while the Resistance held more Volatiles. At Measurement 3, the Resistance lead by 627. One Measurement remains in this Anomaly… an opportunity for the Resistance to further mitigate the Enlightened lead from Hamamatsu… an opportunity for the Enlightened to keep their advantage alive. 
+
+The Shards will manifest in Rio de Janeiro shortly. This struggle is far from over.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Madrid - Measurement 3 Report**			
+
+The **Resistance** captured this Measurement, 408 to 204.			
+The **Resistance** currently control this Satellite Site, leading by 627.			
+
+Portals Owned - RES: 21 - **ENL:** 22 - [Value: 6 each]			
+Volatile Portals Owned - **RES:** 15 - ENL: 6 - [Value: 12 each]			
+Links Created - RES: 11 - ENL: 0 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]		
+Anchored Fields Created - RES: 0 - ENL: 0
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]			
+Strategic Field - **RES**
+[Value: 50% of opponent's Values this Measurement, rounded]		
+
+Values acquired this Measurement:			
+Portals - RES: 126 - **ENL:** 132			
+Volatile Portals - **RES:** 180 - ENL: 72			
+Links - RES: 0 - ENL: 0			
+Anchored Fields - RES: 0 - ENL: 0			
+Strategic Field - **RES:** 102 - ENL: 0			
+
+**Total for this Measurement:**
+**Resistance** - 408 - Enlightened - 204
+
+**Total for this Satellite Site:**
+**Resistance** - 1263 - Enlightened - 636
+
+**Measurement Time Details:**
+Original: 1:17 (Minutes:Seconds within Measurement Window)
+Padded String: ###1:17###3'^^A0ghA!h]@(%
+SHA256 of Padded String: 2acd2972bb59aa5cb775f411f8026af71d9378ed605eefb50a44bce2d1dd2393
+
+**Portal Ownership Details**
+
+E - Banco Espanol de Credito
+E - Banesto
+E - Café La Catedral
+E - Carlos III Rey De Espana
+E - Doncel asomado a la ventana - 
+E - El Oso Farolero
+E - Escudo C.Gracia
+E - Escudo de España - Madrid
+E - Escuela De Profesionales De  Inmigración y Cooperación
+E - Estatua Alada at Calle Alcalá
+E - Gran Reloj con sol 
+E - Granjeros
+E - Iglesia De Nuestra Señora Del Carmen S. XVII
+E - La Mariblanca
+E - Montera Tattoo
+E - Museo RA De Bellas Artes
+E - Oratorio Caballero de Gracia
+E - Puerta Del Sol
+E - TermóMetro PúBlico De Preciados
+E - Tio Pepe en la Puerta del Sol
+E - Virgen De Las Angustias Madrid
+E - Árbol callejero
+E VOL - Caballero de Gracia
+E VOL - Cine Callao
+E VOL - Dando sombra
+E VOL - Edificio Aparejadores
+E VOL - Gemelas de piedra 
+E VOL - Kilometro cero
+N - Círculo De Bellas Artes
+N - Edificio Metrópolis
+N - Parroquia San José
+N - Teatro Alcázar
+N VOL - Edificio Telefónica
+N VOL - La Hacienda De Luis Muñoz Rivera
+N VOL - Mural de pienso de cocodrilos
+R - Antigua Red de San Luis
+R - Café De La Montaña
+R - Calle De Victor Hugo
+R - Casa Labra
+R - Cortilandia
+R - El reloj de la Puerta del Sol
+R - Elena Hernandez
+R - Estatuas
+R - Estatuas at Plaza Canalejas
+R - Fuente de la luna 
+R - Hombre Fotografiando
+R - Homenaje Al Pueblo
+R - Iglesia de las Calatravas
+R - Jardin en altura
+R - José Fernandez Rodriguez (Pepin)
+R - Juan Gris
+R - Madrid Pintado En Fachada
+R - Madrid. Vistas desde terraza H
+R - Osos y rueca 
+R - Real Casa de Correos
+R - Teatro Bellas Artes
+R VOL - Artemisa
+R VOL - Café Oliver Bar Restaurante
+R VOL - Casa de las Alhajas
+R VOL - Casino De Madrid
+R VOL - Casino De Madrid Placa
+R VOL - Cines Luna
+R VOL - Estación De Cercanías De Sol
+R VOL - Fachada Con Querubines
+R VOL - Farmacia Arenal
+R VOL - Golden Door
+R VOL - Lo que vislumbra Minerva
+R VOL - Metropolis
+R VOL - Oteando El Horizonte
+R VOL - Plaza Canalejas
+R VOL - Tetuán
+
+[#Ingress](https://plus.google.com/s/%23Ingress "") News
+[#### photo: #IngressObsidian Madrid Measurement 3 Scores. The Resistance are in the lead. E: 636 to R: 1263.
+Thanks in large part to another overhead Field, the Resistance put in a strong performance this Measurement. The Enlightened continued to control the majority of the Cluster Portals, while the Resistance held more Volatiles. At Measurement 3, the Resistance lead by 627. One Measurement remains in this Anomaly… an opportunity for the Resistance to](https://lh3.googleusercontent.com/-f0ezamm9mjM/VtG9eSNixAI/AAAAAAAAiwE/SKNVswPaPX8/w800-h575/madrid_m3.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Ny694zqGrnt](https://plus.google.com/+NianticProject/posts/Ny694zqGrnt)

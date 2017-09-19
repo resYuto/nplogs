@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-11-09 16:06:48 +0900"
+date:   2015-11-09 16:06:48 +0900
+categories: nianticproject
+---
++[Klue S.](https://plus.google.com/110350977702120778591 "") shares details about her journey to Hamburg for [#Abaddon](https://plus.google.com/s/%23Abaddon "").
+
+It also seems that Ingress: Origins has raised many questions for her about +[Oliver Lynton-Wolfe](https://plus.google.com/108200572857719809031 "") and the failed Power Cube test.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@657, :value=>"shared"@664}], :children=>["<br />", "<h2>Klue S.</h2>", "I wasn’t there at the Niantic Project, and Ingress: Origins has filled in a lot of gaps for me.", "<br />", "<br />", "On of the big ones was Dr. ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108200572857719809031\" oid=\"108200572857719809031\">Oliver Lynton-Wolfe</a>"], ". There was quite a bit I didn’t know about him. What, exactly, was he doing for Hulong when Calvin snagged him?  Was he there under duress or of his own volition? And what about the Power Cube test?  Did he deliberately sabotage his own experiment or was it sabotaged by someone else... or was it just an accident?  Read it yourself and you be the judge.  ", "<br />", "<br />", "I’ve got quite a few questions about Lynton-Wolfe and maybe even Nigel Moyer if I ever get to have a conversation with either of them.   ", "<br />", "<br />", "As for Lynton-Wolfe, the question is who’s side he’ll be on come November 14th.", "<br />", "<br />", "I'll be in Hamburg on that day, might get to see some of you as well. I got a tip that some of ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101180225942784917383\" oid=\"101180225942784917383\">Carrie Campbell</a>"], "'s old files (from the Operation: Voynich days) could still be hidden in an academic archive there. The bad news is, I've been warned that if I go after them, I'll be putting myself in a dangerous spot.", "<br />", "<br />", "Fortunately, I have a contact there who is familiar with the world of threat and danger. He said he'll keep me covered. I trust that he knows his business. We'll find out soon enough.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 8,ke3F1x4b8e](https://lh3.googleusercontent.com/-6XZHBXnRwGc/VkBCJ-JhnTI/AAAAAAAABLo/ziCqJdAFuO4/w800-h800/Cube.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/eRr8K738AFh](https://plus.google.com/+NianticProject/posts/eRr8K738AFh)

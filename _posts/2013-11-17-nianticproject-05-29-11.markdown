@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-17 05:29:11 +0900"
+date:   2013-11-17 05:29:11 +0900
+categories: nianticproject
+---
+The Resistance establish a strong early position in Dallas, casting a field over the Anomaly Center. By strategically leveraging Links, they surge ahead of the Enlightened in San Antonio and Austin as well.
+
+In Houston, with a giant Enlightened field covering the area, the Enlightened make a bold opening statement about their intentions today.
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- DALLAS - Measurement 1 Report</b><br /><br />Dallas Resistance successfully establish and hold a Megafield over all Portals in Cluster 1. With 2 RedX devices already retrieved from a Courier by the Vienna Resistance, if the Enlightened hope to retrieve a RedX device, neutralizing the Resistance Megafield over Dallas must be a top priority.<br /><br /><b>The Resistance owned 3 Volatile Portals and 12 Non-Volatile Portals</b><br />The Enlightened owned 2 Volatile Portals and 12 Non-Volatile Portals<br /><br /><b>A Resistance Field covered all the Portals in this Cluster (100)</b><br /><br /><b>The Enlightened had 8 Links standing at Measurement Time</b><br /><br />The Resistance controlled 2 Jarvis Shards<br /><b>The Enlightened controlled 3 Jarvis Shards</b><br /><br />Mind Units at Anomaly START (R): 836455199<br />Mind Units at Anomaly START (E): 457924961<br /><br /><b>Total for Resistance this Measurement = 204</b><br />Total for Enlightened this Measurement = 134<br /><br /><b>Measurement Time Details:</b><br />Original: 3:57 (Minutes:Seconds past the hour)<br />Padded: KFtpbJnrBYteZThknwzNMJu 3:57 uPurJR<br />MD5 of Padded String: AC6C6B284B9BCAB1109A4AEDB7E2D25C<br /><br /><b>Jarvis Shard Ownership (at Measurement Time):</b><br />Shard 01 - Awareness: Enlightened<br />Shard 02 - Creativity: Resistance<br />Shard 03 - Strength: Enlightened<br />Shard 04 - Insight: Enlightened<br />Shard 05 - Understanding: Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- SAN ANTONIO - Measurement 1 Report</b><br /><br /><b>The Resistance owned 2 Volatile Portals and 16 Non-Volatile Portals</b><br />The Enlightened owned 2 Volatile Portals and 3 Non-Volatile Portals<br /><br /><b>The Resistance had 11 Links standing at Measurement Time</b><br />The Enlightened had 1 Links standing at Measurement Time<br /><br /><b>Total for Resistance this Measurement = 58</b><br />Total for Enlightened this Measurement = 25<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- AUSTIN - Measurement 1 Report</b><br /><br /><b>The Resistance owned 4 Volatile Portals and 19 Non-Volatile Portals</b><br />The Enlightened owned 1 Volatile Portal and 7 Non-Volatile Portals<br /><br /><b>The Resistance had 23 Links standing at Measurement Time</b><br />The Enlightened had 8 Links standing at Measurement Time<br /><br /><b>Total for Resistance this Measurement = 105</b><br />Total for Enlightened this Measurement = 33<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- HOUSTON - Measurement 1 Report</b><br /><br />The Resistance owned 2 Volatile Portals and 10 Non-Volatile Portals<br /><b>The Enlightened owned 3 Volatile Portals and 4 Non-Volatile Portals</b><br /><br /><b>An Enlightened Field covered all the Portals in this Cluster (50)</b><br /><br />Total for Resistance this Measurement = 30<br /><b>Total for Enlightened this Measurement = 84</b><br /><br /><b>NOV 16 PRIMARY SITES:</b> <br />Dallas: <a href="http://goo.gl/xIOPHV" class="ot-anchor">http://goo.gl/xIOPHV</a> <br />Vienna: <a href="http://goo.gl/mZF46x" class="ot-anchor">http://goo.gl/mZF46x</a> <br /><br /><b>SATELLITE SITES:</b> <br />Austin: <a href="http://goo.gl/a33LRA" class="ot-anchor">http://goo.gl/a33LRA</a> <br />Bratislava: <a href="http://goo.gl/VaLXum" class="ot-anchor">http://goo.gl/VaLXum</a> <br />Graz: <a href="http://goo.gl/LISRXM" class="ot-anchor">http://goo.gl/LISRXM</a> <br />Houston: <a href="http://goo.gl/JUhO0S" class="ot-anchor">http://goo.gl/JUhO0S</a> <br />San Antonio: <a href="http://goo.gl/bsJEXr" class="ot-anchor">http://goo.gl/bsJEXr</a> <br />Zurich: <a href="http://goo.gl/d9uv9v" class="ot-anchor">http://goo.gl/d9uv9v</a> <br /><br /></div>
+[#### photo: #13MAGNUS - DALLAS - Measurement 1 Report
+Dallas Resistance successfully establish and hold a Megafield over all Portals in Cluster 1. With 2 RedX devices already retrieved from a Courier by the Vienna Resistance, if the Enlightened hope to retrieve a RedX device, neutralizing the Resistance Megafield over Dallas must be a top priority.
+The Resistance owned 3 Volatile Portals and 12 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 12 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (100)
+The Enlightened had 8 Links standing at Measurement Time
+The Resistance controlled 2 Jarvis Shards
+The Enlightened controlled 3 Jarvis Shards
+Mind Units at Anomaly START (R): 836455199
+Mind Units at Anomaly START (E): 457924961
+Total for Resistance this Measurement = 204
+Total for Enlightened this Measurement = 134
+Measurement Time Details:
+Original: 3:57 (Minutes:Seconds past the hour)
+Padded: KFtpbJnrBYteZThknwzNMJu 3:57 uPurJR
+MD5 of Padded String: AC6C6B284B9BCAB1109A4AEDB7E2D25C
+Jarvis Shard Ownership (at Measurement Time):
+Shard 01 - Awareness: Enlightened
+Shard 02 - Creativity: Resistance
+Shard 03 - Strength: Enlightened
+Shard 04 - Insight: Enlightened
+Shard 05 - Understanding: Resistance
+#13MAGNUS - SAN ANTONIO - Measurement 1 Report
+The Resistance owned 2 Volatile Portals and 16 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 3 Non-Volatile Portals
+The Resistance had 11 Links standing at Measurement Time
+The Enlightened had 1 Links standing at Measurement Time
+Total for Resistance this Measurement = 58
+Total for Enlightened this Measurement = 25
+#13MAGNUS - AUSTIN - Measurement 1 Report
+The Resistance owned 4 Volatile Portals and 19 Non-Volatile Portals
+The Enlightened owned 1 Volatile Portal and 7 Non-Volatile Portals
+The Resistance had 23 Links standing at Measurement Time
+The Enlightened had 8 Links standing at Measurement Time
+Total for Resistance this Measurement = 105
+Total for Enlightened this Measurement = 33
+#13MAGNUS - HOUSTON - Measurement 1 Report
+The Resistance owned 2 Volatile Portals and 10 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 4 Non-Volatile Portals
+An Enlightened Field covered all the Portals in this Cluster (50)
+Total for Resistance this Measurement = 30
+Total for Enlightened this Measurement = 84
+NOV 16 PRIMARY SITES: 
+Dallas: http://goo.gl/xIOPHV 
+Vienna: http://goo.gl/mZF46x 
+SATELLITE SITES: 
+Austin: http://goo.gl/a33LRA 
+Bratislava: http://goo.gl/VaLXum 
+Graz: http://goo.gl/LISRXM 
+Houston: http://goo.gl/JUhO0S 
+San Antonio: http://goo.gl/bsJEXr 
+Zurich: http://goo.gl/d9uv9v ](https://lh4.googleusercontent.com/-RKtAVe_h4u0/UofSRAOEJqI/AAAAAAAAaR8/g9mxkr1sQwY/w1000-h594/13magnus-dallas-m1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/PkAtu3SuxHH](https://plus.google.com/+NianticProject/posts/PkAtu3SuxHH)

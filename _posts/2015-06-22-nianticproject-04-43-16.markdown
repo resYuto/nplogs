@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-06-22 04:43:16 +0900"
+date:   2015-06-22 04:43:16 +0900
+categories: nianticproject
+---
+In the wake of the Resistance's razor-thin victory over the  [#Persepolis](https://plus.google.com/s/%23Persepolis "")  Anomalies, +[Klue S.](https://plus.google.com/110350977702120778591 "") comments on what lies ahead.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@402, :value=>"shared"@409}], :children=>["<br />", "<h2>Klue S.</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115238965157544465033\" oid=\"115238965157544465033\">Stein Lightman</a>"], ", like ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], ", will stand with the Resistance now, and with him comes the power of the Glyphs.", "<br />", "<br />", "I can speak from personal experience. That power is not to be underestimated.", "<br />", "<br />", "With the Resistance's support, it is likely that Jahan will succeed in unlocking the N’zeer technology in ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Persepolis\">#Persepolis</a>", ", and now, the true power of the N’zeer will be unleashed.   ", "<br />", "<br />", "Be careful what you wish for. The days ahead will be tempestuous.", "<br />", "<br />", "Many of you will be wondering how I felt about all this. I'm processing that myself.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 2yuhV2KGe5zCdVs1vj](https://lh3.googleusercontent.com/-5QU4SGA_1RI/VYcR6jdxnRI/AAAAAAAAAzM/PDh8YT5OCDo/w899-h1064/Blue.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/aeXtDXzaAFn](https://plus.google.com/+NianticProject/posts/aeXtDXzaAFn)

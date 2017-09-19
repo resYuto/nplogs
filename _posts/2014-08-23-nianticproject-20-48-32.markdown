@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-23 20:48:32 +0900"
+date:   2014-08-23 20:48:32 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 05 - MANCHESTER, ROTTERDAM - C1 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/mgcVl0\" class=\"ot-anchor\">http://goo.gl/mgcVl0</a>", "<br />", "<br />", "SHA256: a56164c3c447cd03cd51004d217c15aec4bac4e5c94d671de60a0028cc6c31c8", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108362385192046650152\" oid=\"108362385192046650152\">Arran Wicher</a>"], " in Manchester", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh5.googleusercontent.com/-4HgnsN1jtPE/U_h-d7oTYBI/AAAAAAAA_Lw/qxFbnrGzwrw/manchesterhill.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/W49op6Ywfu4](https://plus.google.com/+NianticProject/posts/W49op6Ywfu4)

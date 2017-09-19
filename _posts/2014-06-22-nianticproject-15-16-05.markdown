@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-22 15:16:05 +0900"
+date:   2014-06-22 15:16:05 +0900
+categories: nianticproject
+---
+Earlier today, the Resistance emerged from the path of [#Interitus](https://plus.google.com/s/%23Interitus "") with victory in their hands.
+
++[Roland Jarvis](https://plus.google.com/103568659333550762891 ""), ideological leader of the Enlightened, releases an official statement following his defeat.
+
+He believes that a great darkness exists within the universe, one that threatens humanity, the Shapers and perhaps the Exotic Matter Portals that connect us together as well.
+
+He has said that a document obtained by the Resistance in Krakow today will help us uncover the nature of what faces us down the road. 
+
+I hope we will all be able to see these pages soon. If a great danger lies in wait for us, we must be prepared. We will have to work together to find the solutions that protect us all.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1005, :value=>"shared"@1012}], :children=>["<br />", "<h2>Roland Jarvis</h2>", "We have failed.", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], " will unleash her horrors... ADA and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " will proceed with the enslavement of mankind.", "<br />", "<br />", "I have a question for all of you: Why did our Friends choose us? Out of the billions of civilizations throughout the history of the universe, why us?  Why now?", "<br />", "<br />", "Was it to give us a gift? It most certainly was, it was to show us the path to the Ultimate, a way to live and evolve in harmony with the natural world.", "<br />", "<br />", "But it was also to ask a favor. Our friends need us as much as we need them. The universe is vast and it harbors darkness that we cannot imagine.  That darkness is not the Shapers.  It is a force that poses a threat to us all.", "<br />", "<br />", "Resistance, you have laid your hands on a most precious document today.  I am happy that it has found a home with you. ", "<br />", "<br />", "Read it carefully. Study it. Share it. Then join us.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: rberviigfhvteevxitfinnegvuiifsthhduwnaesvseusn](https://lh4.googleusercontent.com/-b2zDhK5ZxNk/U6Zx3G5rjpI/AAAAAAAAAc4/9Udjlraq9bk/revelations.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/1h8MsvghnKh](https://plus.google.com/+NianticProject/posts/1h8MsvghnKh)

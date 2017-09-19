@@ -1,0 +1,163 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-08 06:15:34 +0900"
+date:   2013-12-08 06:15:34 +0900
+categories: nianticproject
+---
+The Resistance establish an early grip on Phoenix, while tightening their hold over Nashville.
+
+In Tucson, the Enlightened surge to the fore.
+
+x
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  <div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- PHOENIX - Measurement 1 Report</b> <br /><br /><b>The Resistance owned 3 Volatile Portals and 11 Non-Volatile Portals</b><br />The Enlightened owned 1 Volatile Portal and 6 Non-Volatile Portals<br /><br /><b>The Resistance had 7 Links standing at Measurement Time</b><br /><br />The Resistance Controlled 5 Jarvis Shards<br /><b>The Enlightened Controlled 6 Jarvis Shards</b><br /><br />Mind Units at Anomaly START (R): 454867723<br />Mind Units at Anomaly START (E): 499850646<br /><br /><b>Total for Resistance this Measurement = 167</b><br />Total for Enlightened this Measurement = 92<br /><br /><b>Jarvis Shard Ownership (at Measurement Time):</b><br />Shard 01 - Awareness: Neutral<br />Shard 02 - Creativity: Resistance<br />Shard 03 - Strength: Enlightened<br />Shard 04 - Insight: Enlightened<br />Shard 05 - Understanding: Enlightened<br />Shard 06 - Memory: Resistance<br />Shard 07 - Belief: Enlightened<br />Shard 08 - Charisma: Resistance<br />Shard 09 - Empathy: Resistance<br />Shard 10 - Identity: Enlightened<br />Shard 11 - Aesthetic: Resistance<br />Shard 12 - Intuition: Enlightened<br />Shard 13 - Immortality - In Flux<br /><br /><b>Portal Ownership Details:</b><br />Civic Space Park Light Columns (VOLATILE) - Enlightened<br />Zipcar-1st Street &amp; Fillmore Street (VOLATILE) - Neutral<br />Chase Founder Statue (VOLATILE) - Resistance<br />Historic Downtown Post Office (VOLATILE) - Resistance<br />Wallace and Ladmo Mural (VOLATILE) - Resistance<br />Valley Youth Theatre - Enlightened<br />Westward Ho Hotel - Enlightened<br />Renaissance Statue - Enlightened<br />Water is Life - Enlightened<br />Janet Echelman's "Sky Bloom" i - Enlightened<br />Student Center Post at the Post Office - Enlightened<br />AE England Building - Neutral<br />Amsterdam Sculptures - Neutral<br />Central Phoenix, AZ: Urban Gro - Resistance<br />Taylor Fountain - Resistance<br />Holding the World - Resistance<br />Phoenix  Arizona Downtown, 201 - Resistance<br />Palm Tree Mural - Resistance<br />The Crescent Ballroom Mural - Resistance<br />Hotel San Carlos - Resistance<br />Taylor Mall ASU Downtown - Resistance<br />Island Fortress Mural - Resistance<br />Hannys Statue - Resistance<br />Central Station - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- TUCSON - Measurement 1 Report</b> <br /><br />The Resistance owned 0 Volatile Portals and 10 Non-Volatile Portals<br /><b>The Enlightened owned 5 Volatile Portals and 12 Non Volatile Portals</b><br /><br /><b>An Enlightened Field covered all the Portals in this Cluster (50)</b><br /><br />Total for Resistance this Measurement = 10<br /><b>Total for Enlightened this Measurement = 112</b><br /><br /><b>Portal Ownership Details:</b><br />A Portrait in E Major (VOLATILE) - Enlightened<br />Grandfather's Legacy (VOLATILE) - Enlightened<br />The "Inversion" next to Colleg (VOLATILE) - Enlightened<br />Greek Life Mural (VOLATILE) - Enlightened<br />Harvill (VOLATILE) - Enlightened<br />BIO 5 - Enlightened<br />Law College 1977 - Enlightened<br />Center for Creative Photography - Enlightened<br />History-Pharmacy Museum - Enlightened<br />Maricopa Hall - Enlightened<br />Hippocrates - Enlightened<br />Computer Center and Classroom Building - Enlightened<br />Little Chapel Founder - Enlightened<br />Little Chapel for all Nations - Enlightened<br />Underwood Family Sonoran Landscape - Enlightened<br />Underpass Decor - Enlightened<br />Standing Woman with Hands on her Face (1976) - Enlightened<br />Drachman Hall - Neutral<br />Donor's Fountain Tucson - Neutral<br />University of Arizona Museum o - Neutral<br />University of Arizona College of Nursing - Neutral<br />Hamlet Sculpture - Neutral<br />AME - Neutral<br />Four Leaf Covering - Neutral<br />Entrance to College of Pharmacy - Neutral<br />George E. P. Smith Residence - Neutral<br />Arizona Health Sciences Library - Neutral<br />Looking to the Sky  - Neutral<br />Samuel O. Witt Courtyard - Resistance<br />The 5 C's Of The Arizona Economy - Resistance<br />Metal Art of Arizona - Resistance<br />University of Arizona: Poetry  - Resistance<br />Karl Eller - Resistance<br />Cycling Mural  - Resistance<br />Four Corners - Resistance<br />Aerospace and Mechanical Engineering - Resistance<br />UA School of Architecture &amp; Landscape Design - Resistance<br />Law Commons - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- NASHVILLE - Measurement 2 Report</b> <br /><br /><b>The Resistance owned 5 Volatile Portals and 21 Non-Volatile Portals</b><br />The Enlightened owned 0 Volatile Portals and 3 Non-Volatile Portals<br /><br /><b>A Resistance Field covered all the Portals in this Cluster (50)</b><br /><br /><b>The Resistance had 32 Links standing at Measurement Time</b><br /><br /><b>Total for Resistance this Measurement = 185</b><br />Total for Enlightened this Measurement = 3<br /><br /><b>Total for Resistance this Anomaly = 286</b><br />Total for Enlightened this Anomaly = 26<br /><br /><b>Measurement Time Details:</b><br />Original: 2:53 (Minutes:Seconds past the hour)<br />Padded: xGezYiDcXmowhKtld 2:53 XzVplcXNEguuj<br />MD5 of Padded String: 275cd4219b4159015badf84ccc81f403<br /><br /><b>Portal Ownership Details:</b><br />Bicentennial Mall Zero Mile Marker (VOLATILE) - Resistance<br />Bell Monument to Music (VOLATILE) - Resistance<br />Charles Waterfield Reliquary (VOLATILE) - Resistance<br />The Family Group (VOLATILE) - Resistance<br />President Andrew Johnson Statu (VOLATILE) - Resistance<br />Ruins at the Capitol - Enlightened<br />Tennessee's Land Slope - Enlightened<br />Senator Tommy Burks Tribute - Enlightened<br />Nashville, TN, USA - Neutral<br />Bicentennial Mall State Map - Neutral<br />The Tennessee State Map Plaza  - Neutral<br />Governors Books From Birth - Resistance<br />James Knox Polk - Resistance<br />The Mountain Group - Resistance<br />The Equestrian Group - Resistance<br />Holy Rosary Cathedral - Resistance<br />The TVA Group - Resistance<br />Alvin C York Statue - Resistance<br />John Sevier State Office Building - Resistance<br />Municipal Mosaic - Resistance<br />Living Memorial - Resistance<br />Musician's Hall of Fame &amp; Museum - Resistance<br />State Capitol Fountain - Resistance<br />The Bell of Freedom - Resistance<br />United Daughters of the Confederacy - Resistance<br />Andrew Jackson Statue - Resistance<br />Tulip at Eakin-Weakley Dr. Nas - Resistance<br />The American War Mothers - Resistance<br />Tennessee Trails Past and Present - Resistance<br />Two Governors, Two Governments - Resistance<br />Tennessee State Library and Ar - Resistance<br />Bicentennial - Resistance<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>DEC 7 PRIMARY SITES:</b> <br />Phoenix: <a href="http://goo.gl/uMLR7j" class="ot-anchor">http://goo.gl/uMLR7j</a> <br />Rome: <a href="http://goo.gl/8H9OET" class="ot-anchor">http://goo.gl/8H9OET</a> <br /><br /><b>SATELLITE SITES:</b> <br />Athens: <a href="http://goo.gl/PBCyd8" class="ot-anchor">http://goo.gl/PBCyd8</a> <br />Istanbul: <a href="http://goo.gl/9oD3cm" class="ot-anchor">http://goo.gl/9oD3cm</a> <br />Nashville: <a href="http://goo.gl/rvsDXh" class="ot-anchor">http://goo.gl/rvsDXh</a> <br />Tucson: <a href="http://goo.gl/RD8c3u" class="ot-anchor">http://goo.gl/RD8c3u</a> <br /><br /></div>
+[#### photo: #13MAGNUS - PHOENIX - Measurement 1 Report 
+The Resistance owned 3 Volatile Portals and 11 Non-Volatile Portals
+The Enlightened owned 1 Volatile Portal and 6 Non-Volatile Portals
+The Resistance had 7 Links standing at Measurement Time
+The Resistance Controlled 5 Jarvis Shards
+The Enlightened Controlled 6 Jarvis Shards
+Mind Units at Anomaly START (R): 454867723
+Mind Units at Anomaly START (E): 499850646
+Total for Resistance this Measurement = 167
+Total for Enlightened this Measurement = 92
+Jarvis Shard Ownership (at Measurement Time):
+Shard 01 - Awareness: Neutral
+Shard 02 - Creativity: Resistance
+Shard 03 - Strength: Enlightened
+Shard 04 - Insight: Enlightened
+Shard 05 - Understanding: Enlightened
+Shard 06 - Memory: Resistance
+Shard 07 - Belief: Enlightened
+Shard 08 - Charisma: Resistance
+Shard 09 - Empathy: Resistance
+Shard 10 - Identity: Enlightened
+Shard 11 - Aesthetic: Resistance
+Shard 12 - Intuition: Enlightened
+Shard 13 - Immortality - In Flux
+Portal Ownership Details:
+Civic Space Park Light Columns (VOLATILE) - Enlightened
+Zipcar-1st Street &amp; Fillmore Street (VOLATILE) - Neutral
+Chase Founder Statue (VOLATILE) - Resistance
+Historic Downtown Post Office (VOLATILE) - Resistance
+Wallace and Ladmo Mural (VOLATILE) - Resistance
+Valley Youth Theatre - Enlightened
+Westward Ho Hotel - Enlightened
+Renaissance Statue - Enlightened
+Water is Life - Enlightened
+Janet Echelman's "Sky Bloom" i - Enlightened
+Student Center Post at the Post Office - Enlightened
+AE England Building - Neutral
+Amsterdam Sculptures - Neutral
+Central Phoenix, AZ: Urban Gro - Resistance
+Taylor Fountain - Resistance
+Holding the World - Resistance
+Phoenix  Arizona Downtown, 201 - Resistance
+Palm Tree Mural - Resistance
+The Crescent Ballroom Mural - Resistance
+Hotel San Carlos - Resistance
+Taylor Mall ASU Downtown - Resistance
+Island Fortress Mural - Resistance
+Hannys Statue - Resistance
+Central Station - Resistance
+#13MAGNUS - TUCSON - Measurement 1 Report 
+The Resistance owned 0 Volatile Portals and 10 Non-Volatile Portals
+The Enlightened owned 5 Volatile Portals and 12 Non Volatile Portals
+An Enlightened Field covered all the Portals in this Cluster (50)
+Total for Resistance this Measurement = 10
+Total for Enlightened this Measurement = 112
+Portal Ownership Details:
+A Portrait in E Major (VOLATILE) - Enlightened
+Grandfather's Legacy (VOLATILE) - Enlightened
+The "Inversion" next to Colleg (VOLATILE) - Enlightened
+Greek Life Mural (VOLATILE) - Enlightened
+Harvill (VOLATILE) - Enlightened
+BIO 5 - Enlightened
+Law College 1977 - Enlightened
+Center for Creative Photography - Enlightened
+History-Pharmacy Museum - Enlightened
+Maricopa Hall - Enlightened
+Hippocrates - Enlightened
+Computer Center and Classroom Building - Enlightened
+Little Chapel Founder - Enlightened
+Little Chapel for all Nations - Enlightened
+Underwood Family Sonoran Landscape - Enlightened
+Underpass Decor - Enlightened
+Standing Woman with Hands on her Face (1976) - Enlightened
+Drachman Hall - Neutral
+Donor's Fountain Tucson - Neutral
+University of Arizona Museum o - Neutral
+University of Arizona College of Nursing - Neutral
+Hamlet Sculpture - Neutral
+AME - Neutral
+Four Leaf Covering - Neutral
+Entrance to College of Pharmacy - Neutral
+George E. P. Smith Residence - Neutral
+Arizona Health Sciences Library - Neutral
+Looking to the Sky  - Neutral
+Samuel O. Witt Courtyard - Resistance
+The 5 C's Of The Arizona Economy - Resistance
+Metal Art of Arizona - Resistance
+University of Arizona: Poetry  - Resistance
+Karl Eller - Resistance
+Cycling Mural  - Resistance
+Four Corners - Resistance
+Aerospace and Mechanical Engineering - Resistance
+UA School of Architecture &amp; Landscape Design - Resistance
+Law Commons - Resistance
+#13MAGNUS - NASHVILLE - Measurement 2 Report 
+The Resistance owned 5 Volatile Portals and 21 Non-Volatile Portals
+The Enlightened owned 0 Volatile Portals and 3 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (50)
+The Resistance had 32 Links standing at Measurement Time
+Total for Resistance this Measurement = 185
+Total for Enlightened this Measurement = 3
+Total for Resistance this Anomaly = 286
+Total for Enlightened this Anomaly = 26
+Measurement Time Details:
+Original: 2:53 (Minutes:Seconds past the hour)
+Padded: xGezYiDcXmowhKtld 2:53 XzVplcXNEguuj
+MD5 of Padded String: 275cd4219b4159015badf84ccc81f403
+Portal Ownership Details:
+Bicentennial Mall Zero Mile Marker (VOLATILE) - Resistance
+Bell Monument to Music (VOLATILE) - Resistance
+Charles Waterfield Reliquary (VOLATILE) - Resistance
+The Family Group (VOLATILE) - Resistance
+President Andrew Johnson Statu (VOLATILE) - Resistance
+Ruins at the Capitol - Enlightened
+Tennessee's Land Slope - Enlightened
+Senator Tommy Burks Tribute - Enlightened
+Nashville, TN, USA - Neutral
+Bicentennial Mall State Map - Neutral
+The Tennessee State Map Plaza  - Neutral
+Governors Books From Birth - Resistance
+James Knox Polk - Resistance
+The Mountain Group - Resistance
+The Equestrian Group - Resistance
+Holy Rosary Cathedral - Resistance
+The TVA Group - Resistance
+Alvin C York Statue - Resistance
+John Sevier State Office Building - Resistance
+Municipal Mosaic - Resistance
+Living Memorial - Resistance
+Musician's Hall of Fame &amp; Museum - Resistance
+State Capitol Fountain - Resistance
+The Bell of Freedom - Resistance
+United Daughters of the Confederacy - Resistance
+Andrew Jackson Statue - Resistance
+Tulip at Eakin-Weakley Dr. Nas - Resistance
+The American War Mothers - Resistance
+Tennessee Trails Past and Present - Resistance
+Two Governors, Two Governments - Resistance
+Tennessee State Library and Ar - Resistance
+Bicentennial - Resistance
+#13MAGNUS DEC 7 PRIMARY SITES: 
+Phoenix: http://goo.gl/uMLR7j 
+Rome: http://goo.gl/8H9OET 
+SATELLITE SITES: 
+Athens: http://goo.gl/PBCyd8 
+Istanbul: http://goo.gl/9oD3cm 
+Nashville: http://goo.gl/rvsDXh 
+Tucson: http://goo.gl/RD8c3u ](https://lh4.googleusercontent.com/-4kZta9SKRtw/UqONHYifwUI/AAAAAAAAcTI/fNMgY5auvkE/w2048-h1536/20131207_130136.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/3PBNu7znFqt](https://plus.google.com/+NianticProject/posts/3PBNu7znFqt)

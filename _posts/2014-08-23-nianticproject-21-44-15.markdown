@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-23 21:44:15 +0900"
+date:   2014-08-23 21:44:15 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 05 - MANCHESTER, ROTTERDAM - C2 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/xYBsej\" class=\"ot-anchor\">http://goo.gl/xYBsej</a>", "<br />", "<br />", "SHA256: 64360310cbab9243db99ebaf01fc59c1ba47381f6106eef043bbe0d4600bf5e2", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106256170502799714576\" oid=\"106256170502799714576\">Robin Kanters</a>"], " in Rotterdam", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-lEGTlAKJPhY/U_iMNfGoETI/AAAAAAAA_PY/Ti9E8QWqqYg/1408785726052.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/1XKs2iruSLp](https://plus.google.com/+NianticProject/posts/1XKs2iruSLp)

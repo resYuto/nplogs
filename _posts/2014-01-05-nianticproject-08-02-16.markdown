@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Niantic Project: 2014-01-05 08:02:16 +0900"
+date:   2014-01-05 08:02:16 +0900
+categories: nianticproject
+---
+How will the XM era change the nature of death?
+
+The most recent journal entry from Hank Johnson looks back on a journey that began in Cross Plains and ended at a [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "") stronghold probably somewhere in Afghanistan or Pakistan.
+
+He remembers +[Carrie Campbell](https://plus.google.com/101180225942784917383 ""), the brilliant but fractured semiotician who helped us take the first few steps into understanding the Shaper Glyphs, and predicts that, somehow, he'll hear from her again.
+
+**It could be rhetoric or poetic license, but it led me to think on the nature of death in an XM-empowered world. The story of Jarvis, if not a hoax, utterly reshapes our expectations of the boundary between mind and body, life and death, this world and beyond. What impact might XM technology have on us a species as we move forward in time?**
+
+A passcode to those who enrich our conversation with meaningful insights, speculation and references.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1188, :value=>"shared"@1195}], :children=>["<br />", "<h2>Hank Johnson</h2>", "After the Congo, I found that the Ingress app had gone into wide release in the disguise of a mobile-game.  Operatives in the field working with the Portals became ‘players.’  Some of them were able to put the pieces together, and an enlightened few saw through the façade.  These Operatives saw that despite the best NIA propaganda, mostly facilitated by an extremely talented man by the name of Ken Owen, the Portals and Exotic matter are real.  They sensed this.  And I think many of them have seen real benefit from the powers of XM.", "<br />", "<br />", "I felt it in Brownwood, at the grave of Robert E. Howard.  At the time, I wasn’t sure what I was looking for, I just knew that often you find the nature of things by looking at the end of things.  It was unseasonably cool for June in the middle of Texas.  Despite the fact that it had been a long drought, the trees were a rich green.  And in that part of central Texas, the trees define the horizon.  There are no mountains, and few hills, save for Caddo Peak.", "<br />", "<br />", "XM pulled me to Cross Plains.  And ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101180225942784917383\" oid=\"101180225942784917383\">Carrie Campbell</a>"], ".  Carrie tipped me off that there might be a clue to the Glyphs there.  Carrie is... was... of course the Semiotician on the Niantic Project who became an expert on Shaper Glyphs.  Of a gifted team, she might have been the one I found most intriguing. She spoke with such passion, clarity and credibility that I could listen to her theory on the origin of the capital A for an hour and not be bored.", "<br />", "<br />", "After what I’ve experienced with XM and Carrie’s deep ties to it, I somehow don’t think she’s gone forever.  I certainly hope to hear from her again.  ", "<br />", "<br />", "Somehow. ", "<br />", "<br />", "Hank", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 1793534317372756071686379346578743](https://lh6.googleusercontent.com/-CduyTv0Mdec/UsiRtB7ZPmI/AAAAAAAAAag/437WdvOcaZI/w1200-h1714/Somehow.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/eabX74op1Ks](https://plus.google.com/+NianticProject/posts/eabX74op1Ks)

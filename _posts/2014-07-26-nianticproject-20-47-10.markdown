@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-26 20:47:10 +0900"
+date:   2014-07-26 20:47:10 +0900
+categories: nianticproject
+---
++[Tycho C.](https://plus.google.com/106965960712090580437 ""), on the anniversary of his outburst at Comic Con in 2012, recants his beliefs about XM and the Portals, denying his role in the revelation of the +[Niantic Project](https://plus.google.com/105211554081025512763 "") and all that followed. 
+
+NIA pressure at play? A sign that, even now, forces are aligning to suppress the work of this Investigation?
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@682, :value=>"shared"@689}], :children=>["<br />", "<h2>Tycho C.</h2>", "Two years ago, I appeared at Comic-Con and made a bizarre outburst at a panel.  I am quite happy with the success my comic has had on Google Play (", "<a href=\"http://goo.gl/ichY2J\" class=\"ot-anchor\">http://goo.gl/ichY2J</a>", ") and Amazon (", "<a href=\"http://goo.gl/He95qv\" class=\"ot-anchor\">http://goo.gl/He95qv</a>", ").  They even translated it into German (Play: ", "<a href=\"http://goo.gl/3J7rPG\" class=\"ot-anchor\">http://goo.gl/3J7rPG</a>", ", Amazon: ", "<a href=\"http://goo.gl/BYVAbh\" class=\"ot-anchor\">http://goo.gl/BYVAbh</a>", ").  But there is something I want to say to the government people who have been harassing me.  It was all a publicity stunt. I do not believe in portals or an “Ingression”.  Please stop following me and monitoring me.  It is just a work of art.", "<br />", "<br />", "What do I have to do to convince you?  And I know you have been monitoring me.  Stop.  ", "<br />", "<br />", "The Ingression is a  product of my imagination.  I will be drawing more. But it is just fiction.  ", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " is just a game.  ", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/5oBibPJH7gK](https://plus.google.com/+NianticProject/posts/5oBibPJH7gK)

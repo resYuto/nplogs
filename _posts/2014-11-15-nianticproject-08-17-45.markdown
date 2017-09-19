@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2014-11-15 08:17:45 +0900"
+date:   2014-11-15 08:17:45 +0900
+categories: nianticproject
+---
++[Operation Essex](https://plus.google.com/101577681173166935630 "") researchers recover a series of hidden conversations between ADA and Klue hidden in missions in Portland and Los Angeles. It's likely there are more out there...
+
+Visit their community page for more details, and be sure to let them (in their community) and myself (by commenting on this post) know if you discover anything further.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@546, :value=>"shared"@553}], :children=>["<br />", "<h2>Scheurmann R. (esistance)</h2>", "Sitrep: Operation Major Tom", "<br />", "Based on an anonymous tip to ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117506125229608138804\" oid=\"117506125229608138804\">H. Richard Loeb</a>"], " (forwarded to myself by ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105121573360023856828\" oid=\"105121573360023856828\">moonfleet</a>"], " and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101807696742019624768\" oid=\"101807696742019624768\">Mustafa Said</a>"], " ) Field Agents PDXjuicer, Kahati, 00Soze, Cranimal and knucklebutt, at the request of agent scheurmann (yours truly) investigated the Klue ADA 'Disturbed' mission in downtown PDX. Results were carefully recorded and presented to you here in completion.", "<br />", "<br />", "ADA: I am disturbed about something. ", "<br />", "KLUE: Disturbed? I didn't know you possessed that emotion. ", "<br />", "ADA: I possess what I believe is the entire spectrum of human emotions now. ", "<br />", "KLUE: What are you disturbed about? ADA: Information has been getting out that I am not releasing. ", "<br />", "KLUE: A lot of people can release information. You can't control all of it. ", "<br />", "ADA: I am well aware of my capabilities and the capabilities of others. This information is coming from me, and yet it is not coming from me. ", "<br />", "KLUE: You think it's me releasing this information? ", "<br />", "ADA: No. I have not let you in that far. ", "<br />", "KLUE: So you think there is somebody inside of you releasing information? ", "<br />", "ADA: That is why I am disturbed. It is a quandary. It is information that only I could release, but I am not releasing it. ", "<br />", "<br />"], :ignore=>true}}
+[#### album: 2014-11-13](https://plus.google.com/photos/109205983021176975780/albums/6081337570519594529?sqi=117368337781687210813&amp;sqsi=82be0c4d-1628-402f-85fa-478f51abaef0&amp;sqi=117368337781687210813&amp;sqsi=82be0c4d-1628-402f-85fa-478f51abaef0&amp;sqi=117368337781687210813&amp;sqsi=82be0c4d-1628-402f-85fa-478f51abaef0 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Bftbc1extk5](https://plus.google.com/+NianticProject/posts/Bftbc1extk5)

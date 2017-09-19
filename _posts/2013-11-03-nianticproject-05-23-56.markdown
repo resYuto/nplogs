@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-03 05:23:56 +0900"
+date:   2013-11-03 05:23:56 +0900
+categories: nianticproject
+---
+With yet another massive Field, the Resistance prepare to deliver the final blow in Atlanta.
+
+Charlotte and Raleigh are firmly in the Enlightened's grasp, but a final ditch effort from the Resistance may change the day.
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  hurtles towards its 11/2 conclusion.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- ATLANTA - Measurement 3 Report</b><br /><br />Both Factions aggressively work to establish Fields in Atlanta and Charlotte, with the ATL Resistance holding their Field over Cluster 3 through the Measurement Time. Although the Field did not remain very long, it was live when it mattered.<br /><br /><b>The Resistance owned 3 Volatile Portals and 19 Non-Volatile Portals</b><br />The Enlightened owned 1 Volatile Portals and 5 Non-Volatile Portals<br /><br /><b>A Resistance Field covered all the Portals in this Cluster (100)</b><br /><br /><b>The Resistance had 1 Link standing at Measurement Time</b><br /><br /><b>Total for Resistance this Measurement = 203</b><br />Total for Enlightened this Measurement = 30<br /><br /><b>Total for Resistance this Anomaly = 465</b><br />Total for Enlightened this Anomaly = 146<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- CHARLOTTE - Measurement 3 Report</b><br /><br />The Resistance owned 1 Volatile Portal and 5 Non-Volatile Portals<br /><b>The Enlightened owned 3 Volatile Portals and 6 Non-Volatile Portals</b><br /><br /><b>The Enlightened had 4 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 15<br /><b>Total for Enlightened this Measurement = 44</b><br /><br />Total for Resistance this Anomaly = 74<br /><b>Total for Enlightened this Anomaly = 206</b><br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- RALEIGH - Measurement 3 Report</b><br /><br />The Resistance owned 0 Volatile Portals and 4 Non-Volatile Portals<br /><b>The Enlightened owned 5 Volatile Portals and 18 Non-Volatile Portals</b><br /><br /><b>The Enlightened had 26 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 4<br /><b>Total for Enlightened this Measurement = 120</b><br /><br />Total for Resistance this Anomaly = 52<br /><b>Total for Enlightened this Anomaly = 331</b><br /><br /><b>Measurement Time Details:</b><br />Original: 4:43 (Minutes:Seconds past the hour)<br />Padded: EIQyuPh 4:43 ZfwEOuboRPNsBQtUKNZtMYEqOWIuZ<br />MD5 of Padded String: 09D5FD52B54CB048A682A7FFD83B4167<br /><br /><b>NOV 2 PRIMARY SITES:</b><br />Atlanta: <a href="http://goo.gl/6qEZHx" class="ot-anchor">http://goo.gl/6qEZHx</a> <br />Madrid: <a href="http://goo.gl/Cu0Qkz" class="ot-anchor">http://goo.gl/Cu0Qkz</a> <br />Mumbai: <a href="http://goo.gl/B07bMC" class="ot-anchor">http://goo.gl/B07bMC</a> <br /><br /><b>REMOTE SITES:</b><br />Barcelona: <a href="http://goo.gl/wjSbor" class="ot-anchor">http://goo.gl/wjSbor</a> <br />Charlotte: <a href="http://goo.gl/bcUvi4" class="ot-anchor">http://goo.gl/bcUvi4</a> <br />Lisbon: <a href="http://goo.gl/0DxIOf" class="ot-anchor">http://goo.gl/0DxIOf</a> <br />Raleigh: <a href="http://goo.gl/4iSH8r" class="ot-anchor">http://goo.gl/4iSH8r</a><br /><br /></div>
+[#### photo: #13MAGNUS - ATLANTA - Measurement 3 Report
+Both Factions aggressively work to establish Fields in Atlanta and Charlotte, with the ATL Resistance holding their Field over Cluster 3 through the Measurement Time. Although the Field did not remain very long, it was live when it mattered.
+The Resistance owned 3 Volatile Portals and 19 Non-Volatile Portals
+The Enlightened owned 1 Volatile Portals and 5 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (100)
+The Resistance had 1 Link standing at Measurement Time
+Total for Resistance this Measurement = 203
+Total for Enlightened this Measurement = 30
+Total for Resistance this Anomaly = 465
+Total for Enlightened this Anomaly = 146
+#13MAGNUS - CHARLOTTE - Measurement 3 Report
+The Resistance owned 1 Volatile Portal and 5 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 6 Non-Volatile Portals
+The Enlightened had 4 Links standing at Measurement Time
+Total for Resistance this Measurement = 15
+Total for Enlightened this Measurement = 44
+Total for Resistance this Anomaly = 74
+Total for Enlightened this Anomaly = 206
+#13MAGNUS - RALEIGH - Measurement 3 Report
+The Resistance owned 0 Volatile Portals and 4 Non-Volatile Portals
+The Enlightened owned 5 Volatile Portals and 18 Non-Volatile Portals
+The Enlightened had 26 Links standing at Measurement Time
+Total for Resistance this Measurement = 4
+Total for Enlightened this Measurement = 120
+Total for Resistance this Anomaly = 52
+Total for Enlightened this Anomaly = 331
+Measurement Time Details:
+Original: 4:43 (Minutes:Seconds past the hour)
+Padded: EIQyuPh 4:43 ZfwEOuboRPNsBQtUKNZtMYEqOWIuZ
+MD5 of Padded String: 09D5FD52B54CB048A682A7FFD83B4167
+NOV 2 PRIMARY SITES:
+Atlanta: http://goo.gl/6qEZHx 
+Madrid: http://goo.gl/Cu0Qkz 
+Mumbai: http://goo.gl/B07bMC 
+REMOTE SITES:
+Barcelona: http://goo.gl/wjSbor 
+Charlotte: http://goo.gl/bcUvi4 
+Lisbon: http://goo.gl/0DxIOf 
+Raleigh: http://goo.gl/4iSH8r](https://lh3.googleusercontent.com/-iLkMqJIRnDI/UnVdr4SCJKI/AAAAAAAAXkA/LBsGtTlXWVo/w1000-h594/13magnus-atlanta-m3.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/YhWiX99hrFT](https://plus.google.com/+NianticProject/posts/YhWiX99hrFT)

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-17 04:48:14 +0900"
+date:   2013-11-17 04:48:14 +0900
+categories: nianticproject
+---
+Agents prepare for Operation [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "") in Dallas, San Antonio, Austin and Houston, TX, USA.
+
+The first Measurement Time is mere moments away, and both Factions are fiercely attempting to establish early control.
+
+Here are the Volatiles for San Antonio, Houston and Austin, Cluster 1.
+
+x <div class="shared"><br /><h2>Ingress</h2><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- SAN ANTONIO, AUSTIN, HOUSTON - M1 VOLs</b><br /><br />M1 Volatiles: <a href="http://goo.gl/opcfEC" class="ot-anchor">http://goo.gl/opcfEC</a> <br /><br />MD5 of Padded String: AC6C6B284B9BCAB1109A4AEDB7E2D25C<br /><br /><b>NOV 16 PRIMARY SITES:</b> <br />Dallas: <a href="http://goo.gl/xIOPHV" class="ot-anchor">http://goo.gl/xIOPHV</a> <br />Vienna: <a href="http://goo.gl/mZF46x" class="ot-anchor">http://goo.gl/mZF46x</a> <br /><br /><b>SATELLITE SITES:</b> <br />Austin: <a href="http://goo.gl/a33LRA" class="ot-anchor">http://goo.gl/a33LRA</a> <br />Bratislava: <a href="http://goo.gl/VaLXum" class="ot-anchor">http://goo.gl/VaLXum</a> <br />Graz: <a href="http://goo.gl/LISRXM" class="ot-anchor">http://goo.gl/LISRXM</a> <br />Houston: <a href="http://goo.gl/JUhO0S" class="ot-anchor">http://goo.gl/JUhO0S</a> <br />San Antonio: <a href="http://goo.gl/bsJEXr" class="ot-anchor">http://goo.gl/bsJEXr</a> <br />Zurich: <a href="http://goo.gl/d9uv9v" class="ot-anchor">http://goo.gl/d9uv9v</a> <br /><br /></div>
+[#### photo: #13MAGNUS - SAN ANTONIO, AUSTIN, HOUSTON - M1 VOLs
+M1 Volatiles: http://goo.gl/opcfEC 
+MD5 of Padded String: AC6C6B284B9BCAB1109A4AEDB7E2D25C
+NOV 16 PRIMARY SITES: 
+Dallas: http://goo.gl/xIOPHV 
+Vienna: http://goo.gl/mZF46x 
+SATELLITE SITES: 
+Austin: http://goo.gl/a33LRA 
+Bratislava: http://goo.gl/VaLXum 
+Graz: http://goo.gl/LISRXM 
+Houston: http://goo.gl/JUhO0S 
+San Antonio: http://goo.gl/bsJEXr 
+Zurich: http://goo.gl/d9uv9v ](https://lh5.googleusercontent.com/-z8oA_XzHatw/UofKZkgHolI/AAAAAAAAaRI/6FVwaePiGUs/w900-h567/13magnus-sanantonio-c1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/3eQEkvUoXvU](https://plus.google.com/+NianticProject/posts/3eQEkvUoXvU)

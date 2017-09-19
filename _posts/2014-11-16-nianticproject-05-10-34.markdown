@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Niantic Project: 2014-11-16 05:10:34 +0900"
+date:   2014-11-16 05:10:34 +0900
+categories: nianticproject
+---
+Please update if anyone on the ground can find further intel related to this tip from PAC.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@104, :value=>"shared"@111}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "This is important. I am hearing about more and more transcript leaks coming from Portals.  I am not the source of these leaks, whatever some might think.  However, I'm beginning to suspect that some work I did a couple years ago might have facilitated the exploit that's making these leaks possible.  ", "<br />", "<br />", "I fully support the person releasing this data -- especially now that ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], " has been silent for a while and the 1959 Protocol have been implemented.  As for the efficacy of that, I don't know...  I'm on the fence.  What do you think?", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/U4Qa67aHb6y](https://plus.google.com/+NianticProject/posts/U4Qa67aHb6y)

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-02 04:51:41 +0900"
+date:   2014-03-02 04:51:41 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")  03 - Nashville, Little Rock and Mobile has begun.
+
+Here are the Volatile Portals for Cluster 1, for Little Rock and Mobile.
+
+Volatiles for Nashville were delivered on-site.
+
+Good luck, Agents.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@323, :value=>"shared"@330}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23RECURSION\">#RECURSION</a></b>", "<b> 03 - LITTLE ROCK, MOBILE - C1 VOLS</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/Eh5kjZ\" class=\"ot-anchor\">http://goo.gl/Eh5kjZ</a>", "<br />", "<br />", "MD5 of Padded String: b4ced7ec6da4116a73359b3bf966c19bC1 ", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110619542644790632139\" oid=\"110619542644790632139\">Justin Richter</a>"], ". That is a lot of beads.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #RECURSION 03 - LITTLE ROCK, MOBILE - C1 VOLS
+Volatiles: http://goo.gl/Eh5kjZ
+MD5 of Padded String: b4ced7ec6da4116a73359b3bf966c19bC1
+Photo by Agent +Justin Richter. That is a lot of beads.](https://lh3.googleusercontent.com/-ikWWMC0yhMM/UxI3BDccgWI/AAAAAAAAkyM/tOQp-sU70I4/w1152-h2048/20140301_130211.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/cKvrWkjCiHR](https://plus.google.com/+NianticProject/posts/cKvrWkjCiHR)

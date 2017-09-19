@@ -1,0 +1,119 @@
+---
+layout: post
+title:  "Niantic Project: 2016-02-27 22:14:43 +0900"
+date:   2016-02-27 22:14:43 +0900
+categories: nianticproject
+---
+[#IngressObsidian](https://plus.google.com/s/%23IngressObsidian "") Madrid has begun: The Resistance are in the lead. M1 Scores: ENL: 222 to RES: 489.
+
+A Resistance field loomed over Cluster 1, boosting an initial strong performance across the board. While the Enlightened controlled slightly more Cluster Portals, the Resistance held a majority of the Volatiles and used Portal Links to their advantage as well. Following a difficult defeat in Hamamatsu, the pressure is on the Resistance to even their Faction’s standing in the [#Obsidian](https://plus.google.com/s/%23Obsidian "") series. At Measurement 1 they lead by 267. Three Measurements remain, and this Anomaly is far from over.
+
+**[#Obsidian](https://plus.google.com/s/%23Obsidian "")****: Madrid - Measurement 1 Report**
+The **Resistance** captured this Measurement, 489 to 222.
+The **Resistance** currently control this Satellite Site, leading by 267.
+Portals Owned - RES: 22 - **ENL:** 23 - [Value: 6 each]
+Volatile Portals Owned - **RES:** 13 - ENL: 7 - [Value: 12 each]
+Links Created - **RES:** 15 - ENL: 0 
+[Values: 15 to 29 = 90, 30 to 49 = 180, &gt;50 = 300]
+Anchored Fields Created - RES: 0 - ENL: 0
+[Values: 5 to 14 = 40, 15 to 24 = 120, &gt;25 = 200]
+Strategic Field - **RES**
+[Value: 50% of opponent's Values this Measurement, rounded]
+Values acquired this Measurement:
+Portals - RES: 132 - **ENL:** 138
+Volatile Portals - **RES:** 156 - ENL: 84
+Links - **RES:** 90 - ENL: 0
+Anchored Fields - RES: 0 - ENL: 0
+Strategic Field - **RES:** 111 - ENL: 0
+
+**Total for this Measurement:**
+**Resistance** - 489 - Enlightened - 222
+
+**Total for this Satellite Site:**
+**Resistance** - 489 - Enlightened - 222
+
+**Measurement Time Details:**
+Original: 1:23 (Minutes:Seconds within Measurement Window)
+Padded String: r[###1:23###{OpRd1AeP`c[(tX"I)hK(aU
+SHA256 of Padded String: 5b9ead5f7fc974870fb4f961184bb2c7e5de0573e9957ba175066a496743da2d
+
+**Portal Ownership Details**
+
+E - Armario De Los Jardineros
+E - Cueva Del Arbol
+E - D. Juan Van-Halen Y Sarti
+E - Diosa sentada
+E - El ocaso del general
+E - Escultura - Casa de Fieras
+E - Escultura de Victor Ochoa - Pa
+E - Estatua en Parque del Retiro
+E - Fuente de la Sardana
+E - Fuente El oso y madroño 
+E - Gran León Retiro
+E - Lechera
+E - Monumento a Alfonso XII
+E - Monumento a Ruperto Chapí
+E - Ninfa de piedra del Estanque
+E - P - Obra de RIPOLLES en el Ret
+E - Palacio de Velazquez
+E - Pintando Madrid
+E - Pitosporo. 
+E - Puerta Olvidada Del Retiro
+E - Retiro gardens
+E - Ruinas de San Isidro
+E - Texto Día De La Raza 
+E VOL - A Pedro Vargas sus Amigos de E
+E VOL - Diana II
+E VOL - Drac Dae
+E VOL - Grifo Vigilante
+E VOL - Jardines Del Retiro
+E VOL - Monumento a los hermanos Alvar
+E VOL - Puerta De America
+N - El Retiro
+N - Parque del Retiro - Monumento 
+N VOL - Celerity Mural
+N VOL - Concrete Blocks
+N VOL - Lucas Aguirre
+N VOL - Parque del Retiro - Monumento 
+N VOL - Troncomovil 
+R - A Mn. Jacinto Verdaguer
+R - Amingote
+R - Andres Eloy Blanco
+R - Aupa
+R - Casa de los pájaros 
+R - Detras De La Montaña
+R - Diosa con capote
+R - Fuente Plaza Nicaragua
+R - Homenaje A La Mar
+R - Lugar De Francisco De Paula
+R - Monumento a Cuba, Parque del B
+R - Monumento Pequeño Del Retiro
+R - Muralla Olvidada Del Retiro
+R - P - A través de la Obra de RIP
+R - P - Las fuentes del Retiro 3 -
+R - P - Un rincon del RETIRO 3 - P
+R - P - Un rincon del RETIRO 4 - P
+R - Parque del Retiro - Monumento 
+R - Ripolles Y Fabrita
+R - Santísima Virgen De Los Reyes
+R - Secuoya Roja
+R - Te ofrezco mi corazón
+R VOL - Casita Con Lago Pequeño Y Aves Alrededor
+R VOL - El Retiro estanque
+R VOL - Escudo Colegio De Abogados
+R VOL - Farola
+R VOL - Fuente Egipcia
+R VOL - Monumento Doctor Benavente
+R VOL - Museo Artes Decorativas
+R VOL - P - Las fuentes del Retiro 8 -
+R VOL - Puerta Parque Retiro
+R VOL - Quiosco De Musica
+R VOL - Ramón Berenguer 4
+R VOL - Santiago Ramón Y Cajal
+R VOL - Teatro De Títeres del Retiro
+
+[#IngressNews](https://plus.google.com/s/%23IngressNews "")
+[#### photo: #IngressObsidian Madrid has begun: The Resistance are in the lead. M1 Scores: ENL: 222 to RES: 489.
+A Resistance field loomed over Cluster 1, boosting an initial strong performance across the board. While the Enlightened controlled slightly more Cluster Portals, the Resistance held a majority of the Volatiles and used Portal Links to their advantage as well. Following a difficult defeat in Hamamatsu, the pressure is on the Resistance to even](https://lh3.googleusercontent.com/-gpf1q3jFv30/VtGhQYi6UFI/AAAAAAAAiuA/rrn6Y5LuRtE/w506-h380/madrid_m1.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/dLYMdaEdpH8](https://plus.google.com/+NianticProject/posts/dLYMdaEdpH8)

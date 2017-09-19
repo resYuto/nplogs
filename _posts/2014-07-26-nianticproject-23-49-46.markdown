@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-26 23:49:46 +0900"
+date:   2014-07-26 23:49:46 +0900
+categories: nianticproject
+---
+[#Helios](https://plus.google.com/s/%23Helios "")  01
+
+C3 Vols for Dublin, Palermo, Tallinn.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@145, :value=>"shared"@152}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 01 - DUBLIN, PALERMO, TALLINN - C3 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/9SgTsf\" class=\"ot-anchor\">http://goo.gl/9SgTsf</a>", "<br />", "<br />", "SHA256: d4953d6ed67bb86245c6bbca09cf8d0c48f89e178f8751df9bb789dddf153068", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/109580078197006932911\" oid=\"109580078197006932911\">Filip Łukaszewski</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #HELIOS 01 - DUBLIN, PALERMO, TALLINN - C3 VOLs
+Volatiles: http://goo.gl/9SgTsf
+SHA256: d4953d6ed67bb86245c6bbca09cf8d0c48f89e178f8751df9bb789dddf153068
+Photo by Agent +Filip Łukaszewski ](https://lh3.googleusercontent.com/-cCwzIM17Kcc/U9O9rCpDneI/AAAAAAAA8Ww/FGsp2Jb7nkE/w2048-h1536/20140726_164801.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Y9YwmEsip75](https://plus.google.com/+NianticProject/posts/Y9YwmEsip75)

@@ -1,0 +1,251 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-10 13:43:45 +0900"
+date:   2014-08-10 13:43:45 +0900
+categories: nianticproject
+---
+<div class="shared"><br /><h2>Ingress</h2>Summary of Anomaly Conditions:<br /><br />Chicago - R:550 - <b>E:684</b><br />Galveston - R:139 - <b>E:248.8</b><br />Richmond - R:113.4 - <b>E:231</b><br />Regional Cells - R:80.9 - <b>E:216.154</b><br />Total - R:883.3 - <b>E:1379.954</b><br /><br />Despite stiff competition from Resistance ground operations and a number of well placed Megafields, including one over Richmond in M4, the Enlightened sweep the day.<br /><br />Combining strong fielding operations in Chicago and Galveston, highly competitive performance on the ground at all three Anomaly sites and control of nearly every connected Regional Cell, the Enlightened emerged from the dust of Measurement 4 with a lead of nearly 500.<br /><br />At the end of <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a> 03 and 04, the Enlightened have surged to the fore of the Helios Anomaly series, which stands 12:4, Enlightened leading. The combined global MU level stood at 764 Million MU at the Final Measurement, an incredible achievement, but not enough to counteract the effects of Devra Bogdanovich’s latest Portal Virus.<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Chicago - Measurement 4 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 238 to 147.<br />The <b>Enlightened</b> captured this Primary Site, outperforming the Resistance by 134.<br /><br />Portals Owned - RES: 26 - <b>ENL:</b> 54 - [Value: 2 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 20 each]<br />Links Created - RES: 7 - <b>ENL:</b> 18 - [Value: 5 each]<br />Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]<br /><br /><br />The Enlightened controlled NR02-FOXTROT-09 (Volatile) [Value: +8%]<br />The Resistance controlled NR11-PAPA-00 (Additional) [Value: +5%]<br />The Enlightened controlled AM03-KILO-15 (Additional) [Value: +5%]<br />The Enlightened controlled AM01-CHARLIE-12 (Additional) [Value: +5%]<br />The Enlightened controlled NR12-SIERRA-04 (Additional) [Value: +5%]<br />The Resistance controlled NR02-GOLF-03 (Additional) [Value: +5%]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 147 - <b>Enlightened</b> - 238<br /><br /><b>Total for this Primary Site:</b><br />Resistance - 550 - <b>Enlightened</b> - 684<br /><br /><b>Measurement Time Details:</b><br />Original: 1:38 (Minutes:Seconds within Measurement Window)<br />Padded String: P)=k)*cI@@6Fy`PKv&lt; 1:38 x'2B&amp;Z[T'(<br />SHA256 of Padded String: 9fcceb4e7a327b9da31d85fc77add9423c732cb0d2afe4511d7ae9c5b0c7c62c<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - 333 West Wacker Tower<br />ENL - Abandoned Fire Department<br />ENL - After-Words Books<br />ENL - Anichini Prime Meats<br />ENL - Anti-Cruelty Society<br />ENL - Boss Bar<br />ENL - Britannica Building<br />ENL - Cable Car Powerhouse<br />ENL - Carson's<br />ENL - Charity<br />ENL - Chicago Cut Dog Statue<br />ENL - Chicago Fire Department<br />ENL - Chicago Medical Society<br />ENL - City Cat Doctor<br />ENL - Clark and Lake El Stop<br />ENL - Clock at LaSalle and Hubbard<br />ENL - Crossing Structure<br />ENL - CTA Merchandise Mart<br />ENL - Doughnut Vault<br />ENL - Flair Tower Mural<br />ENL - Fleur de Lis<br />ENL - Girl with Ribbon<br />ENL - Gold Leaf Panels<br />ENL - Greenway Garage Mural<br />ENL - Harry Caray's<br />ENL - Howard Crane Memorial<br />ENL - Hubbard Inn<br />ENL - Hubbard’s Folly<br />ENL - Lake-Franklin Group<br />ENL - Marina City: West Tower<br />ENL - Mary Large Rose Sculpture<br />ENL - Mies Van Der Rohe's IBM Building<br />ENL - Moes Cantina<br />ENL - Monk's Pub<br />ENL - Most Beautiful Bridge 1963-1964<br />ENL - North Bank Clock<br />ENL - North Market Hall<br />ENL - Old Courthouse<br />ENL - Oldschool Water Tower<br />ENL - Physician's Column<br />ENL - Pink Hydrant<br />ENL - Reid, Murdoch and Company Building 1914<br />ENL - Sculpture on Kinzie<br />ENL - The Chicago School of Professional Psychology<br />ENL - The Christmas Tree Ship<br />ENL - The Golden Triangle<br />ENL - The Great Chicago Fire Hydrants<br />ENL - The Hole<br />ENL - The Redhead Piano Bar<br />ENL - US Post Office<br />ENL - Wacker Drive<br />ENL - Weber Grill<br />ENL - William D Boyce<br />ENL - Wind Turbines<br />ENL [Vol] - Being Born<br />ENL [Vol] - Chicago River Walk<br />NEU - Chicago Post Office<br />NEU - Edward A. Filene<br />NEU - Faces of Chicago Fans<br />NEU - General Robert E. Wood<br />NEU - Girl Pointing Bronze Statue<br />NEU - Marshall Suloway Bridge<br />NEU - Memories of the Old World<br />NEU - Rite of Spring<br />NEU - Rock and Roll McDonald's<br />NEU - Three Lawyers and a Judge<br />RES - Addington Gallery<br />RES - Blue Chicago<br />RES - Castle<br />RES - Chicago Hard Rock Cafe<br />RES - Chicago River Bridge on Franklin<br />RES - Drawbridge on Lake Street<br />RES - Ed Debevics Bottle Art<br />RES - Erie-Lasalle Body Shop<br />RES - Famous Sports Hands<br />RES - Flair House<br />RES - Frank Winfield Woolworth<br />RES - Gino's East Pizzeria<br />RES - Hilton-Asmus Contemporary<br />RES - Hotel Felix 1<br />RES - Ira J Bach Walkway<br />RES - Jamba Juice Merchandise Mart / Chicago<br />RES - North Clark Street Bridge House<br />RES - Our Superheroes Hydrant<br />RES - Public House Tapper<br />RES - Rainforest Cafe Frog<br />RES - Site of the First Rush Medical College<br />RES - The Athlete sculpture<br />RES - The Great Chicago Fire Hydrant<br />RES - The Kerryman<br />RES - Tree Studios<br />RES - Wonder Peace Mural<br />RES [Vol] - Assumption Catholic Church<br />RES [Vol] - Blue Sculpture<br />RES [Vol] - House of Blues<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Galveston - Measurement 4 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 72.8 to 35.<br />The <b>Enlightened</b> captured this Secondary Site, outperforming the Resistance by 109.8.<br /><br />Portals Owned - RES: 5 - <b>ENL:</b> 32 - [Value: 1 each]<br />Volatile Portals Owned - <b>RES:</b> 3 - ENL: 2 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>ENL</b> - [Value: +40%, (20.8)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 35 - <b>Enlightened</b> - 72.8<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 139 - <b>Enlightened</b> - 248.8<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Adoue &amp; Lobit Bank Building<br />ENL - Battle of Galveston<br />ENL - Berlocher Row<br />ENL - Bottles Mural<br />ENL - Bungalow Dry Goods Sign<br />ENL - C. F. Marschner Building<br />ENL - Central Wharf Est 1840<br />ENL - Collectors Gallery<br />ENL - Elizabeth Punches Art Studio<br />ENL - Fisherman's Wharf<br />ENL - Galveston Arts Center<br />ENL - Galveston County Social Servic<br />ENL - Galveston Trolley Station<br />ENL - Giant Trumpet, Galveston<br />ENL - Hendley's Row<br />ENL - House of Spirits Mural<br />ENL - Hurricane Ike Water Level<br />ENL - Hutchings, Sealy &amp; Co.<br />ENL - Ike Stumps<br />ENL - Leon &amp; H. Blum Building<br />ENL - Mallory Produce Building<br />ENL - Old Galveston Square<br />ENL - Santa Fe Union Station<br />ENL - Sons of the American Revolution, Texas Society<br />ENL - Star Drug Store<br />ENL - Stork Club<br />ENL - Texas Seaport Museum<br />ENL - The Ark of Prosperity<br />ENL - The Diamonds<br />ENL - The Railroad Museum<br />ENL - The Rotary Club of Galveston Plaque<br />ENL - The Strand<br />ENL [Vol] - American National Insurance Co<br />ENL [Vol] - Powell Arch<br />NEU - Galveston County Historical Museum<br />NEU - Giant Compass<br />NEU - Merchants Mutual Insurance Building<br />NEU - Nicholas J. Clayton<br />NEU - Peck Arts Gallery<br />NEU - Pirates! Legends of the Gulf Coast<br />NEU - The Fabulous Statue<br />NEU - The First National Bank Of Galveston<br />NEU - The Stewart Building<br />NEU - Thompson Building<br />NEU - Washington Hotel<br />RES - Armour &amp; Company Building<br />RES - Galveston Ice<br />RES - Galveston News Building<br />RES - Magale Building<br />RES - Thomas Jefferson League Building<br />RES [Vol] - He's Been Workin'<br />RES [Vol] - Saengerfest Park<br />RES [Vol] - William Lewis Moody Jr<br /><br /><b><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Helios">#Helios</a></b><b>: Richmond - Measurement 4 Report</b><br /><br />The <b>Enlightened</b> captured this Measurement, 51 to 36.4.<br />The <b>Enlightened</b> captured this Secondary Site, outperforming the Resistance by 117.6.<br /><br />Portals Owned - RES: 6 - <b>ENL:</b> 21 - [Value: 1 each]<br />Volatile Portals Owned - RES: 2 - <b>ENL:</b> 3 - [Value: 10 each]<br />Links Created - RES: 0 - ENL: 0 - [Value: 3 each]<br />Single Field Over Entire Cluster - <b>RES</b> - [Value: +40%, (10.4)]<br /><br /><b>Total for this Measurement:</b><br />Resistance - 36.4 - <b>Enlightened</b> - 51<br /><br /><b>Total for this Secondary Site:</b><br />Resistance - 113.4 - <b>Enlightened</b> - 231<br /><br /><b>Portal Ownership Details</b><br /><br />ENL - Albemarle Paper<br />ENL - Brown’s Island<br />ENL - Christopher Newport Monument<br />ENL - Confederate Laboratory<br />ENL - Confederate Ordnance Lab Explosion<br />ENL - Electric Trolley<br />ENL - F. W. Sullivan's Canal Bar &amp; Grille<br />ENL - Haxall Millrace<br />ENL - Hydroelectric Plant<br />ENL - James is That You I Smell-mural<br />ENL - John Jasper<br />ENL - Manchester &amp; Free Bridges<br />ENL - Missing Southside from RIC Lights<br />ENL - Pipeline Walkway - West Entrance<br />ENL - R&amp;P Railroad Piers<br />ENL - Ross' Mill Race<br />ENL - The Headman<br />ENL - Tidewater Connection Locks<br />ENL - Tredegar Iron Works<br />ENL - Untitled Mural<br />ENL - Welcome to Canal Walk<br />ENL [Vol] - 7th Street Fountain<br />ENL [Vol] - American Civil War Center At Historic<br />ENL [Vol] - Mill Workers Monument<br />NEU - Canal Pump Controls<br />NEU - Canal Walk / Historic Canals<br />NEU - Haxall Headgate Park<br />NEU - Haxall Headgates<br />NEU - Jerold F Baughn<br />NEU - Overshot Waterwheel<br />NEU - Powhatan Chiefdom<br />RES - Belle Isle<br />RES - Brown’s Island<br />RES - Falls of the James<br />RES - Historic Overlook of the James River Rapids<br />RES - Southern Firepower<br />RES - Three Days in April 1865<br />RES [Vol] - Bullseye Mural<br />RES [Vol] - Riverfront Archway<br /><br /></div>
+[#### photo: Summary of Anomaly Conditions:
+Chicago - R:550 - E:684
+Galveston - R:139 - E:248.8
+Richmond - R:113.4 - E:231
+Regional Cells - R:80.9 - E:216.154
+Total - R:883.3 - E:1379.954
+Despite stiff competition from Resistance ground operations and a number of well placed Megafields, including one over Richmond in M4, the Enlightened sweep the day.
+Combining strong fielding operations in Chicago and Galveston, highly competitive performance on the ground at all three Anomaly sites and control of nearly every connected Regional Cell, the Enlightened emerged from the dust of Measurement 4 with a lead of nearly 500.
+At the end of #Helios 03 and 04, the Enlightened have surged to the fore of the Helios Anomaly series, which stands 12:4, Enlightened leading. The combined global MU level stood at 764 Million MU at the Final Measurement, an incredible achievement, but not enough to counteract the effects of Devra Bogdanovich’s latest Portal Virus.
+#Helios: Chicago - Measurement 4 Report
+The Enlightened captured this Measurement, 238 to 147.
+The Enlightened captured this Primary Site, outperforming the Resistance by 134.
+Portals Owned - RES: 26 - ENL: 54 - [Value: 2 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 20 each]
+Links Created - RES: 7 - ENL: 18 - [Value: 5 each]
+Single Field Over Entire Cluster - NONE - [Value: +40%, (0)]
+The Enlightened controlled NR02-FOXTROT-09 (Volatile) [Value: +8%]
+The Resistance controlled NR11-PAPA-00 (Additional) [Value: +5%]
+The Enlightened controlled AM03-KILO-15 (Additional) [Value: +5%]
+The Enlightened controlled AM01-CHARLIE-12 (Additional) [Value: +5%]
+The Enlightened controlled NR12-SIERRA-04 (Additional) [Value: +5%]
+The Resistance controlled NR02-GOLF-03 (Additional) [Value: +5%]
+Total for this Measurement:
+Resistance - 147 - Enlightened - 238
+Total for this Primary Site:
+Resistance - 550 - Enlightened - 684
+Measurement Time Details:
+Original: 1:38 (Minutes:Seconds within Measurement Window)
+Padded String: P)=k)*cI@@6Fy`PKv&lt; 1:38 x'2B&amp;Z[T'(
+SHA256 of Padded String: 9fcceb4e7a327b9da31d85fc77add9423c732cb0d2afe4511d7ae9c5b0c7c62c
+Portal Ownership Details
+ENL - 333 West Wacker Tower
+ENL - Abandoned Fire Department
+ENL - After-Words Books
+ENL - Anichini Prime Meats
+ENL - Anti-Cruelty Society
+ENL - Boss Bar
+ENL - Britannica Building
+ENL - Cable Car Powerhouse
+ENL - Carson's
+ENL - Charity
+ENL - Chicago Cut Dog Statue
+ENL - Chicago Fire Department
+ENL - Chicago Medical Society
+ENL - City Cat Doctor
+ENL - Clark and Lake El Stop
+ENL - Clock at LaSalle and Hubbard
+ENL - Crossing Structure
+ENL - CTA Merchandise Mart
+ENL - Doughnut Vault
+ENL - Flair Tower Mural
+ENL - Fleur de Lis
+ENL - Girl with Ribbon
+ENL - Gold Leaf Panels
+ENL - Greenway Garage Mural
+ENL - Harry Caray's
+ENL - Howard Crane Memorial
+ENL - Hubbard Inn
+ENL - Hubbard’s Folly
+ENL - Lake-Franklin Group
+ENL - Marina City: West Tower
+ENL - Mary Large Rose Sculpture
+ENL - Mies Van Der Rohe's IBM Building
+ENL - Moes Cantina
+ENL - Monk's Pub
+ENL - Most Beautiful Bridge 1963-1964
+ENL - North Bank Clock
+ENL - North Market Hall
+ENL - Old Courthouse
+ENL - Oldschool Water Tower
+ENL - Physician's Column
+ENL - Pink Hydrant
+ENL - Reid, Murdoch and Company Building 1914
+ENL - Sculpture on Kinzie
+ENL - The Chicago School of Professional Psychology
+ENL - The Christmas Tree Ship
+ENL - The Golden Triangle
+ENL - The Great Chicago Fire Hydrants
+ENL - The Hole
+ENL - The Redhead Piano Bar
+ENL - US Post Office
+ENL - Wacker Drive
+ENL - Weber Grill
+ENL - William D Boyce
+ENL - Wind Turbines
+ENL [Vol] - Being Born
+ENL [Vol] - Chicago River Walk
+NEU - Chicago Post Office
+NEU - Edward A. Filene
+NEU - Faces of Chicago Fans
+NEU - General Robert E. Wood
+NEU - Girl Pointing Bronze Statue
+NEU - Marshall Suloway Bridge
+NEU - Memories of the Old World
+NEU - Rite of Spring
+NEU - Rock and Roll McDonald's
+NEU - Three Lawyers and a Judge
+RES - Addington Gallery
+RES - Blue Chicago
+RES - Castle
+RES - Chicago Hard Rock Cafe
+RES - Chicago River Bridge on Franklin
+RES - Drawbridge on Lake Street
+RES - Ed Debevics Bottle Art
+RES - Erie-Lasalle Body Shop
+RES - Famous Sports Hands
+RES - Flair House
+RES - Frank Winfield Woolworth
+RES - Gino's East Pizzeria
+RES - Hilton-Asmus Contemporary
+RES - Hotel Felix 1
+RES - Ira J Bach Walkway
+RES - Jamba Juice Merchandise Mart / Chicago
+RES - North Clark Street Bridge House
+RES - Our Superheroes Hydrant
+RES - Public House Tapper
+RES - Rainforest Cafe Frog
+RES - Site of the First Rush Medical College
+RES - The Athlete sculpture
+RES - The Great Chicago Fire Hydrant
+RES - The Kerryman
+RES - Tree Studios
+RES - Wonder Peace Mural
+RES [Vol] - Assumption Catholic Church
+RES [Vol] - Blue Sculpture
+RES [Vol] - House of Blues
+#Helios: Galveston - Measurement 4 Report
+The Enlightened captured this Measurement, 72.8 to 35.
+The Enlightened captured this Secondary Site, outperforming the Resistance by 109.8.
+Portals Owned - RES: 5 - ENL: 32 - [Value: 1 each]
+Volatile Portals Owned - RES: 3 - ENL: 2 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - ENL - [Value: +40%, (20.8)]
+Total for this Measurement:
+Resistance - 35 - Enlightened - 72.8
+Total for this Secondary Site:
+Resistance - 139 - Enlightened - 248.8
+Portal Ownership Details
+ENL - Adoue &amp; Lobit Bank Building
+ENL - Battle of Galveston
+ENL - Berlocher Row
+ENL - Bottles Mural
+ENL - Bungalow Dry Goods Sign
+ENL - C. F. Marschner Building
+ENL - Central Wharf Est 1840
+ENL - Collectors Gallery
+ENL - Elizabeth Punches Art Studio
+ENL - Fisherman's Wharf
+ENL - Galveston Arts Center
+ENL - Galveston County Social Servic
+ENL - Galveston Trolley Station
+ENL - Giant Trumpet, Galveston
+ENL - Hendley's Row
+ENL - House of Spirits Mural
+ENL - Hurricane Ike Water Level
+ENL - Hutchings, Sealy &amp; Co.
+ENL - Ike Stumps
+ENL - Leon &amp; H. Blum Building
+ENL - Mallory Produce Building
+ENL - Old Galveston Square
+ENL - Santa Fe Union Station
+ENL - Sons of the American Revolution, Texas Society
+ENL - Star Drug Store
+ENL - Stork Club
+ENL - Texas Seaport Museum
+ENL - The Ark of Prosperity
+ENL - The Diamonds
+ENL - The Railroad Museum
+ENL - The Rotary Club of Galveston Plaque
+ENL - The Strand
+ENL [Vol] - American National Insurance Co
+ENL [Vol] - Powell Arch
+NEU - Galveston County Historical Museum
+NEU - Giant Compass
+NEU - Merchants Mutual Insurance Building
+NEU - Nicholas J. Clayton
+NEU - Peck Arts Gallery
+NEU - Pirates! Legends of the Gulf Coast
+NEU - The Fabulous Statue
+NEU - The First National Bank Of Galveston
+NEU - The Stewart Building
+NEU - Thompson Building
+NEU - Washington Hotel
+RES - Armour &amp; Company Building
+RES - Galveston Ice
+RES - Galveston News Building
+RES - Magale Building
+RES - Thomas Jefferson League Building
+RES [Vol] - He's Been Workin'
+RES [Vol] - Saengerfest Park
+RES [Vol] - William Lewis Moody Jr
+#Helios: Richmond - Measurement 4 Report
+The Enlightened captured this Measurement, 51 to 36.4.
+The Enlightened captured this Secondary Site, outperforming the Resistance by 117.6.
+Portals Owned - RES: 6 - ENL: 21 - [Value: 1 each]
+Volatile Portals Owned - RES: 2 - ENL: 3 - [Value: 10 each]
+Links Created - RES: 0 - ENL: 0 - [Value: 3 each]
+Single Field Over Entire Cluster - RES - [Value: +40%, (10.4)]
+Total for this Measurement:
+Resistance - 36.4 - Enlightened - 51
+Total for this Secondary Site:
+Resistance - 113.4 - Enlightened - 231
+Portal Ownership Details
+ENL - Albemarle Paper
+ENL - Brown’s Island
+ENL - Christopher Newport Monument
+ENL - Confederate Laboratory
+ENL - Confederate Ordnance Lab Explosion
+ENL - Electric Trolley
+ENL - F. W. Sullivan's Canal Bar &amp; Grille
+ENL - Haxall Millrace
+ENL - Hydroelectric Plant
+ENL - James is That You I Smell-mural
+ENL - John Jasper
+ENL - Manchester &amp; Free Bridges
+ENL - Missing Southside from RIC Lights
+ENL - Pipeline Walkway - West Entrance
+ENL - R&amp;P Railroad Piers
+ENL - Ross' Mill Race
+ENL - The Headman
+ENL - Tidewater Connection Locks
+ENL - Tredegar Iron Works
+ENL - Untitled Mural
+ENL - Welcome to Canal Walk
+ENL [Vol] - 7th Street Fountain
+ENL [Vol] - American Civil War Center At Historic
+ENL [Vol] - Mill Workers Monument
+NEU - Canal Pump Controls
+NEU - Canal Walk / Historic Canals
+NEU - Haxall Headgate Park
+NEU - Haxall Headgates
+NEU - Jerold F Baughn
+NEU - Overshot Waterwheel
+NEU - Powhatan Chiefdom
+RES - Belle Isle
+RES - Brown’s Island
+RES - Falls of the James
+RES - Historic Overlook of the James River Rapids
+RES - Southern Firepower
+RES - Three Days in April 1865
+RES [Vol] - Bullseye Mural
+RES [Vol] - Riverfront Archway](https://lh3.googleusercontent.com/-rAap1p93KYo/U-av_-XRBVI/AAAAAAAA-1o/2LiIAznkqR0/w2048-h1153/IMG_20140809_122235435.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/imCCX6KFNEG](https://plus.google.com/+NianticProject/posts/imCCX6KFNEG)

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Niantic Project: 2014-08-09 15:46:17 +0900"
+date:   2014-08-09 15:46:17 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 03 - TAIPEI, HONG KONG, KUALA LUMPUR - C2 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/HlsMKi\" class=\"ot-anchor\">http://goo.gl/HlsMKi</a>", "<br />", "<br />", "SHA256: c0d1e415b4831a343b4b119b77db00d3b4337cb3c55962d2db86f5692e039f03", "<br />", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102404322311518112707\" oid=\"102404322311518112707\">James Yeang</a>"], " in Kuala Lumpur", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh6.googleusercontent.com/-mXE94qJZWas/U-XDYztq5BI/AAAAAAAA-OM/5ppy9zyio94/KLrock.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/gBwYZm6Z8av](https://plus.google.com/+NianticProject/posts/gBwYZm6Z8av)

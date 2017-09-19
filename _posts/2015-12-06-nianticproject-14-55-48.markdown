@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-12-06 14:55:48 +0900"
+date:   2015-12-06 14:55:48 +0900
+categories: nianticproject
+---
+Is the Acolyte more than just one of +[Roland Jarvis](https://plus.google.com/103568659333550762891 "")'s adherents? Are they somehow connected, as +[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") suggests?
+
+He'll be in Milan for the [#Abaddon](https://plus.google.com/s/%23Abaddon "") Anomaly... perhaps one of you could find him and get more details from him in person.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@705, :value=>"shared"@712}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Some of you may already know this, but I'm headed to Milan for the ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Abaddon\">#Abaddon</a>", " Anomaly. Hope to see some of you folks there.", "<br />", "<br />", "There's something about the Acolyte that I've been trying to figure out. I think she's more than just someone who carries on his work in the world. I think she's ", "<i>connected</i>", " to ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], ". Somehow bound to his pattern in 'The Ultimate.'", "<br />", "<br />", "There isn't a specific piece of evidence that I can point to that confirms this. I feel like I'm just seeing that pattern emerge from everything we know about her. What do you think? Is it pareidolia or am I on to something? ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: VldwQ2MxSXdPVVZpUjJoRFdqQktRMUZWYkVKUlZVWkNVVlZHUWxWRE9IWk1NMnhKVGxWS1FsRlZSa0pSVlVaQwpWRVZHUWxGVlJrSlJWV1JDVWxWV1FncFJWVVpMVWxkd1NsSldaSHBVVnpsS1lUTndlRlZuY0RGYVIzUndUVE5LCmFWUXlaM2hpVjFrMVlqRldUV1JGVWxoaGFrWkRUV3M1UjFNd2VIQmFWR2hZQ21ReVZscFRSRnBzV1ZNNE5XTnIKYUV4aVJYUnhWVWRrUWs1V1dUSmhWbFpDWkZWc2QxSkdUbWhrVm5CNFEyeE9XRlZYTVZOTE1VWktXa2h3ZWxadApPVE1LVVZWR1VHUjZNRGxEWnowOUNnPT0K](https://lh3.googleusercontent.com/-1BbYQ6i7BAc/VmPNMKFIluI/AAAAAAAAB4w/4Bg-_LuwPaI/w800-h450/Connected.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/9wwEpaiLhjG](https://plus.google.com/+NianticProject/posts/9wwEpaiLhjG)

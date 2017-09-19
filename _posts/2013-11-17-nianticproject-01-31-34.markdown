@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-17 01:31:34 +0900"
+date:   2013-11-17 01:31:34 +0900
+categories: nianticproject
+---
+Despite fierce competition in Zurich and Graz, the Enlightened capture the  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  Anomalies in those cities, as well as the fiercely dominated Bratislava. 
+
+Details of Vienna's Final Measurement will be revealed shortly.
+
+As the morning turns to afternoon in the Americas, all eyes head to Texas, where Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  is about to strike.
+
+x<div class="shared"><br /><h2>Ingress</h2><br /><b>Enlightened capture</b>  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a>  <b>- ZURICH, GRAZ, and BRATISLAVA</b><br /><br />Despite very strong finishes by the Zurich and Graz Resistance, it was not quite enough to edge out the local Enlightened. Perhaps recruiting more Resistance Agents may have helped, or making adjustments to their strategy on the ground. Elsewhere, Bratislava Enlightened use the opportunity to create dense Link networks and drive up their Anomaly values. <br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- ZURICH - Measurement 4 Report</b><br /><br /><b>The Resistance owned 3 Volatile Portals and 3 Non-Volatile Portals</b><br />The Enlightened owned 2 Volatile Portals and 10 Non-Volatile Portals<br /><br /><b>Total for Resistance this Measurement = 33</b><br />Total for Enlightened this Measurement = 30<br /><br />Total for Resistance this Anomaly = 135<br /><b>Total for Enlightened this Anomaly = 177</b><br /><br /><b>Measurement Time Details:</b><br />Original: 3:22 (Minutes:Seconds past the hour)<br />Padded: yWZrukLtXUbifuxGigKnkwHIsFCmBrRLz 3:22 ycllRCwsneLyt<br />MD5 of Padded String: 6BF3CB19618A63088968633AF4D10D74<br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- GRAZ - Measurement 4 Report</b><br /><br />The Resistance owned 0 Volatile Portals and 9 Non-Volatile Portals<br /><b>The Enlightened owned 5 Volatile Portals and 6 Non-Volatile Portals</b><br /><br /><b>The Resistance had 23 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 55<br /><b>Total for Enlightened this Measurement = 56</b><br /><br />Total for Resistance this Anomaly = 208<br /><b>Total for Enlightened this Anomaly = 299</b><br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>- BRATISLAVA - Measurement 4 Report</b><br /><br />The Resistance owned 1 Volatile Portals and 7 Non-Volatile Portals<br /><b>The Enlightened owned 4 Volatile Portals and 46 Non-Volatile Portals</b><br /><br />The Resistance had 3 Links standing at Measurement Time<br /><b>The Enlightened had 88 Links standing at Measurement Time</b><br /><br />Total for Resistance this Measurement = 23<br /><b>Total for Enlightened this Measurement = 262</b><br /><br />Total for Resistance this Anomaly = 77<br /><b>Total for Enlightened this Anomaly = 758</b><br /><br /><a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%2313MAGNUS">#13MAGNUS</a> <b>NOV 16 PRIMARY SITES:</b> <br />Dallas: <a href="http://goo.gl/xIOPHV" class="ot-anchor">http://goo.gl/xIOPHV</a> <br />Vienna: <a href="http://goo.gl/mZF46x" class="ot-anchor">http://goo.gl/mZF46x</a> <br /><br /><b>SATELLITE SITES:</b> <br />Austin: <a href="http://goo.gl/a33LRA" class="ot-anchor">http://goo.gl/a33LRA</a> <br />Bratislava: <a href="http://goo.gl/VaLXum" class="ot-anchor">http://goo.gl/VaLXum</a> <br />Graz: <a href="http://goo.gl/LISRXM" class="ot-anchor">http://goo.gl/LISRXM</a> <br />Houston: <a href="http://goo.gl/JUhO0S" class="ot-anchor">http://goo.gl/JUhO0S</a> <br />San Antonio: <a href="http://goo.gl/bsJEXr" class="ot-anchor">http://goo.gl/bsJEXr</a> <br />Zurich: <a href="http://goo.gl/d9uv9v" class="ot-anchor">http://goo.gl/d9uv9v</a> <br /><br /><b>DEC 7 PRIMARY SITES:</b> <br />Phoenix: <a href="http://goo.gl/uMLR7j" class="ot-anchor">http://goo.gl/uMLR7j</a> <br />Rome: <a href="http://goo.gl/8H9OET" class="ot-anchor">http://goo.gl/8H9OET</a> <br /><br /><b>SATELLITE SITES:</b> <br />Athens: <a href="http://goo.gl/PBCyd8" class="ot-anchor">http://goo.gl/PBCyd8</a> <br />Istanbul: <a href="http://goo.gl/9oD3cm" class="ot-anchor">http://goo.gl/9oD3cm</a> <br />Nashville: <a href="http://goo.gl/rvsDXh" class="ot-anchor">http://goo.gl/rvsDXh</a> <br />Tucson: <a href="http://goo.gl/RD8c3u" class="ot-anchor">http://goo.gl/RD8c3u</a> <br /><br /><b>DEC 14 PRIMARY SITES:</b> <br />Buenos Aires: <a href="http://goo.gl/BDcLTZ" class="ot-anchor">http://goo.gl/BDcLTZ</a> <br />San Francisco: <a href="http://goo.gl/plCBZL" class="ot-anchor">http://goo.gl/plCBZL</a><br /><br /><b>SATELLITE SITES:</b> <br />Rio de Janeiro: <a href="http://goo.gl/EeuyO4" class="ot-anchor">http://goo.gl/EeuyO4</a> <br />San Diego: <a href="http://goo.gl/uqmCci" class="ot-anchor">http://goo.gl/uqmCci</a> <br />Santiago: <a href="http://goo.gl/BE71fV" class="ot-anchor">http://goo.gl/BE71fV</a> <br />Sao Paulo: <a href="http://goo.gl/AnJNro" class="ot-anchor">http://goo.gl/AnJNro</a> <br /><br /></div>
+[#### photo: Enlightened capture #13MAGNUS - ZURICH, GRAZ, and BRATISLAVA
+Despite very strong finishes by the Zurich and Graz Resistance, it was not quite enough to edge out the local Enlightened. Perhaps recruiting more Resistance Agents may have helped, or making adjustments to their strategy on the ground. Elsewhere, Bratislava Enlightened use the opportunity to create dense Link networks and drive up their Anomaly values.
+#13MAGNUS - ZURICH - Measurement 4 Report
+The Resistance owned 3 Volatile Portals and 3 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 10 Non-Volatile Portals
+Total for Resistance this Measurement = 33
+Total for Enlightened this Measurement = 30
+Total for Resistance this Anomaly = 135
+Total for Enlightened this Anomaly = 177
+Measurement Time Details:
+Original: 3:22 (Minutes:Seconds past the hour)
+Padded: yWZrukLtXUbifuxGigKnkwHIsFCmBrRLz 3:22 ycllRCwsneLyt
+MD5 of Padded String: 6BF3CB19618A63088968633AF4D10D74
+#13MAGNUS - GRAZ - Measurement 4 Report
+The Resistance owned 0 Volatile Portals and 9 Non-Volatile Portals
+The Enlightened owned 5 Volatile Portals and 6 Non-Volatile Portals
+The Resistance had 23 Links standing at Measurement Time
+Total for Resistance this Measurement = 55
+Total for Enlightened this Measurement = 56
+Total for Resistance this Anomaly = 208
+Total for Enlightened this Anomaly = 299
+#13MAGNUS - BRATISLAVA - Measurement 4 Report
+The Resistance owned 1 Volatile Portals and 7 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 46 Non-Volatile Portals
+The Resistance had 3 Links standing at Measurement Time
+The Enlightened had 88 Links standing at Measurement Time
+Total for Resistance this Measurement = 23
+Total for Enlightened this Measurement = 262
+Total for Resistance this Anomaly = 77
+Total for Enlightened this Anomaly = 758
+#13MAGNUS NOV 16 PRIMARY SITES: 
+Dallas: http://goo.gl/xIOPHV 
+Vienna: http://goo.gl/mZF46x 
+SATELLITE SITES: 
+Austin: http://goo.gl/a33LRA 
+Bratislava: http://goo.gl/VaLXum 
+Graz: http://goo.gl/LISRXM 
+Houston: http://goo.gl/JUhO0S 
+San Antonio: http://goo.gl/bsJEXr 
+Zurich: http://goo.gl/d9uv9v 
+DEC 7 PRIMARY SITES: 
+Phoenix: http://goo.gl/uMLR7j 
+Rome: http://goo.gl/8H9OET 
+SATELLITE SITES: 
+Athens: http://goo.gl/PBCyd8 
+Istanbul: http://goo.gl/9oD3cm 
+Nashville: http://goo.gl/rvsDXh 
+Tucson: http://goo.gl/RD8c3u 
+DEC 14 PRIMARY SITES: 
+Buenos Aires: http://goo.gl/BDcLTZ 
+San Francisco: http://goo.gl/plCBZL
+SATELLITE SITES: 
+Rio de Janeiro: http://goo.gl/EeuyO4 
+San Diego: http://goo.gl/uqmCci 
+Santiago: http://goo.gl/BE71fV 
+Sao Paulo: http://goo.gl/AnJNro ](https://lh5.googleusercontent.com/-j1fRGYTpWbk/UoeagtO7F4I/AAAAAAAAaLg/n65f1spZfos/w1024-h768/13magnusnov16-1.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/LVdmfY7E6Sm](https://plus.google.com/+NianticProject/posts/LVdmfY7E6Sm)

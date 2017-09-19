@@ -1,0 +1,143 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-09 10:11:32 +0900"
+date:   2014-03-09 10:11:32 +0900
+categories: nianticproject
+---
+[#Recursion](https://plus.google.com/s/%23Recursion "")   04
+
+Congratulations to the Resistance.  They have claimed   [#Recursion](https://plus.google.com/s/%23Recursion "")   04 with their focus.  
+
+An eventful day in Austin, as developments emerged and questions remain.  Both factions had a lot to take in today.
+
+What is the purpose of the XM Detection Vehicle  [#NL1331](https://plus.google.com/s/%23NL1331 "")   ?  Agents caught a glimpse of it driving around the streets of Austin, but have any come in direct contact with the vehicle?  What was it doing there, and where will it go next?
+
+Agents in Austin were also taken by surprise at the end of the Anomaly with +[Hank Johnson](https://plus.google.com/117792105926525258257 "") delivering the Cluster 4 Volatiles.  What are we to make of his appearance in Texas?  IS Hank alive?  If  [#hankisalive](https://plus.google.com/s/%23hankisalive "")   , how?
+
+ [#Recursion](https://plus.google.com/s/%23Recursion "")   04 keeps us on pins and needles.  And our toes.
+
+x {:element=>{:name=>"div", :attributes=>[{:name=>"class"@1402, :value=>"shared"@1409}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b>The Resistance capture </b>", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> 04</b>", "<br />", "<br />", "Austin Enlightened successfully unlocked 3 XM Vaults, as did the Resistance. Inside the passcode-protected XM Vaults, Agents recovered relics, Ingress passcodes, and ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/112093230835033920328\" oid=\"112093230835033920328\">Doritos®</a>"], " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23BoldStage\">#BoldStage</a>", " passes.", "<br />", "<br />", "Amid sightings of an ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23NL1331\">#NL1331</a>", " XM Collection Vehicle, Austin Agents also confirmed ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HankIsAlive\">#HankIsAlive</a>", " (or someone very much like him).", "<br />", "<br />", "The Resistance secure all 3 ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a>", " Sites, and capture the Anomaly. Excellent work to all Agents.", "<br />", "<br />", "Total for the Resistance this Anomaly: 1,132", "<br />", "Total for the Enlightened this Anomaly: 791", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - AUSTIN - Measurement 4 Report</b>", "<br />", "<br />", "The Resistance owned 1 Volatile Portals and 1 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 4 Volatile Portals and 11 Non-Volatile Portals</b>", "<br />", "<br />", "<b>The Resistance had 16 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>The Resistance captured 2 Doritos XM Vaults</b>", "<br />", "The Enlightened captured 1 Doritos XM Vaults", "<br />", "<br />", "<b>The Enlightened controlled AM03-GOLF-02, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (50)</b>", "<br />", "<br />", "<b>The Resistance controlled the Global Score, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (100)</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 262</b>", "<br />", "Total for Enlightened this Measurement = 182", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 667</b>", "<br />", "Total for Enlightened this Anomaly = 595", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Robinson-Macken House (VOLATILE) - Enlightened", "<br />", "The Boardman-Webb House (VOLATILE) - Enlightened", "<br />", "Wooldridge Park (VOLATILE) - Enlightened", "<br />", "Austin Woman’s Club (VOLATILE) - Enlightened", "<br />", "West-Bremond Cottage (VOLATILE) - Resistance", "<br />", "Roscoe the Cow - Enlightened", "<br />", "Joseph and Mary Robinson Marti - Enlightened", "<br />", "First Austin Capitol, Republic of Texas - Enlightened", "<br />", "Gilfillan House - Enlightened", "<br />", "3rd Coast - Enlightened", "<br />", "Emma West Flats - Enlightened", "<br />", "Ira Hobart Evans - Enlightened", "<br />", "Kung Fu Saloon - Enlightened", "<br />", "Wahoo's - Enlightened", "<br />", "1933 Austin Public Library - Enlightened", "<br />", "Urban Petfitters  - Enlightened", "<br />", "US Courthouse - Neutral", "<br />", "Old B.J. Smith Property - Neutral", "<br />", "Austin History Center - Neutral", "<br />", "Texas Newspapers, C.S.A. - Neutral", "<br />", "Original Site of First Presbyt - Neutral", "<br />", "Moore-Flack House - Neutral", "<br />", "Austin's Moonlight Towers - Neutral", "<br />", "Hirshfeld House - Neutral", "<br />", "Bremond House - Neutral", "<br />", "Tubular Sculpture - Neutral", "<br />", "Hirshfeld Cottage - Neutral", "<br />", "John Henry Faulk Central Library - Resistance", "<br />", "XM Vault: Cheer Up Charlies - Enlightened", "<br />", "XM Vault: MugShots - Resistance", "<br />", "XM Vault: Empire Control Room - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - MEXICO CITY - Measurement 4 Report</b>", "<br />", "<br />", "<b>The Resistance owned 3 Volatile Portals and 11 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 2 Volatile Portals and 4 Non-Volatile Portals", "<br />", "<br />", "<b>The Resistance had 11 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 63</b>", "<br />", "Total for Enlightened this Measurement = 24", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 224</b>", "<br />", "Total for Enlightened this Anomaly = 84", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Zócalo (VOLATILE) - Enlightened", "<br />", "Llave de Fe (VOLATILE) - Enlightened", "<br />", "Fundación de Tenochtitlan (VOLATILE) - Resistance", "<br />", "Templo Mayor (VOLATILE) - Resistance", "<br />", "Centro histerico (VOLATILE) - Resistance", "<br />", "Escultura - Enlightened", "<br />", "Ex Teresa Arte Actual - Enlightened", "<br />", "Templo Mayor - Enlightened", "<br />", "Plaza de la Constitucion Mexic - Enlightened", "<br />", "Devocion - Neutral", "<br />", "Mexico Cathedral of Hop - Neutral", "<br />", "Zocalo cd de Mexico - Neutral", "<br />", "Mural \"La Creacion\" - Neutral", "<br />", "Cathedrale Mexico - Neutral", "<br />", "Colegio San Ildelfonso - Resistance", "<br />", "Angel en el Zócalo, México DF - Resistance", "<br />", "Museo Gastronómico Herdez - Resistance", "<br />", "Fuente Catedral - Resistance", "<br />", "Figura Hotel Catedral  - Resistance", "<br />", "Iglesia de Nuestra Señora del Pilar - Resistance", "<br />", "Sociedad Mexicana de Caricatur - Resistance", "<br />", "Cruz De La Catedral - Resistance", "<br />", "Busto Cuauhtemoc - Resistance", "<br />", "Pipes of the Church - Resistance", "<br />", "Museum of Secretaría de Hacien - Resistance", "<br />", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a></b>", "<b> - ST. LOUIS - Measurement 4 Report</b>", "<br />", "<br />", "<b>The Resistance owned 3 Volatile Portals and 13 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 2 Volatile Portals and 2 Non-Volatile Portals", "<br />", "<br />", "<b>A Resistance Field covered all the Portals in this Cluster (50)</b>", "<br />", "<br />", "<b>The Resistance had 1 Links standing at Measurement Time</b>", "<br />", "<br />", "<b>Total for Resistance this Measurement = 95</b>", "<br />", "Total for Enlightened this Measurement = 22", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 241</b>", "<br />", "Total for Enlightened this Anomaly = 112", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 2:36 (Minutes:Seconds past the hour)", "<br />", "Padded: YVnDWszvHXEcqqPDKfJvWrrU 2:36 ANYvJk", "<br />", "MD5 of Padded String: 6a8c3d19717b9e0c8686eb8fd8af2514", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "St. Louis Public Library (VOLATILE) - Enlightened", "<br />", "Dove Reentry (VOLATILE) - Enlightened", "<br />", "TGP: David Ashby Memorial Entrance (VOLATILE) - Resistance", "<br />", "Box of Tree (VOLATILE) - Resistance", "<br />", "TGP: Cemetery Gates (VOLATILE) - Resistance", "<br />", "Walk in the Park Grooming  - Enlightened", "<br />", "Historic District Boundary  - Enlightened", "<br />", "Ascent - Neutral", "<br />", "Stone Guardians - Neutral", "<br />", "US Post Office, S Grand Blvd, St. Louis - Resistance", "<br />", "Center for Divine Love - Resistance", "<br />", "Gustine Market - Resistance", "<br />", "Black Thorn Pub &amp; Pizza - Resistance", "<br />", "St. Paul United Church of Christ   - Resistance", "<br />", "St. John's Episcopal Church - Resistance", "<br />", "Scruggs Methodist Church  - Resistance", "<br />", "The Well Community Church and Ride Together Ministries  - Resistance", "<br />", "MoKaBe's Coffeehouse - Resistance", "<br />", "The Dickmann Building - Resistance", "<br />", "St Pius V Catholic Church - Resistance", "<br />", "Orpheum Cleaners - Resistance", "<br />", "Cafe Mosaic - Resistance", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108897240113169541245\" oid=\"108897240113169541245\">Kevin Gorham</a>"], ".", "<br />", "<br />", " ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Recursion\">#Recursion</a>", "   ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23UnlockBold\">#UnlockBold</a>", "  ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: The Resistance capture #Recursion 04
+Austin Enlightened successfully unlocked 3 XM Vaults, as did the Resistance. Inside the passcode-protected XM Vaults, Agents recovered relics, Ingress passcodes, and +Doritos® #BoldStage passes.
+Amid sightings of an #NL1331 XM Collection Vehicle, Austin Agents also confirmed #HankIsAlive (or someone very much like him).
+The Resistance secure all 3 #Recursion Sites, and capture the Anomaly. Excellent work to all Agents.
+Total for the Resistance this Anomaly: 1,132
+Total for the Enlightened this Anomaly: 791
+#Recursion - AUSTIN - Measurement 4 Report
+The Resistance owned 1 Volatile Portals and 1 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 11 Non-Volatile Portals
+The Resistance had 16 Links standing at Measurement Time
+The Resistance captured 2 Doritos XM Vaults
+The Enlightened captured 1 Doritos XM Vaults
+The Enlightened controlled AM03-GOLF-02, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (50)
+The Resistance controlled the Global Score, based on an average of all Checkpoints in this Shaper Septicycle prior to this Measurement. (100)
+Total for Resistance this Measurement = 262
+Total for Enlightened this Measurement = 182
+Total for Resistance this Anomaly = 667
+Total for Enlightened this Anomaly = 595
+Portal Ownership Details:
+Robinson-Macken House (VOLATILE) - Enlightened
+The Boardman-Webb House (VOLATILE) - Enlightened
+Wooldridge Park (VOLATILE) - Enlightened
+Austin Woman’s Club (VOLATILE) - Enlightened
+West-Bremond Cottage (VOLATILE) - Resistance
+Roscoe the Cow - Enlightened
+Joseph and Mary Robinson Marti - Enlightened
+First Austin Capitol, Republic of Texas - Enlightened
+Gilfillan House - Enlightened
+3rd Coast - Enlightened
+Emma West Flats - Enlightened
+Ira Hobart Evans - Enlightened
+Kung Fu Saloon - Enlightened
+Wahoo's - Enlightened
+1933 Austin Public Library - Enlightened
+Urban Petfitters  - Enlightened
+US Courthouse - Neutral
+Old B.J. Smith Property - Neutral
+Austin History Center - Neutral
+Texas Newspapers, C.S.A. - Neutral
+Original Site of First Presbyt - Neutral
+Moore-Flack House - Neutral
+Austin's Moonlight Towers - Neutral
+Hirshfeld House - Neutral
+Bremond House - Neutral
+Tubular Sculpture - Neutral
+Hirshfeld Cottage - Neutral
+John Henry Faulk Central Library - Resistance
+XM Vault: Cheer Up Charlies - Enlightened
+XM Vault: MugShots - Resistance
+XM Vault: Empire Control Room - Resistance
+#Recursion - MEXICO CITY - Measurement 4 Report
+The Resistance owned 3 Volatile Portals and 11 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 4 Non-Volatile Portals
+The Resistance had 11 Links standing at Measurement Time
+Total for Resistance this Measurement = 63
+Total for Enlightened this Measurement = 24
+Total for Resistance this Anomaly = 224
+Total for Enlightened this Anomaly = 84
+Portal Ownership Details:
+Zócalo (VOLATILE) - Enlightened
+Llave de Fe (VOLATILE) - Enlightened
+Fundación de Tenochtitlan (VOLATILE) - Resistance
+Templo Mayor (VOLATILE) - Resistance
+Centro histerico (VOLATILE) - Resistance
+Escultura - Enlightened
+Ex Teresa Arte Actual - Enlightened
+Templo Mayor - Enlightened
+Plaza de la Constitucion Mexic - Enlightened
+Devocion - Neutral
+Mexico Cathedral of Hop - Neutral
+Zocalo cd de Mexico - Neutral
+Mural "La Creacion" - Neutral
+Cathedrale Mexico - Neutral
+Colegio San Ildelfonso - Resistance
+Angel en el Zócalo, México DF - Resistance
+Museo Gastronómico Herdez - Resistance
+Fuente Catedral - Resistance
+Figura Hotel Catedral  - Resistance
+Iglesia de Nuestra Señora del Pilar - Resistance
+Sociedad Mexicana de Caricatur - Resistance
+Cruz De La Catedral - Resistance
+Busto Cuauhtemoc - Resistance
+Pipes of the Church - Resistance
+Museum of Secretaría de Hacien - Resistance
+#Recursion - ST. LOUIS - Measurement 4 Report
+The Resistance owned 3 Volatile Portals and 13 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 2 Non-Volatile Portals
+A Resistance Field covered all the Portals in this Cluster (50)
+The Resistance had 1 Links standing at Measurement Time
+Total for Resistance this Measurement = 95
+Total for Enlightened this Measurement = 22
+Total for Resistance this Anomaly = 241
+Total for Enlightened this Anomaly = 112
+Measurement Time Details:
+Original: 2:36 (Minutes:Seconds past the hour)
+Padded: YVnDWszvHXEcqqPDKfJvWrrU 2:36 ANYvJk
+MD5 of Padded String: 6a8c3d19717b9e0c8686eb8fd8af2514
+Portal Ownership Details:
+St. Louis Public Library (VOLATILE) - Enlightened
+Dove Reentry (VOLATILE) - Enlightened
+TGP: David Ashby Memorial Entrance (VOLATILE) - Resistance
+Box of Tree (VOLATILE) - Resistance
+TGP: Cemetery Gates (VOLATILE) - Resistance
+Walk in the Park Grooming  - Enlightened
+Historic District Boundary  - Enlightened
+Ascent - Neutral
+Stone Guardians - Neutral
+US Post Office, S Grand Blvd, St. Louis - Resistance
+Center for Divine Love - Resistance
+Gustine Market - Resistance
+Black Thorn Pub &amp; Pizza - Resistance
+St. Paul United Church of Christ   - Resistance
+St. John's Episcopal Church - Resistance
+Scruggs Methodist Church  - Resistance
+The Well Community Church and Ride Together Ministries  - Resistance
+MoKaBe's Coffeehouse - Resistance
+The Dickmann Building - Resistance
+St Pius V Catholic Church - Resistance
+Orpheum Cleaners - Resistance
+Cafe Mosaic - Resistance
+Photo by Agent +Kevin Gorham.
+#Recursion   #UnlockBold  ](https://lh3.googleusercontent.com/-3NITdtdFNjM/UxusWs6V4tI/AAAAAAAAmRQ/m4prc9bqqwQ/w1515-h2048/14%2B-%2B1.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Kqrg6np4JVY](https://plus.google.com/+NianticProject/posts/Kqrg6np4JVY)

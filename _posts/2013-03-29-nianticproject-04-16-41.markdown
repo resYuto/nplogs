@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Niantic Project: 2013-03-29 04:16:41 +0900"
+date:   2013-03-29 04:16:41 +0900
+categories: nianticproject
+---
+You may remember I received a cryptic message a few days ago from someone named Susanna Moyer.
+
+Today, she contacted me again, and revealed what they have been working on. It's something called the Ingress Report, and it will be back again next week...
+
+To mark their launch, they are offering 100 AP to the first 150 submissions at [ingress.com/report](http://ingress.com/report ""), watch the premiere episode for the details.
+
+In addition, an internal chatlog from within the Niantic Labs reveals plans to extend Ingress Scanner Access codes to all L6-L8 agents... 
+
+Read it here: [http://www.nianticproject.com/?id=sc428b](http://www.nianticproject.com/?id=sc428b "")
+
+[#ingressreport](https://plus.google.com/s/%23ingressreport "")
+[#### video: http://www.youtube.com/v/_sv1wDdOxuM?autohide=1&amp;version=3](http://www.youtube.com/v/_sv1wDdOxuM?autohide=1&amp;version=3 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/6B5TLZanBB6](https://plus.google.com/+NianticProject/posts/6B5TLZanBB6)

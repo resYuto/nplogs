@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-08 08:47:00 +0900"
+date:   2013-12-08 08:47:00 +0900
+categories: nianticproject
+---
+[#IngressReport](https://plus.google.com/s/%23IngressReport "")  Live coverage of the final measurement in Phoenix, AZ is about to begin. Tune in, Agents!
+
+x
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  {:element=>{:name=>"div", :attributes=>[{:name=>"class"@326, :value=>"shared"@333}], :children=>["<br />", "<h2>Ingress</h2>", "AGENTS: ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101560858827970533247\" oid=\"101560858827970533247\">Susanna Moyer</a>"], " will bring you a Special Edition LIVE broadcast of the ", "<b>Ingress Report</b>", " from a safehouse outside of PHOENIX, AZ. Tune in on the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " page starting at 3:30 PM MST: ", "<a href=\"http://plus.google.com/+Ingress\" class=\"ot-anchor\">http://plus.google.com/+Ingress</a>", "<br />", "<br />", "We need your help. As both Factions battle for control of the Operation ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " XM Anomaly, we want to hear from ", "<b>you</b>", " our worldwide Agents. If you would like to join the LIVE broadcast, sign the release at ", "<a href=\"http://bit.ly/13MAGNUSHOA\" class=\"ot-anchor\">http://bit.ly/13MAGNUSHOA</a>", " and the ", "<b>Ingress Report</b>", " team will be in touch.", "<br />", "<br />", "<b>DEC 7 PRIMARY SITES:</b>", " ", "<br />", "Phoenix: ", "<a href=\"http://goo.gl/uMLR7j\" class=\"ot-anchor\">http://goo.gl/uMLR7j</a>", " ", "<br />", "Rome: ", "<a href=\"http://goo.gl/8H9OET\" class=\"ot-anchor\">http://goo.gl/8H9OET</a>", " ", "<br />", "<br />", "<b>SATELLITE SITES:</b>", " ", "<br />", "Athens: ", "<a href=\"http://goo.gl/PBCyd8\" class=\"ot-anchor\">http://goo.gl/PBCyd8</a>", " ", "<br />", "Istanbul: ", "<a href=\"http://goo.gl/9oD3cm\" class=\"ot-anchor\">http://goo.gl/9oD3cm</a>", " ", "<br />", "Nashville: ", "<a href=\"http://goo.gl/rvsDXh\" class=\"ot-anchor\">http://goo.gl/rvsDXh</a>", " ", "<br />", "Tucson: ", "<a href=\"http://goo.gl/RD8c3u\" class=\"ot-anchor\">http://goo.gl/RD8c3u</a>", " ", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/8L1vNmjNdZv](https://plus.google.com/+NianticProject/posts/8L1vNmjNdZv)

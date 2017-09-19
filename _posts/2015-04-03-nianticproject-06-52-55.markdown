@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2015-04-03 06:52:55 +0900"
+date:   2015-04-03 06:52:55 +0900
+categories: nianticproject
+---
+**Be sure to tune in tomorrow,** as +[Susanna Moyer](https://plus.google.com/101560858827970533247 "")  reports on the largest  XM Anomaly in history with stories, images and interviews from Pasadena, Hanover, Kyoto and around the world.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@380, :value=>"shared"@387}], :children=>["<br />", "<h2>Susanna Moyer</h2>", "Join me tomorrow for a special  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressReport\">#IngressReport</a>", "   look at the largest XM Anomaly in ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " history. With over 20,000 Agents on the ground, and countless others contributing behind the scenes, in Regional Cells and in Shard Operations from nearly every continent, the  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Shonin\">#Shonin</a>", "  Anomalies have started 2015 in truly epic fashion.", "<br />", "<br />", "It's going to be one of our biggest and best IR's yet, featuring your stories, interviews and images from Pasadena, Hanover, Kyoto as well as Shard Sitreps from around the world.", "<br />", "<br />", "Be sure to tune in... See you tomorrow!", "<br />", "<br />", "Susanna", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 6rteplylmi2kxdpn0iemme2hst](https://lh6.googleusercontent.com/-pqg0d7vZpIE/VR22z8yQjuI/AAAAAAAAARQ/bsv5BEMqf9k/ShoninLights.gif "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Ej3VEeqt8Ph](https://plus.google.com/+NianticProject/posts/Ej3VEeqt8Ph)

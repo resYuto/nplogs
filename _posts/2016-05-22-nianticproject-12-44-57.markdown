@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Niantic Project: 2016-05-22 12:44:57 +0900"
+date:   2016-05-22 12:44:57 +0900
+categories: nianticproject
+---
+{:element=>{:name=>"div", :attributes=>[{:name=>"class"@5, :value=>"shared"@12}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "I've obtained these declassified documents related to the upcoming Aegis Nova Anomalies.", "<br />", "<br />", "Combined with the Anomaly Zone maps that emerged a few days ago, these documents illuminate almost every aspect of the Anomalies that will take place next Saturday.", "<br />", "<br />", "For further questions, I'd recommend you contact ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107849663787965375687\" oid=\"107849663787965375687\">Hulong Transglobal</a>"], ".", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23InvestigateIngress\">#InvestigateIngress</a>", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/Hqn1NK2z4kK](https://plus.google.com/+NianticProject/posts/Hqn1NK2z4kK)

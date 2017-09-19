@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-06-29 04:48:38 +0900"
+date:   2015-06-29 04:48:38 +0900
+categories: nianticproject
+---
+Were NIA operatives offscreen influencing John Nee during his +[Behind The Scanner](https://plus.google.com/113020726391023655192 "") interview?
+
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") seems to think so...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@507, :value=>"shared"@514}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "I don’t know how it looked to you, but I got the feeling that somebody was feeding lines to John Nee the other night. Like maybe the NIA was off screen. That’s just me, but honestly, wouldn’t be surprised. ", "<br />", "<br />", "The good news is that the Graphic Novel is coming out and available for pre-order. If ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106965960712090580437\" oid=\"106965960712090580437\">Tycho C.</a>"], "'s past work is anything to go by, I expect we’ll learn something new about an era of the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], " that’s been pretty shrouded in mystery. I’m heading down to my local shop (Meltdown in L.A.) to reserve my copy. Ping me here of anything you might hear from the comic shops.  My feeling is that they might be a source of information. And hack the Portals. Also, if anybody has suggestions for what else I should pick up while I’m there, tell me.", "<br />", "<br />", "Still no word from ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], ".", "<br />", "<br />"], :ignore=>true}}
+[#### photo: px32qzu21j7o5q3r0](https://lh3.googleusercontent.com/-E7u6b2ZNA9g/VZBOcOBWcUI/AAAAAAAABM0/mltVhoH2Km0/w800-h479/Controller.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/b5S4efbqxJt](https://plus.google.com/+NianticProject/posts/b5S4efbqxJt)

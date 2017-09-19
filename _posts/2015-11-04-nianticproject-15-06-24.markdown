@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Niantic Project: 2015-11-04 15:06:24 +0900"
+date:   2015-11-04 15:06:24 +0900
+categories: nianticproject
+---
+*"As always, you get one big answer, but new questions emerge in its wake. It’s a process. The truth is a process. You keep digging."*
+
+Head to Emerald Knights in Burbank, Thursday from 6:30PM to 9:00PM to have a copy of the Ingress: Origins graphic novel signed in person.
+
+Autographed Collector's copies are also available via Very Rare Anomaly Packs. Agents can order these even if they cannot attend an Anomaly by arranging a friend to help pickup their items at an Anomaly Site.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@514, :value=>"shared"@521}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Just got my advance copy of Niantic Project: Origins. If you're in the greater LA area, head to Emerald Knights in Burbank this Thursday to get a signed copy.", "<br />", "<br />", "It was weird to see myself drawn in a comic book, but I can attest to the fact that most of what was in there was accurate. More on that at some other time.", "<br />", "<br />", "Two and a half years ago, I posed one, simple question:", "<br />", "<br />", "‘What is the Niantic Project?’  ", "<br />", "<br />", "<br />", "Now we have a much better idea thanks to ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/106965960712090580437\" oid=\"106965960712090580437\">Tycho C.</a>"], " and friends. Calvin was deep in from the beginning. The question is, what did he know and when did he know it?  ", "<br />", "<br />", "I’m saying he’s been Anti-Magnus from the beginning. He duped Ni and the others into funding his creation of a Magnus right on top of one of the most powerful Portals in the world (and which just happens to house a particle collider).  ", "<br />", "<br />", "I’m saying that many of the covert machinations since then have been intended and unintended consequences of his grand experiment with Niantic. Did he succeed?  Well, it appears the N’zeer are back and are influencing us on a macro level.  Did he know what would become of ADA?  Still trying to figure that out. Did he manipulate Devra into releasing the virus that caused the Portals to weaken and opened the doors for the N’zeer’s return?  You tell me.  ", "<br />", "<br />", "As always, you get one big answer, but new questions emerge in its wake. It’s a process. The truth is a process. You keep digging.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: eevkbanhrrrhriototiomeovw](https://lh3.googleusercontent.com/-CZNFkhM9tkk/VjmesED0qeI/AAAAAAAABpE/J0LPE7lcpIg/w800-h800/Beginnings.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/Kwc9vwBdTnQ](https://plus.google.com/+NianticProject/posts/Kwc9vwBdTnQ)

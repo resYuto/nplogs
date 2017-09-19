@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Niantic Project: 2014-03-01 07:06:46 +0900"
+date:   2014-03-01 07:06:46 +0900
+categories: nianticproject
+---
+Most interesting.
+
+Someone in Karachi, Pakistan came across a lost camera from +[Hank Johnson](https://plus.google.com/117792105926525258257 "")'s [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "") Nomad shoot.
+
+I've chatted with him directly and confirmed that it is real, but haven't been able to persuade him to release the contents.
+
+I think he's holding out for some monetary compensation...
+
+According to him, the footage on the device 'must be seen to be believed.'
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@681, :value=>"shared"@688}], :children=>["<br />", "<h2>Wahid Mazhar</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], "<br />", "<br />", "I purchased this camera at a night bazaar in Karachi.", "<br />", "<br />", "I believe it contains footage that you have not aired. if you would like to air this footage, which I believe is unreplaceable, please contact me.", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/105211554081025512763\" oid=\"105211554081025512763\">Niantic Project</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/108824342371548161778\" oid=\"108824342371548161778\">JoJo Stratton</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101807696742019624768\" oid=\"101807696742019624768\">Mustafa Said</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/116675615740217671707\" oid=\"116675615740217671707\">Daniel Beaudoin</a>"], " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/115067674507648145946\" oid=\"115067674507648145946\">Mike Wissinger</a>"], " if you are able to contact Hank Johnson please do so.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: +Hank Johnson
+I purchased this camera at a night bazaar in Karachi.
+I believe it contains footage that you have not aired. if you would like to air this footage, which I believe is unreplaceable, please contact me.
++Niantic Project +Ingress +JoJo Stratton +Mustafa Said +Daniel Beaudoin +Mike Wissinger if you are able to contact Hank Johnson please do so.](https://lh6.googleusercontent.com/-2CAGf9KxO3s/UxBwomSvTiI/AAAAAAAAACI/ucuasHtSLO4/w1200-h1015/nomadcamera.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/U7M4W4eSpj4](https://plus.google.com/+NianticProject/posts/U7M4W4eSpj4)

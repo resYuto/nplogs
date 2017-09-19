@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-06-21 14:10:54 +0900"
+date:   2014-06-21 14:10:54 +0900
+categories: nianticproject
+---
++[Stein Lightman](https://plus.google.com/115238965157544465033 ""), with a Glyph and cryptic questions, sends a message to +[Roland Jarvis](https://plus.google.com/103568659333550762891 "").
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@457, :value=>"shared"@464}], :children=>["<br />", "<h2>Stein Lightman</h2>", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103568659333550762891\" oid=\"103568659333550762891\">Roland Jarvis</a>"], ":", "<br />", "<br />", "What are you looking for in Krakow? Will you be prepared for what you find?", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh4.googleusercontent.com/-YMU9xIRahQ0/U6UTIvB6kiI/AAAAAAAAA-8/cKftvTE769k/mare.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/BKD4WCJXLi2](https://plus.google.com/+NianticProject/posts/BKD4WCJXLi2)

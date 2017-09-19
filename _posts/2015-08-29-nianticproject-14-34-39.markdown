@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2015-08-29 14:34:39 +0900"
+date:   2015-08-29 14:34:39 +0900
+categories: nianticproject
+---
+"You can't put the genie back in the bottle. The Agents out there touching Portals and seeing the threats and opportunities of XM firsthand, they get changed forever." -PAC
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@186, :value=>"shared"@193}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "The NIA lost the upper hand in trying to shut down this Investigation a long time ago. Now, others have stepped in to try and do what they couldn't. The result will be the same.", "<br />", "<br />", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], " was not the Investigation. Truthseeker is not the Investigation. I'm not either.", "<br />", "<br />", "You can't put the genie back in the bottle. The Agents out there touching Portals and seeing the threats and opportunities of XM firsthand, they get changed forever.", "<br />", "<br />", "So, Ilya Pevtsov and Lorazon and all the rest of you folks. It's not Truthseeker and ADA and me that you have to worry about. It's the people inside your organizations who believe in exposing the truth. As long as people like that exist, your 'secret' conversations are going to see the light of day. And I have a feeling people like that are going to be around for a long time.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: The NIA lost the upper hand in trying to shut down this Investigation a long time ago. Now, others have stepped in to try and do what they couldn't. The result will be the same.
++A Detection Algorithm was not the Investigation. Truthseeker is not the Investigation. I'm not either.
+You can't put the genie back in the bottle. The Agents out there touching Portals and seeing the threats and opportunities of XM firsthand, they get changed forever.](https://lh3.googleusercontent.com/-82RkuNKM3XU/VeFArAHgRYI/AAAAAAAABZ4/zJmgGfNQVJ4/w1532-h634/Truthseeker.png "")
+- - -
+[https://plus.google.com/+NianticProject/posts/MZXXdppdQzb](https://plus.google.com/+NianticProject/posts/MZXXdppdQzb)

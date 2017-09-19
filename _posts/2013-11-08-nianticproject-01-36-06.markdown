@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Niantic Project: 2013-11-08 01:36:06 +0900"
+date:   2013-11-08 01:36:06 +0900
+categories: nianticproject
+---
+On  [#IngressReport](https://plus.google.com/s/%23IngressReport "")  #33:
+
++[Devra Bogdanovich](https://plus.google.com/102598577258553073047 "") attempts to reason with CDC officials
+v1.39.2 adds Inventory Count and the ability to view Jarvis Shards
+Factions identify locations of the first 5 Jarvis Shards after capturing NOV 2  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  Anomaly Sites
+Ken Owens interrogates +[Susanna Moyer](https://plus.google.com/101560858827970533247 "") 
+
+x 
+
+**NOV 16 PRIMARY SITES:** 
+Dallas: [http://goo.gl/xIOPHV](http://goo.gl/xIOPHV "") 
+Vienna: [http://goo.gl/mZF46x](http://goo.gl/mZF46x "") 
+
+**REMOTE SITES:** 
+Austin: [http://goo.gl/a33LRA](http://goo.gl/a33LRA "") 
+Bratislava: [http://goo.gl/VaLXum](http://goo.gl/VaLXum "") 
+Graz: [http://goo.gl/LISRXM](http://goo.gl/LISRXM "") 
+Houston: [http://goo.gl/JUhO0S](http://goo.gl/JUhO0S "") 
+San Antonio: [http://goo.gl/bsJEXr](http://goo.gl/bsJEXr "") 
+Zurich: [http://goo.gl/d9uv9v](http://goo.gl/d9uv9v "") 
+
+**DEC 7 PRIMARY SITES:** 
+Phoenix: [http://goo.gl/uMLR7j](http://goo.gl/uMLR7j "") 
+Rome: [http://goo.gl/8H9OET](http://goo.gl/8H9OET "") 
+
+**REMOTE SITES:** 
+Athens: [http://goo.gl/PBCyd8](http://goo.gl/PBCyd8 "") 
+Istanbul: [http://goo.gl/9oD3cm](http://goo.gl/9oD3cm "") 
+Nashville: [http://goo.gl/rvsDXh](http://goo.gl/rvsDXh "") 
+Tucson: [http://goo.gl/RD8c3u](http://goo.gl/RD8c3u "") 
+
+**DEC 14 PRIMARY SITES:** 
+Buenos Aires: [http://goo.gl/BDcLTZ](http://goo.gl/BDcLTZ "") 
+San Francisco: [http://goo.gl/plCBZL](http://goo.gl/plCBZL "")
+
+**REMOTE SITES:** 
+Rio de Janeiro: [http://goo.gl/EeuyO4](http://goo.gl/EeuyO4 "") 
+San Diego: [http://goo.gl/uqmCci](http://goo.gl/uqmCci "") 
+Santiago: [http://goo.gl/BE71fV](http://goo.gl/BE71fV "") 
+Sao Paulo: [http://goo.gl/AnJNro](http://goo.gl/AnJNro "") {:element=>{:name=>"div", :attributes=>[{:name=>"class"@2813, :value=>"shared"@2820}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a href=\"http://www.youtube.com/watch?v=cDkyJVqJGpk\" class=\"ot-anchor\">INGRESS REPORT | Will Jarvis Shards Be Key to #13Magnus? - EP33</a>", " is live:", "<br />", "<br />", "<a href=\"http://www.youtube.com/watch?v=cDkyJVqJGpk#t=0m24s\" class=\"ot-anchor\">0:24</a>", " Enlightened secure 5 of 7  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", "  Anomaly Sites ", "<br />", "<a href=\"http://www.youtube.com/watch?v=cDkyJVqJGpk#t=0m52s\" class=\"ot-anchor\">0:52</a>", " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/102598577258553073047\" oid=\"102598577258553073047\">Devra Bogdanovich</a>"], " speaks to CDC officials to discuss XM inoculation", "<br />", "<a href=\"http://www.youtube.com/watch?v=cDkyJVqJGpk#t=1m58s\" class=\"ot-anchor\">1:58</a>", " Factions retrieved clues about Jarvis Shard locations by capturing Anomalies", "<br />", "<a href=\"http://www.youtube.com/watch?v=cDkyJVqJGpk#t=2m40s\" class=\"ot-anchor\">2:40</a>", " Operation Green Storm, largest Op in Mexico to date", "<br />", "<a href=\"http://www.youtube.com/watch?v=cDkyJVqJGpk#t=3m14s\" class=\"ot-anchor\">3:14</a>", " POTW: Calligraphy Pen in Iowa", "<br />", "<a href=\"http://www.youtube.com/watch?v=cDkyJVqJGpk#t=3m46s\" class=\"ot-anchor\">3:46</a>", " v1.39.2 Inventory Count; Xmp boost up to 20%; Refactor/Virus cooldown; Jarvis Shards", "<br />", "<a href=\"http://www.youtube.com/watch?v=cDkyJVqJGpk#t=4m23s\" class=\"ot-anchor\">4:23</a>", " ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101560858827970533247\" oid=\"101560858827970533247\">Susanna Moyer</a>"], " explains footage at the end of  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IngressReport\">#IngressReport</a>", "  EP32 ", "<br />", "<br />", "Share your Anomaly or Jarvis Shard SITREPs with the  ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", "   hashtag, and sign the release at ", "<a href=\"http://ingress.com/report\" class=\"ot-anchor\">http://ingress.com/report</a>", "<br />", "<br />", "<b>NOV 16 PRIMARY SITES:</b>", " ", "<br />", "Dallas: ", "<a href=\"http://goo.gl/xIOPHV\" class=\"ot-anchor\">http://goo.gl/xIOPHV</a>", " ", "<br />", "Vienna: ", "<a href=\"http://goo.gl/mZF46x\" class=\"ot-anchor\">http://goo.gl/mZF46x</a>", " ", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Austin: ", "<a href=\"http://goo.gl/a33LRA\" class=\"ot-anchor\">http://goo.gl/a33LRA</a>", " ", "<br />", "Bratislava: ", "<a href=\"http://goo.gl/VaLXum\" class=\"ot-anchor\">http://goo.gl/VaLXum</a>", " ", "<br />", "Graz: ", "<a href=\"http://goo.gl/LISRXM\" class=\"ot-anchor\">http://goo.gl/LISRXM</a>", " ", "<br />", "Houston: ", "<a href=\"http://goo.gl/JUhO0S\" class=\"ot-anchor\">http://goo.gl/JUhO0S</a>", " ", "<br />", "San Antonio: ", "<a href=\"http://goo.gl/bsJEXr\" class=\"ot-anchor\">http://goo.gl/bsJEXr</a>", " ", "<br />", "Zurich: ", "<a href=\"http://goo.gl/d9uv9v\" class=\"ot-anchor\">http://goo.gl/d9uv9v</a>", " ", "<br />", "<br />", "<b>DEC 7 PRIMARY SITES:</b>", " ", "<br />", "Phoenix: ", "<a href=\"http://goo.gl/uMLR7j\" class=\"ot-anchor\">http://goo.gl/uMLR7j</a>", " ", "<br />", "Rome: ", "<a href=\"http://goo.gl/8H9OET\" class=\"ot-anchor\">http://goo.gl/8H9OET</a>", " ", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Athens: ", "<a href=\"http://goo.gl/PBCyd8\" class=\"ot-anchor\">http://goo.gl/PBCyd8</a>", " ", "<br />", "Istanbul: ", "<a href=\"http://goo.gl/9oD3cm\" class=\"ot-anchor\">http://goo.gl/9oD3cm</a>", " ", "<br />", "Nashville: ", "<a href=\"http://goo.gl/rvsDXh\" class=\"ot-anchor\">http://goo.gl/rvsDXh</a>", " ", "<br />", "Tucson: ", "<a href=\"http://goo.gl/RD8c3u\" class=\"ot-anchor\">http://goo.gl/RD8c3u</a>", " ", "<br />", "<br />", "<b>DEC 14 PRIMARY SITES:</b>", " ", "<br />", "Buenos Aires: ", "<a href=\"http://goo.gl/BDcLTZ\" class=\"ot-anchor\">http://goo.gl/BDcLTZ</a>", " ", "<br />", "San Francisco: ", "<a href=\"http://goo.gl/plCBZL\" class=\"ot-anchor\">http://goo.gl/plCBZL</a>", "<br />", "<br />", "<b>REMOTE SITES:</b>", " ", "<br />", "Rio de Janeiro: ", "<a href=\"http://goo.gl/EeuyO4\" class=\"ot-anchor\">http://goo.gl/EeuyO4</a>", " ", "<br />", "San Diego: ", "<a href=\"http://goo.gl/uqmCci\" class=\"ot-anchor\">http://goo.gl/uqmCci</a>", " ", "<br />", "Santiago: ", "<a href=\"http://goo.gl/BE71fV\" class=\"ot-anchor\">http://goo.gl/BE71fV</a>", " ", "<br />", "Sao Paulo: ", "<a href=\"http://goo.gl/AnJNro\" class=\"ot-anchor\">http://goo.gl/AnJNro</a>", " ", "<br />", "<br />"], :ignore=>true}}
+[#### video: http://www.youtube.com/v/cDkyJVqJGpk?version=3&amp;autohide=1](http://www.youtube.com/v/cDkyJVqJGpk?version=3&amp;autohide=1 "")
+- - -
+[https://plus.google.com/+NianticProject/posts/6jSiYyZu2Ay](https://plus.google.com/+NianticProject/posts/6jSiYyZu2Ay)

@@ -1,0 +1,170 @@
+---
+layout: post
+title:  "Niantic Project: 2013-12-15 03:16:59 +0900"
+date:   2013-12-15 03:16:59 +0900
+categories: nianticproject
+---
+Measurement 3 (Rio de Janeiro and São Paulo) and Measurement 2 (Santiago) have struck.
+
+At this point, São Paulo seems to be the most unpredictable... Both Rio de Janeiro and Santiago are sliding firmly into Enlightened control.
+
+Operation  [#13MAGNUS](https://plus.google.com/s/%2313MAGNUS "")  
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@364, :value=>"shared"@371}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- RIO DE JANEIRO - Measurement 3 Report</b>", "<br />", "<br />", "The Resistance owned 2 Volatile Portals and 8 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 3 Volatile Portals and 10 Non Volatile Portals</b>", "<br />", "<br />", "<b>An Enlightened Field covered all the Portals in this Cluster (50)</b>", "<br />", "<br />", "Total for Resistance this Measurement = 28", "<br />", "<b>Total for Enlightened this Measurement = 90</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 93", "<br />", "<b>Total for Enlightened this Anomaly = 276</b>", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "AssemPriMar (VOLATILE) - Enlightened", "<br />", "Pequeno Jornaleiro (VOLATILE) - Enlightened", "<br />", "Art Urbana Estranho (VOLATILE) - Enlightened", "<br />", "Pixinguinha Arts Wall (PRLA) (VOLATILE) - Resistance", "<br />", "Duque de Caxias, Praça XV de N (VOLATILE) - Resistance", "<br />", "Confeitaria Colombo - Enlightened", "<br />", "Procuradoria Geral do RJ - Enlightened", "<br />", "Arte Assembleia - Enlightened", "<br />", "Spazio Roma (PRLA) - Enlightened", "<br />", "O Implacável  - Enlightened", "<br />", "Graffiti ESPM 1 - Enlightened", "<br />", "Boa Morte - Enlightened", "<br />", "Arte Urbana  - Enlightened", "<br />", "D. Joao e a cidade moderna (Ri - Enlightened", "<br />", "Busto Cândido Mendes  - Enlightened", "<br />", "Próximos 100 Anos - Neutral", "<br />", "Desenho De Peixe - Neutral", "<br />", "Estátua Do Ed. Masson - Neutral", "<br />", "Arte Urbana  - Neutral", "<br />", "Grafitti Na Praça - Neutral", "<br />", "Pre-pa-ra   - Neutral", "<br />", "Correios, Rio de Janeiro - Neutral", "<br />", "Leão Da Rosário  - Neutral", "<br />", "Igreja Nossa Senhora Dos Homens  - Neutral", "<br />", "Arte Urbana - Neutral", "<br />", "Sul América  - Neutral", "<br />", "Central Post Office - Primeiro - Neutral", "<br />", "Corner Statue - Palácio Tiradentes - Neutral", "<br />", "Portal Assembléia - Neutral", "<br />", "Clube de Engenharia - Neutral", "<br />", "Praça 15 de Novembro - Neutral", "<br />", "São José Church - Neutral", "<br />", "Arte De Rua Buenos Aires - Neutral", "<br />", "Estátua Barão de Mauá - Neutral", "<br />", "Chafariz Cândido Mendes - Neutral", "<br />", "Águia Esq 3 - Neutral", "<br />", "Mapa Sul América  - Neutral", "<br />", "Arte De Rua B.Mercantil - Neutral", "<br />", "Grafite Urbano - Neutral", "<br />", "Paço Imperial - Neutral", "<br />", "Arco do Teles - Neutral", "<br />", "Faixa Decorada - Neutral", "<br />", "Palácio Tiradentes - Neutral", "<br />", "João Cândido Felisberto Memori - Neutral", "<br />", "Lapa Dos Mercadores Church - Neutral", "<br />", "Paróquia Ns. Do Carmo da Antiga Sé - Neutral", "<br />", "Homens Da Justiça Esq - By Galen - Neutral", "<br />", "Santa Cruz dos Militares - Neutral", "<br />", "Monumento do Mestre Valentim - Praça XV - Neutral", "<br />", "Antigo Banco - Resistance", "<br />", "Rua do Ouvidor - Resistance", "<br />", "Arte Urbana - Sacudomundo - Resistance", "<br />", "Ouvidor 98 - Resistance", "<br />", "Busto Antônio Jannuzzi - Resistance", "<br />", "Relógio RB123 - Resistance", "<br />", "Palácio Tiradentes, Centro, Ri - Resistance", "<br />", "Pixinguinha Statue - Resistance", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- SÃO PAULO - Measurement 3 Report</b>", " ", "<br />", "<br />", "<b>The Resistance owned 3 Volatile Portals and 8 Non-Volatile Portals</b>", "<br />", "The Enlightened owned 2 Volatile Portals and 4 Non Volatile Portals", "<br />", "<br />", "<b>The Resistance had 3 Links standing at Measurement Time</b>", " ", "<br />", "<br />", "<b>Total for Resistance this Measurement = 44</b>", "<br />", "Total for Enlightened this Measurement = 24", "<br />", "<br />", "<b>Total for Resistance this Anomaly = 117</b>", "<br />", "Total for Enlightened this Anomaly = 125", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Aviãozinho (VOLATILE) - Enlightened", "<br />", "Fragmentos Paulistanos 681 (VOLATILE) - Enlightened", "<br />", "Fonte dos Desejos (VOLATILE) - Resistance", "<br />", "Monumento a Verdi (VOLATILE) - Resistance", "<br />", "Escultura - Vale do Anhangabaú (VOLATILE) - Resistance", "<br />", "Música - Conjunto Carlos  Gome - Enlightened", "<br />", "Fragmentos Paulistanos 899 - Enlightened", "<br />", "Theatro Municipal-SP (Saguão i - Enlightened", "<br />", "Salvador Rosa - Conjunto  Carl - Enlightened", "<br />", "Graffiti   - Neutral", "<br />", "Atlas Do Teatro Municipal - Neutral", "<br />", "Escultura na Praça - Neutral", "<br />", "Teto Do Teatro Municipal - Neutral", "<br />", "Monumento a Rui Barbosa - Neutral", "<br />", "Horizontes da Cantareira 03 - Neutral", "<br />", "Teatro Praça II - Neutral", "<br />", "Fragmentos Paulistanos 86 - Neutral", "<br />", "Caixa Correio - Neutral", "<br />", "Mãe Preta - Neutral", "<br />", "Nossa Senhora do Rosário - Neutral", "<br />", "Maria Tudor - Conjunto  Carlos - Neutral", "<br />", "Theatro Municipal  - Neutral", "<br />", "Detalhe Theatro Municipal - Neutral", "<br />", "Avião de Madeira - Neutral", "<br />", "Grafite Do Mano  - Resistance", "<br />", "Fonte dos Desejos - Resistance", "<br />", "Farol II - Resistance", "<br />", "Farol com Ratos - Resistance", "<br />", "Banco Mineiro da Produção - Resistance", "<br />", "Diana, \"A Caçadora\" 01 - Resistance", "<br />", "Correio - Resistance", "<br />", "Diana, \"A Caçadora\" 02 - Resistance", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>- SANTIAGO - Measurement 2 Report</b>", " ", "<br />", "<br />", "The Resistance owned 1 Volatile Portal and 4 Non-Volatile Portals", "<br />", "<b>The Enlightened owned 4 Volatile Portals and 10 Non-Volatile Portals</b>", "<br />", "<br />", "<b>An Enlightened Field covered all the Portals in this Cluster (50)</b>", "<br />", "<br />", "Total for Resistance this Measurement = 14", "<br />", "<b>Total for Enlightened this Measurement = 100</b>", "<br />", "<br />", "Total for Resistance this Anomaly = 31", "<br />", "<b>Total for Enlightened this Anomaly = 171</b>", "<br />", "<br />", "<b>Measurement Time Details:</b>", "<br />", "Original: 3:45 (Minutes:Seconds past the hour)", "<br />", "Padded: YHQDdfiITNUwzXFFyJeweUxjVA 3:45 zJPA", "<br />", "MD5 of Padded String: 821e8ac126569e982942dec2b1020197", "<br />", "<br />", "<b>Portal Ownership Details:</b>", "<br />", "Jardín Japonés, Santa Lucía (VOLATILE) - Enlightened", "<br />", "Jardin Circular (VOLATILE) - Enlightened", "<br />", "Cerro Santa Lucia - Santiago - (VOLATILE) - Enlightened", "<br />", "Mural bajo el cerro (VOLATILE) - Enlightened", "<br />", "Niño escultura (VOLATILE) - Resistance", "<br />", "Rehue Santa Lucia - Enlightened", "<br />", "paseo de santa lucia - Enlightened", "<br />", "Castillo Hidalgo - Enlightened", "<br />", "Estatua José Victorino Lastarr - Enlightened", "<br />", "Carta de Pedro de Valdivia - Enlightened", "<br />", "Tributo de Gratitud del Pueblo Alemán - Enlightened", "<br />", "St. Lucia - Enlightened", "<br />", "En Memoria De Jose Victorino Lastarria - Enlightened", "<br />", "La Reina Y Su Corona - Enlightened", "<br />", "The Lion Sculpture - Enlightened", "<br />", "Tributo de gratitud - Neutral", "<br />", "Monumento a los Despatriados d - Neutral", "<br />", "Leon Sta Lucia - Neutral", "<br />", "Estatua al Cerro de Santa Luci - Neutral", "<br />", "Portal de Ladrillos - Cerro Sa - Neutral", "<br />", "Sta Lucia Monumento - Neutral", "<br />", "Primera Bomba A Vapor - Neutral", "<br />", "Doña Javiera - Resistance", "<br />", "Angel Sin Alas Santa Lucia - Resistance", "<br />", "estatuas en st. Lucia - Resistance", "<br />", "Copon De Caras Reales - Resistance", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/116552798038432778145\" oid=\"116552798038432778145\">Armando Ricardo</a>"], ".", "<br />", "<br />", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%2313MAGNUS\">#13MAGNUS</a>", " ", "<b>DEC 14 PRIMARY SITES:</b>", " ", "<br />", "Buenos Aires: ", "<a href=\"http://goo.gl/BDcLTZ\" class=\"ot-anchor\">http://goo.gl/BDcLTZ</a>", " ", "<br />", "San Francisco: ", "<a href=\"http://goo.gl/plCBZL\" class=\"ot-anchor\">http://goo.gl/plCBZL</a>", "<br />", "<br />", "<b>SATELLITE SITES:</b>", " ", "<br />", "Rio de Janeiro: ", "<a href=\"http://goo.gl/EeuyO4\" class=\"ot-anchor\">http://goo.gl/EeuyO4</a>", " ", "<br />", "San Diego: ", "<a href=\"http://goo.gl/uqmCci\" class=\"ot-anchor\">http://goo.gl/uqmCci</a>", " ", "<br />", "Santiago: ", "<a href=\"http://goo.gl/BE71fV\" class=\"ot-anchor\">http://goo.gl/BE71fV</a>", " ", "<br />", "Sao Paulo: ", "<a href=\"http://goo.gl/AnJNro\" class=\"ot-anchor\">http://goo.gl/AnJNro</a>", " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: #13MAGNUS - RIO DE JANEIRO - Measurement 3 Report
+The Resistance owned 2 Volatile Portals and 8 Non-Volatile Portals
+The Enlightened owned 3 Volatile Portals and 10 Non Volatile Portals
+An Enlightened Field covered all the Portals in this Cluster (50)
+Total for Resistance this Measurement = 28
+Total for Enlightened this Measurement = 90
+Total for Resistance this Anomaly = 93
+Total for Enlightened this Anomaly = 276
+Portal Ownership Details:
+AssemPriMar (VOLATILE) - Enlightened
+Pequeno Jornaleiro (VOLATILE) - Enlightened
+Art Urbana Estranho (VOLATILE) - Enlightened
+Pixinguinha Arts Wall (PRLA) (VOLATILE) - Resistance
+Duque de Caxias, Praça XV de N (VOLATILE) - Resistance
+Confeitaria Colombo - Enlightened
+Procuradoria Geral do RJ - Enlightened
+Arte Assembleia - Enlightened
+Spazio Roma (PRLA) - Enlightened
+O Implacável  - Enlightened
+Graffiti ESPM 1 - Enlightened
+Boa Morte - Enlightened
+Arte Urbana  - Enlightened
+D. Joao e a cidade moderna (Ri - Enlightened
+Busto Cândido Mendes  - Enlightened
+Próximos 100 Anos - Neutral
+Desenho De Peixe - Neutral
+Estátua Do Ed. Masson - Neutral
+Arte Urbana  - Neutral
+Grafitti Na Praça - Neutral
+Pre-pa-ra   - Neutral
+Correios, Rio de Janeiro - Neutral
+Leão Da Rosário  - Neutral
+Igreja Nossa Senhora Dos Homens  - Neutral
+Arte Urbana - Neutral
+Sul América  - Neutral
+Central Post Office - Primeiro - Neutral
+Corner Statue - Palácio Tiradentes - Neutral
+Portal Assembléia - Neutral
+Clube de Engenharia - Neutral
+Praça 15 de Novembro - Neutral
+São José Church - Neutral
+Arte De Rua Buenos Aires - Neutral
+Estátua Barão de Mauá - Neutral
+Chafariz Cândido Mendes - Neutral
+Águia Esq 3 - Neutral
+Mapa Sul América  - Neutral
+Arte De Rua B.Mercantil - Neutral
+Grafite Urbano - Neutral
+Paço Imperial - Neutral
+Arco do Teles - Neutral
+Faixa Decorada - Neutral
+Palácio Tiradentes - Neutral
+João Cândido Felisberto Memori - Neutral
+Lapa Dos Mercadores Church - Neutral
+Paróquia Ns. Do Carmo da Antiga Sé - Neutral
+Homens Da Justiça Esq - By Galen - Neutral
+Santa Cruz dos Militares - Neutral
+Monumento do Mestre Valentim - Praça XV - Neutral
+Antigo Banco - Resistance
+Rua do Ouvidor - Resistance
+Arte Urbana - Sacudomundo - Resistance
+Ouvidor 98 - Resistance
+Busto Antônio Jannuzzi - Resistance
+Relógio RB123 - Resistance
+Palácio Tiradentes, Centro, Ri - Resistance
+Pixinguinha Statue - Resistance
+#13MAGNUS - SÃO PAULO - Measurement 3 Report 
+The Resistance owned 3 Volatile Portals and 8 Non-Volatile Portals
+The Enlightened owned 2 Volatile Portals and 4 Non Volatile Portals
+The Resistance had 3 Links standing at Measurement Time 
+Total for Resistance this Measurement = 44
+Total for Enlightened this Measurement = 24
+Total for Resistance this Anomaly = 117
+Total for Enlightened this Anomaly = 125
+Portal Ownership Details:
+Aviãozinho (VOLATILE) - Enlightened
+Fragmentos Paulistanos 681 (VOLATILE) - Enlightened
+Fonte dos Desejos (VOLATILE) - Resistance
+Monumento a Verdi (VOLATILE) - Resistance
+Escultura - Vale do Anhangabaú (VOLATILE) - Resistance
+Música - Conjunto Carlos  Gome - Enlightened
+Fragmentos Paulistanos 899 - Enlightened
+Theatro Municipal-SP (Saguão i - Enlightened
+Salvador Rosa - Conjunto  Carl - Enlightened
+Graffiti   - Neutral
+Atlas Do Teatro Municipal - Neutral
+Escultura na Praça - Neutral
+Teto Do Teatro Municipal - Neutral
+Monumento a Rui Barbosa - Neutral
+Horizontes da Cantareira 03 - Neutral
+Teatro Praça II - Neutral
+Fragmentos Paulistanos 86 - Neutral
+Caixa Correio - Neutral
+Mãe Preta - Neutral
+Nossa Senhora do Rosário - Neutral
+Maria Tudor - Conjunto  Carlos - Neutral
+Theatro Municipal  - Neutral
+Detalhe Theatro Municipal - Neutral
+Avião de Madeira - Neutral
+Grafite Do Mano  - Resistance
+Fonte dos Desejos - Resistance
+Farol II - Resistance
+Farol com Ratos - Resistance
+Banco Mineiro da Produção - Resistance
+Diana, "A Caçadora" 01 - Resistance
+Correio - Resistance
+Diana, "A Caçadora" 02 - Resistance
+#13MAGNUS - SANTIAGO - Measurement 2 Report 
+The Resistance owned 1 Volatile Portal and 4 Non-Volatile Portals
+The Enlightened owned 4 Volatile Portals and 10 Non-Volatile Portals
+An Enlightened Field covered all the Portals in this Cluster (50)
+Total for Resistance this Measurement = 14
+Total for Enlightened this Measurement = 100
+Total for Resistance this Anomaly = 31
+Total for Enlightened this Anomaly = 171
+Measurement Time Details:
+Original: 3:45 (Minutes:Seconds past the hour)
+Padded: YHQDdfiITNUwzXFFyJeweUxjVA 3:45 zJPA
+MD5 of Padded String: 821e8ac126569e982942dec2b1020197
+Portal Ownership Details:
+Jardín Japonés, Santa Lucía (VOLATILE) - Enlightened
+Jardin Circular (VOLATILE) - Enlightened
+Cerro Santa Lucia - Santiago - (VOLATILE) - Enlightened
+Mural bajo el cerro (VOLATILE) - Enlightened
+Niño escultura (VOLATILE) - Resistance
+Rehue Santa Lucia - Enlightened
+paseo de santa lucia - Enlightened
+Castillo Hidalgo - Enlightened
+Estatua José Victorino Lastarr - Enlightened
+Carta de Pedro de Valdivia - Enlightened
+Tributo de Gratitud del Pueblo Alemán - Enlightened
+St. Lucia - Enlightened
+En Memoria De Jose Victorino Lastarria - Enlightened
+La Reina Y Su Corona - Enlightened
+The Lion Sculpture - Enlightened
+Tributo de gratitud - Neutral
+Monumento a los Despatriados d - Neutral
+Leon Sta Lucia - Neutral
+Estatua al Cerro de Santa Luci - Neutral
+Portal de Ladrillos - Cerro Sa - Neutral
+Sta Lucia Monumento - Neutral
+Primera Bomba A Vapor - Neutral
+Doña Javiera - Resistance
+Angel Sin Alas Santa Lucia - Resistance
+estatuas en st. Lucia - Resistance
+Copon De Caras Reales - Resistance
+Photo by Agent +Armando Ricardo.
+#13MAGNUS DEC 14 PRIMARY SITES: 
+Buenos Aires: http://goo.gl/BDcLTZ 
+San Francisco: http://goo.gl/plCBZL
+SATELLITE SITES: 
+Rio de Janeiro: http://goo.gl/EeuyO4 
+San Diego: http://goo.gl/uqmCci 
+Santiago: http://goo.gl/BE71fV 
+Sao Paulo: http://goo.gl/AnJNro ](https://lh5.googleusercontent.com/-U_c4DMK9ixw/UqydeNncojI/AAAAAAAAd6s/ZTHNVAD_HXg/w2048-h1536/1387043259598.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/GgCSTEivFBe](https://plus.google.com/+NianticProject/posts/GgCSTEivFBe)

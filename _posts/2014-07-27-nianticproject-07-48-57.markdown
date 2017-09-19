@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Niantic Project: 2014-07-27 07:48:57 +0900"
+date:   2014-07-27 07:48:57 +0900
+categories: nianticproject
+---
+[#Helios](https://plus.google.com/s/%23Helios "")   02
+
+Volatiles for C2 in Boston and Philadelphia.{:element=>{:name=>"div", :attributes=>[{:name=>"class"@153, :value=>"shared"@160}], :children=>["<br />", "<h2>Ingress</h2>", "<br />", "<b><a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23HELIOS\">#HELIOS</a></b>", "<b> 01 - BOSTON, PHILADELPHIA  - C2 VOLs</b>", "<br />", "<br />", "Volatiles: ", "<a href=\"http://goo.gl/5lJTG0\" class=\"ot-anchor\">http://goo.gl/5lJTG0</a>", "<br />", "<br />", "SHA256: 706ae1a27cd9cdc28b0f3836581b07341db76bb6c687eb87bec365de8d127c26", "<br />", "<br />", "Photo by Agent ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/101234090806227694590\" oid=\"101234090806227694590\">Chris Dix</a>"], " ", "<br />", "<br />"], :ignore=>true}}
+[#### photo: undefined](https://lh3.googleusercontent.com/-gTTWCOhzBS4/U9QgTP0AweI/AAAAAAAA8xA/l_qdRyoFFGs/bostonbadge.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/hp52PAvaZFg](https://plus.google.com/+NianticProject/posts/hp52PAvaZFg)

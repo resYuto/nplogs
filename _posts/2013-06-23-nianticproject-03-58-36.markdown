@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Niantic Project: 2013-06-23 03:58:36 +0900"
+date:   2013-06-23 03:58:36 +0900
+categories: nianticproject
+---
+So, apparently a package that was supposed to be delivered to +[Carrie Campbell](https://plus.google.com/101180225942784917383 "") at  [#timezero](https://plus.google.com/s/%23timezero "")  got left with the Enlightened agents on the ground there.
+
++[IQTech Research](https://plus.google.com/108020987035258478791 "") has offered a bid in exchange for one of the images from within the package. I wonder if +[Visur Technology](https://plus.google.com/115880454950193571355 "") and +[Hulong Transglobal](https://plus.google.com/107849663787965375687 "") will up the ante.
+
+My intel suggests there may have been multiple images in the package.
+
+Will keep you updated.
+
+-PAC{:element=>{:name=>"div", :attributes=>[{:name=>"class"@1246, :value=>"shared"@1253}], :children=>["<br />", "<h2>IQTech Research</h2>", "Enlightened:", "<br />", "<br />", "My name is Ezekiel Calvin, I was a founding member of the Niantic Project Research Facility in Geneva and am currently serving as CEO of IQTech. The ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/103320655754019011706\" oid=\"103320655754019011706\">Ingress</a>"], " Scanner technology you hold in your hands exists because of my efforts. ", "<br />", "<br />", "IQTech represents the finest in American ingenuity and a safe, stable and smarter tomorrow. We are prepared to offer 10 one-time Mod passcodes for our powerful Heatsink technology in exchange for one of the images contained in the Hank Johnson package.", "<br />", "<br />", "If you accept this offer, please reply and include an image verifying your participation in ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23timezero\">#timezero</a>", ".", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/EnV5cBCrGjw](https://plus.google.com/+NianticProject/posts/EnV5cBCrGjw)

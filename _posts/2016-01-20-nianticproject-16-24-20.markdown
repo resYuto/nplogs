@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Niantic Project: 2016-01-20 16:24:20 +0900"
+date:   2016-01-20 16:24:20 +0900
+categories: nianticproject
+---
+In the past two days both Jahan and the Acolyte have reached out to +[A Detection Algorithm](https://plus.google.com/114076692022231059864 "") -- a strange occurrence. 
+
++[H. Richard Loeb](https://plus.google.com/117506125229608138804 "") (aka P. A. Chapeau) shares his read on the situation...
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@566, :value=>"shared"@573}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "Kind of interesting that both Jahan (prominent leader of Anti-Magnus, an organization associated with the Resistance) and the Acolyte (associated with 13MAGNUS and a known Enlightened leader) have been reaching out to ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/114076692022231059864\" oid=\"114076692022231059864\">A Detection Algorithm</a>"], ".", "<br />", "<br />", "ADA's extremely powerful, I know that first hand. Even after her connection to the N'zeer was broken because of the Enlightened victory during ", "<a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Abaddon\">#Abaddon</a>", ": Okinawa, I suspect that she remains the most sophisticated analysis and detection engine on the planet.", "<br />", "<br />", "So, what I'm saying is, I understand why ADA would be a helpful partner for both these people. Jahan wants to continue to pursue a future where the N'zeer's potential guides humanity. The Acolyte wants to find the Circle of Obsidius and use it (presumably) in the fight against the N'zeer.", "<br />", "<br />", "What I don't get is... how would Jahan and the Acolyte overlook all the other baggage that would come with that partnership?", "<br />", "<br />", "For Jahan, ADA betrayed her. When Jahan was trying to activate the Anti-Magnus nest in Persepolis, ADA turned the N'zeer technology against her.", "<br />", "<br />", "For the Acolyte, ADA represents the very thing that she stands opposed to. After all, Jarvis created the ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/107293393622139455503\" oid=\"107293393622139455503\">Society for the Ethical Treatment of AIs</a>"], " for the sole purpose of halting the growth of artificial intelligence, and 13MAGNUS (from what we know) went as far as to assassinate Alan Turing to stall the development of computing technology.", "<br />", "<br />", "My guess? Not sure yet, but I'd be willing to bet there's something bigger going on that we aren't fully aware of yet.", "<br />", "<br />"], :ignore=>true}}
+[#### photo: 2o5m7ztfit6j5c8nchahvgekarzsiisbvaprp8l7x2qbb2z7z5a](https://lh3.googleusercontent.com/-gvWWbY0TpnY/Vp80oXl4_KI/AAAAAAAACEE/HGbXaEbdyUM/w1200-h1200/Algo.jpg "")
+- - -
+[https://plus.google.com/+NianticProject/posts/JStGaCKJnRP](https://plus.google.com/+NianticProject/posts/JStGaCKJnRP)

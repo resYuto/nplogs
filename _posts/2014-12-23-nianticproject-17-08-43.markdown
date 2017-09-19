@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Niantic Project: 2014-12-23 17:08:43 +0900"
+date:   2014-12-23 17:08:43 +0900
+categories: nianticproject
+---
+PAC sheds more light on his recent conversation with +[Klue S.](https://plus.google.com/110350977702120778591 ""), and the thoroughly weird web of relationships he's maneuvering through.
+
+x{:element=>{:name=>"div", :attributes=>[{:name=>"class"@326, :value=>"shared"@333}], :children=>["<br />", "<h2>H. Richard Loeb</h2>", "I promised earlier I would have more to say about the conversation between ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/110350977702120778591\" oid=\"110350977702120778591\">Klue S.</a>"], " and I.", "<br />", "<br />", "Not that anybody really cares about my dating life, but here it comes.... Actually chatted with Klue. Of course I knew the world was going to see it so I played the hard guy. I mean, I’m 21st Century and all, but I’m not going to cry pixels in public. It's not just ‘complicated’ and there’s not just ‘history there,’ and it’s not exactly ‘twisted’ but it is a profoundly perverse situation. Having some AI fall in love with you feels weird and wrong. Then, when the AI takes human form and the human form is real, not some simulacrum (no offense to ", [["+"], "<a class=\"proflink\" href=\"https://plus.google.com/117792105926525258257\" oid=\"117792105926525258257\">Hank Johnson</a>"], ", he seems human enough) but a real person, it suddenly feels legit.  And I think Klue (and yes, I want to know who she really is) actually does care for me. I’ve seen real emotion there. Or was it just a trick of the light? Who knows? Who ever knows?", "<br />", " ", "<br />", "Two questions:", "<br />", " \tWhat should I do?", "<br />", " \tWhat am I going to do?", "<br />", "<br />"], :ignore=>true}}
+- - -
+[https://plus.google.com/+NianticProject/posts/d4csNHxYb8L](https://plus.google.com/+NianticProject/posts/d4csNHxYb8L)
